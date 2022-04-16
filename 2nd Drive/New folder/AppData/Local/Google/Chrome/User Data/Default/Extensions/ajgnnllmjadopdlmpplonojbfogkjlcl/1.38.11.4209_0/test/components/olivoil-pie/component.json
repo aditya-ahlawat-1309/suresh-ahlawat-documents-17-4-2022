@@ -1,0 +1,20 @@
+{
+  "name": "pie",
+  "description": "Pie chart",
+  "version": "0.0.1",
+  "keywords": [
+    "pie",
+    "chart",
+    "ui"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "component/raf": "*",
+    "component/ease": "*",
+    "component/autoscale-canvas": "*"
+  },
+  "license": "MIT",
+  "repo": "https://raw.github.com/olivoil/pie"
+}

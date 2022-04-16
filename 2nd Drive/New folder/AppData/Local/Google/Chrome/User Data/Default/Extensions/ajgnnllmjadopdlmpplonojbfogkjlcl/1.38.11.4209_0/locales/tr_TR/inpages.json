@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Kapat",
+    "done" : "Tamamlandı",
+    "dontSave" : "Kaydetme",
+    "neverSave" : "Asla kaydetme",
+    "saveNow" : "Şimdi Kaydet",
+    "yes" : "Evet",
+    "no" : "Hayır",
+    "remove" : "Kaldır",
+    "dontUpdate" : "Güncelleme",
+    "updateNow" : "Şimdi güncelle",
+    "dontAskAgain" : "Tekrar sorma",
+    "dontSaveNow" : "Şimdi kaydetme",
+    "dontSaveItNow" : "Şifreyi şimdi kaydetme",
+    "neverSaveIt" : "Şifreyi asla kaydetme",
+    "neverForThisSite" : "Bu site için asla",
+    "savePassword" : "Şifreyi Kaydet",
+    "saveThisPassword" : "Bu şifreyi kaydet",
+    "dontShowAgain" : "Bir daha gösterme",
+    "masterPassword" : "Ana Şifre",
+    "continue" : "Devam et",
+    "typeMasterPassword" : "Ana Şifrenizi yazın",
+    "settings" : "Ayarlar",
+    "copyClipboard" : "Taşıma panosuna kopyala"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span><span class='green'>%{siteName}</span>için yeni bir şifre kaydetti"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span><span class='green'>%{siteName}</span>için yeni bir şifre tespit etti"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> anında giriş yapıyor"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "<span class='green'>%{siteName}</span>şifreniz artık güçlü değil"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "<span id='shareCount' class='green'>1 yeni</span> şifre paylaşım davetiniz var."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "<span class='green'>%{username}</span>hesabınızabaşarılı biçimde giriş yapabildiniz mi?",
+    "deleteConfirm" : "<span class='green'>%{username}'yi</span>PasswordBox'ınızdankaldırmak istiyor musunuz?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Maalesef, bu site henüz desteklenmemektedir – Ekibimiz siteyi desteklemek için çok çalışmaktadır ve bu yakında gerçekleşecektir"
+  },
+  "connectWith" : {
+    "mainText" : "Giriş yapmak istediğiniz hesabı seçin",
+    "login" : "Giriş"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Ana Şifrenizi yazın",
+    "mainTxtHasUsers" : "Anında giriş için Ana Şifrenizi girin",
+    "mainTxtNoUsers" : "Bu şifreyi kaydetmek için Ana Şifrenizi girin",
+    "error" : "Yanlış Şifre",
+    "decrypting" : "Şifresi çözülüyor"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Bu şifreyi şimdi kaydet",
+    "signup" : "PasswordBox'a kayıt ol"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Ödeme yapacağınız kartı seçin",
+    "use" : "Kullan"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Bir daha asla şifre unutmayın:",
+    "createAccount" : "Bir hesap oluşturun",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> %{partner} araç çubuğunuza eklendi."
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Şimdi <span class='green'>%{siteName}</span> hesabınıza giriş yapın...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> sizin için otomatik olarak kaydedecek!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "… Ve işte bu kadar!",
+    "mainText" : "<span class='green'>%{siteName}</span> Şifreniz PasswordBox'ınıza güvenli bir şekilde kaydedildi!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Tebrikler",
+    "mainText" : "Tarayıcınızdaki <strong class='green'>yeşil kutuya</strong>\n tıklayarak şifrelerinize istediğiniz zaman ulaşabilirsiniz! Şimdi deneyelim!"
+  },
+  "passgen" : {
+    "generate" : "Güçlü Şifre Üret",
+    "regenerate" : "Yeni şifre üret",
+    "noPassGenerated" : "Hiç şifre üretilmedi",
+    "letters" : "Harfler",
+    "digits" : "Rakamlar",
+    "symbols" : "Semboller",
+    "capitals" : "Büyük Harfler"
+  }
+}

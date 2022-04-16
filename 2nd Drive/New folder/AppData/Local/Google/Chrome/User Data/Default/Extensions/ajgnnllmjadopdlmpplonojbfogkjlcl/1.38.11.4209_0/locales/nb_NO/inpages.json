@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Lukk",
+    "done" : "Ferdig",
+    "dontSave" : "Ikke lagre",
+    "neverSave" : "Aldri lagre",
+    "saveNow" : "Lagre nå",
+    "yes" : "Ja",
+    "no" : "Nei",
+    "remove" : "Fjern",
+    "dontUpdate" : "Ikke oppdater",
+    "updateNow" : "Oppdater nå",
+    "dontAskAgain" : "Ikke spør igjen",
+    "dontSaveNow" : "Ikke lagre nå",
+    "dontSaveItNow" : "Ikke lagre det nå",
+    "neverSaveIt" : "Aldri lagre det",
+    "neverForThisSite" : "Aldri for dette området",
+    "savePassword" : "Lagre passord",
+    "saveThisPassword" : "Lagre dette passordet",
+    "dontShowAgain" : "Ikke vis igjen",
+    "masterPassword" : "Hovedpassord",
+    "continue" : "Fortsett",
+    "typeMasterPassword" : "Skriv inn hovedpassord",
+    "settings" : "Innstillinger",
+    "copyClipboard" : "Kopier til utklippstavlen"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> lagret et nytt passord for <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> har oppdaget et nytt passord for <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> logger deg på umiddelbart"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Passordet ditt for <span class='green'>%{siteName}</span> er ikke sterkt nok"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Du har  <span id='shareCount' class='green'>én ny </span> passorddelingsinvitasjon."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Kunne du logge på kontoen din for <span class='green'>%{username}</span> ?",
+    "deleteConfirm" : "Vil du fjerne <span class='green'>%{username}</span> fra din PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Dessverre støttes ikke dette nettstedet ennå - vårt team jobber hardt for å støtte det, og det kommer snart"
+  },
+  "connectWith" : {
+    "mainText" : "Velg kontoen du ønsker å logge på med",
+    "login" : "Logg inn"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Skriv inn hovedpassord",
+    "mainTxtHasUsers" : "Angi hovedpassordet ditt for å logge på umiddelbart",
+    "mainTxtNoUsers" : "Skriv inn hovedpassordet ditt for å lagre dette passordet",
+    "error" : "Feil passord",
+    "decrypting" : "Dekrypterer"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Lagre dette passordet nå.",
+    "signup" : "Registrer deg for PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Velg kort for utsjekking",
+    "use" : "Bruk"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Glem aldri et passord igjen:",
+    "createAccount" : "Opprett en konto",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> er lagt til i verktøylinjen for %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Nå kan du logge på kontoen din på <span class='green'>%{siteName}</span> ...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> vil automatisk lagre det for deg!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... og det er det!",
+    "mainText" : "Passordet ditt for <span class='green'>%{siteName}</span> er nå lagret på PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Gratulerer",
+    "mainText" : "Du kan nå få tilgang til passordene dine når som helst ved å klikke <strong class='green'>ikonet med den grønne boksen</strong> i nettleseren din! La oss prøve det nå!"
+  },
+  "passgen" : {
+    "generate" : "Lag sikkert passord",
+    "regenerate" : "Lag nytt passord",
+    "noPassGenerated" : "Ingen passord lagd",
+    "letters" : "Bokstaver",
+    "digits" : "Sifre",
+    "symbols" : "Symboler",
+    "capitals" : "Store bokstaver"
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Bezárás",
+		"done": "Kész",
+		"dontSave" : "Ne mentse",
+		"neverSave" : "Soha ne mentse",
+		"saveNow" : "Mentés",
+		"yes" : "Igen",
+		"no" : "Nem",
+		"remove": "Eltávolítás",
+		"dontUpdate" : "Ne frissítse",
+		"updateNow" : "Frissítés",
+		"dontAskAgain" : "Ne kérdezze meg újra",
+
+		"dontSaveNow" : "Ne mentse most",
+		"dontSaveItNow" : "Ne mentse most",
+		"neverSaveIt" : "Soha ne mentse",
+		"neverForThisSite" : "Soha ne mentse",
+		"savePassword" : "Jelszó mentése",
+		"saveThisPassword" : "Mentse a jelszót",
+		"dontShowAgain" : "Ne jelenjen meg többé",
+		"masterPassword" : "Fő jelszó",
+		"continue" : "Folytatás",
+		"ok": "OK",
+		"typeMasterPassword" : "Fő jelszó beírása",
+		"settings": "Beállítások",
+		"copyClipboard": "Másolás a vágólapra",
+		"youreIn" : "Bejelentkezett.",
+		"success": "Sikerült"
+	},
+
+	"bannerAutosave": {
+		"mainText": "A True Key mentette <span class='secondary'>%{siteName}</span>-jelszavát."
+	},
+	"bannerBoxfull": {
+		"mainText": "A True Key új jelszót észlelt a(z) <span class='secondary'>%{siteName}</span> webhelyhez"
+	},
+	"bannerConnecting": {
+		"mainText" : "Egy pillanat"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "<span class='primary'>%{siteName}</span>-jelszava nem elég erős."
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Új megosztott jelszava van."
+	},
+	"bannerLoginFailure": {
+		"mainText": "A True Key segítségével jelentkezett be?",
+		"deleteConfirm": "El szeretné távolítani a következőt True Key-profiljából: <span class='secondary'>%{username}</span>?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Hoppá! A True Key jelenleg nem támogatja ezt a webhelyet."
+	},
+	"connectWith" : {
+		"mainText" : "Profil kiválasztása",
+		"login": "Bejelentkezés"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Profilja zárolva van",
+		"ctaUnlock": "Bejelentkezés a feloldáshoz",
+		"placeholder" : "Fő jelszó megadása",
+		"mainTxtHasUsers" : "Bejelentkezés a True Key-profil segítségével",
+		"mainTxtNoUsers" : "Adja meg a fő jelszót ennek a jelszónak a mentéséhez",
+		"error" : "Hibás jelszó",
+		"decrypting" : "Visszafejtés",
+		"profileLocked" : "Profilja zárolva van",
+		"unlockedLogIn" : "Zárolás feloldása és bejelentkezés"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Belefáradt a sok jelszó kezelésébe? Használja a True Key alkalmazást az azonnali bejelentkezéshez",
+		"signup" : "Igen, szeretném tudni, hogyan"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Belefáradt a sok jelszóval járó vesződségbe? Használja a True Key alkalmazást az egyszerűbb és gyorsabb hozzáférés érdekében.",
+		"signup" : "Igen, szeretném tudni, hogyan"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Jelentkezzen be a(z) <span class='secondary'>%{siteName}</span> webhelyre,",
+		"txt2" : "és a True Key alkalmazás megjegyzi a jelszót Ön helyett."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "A következő alkalommal a True Key biztonságosan belépteti Önt."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Most már gyorsabban, egyszerűbben és biztonságosabban jelentkezhet be a True Key launchpad segítségével."
+	},
+	"passgen" : {
+		"generate": "Jelszó generálása",
+		"regenerate" : "Jelszó generálása",
+		"noPassGenerated": "Nincs generált jelszó",
+		"letters" : "Betűk",
+		"digits" : "Számjegyek",
+		"symbols" : "Szimbólumok",
+		"capitals" : "Nagybetűk"
+	}
+}

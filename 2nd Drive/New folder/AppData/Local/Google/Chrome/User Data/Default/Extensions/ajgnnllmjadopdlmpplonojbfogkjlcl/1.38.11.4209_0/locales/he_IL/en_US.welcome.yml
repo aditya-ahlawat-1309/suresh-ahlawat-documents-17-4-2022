@@ -1,0 +1,390 @@
+---
+en_US: 
+    language: "אנגלית"
+    common: 
+        privacy: "פרטיות"
+        privacy_full: "מדיניות פרטיות"
+        terms: "תנאים"
+        terms_full: "תנאי השירות"
+        alert: "התראה!"
+        warning: "אזהרה!"
+        or: "או"
+        copyright: "©%{date}. כל הזכויות שמורות."
+        change_language: "Change language"
+    shared: 
+        member_menu: 
+            upgrade: "Upgrade account"
+            refer_friends: "Refer friends"
+            help: "Help & Support"
+            logout: "Log out"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox מסיר סיסמאות מדעתך. היפרד לשלום ממספר רב של שמות משתמש וסיסמאות. הסיסמה הראשית שלך ב- PasswordBox היא הסיסמה היחידה שאותה תצטרך!"
+                mobile: "PasswordBox הוא מנהל סיסמאות ללא תשלום העוזר לאנשים לאחסן, לאחזר ולשתף סיסמאות בכל מכשיר. נסה את אפליקציית PasswordBox באנדרואיד, באייפון או באייפד."
+        title: 
+            default: "מנהל סיסמאות ללא תשלום"
+            welcome: "ברוך הבא"
+    download: 
+        download: "הורד ללא תשלום"
+        login: "התחבר"
+        mobile: "מכשיר נייד"
+        platforms: "ללא תשלום עבור"
+        watch_video: "צפה בסרטון"
+        available_for: "זמין גם עבור %{os} ו- %{platform}"
+        free_for: "ללא תשלום עבור %{windows}, %{mac} ו- %{mobile}."
+        guides: 
+            click_add: "לחץ על הוסף כדי להתקין את PasswordBox"
+            click_allow: "לחץ על אפשר כדי להתקין את PasswordBox"
+            click_install: "לחץ על \"התקן\""
+            click_install_now: "לחץ על \"התקן עכשיו\""
+            click_run: "לחץ על \"הפעל\" כדי להתקין"
+            click_yes: "לחץ \"כן\" כדי לאשר את ההגדרות"
+            click_here: "לחץ כאן"
+            run_and_open: "הפעל ופתח את קובץ ההתקנה"
+            install_pbox: "התקן את PasswordBox"
+            close_window: "סגור חלון"
+            download_pbox: "הורד את PasswordBox"
+        alerts: 
+            mobile: "הורד את הגרסה ללא תשלום של אפליקציית %{app_name} ותוכל ליהנות מ- 1-Tap Login על הדרך!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox זמין רק עבור גרסאות %{browser} %{min_version} ומעלה. אנא עדכן את הדפדפן שלך ונסה שנית."
+                single_version: "PasswordBox זמין רק עבור %{browser}. אנא עדכן את הדפדפן שלך ונסה שנית."
+                unavailable: "PasswordBox אינו זמין עבור גרסת ה- %{browser} שלך. אנא נסה שנית עם %{suggestion}."
+                safari_windows: "PasswordBox עבור Safari הנו זמין רק עבור Mac OS X בשלב זה."
+                safari: 
+                    unsupported: "לצערנו איננו תומכים יותר ב- Safari. אנא נסה שנית עם Chrome, Firefox או Internet Explorer."
+                    read_more: "למידע נוסף"
+                unsupported: 
+                    problems: "איננו תומכים באופן רשמי בגרסה זו של %{browser}. תוכל עדיין להתקין את PasswordBox, אבל ייתכן שתיתקל בבעיות מסוימות."
+                    upgrade_suggestion: "כדי להבטיח את החוויה הטובה ביותר, אנו ממליצים לך לשדרג לגרסה העדכנית ביותר של הדפדפן שלך."
+                    install_anyway: "התקן בכל מקרה"
+            mobile: 
+                min_version: "PasswordBox אינו זמין עבור גרסת ה- %{os} שלך. אנא נסה שנית במכשיר המשתמש בגרסה %{min_version} או בגרסה עדכנית יותר."
+                generic: "PasswordBox אינו זמין עבור מכשיר זה. אנא נסה שנית באייפון, באייפד או פתח דף זה בשולחן העבודה שלך כדי להתקין את תוסף הדפדפן שלנו."
+        onboard: 
+            welcome: "ברוך הבא להתקנה של PasswordBox"
+            failed_install: "התקנת PasswordBox נכשלה"
+            never_forget: "לעולם לא תשכח עוד אף סיסמה! "
+            click_to_retry: "לחץ על נסה שנית כדי לנסות שוב"
+            retry: "נסה שנית"
+            free_vault: "כספת סיסמאות ללא תשלום עבור Google Chrome."
+            add_to_chrome: "הוסף ל- Chrome"
+        guide: 
+            almost_done: "כמעט סיימנו! "
+            greeting: "היי %{member_name}!"
+            welcome: "ברוך הבא ל- PasswordBox! עקוב אחר השלבים שלהלן כדי להשלים את ההתקנה שלך."
+            downloading: "PasswordBox יתחיל אוטומטית את ההורדה. אם זה לא קורה, %{restart_link}."
+            restart: "לחץ כאן כדי להתחיל מחדש את ההורדה"
+    address_book: 
+        import: 
+            address: "כתובת"
+            email_password: "סיסמת דוא\"ל"
+            fetching_contacts: "מייבא אנשי קשר..."
+            gmail: 
+                connect_button: "התחבר ל- Gmail"
+                instructions: "לחץ כדי להתחבר לפנקס הכתובות שלך ב- Gmail"
+            open_address_book: "פתח פנקס כתובות"
+            sending_promise: "לעולם לא נשלח דוא\"ל לאנשי הקשר שלך ללא הסכמתך."
+            connect: 
+                title: "התחבר לפנקס הכתובות שלך"
+                button: "התחבר ל- %{provider}"
+                instructions: "לחץ כדי להתחבר לפנקס הכתובות שלך ב- %{provider}"
+        select: 
+            contacts: "אנשי קשר"
+            deselect_all: "בטל בחירה מהכול"
+            search_contact: "חפש איש קשר"
+            select_all: "בחר הכול"
+            select_title: "בחר מפנקס הכתובות"
+            send_success: "בקשת הירושה הדיגיטלית שלך נשלחה בהצלחה!"
+            to: "אל"
+    forms: 
+        buttons: 
+            back: "אחורה"
+            cancel: "בטל"
+            ok: "אישור"
+            save: "שמור"
+            submit: "הגש"
+            send: "שלח"
+        errors: 
+            digits: 
+                only: "אנא הזן ספרות בלבד."
+            email: 
+                exists: "דוא\"ל זה כבר נמצא בשימוש."
+                invalid: "דוא\"ל זה אינו תקף."
+                invalid_please: "אנא הזן כתובת דוא\"ל תקפה."
+                required: "שדה הדוא\"ל נדרש."
+            fullname: 
+                required: "אנא הזן את שמך המלא."
+                too_long: "אנא הזן שם קצר יותר."
+                too_short: "על שמך לכלול %{length} תווים לפחות."
+            password: 
+                required: "אנא בחר סיסמה."
+                too_short: "אנא ודא שסיסמתך מכילה %{length} תווים לפחות."
+                confirm: "אנא אשר את הסיסמה שלך."
+                match: "ודא שהסיסמאות שלך תואמות."
+                different: "Your password cannot be the same as your email or name"
+            required: 
+                generic: "שדה זה נדרש."
+            generic: "אופס! משהו השתבש. אנא נסה להגיש את הטופס שנית."
+            length: 
+                between: " אנא הזן ערך עם מספר תווים שבין {0} ל- {1} באורכו."
+        labels: 
+            email: "דוא\"ל"
+            fullname: "שם מלא"
+            first_name: "שם פרטי"
+            last_name: "שם משפחה"
+            master_password: "סיסמה ראשית"
+            password: "סיסמה"
+            title: "כינוי"
+            username: "שם משתמש"
+            email_full: "כתובת הדוא\"ל שלך"
+            phone_full: "מספר הטלפון שלך"
+            date: "תאריך"
+        success: 
+            thank_you: "תודה! "
+        info: 
+            password: 
+                very_weak: "חלש מאוד"
+                weak: "חלש"
+                average: "ממוצע"
+                good: "טוב"
+                strong: "חזק"
+    premium: 
+        limit_reached: " הגעת לגבול שלך של %{limit}. שדרג עכשיו וקבל אחסון סיסמאות ללא הגבלה."
+        billing: 
+            details: "אתה תחויב ב- %{price}$ עבור מנוי שנתי של PasswordBox Premium. אם אינך מרוצה במהלך 30 הימים הראשונים של המנוי, אנחנו נזכה אותך ב-100% מהמחיר ששילמת, בלי לשאול שאלות."
+            renewal: "חשבונך יחודש בכל שנה באופן אוטומטי אלא אם תחליט לבטל אותו על ידי שליחת דוא\"ל לכתובת %{support_link} לפני מועד התשלום הבא שלך."
+        enter_cc_info: "הזן פרטי כרטיס אשראי"
+        form: 
+            errors: 
+                credit_card_invalid: "אנא הזן מספר כרטיס אשראי תקף."
+                generic_processing: "הייתה בעיה בעיבוד התשלום שלך."
+                unable_to_process: "איננו מצליחים לעבד את כרטיס האשראי שלך. אנא בדוק שנית שיש לך את המידע הנכון ונסה שוב."
+            labels: 
+                as_on_card: "כפי שהוא מופיע על הכרטיס שלך"
+                credit_card: "מספר כרטיס האשראי"
+                expiry: "תאריך תפוגה"
+                secure: "מאובטח"
+                verification: "4 ספרות מספר אימות הכרטיס"
+                what: "מה זה?"
+                country: "ארץ"
+                postal_code: "מיקוד"
+                street_address: "כתובת הרחוב"
+                city: "עיר"
+                region: "אזור"
+            submit: "הפעל Premium"
+            processing: "מעבד...נא להמתין."
+        main_title: "קבל גישה לגרסה המלאה של PasswordBox עבור %{price} בחודש!"
+        premium: "Premium"
+        quote: "יש לי יותר שמות משתמש וסיסמאות משאוכל לזכור. למזלי, PasswordBox יכול לזכור אותם בשבילי. השירות שלכם גם מספק לי שקט נפשי מכיוון שאם אהיה מעורבת בתאונת דרכים קטלנית היום, אני יודעת שהאנשים היקרים לי יקבלו גישה לכל החשבונות המקוונים שברשותי עם ההוראות שלי. זוהי הקלה לדעת שבעלי יוכל לגשת לחשבון ה- PayPal שלי ולכל התמונות המשפחתיות שיש לי ב- Flickr."
+        satisfaction_guarantee: "אם אינך מרוצה לחלוטין במהלך 30 הימים הראשונים, אנחנו נזכה אותך בכל אגורה ששילמת. <strong>בלי שאלות ובלי בעיות.</strong>."
+        success: 
+            already_premium: "אתה כבר חבר Premium! המנוי שלך תקף עד %{date}."
+            free_for_life_notice: "תודה שהשתתפת בבדיקת בטא שלנו. החשבון שלך יישאר ללא תשלום לתמיד."
+            payment_success: "תודה! התשלום שלך התקבל."
+            return_to_public: "חזור לאתר הציבורי"
+            to_passwordbox: "קח אותי ל- PasswordBox שלי"
+            upgrade_success: "החשבון שלך שודרג בהצלחה."
+        testimonial: "המלצה"
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "הזמן חברים"
+                invite_new: "הזמן חדש"
+                invites_accepted: "ההזמנות אושרו"
+                invites_sent: "ההזמנות נשלחו"
+                manage_invites: "נהל את ההזמנות שלי"
+                manage_title: "נהל את ההזמנות שלך"
+                no_invites_sent: "עוד לא שלחת אף הזמנה. צא לדרך ושלח כמה!"
+                referrals_needed: "אתה זקוק ל-%{count} הזמנות שאושרו כדי לקבל את החשבון ללא הגבלה וללא תשלום שלך."
+                referrals_needed_single: "הנך זקוק להזמנה מאושרת 1 נוספת כדי לקבל את החשבון ללא הגבלה וללא תשלום שלך."
+                resend: "שלח שוב"
+                reward: "ברגע ש-%{count} חברים יירשמו, תקבל חשבון Pro ללא תשלום ולכל החיים."
+                sent: "נשלח"
+                status: "סטטוס"
+                subheader: "להלן ההזמנות ששלחת. תוכל לשלוח אותן שנית במידת הצורך."
+            reward: "הבא %{count} חברים להירשם ל- PasswordBox, קבל חשבון Pro ללא תשלום ותוכל ליהנות מנפח אחסון סיסמאות ללא הגבלה ולכל החיים."
+            title: "הפנה %{count} חברים ל-"
+        import_contacts: 
+            manual_option: "הזן ידנית את כתובות הדוא\"ל של חבריך "
+        important: "חשוב"
+        installed_header: "PasswordBox פועל עכשיו!"
+        invite_header: "ספר לחבריך על PasswordBox"
+        manual_invite: 
+            email_instructions: "הזן את כתובות הדוא\"ל שלהם"
+            import_option: "הזמן חברים מפנקס הכתובות שלך"
+            required_error: "אנא הזן כתובת דוא\"ל כדי להזמין"
+            send_action: "שלח כרטיסי VIP"
+            send_instructions: "שלח הזמנות לחבריך"
+            send_success: "כרטיסי ה- VIP שלך נשלחו!"
+        resale_disclaimer: "אנא שים לב ש- PasswordBox אינו מאפשר לך למכור את כרטיסי ה- VIP שלך ב- eBay או בכל אתר אחר. <strong>הכרטיסים נועדו לשימוש אישי בלבד.</strong>"
+        sent_after_welcome: 
+            title: "הרשמתך הושלמה!"
+            video_instructions: "צפה בסרטון זה לפרטים נוספים על על PasswordBox"
+        vip: 
+            reward: "אתה תקבל מנוי ללא תשלום לכל החיים"
+            title: "תן לחבריך גישת VIP ל-"
+    welcome: 
+        headers: 
+            running: "%{logo} פועל עכשיו!"
+        bulk_password: 
+            check_all: "בדוק הכול"
+            did_you_know_title: "האם ידעת ש-92% מהאנשים משתמשים באותו צירוף שם משתמש וסיסמה לרוב החשבונות המקוונים שלהם?"
+            instructions: "אם זה מתאר אותך, הזן את פרטי ההתחברות המשותפים שלך להלן ובחר את האתרים שבהם אתה משתמש בפרטים אלו. אנחנו נשמור את החשבונות הללו ב- PasswordBox שלך בבת אחת."
+            save_passwords: "שמור סיסמאות"
+            success_message: "שומר את הסיסמאות שלך..."
+            uncheck_all: "בטל סימון מהכול"
+            username_label: "שם משתמש של כתובת הדוא\"ל"
+            website_error: "אנא בחר באתר אחד לפחות ."
+        legacy: 
+            address_book: "התחבר לפנקס הכתובות שבדוא\"ל שלך"
+            email_label: "דוא\"ל של האדם שעליו אתה סומך"
+            instructions: "ציין להלן אדם שעליו אתה סומך ואנחנו נשלח אליו דוא\"ל עם בקשתך"
+            name_label: "שם האדם שעליו אתה סומך"
+            transfer_info: "אל דאגה, הסיסמאות שלך לא יועברו לפני שעת הצורך"
+            trust_title: "במי אתה בוטח לטפל בחשבונך המקוון אם משהו קורה לך?"
+            watch_video: "צפה בסרטון שלנו לפרטים נוספים"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "אשר סיסמה ראשית"
+                never_store_password: "כדי לערוב לאבטחה שלך, PasswordBox אינו רואה או מאחסן את סיסמתך הראשית לעולם"
+                no_recovery: "אין דרך לשחזר את חשבונך אם שכחת את סיסמתך הראשית"
+                repeat_title: "הזן את סיסמתך פעם נוספת"
+            creating_account: "יוצר את החשבון שלך..."
+            form: 
+                create_account_action: "צור חשבון ללא תשלום"
+                create_account_title: "צור את החשבון ללא תשלום שלך"
+                create_password: "צור סיסמה"
+                existing_account: "כבר יש לך חשבון?"
+                facebook_promise: "אל דאגה, אנחנו לעולם לא נפרסם על הקיר שלך."
+                facebook_signup: "הירשם באמצעות פייסבוק"
+                login: "התחבר"
+                terms_disclaimer: "על ידי לחיצה לעיל אתה מסכים לתנאי השירות שלנו"
+                terms_full: "אנו לא נשתף לעולם את כתובת הדוא\"ל שלך או כל מידע אישי אחר עם גורמי צד ג', ונשלח לך רק דוא\"ל עסקתי הנוגע לחשבון ה-PasswordBox שלך. קרא את %{privacy_link} לפרטים נוספים."
+                terms_agree: "על ידי לחיצה לעיל אתה מסכים ל%{terms_link} שלנו."
+            installed_title: "ההתקנה הושלמה! שלב אחרון.."
+            never_forget: "לעולם לא תשכח עוד סיסמה! הפעל את החשבון ללא תשלום שלך"
+            recently_installed: "PasswordBox נוסף לאחרונה לדפדפן שלך..."
+            testimonial: "הוא כמו Dropbox עבור סיסמאות. הוא פועל על כל המכשירים שלי, בכל מקום שבו אני נמצא, והשיתוף פשוט להפליא"
+            login_link: "אם יש לך כבר חשבון PasswordBox <a href=\"%{path}\" target=\"_blank\">חפש את התיבה הירוקה</a> בדפדפן שלך"
+            validating: "מאמת את הנתונים שלך..."
+            almost_done: "כמעט סיימנו! פשוט צור את הסיסמה שלך"
+            delayed: 
+                never_forget: 
+                    generic: "לעולם לא תשכח עוד אף סיסמה!"
+                    domain: "לעולם לא תשכח עוד את סיסמתך ב- <strong>%{website}</strong> !"
+                signup_free: "הירשם עכשיו ללא תשלום!"
+                secure: "כדי לאבטח את סיסמאותיך השמורות, <strong>הירשם עכשיו ללא תשלום ותוכל ליהנות מהתחברות אוטומטית לכל האתרים האהובים עליך!</strong>"
+                watch_video: "צפה בסרטון שלנו"
+                how_pbox_works: "כיצד פועל PasswordBox?"
+            crypto: 
+                creating: "יוצר את החשבון שלך..."
+                encrypting: "אנחנו מצפינים את הסיסמה שלך לאבטחה מקסימלית. תהליך זה יכול להימשך זמן מה (עד דקה) על מחשבים ישנים יותר. זה תקין. אנא חכה עד שהתהליך יסתיים."
+        video: 
+            typing_passwords: "הקלדה ידנית של סיסמאות היא תהליך משעמם ומתסכל. PasswordBox מסייע לך באמצעות שמירה אוטומטית של פרטי ההתחברות שלך כאשר אתה מתחבר לאתר."
+            next_step: "אני מבין. תודה!"
+        guides: 
+            extension: 
+                congratulations: "מזל טוב!"
+                save_success: "שמרנו בהצלחה את הסיסמאות שלך ב- PasswordBox!"
+                green_box: "לחץ על סמל התיבה הירוקה שבדפדפן שלך כדי לגשת אליו בכל פעם שתזדקק לו."
+        tutorial: 
+            create_password: 
+                click_instructions: "לחץ על הכפתור שלהלן כדי להוסיף את הסיסמה הראשונה שלך"
+                form_instructions: "הזן את שם המשתמש והסיסמה שלך"
+            one_click_login: "עבודה טובה! בוא ננסה עכשיו 1-Click Login"
+            tour_video: 
+                extension_guide: "לחץ על התיבה הירוקה כדי לפתוח את ה-PasswordBox שלך"
+                instructions: "הפק את המרב מ- PasswordBox בעזרת סיור מוצר מהיר זה."
+                title: "סיור היכרות"
+    features: 
+        seamless_login: 
+            title: "היו שלום סיסמאות. התחברות מיידית מכל מכשיר ולכל אתר או אפליקציה."
+            subtitle: "נמאס לך להתעכב עם מסכי ההתחברות? היכנס לחשבונותיך במהירות ובלחיצה אחת, באמצעות One Tap login."
+            item_1: "בלעדי ל- PasswordBox, %{link} אין צורך להקליד שם משתמש וסיסמה אף פעם."
+            item_2: "בקר בכל אתר שתבחר ו- PasswordBox יזין עבורך את נתוני הכניסה וידאג לחבר אותך למערכת באופן אוטומטי. אין צורך להקליד מאום במחשב או במכשיר הנייד עם דפדפן Chrome או Safari. "
+            item_3: "התחברות מהירה גם כאשר יש לך מספר חשבונות משתמש באותו אתר"
+            item_4: "הגנה מפני תוכנות זדוניות לשמירת מקשים - אם אתה לא תקליד את זה, הן לא יוכלו לגנוב את זה"
+            one_tap_link: "התחבר לאפליקציות הסלולריות האהובות עליך באנדרואיד באמצעות One Tap Login"
+        device_syncing: 
+            title: "הסיסמאות שלך, בכל מקום"
+            subtitle: "שמור סיסמה ב- PasswordBox והיא תישמר מיידית בכל הדפדפנים, המחשבים והמכשירים הניידים שלך."
+            item_1: "סנכרן אוטומטית כך שפרטי ההתחברות שלך יימצאו תמיד בקצות אצבעותיך"
+            item_2: "פועל על כל המחשבים, הדפדפנים והמכשירים הניידים שבשוק כמעט"
+            item_3: "תוסף ללא תשלום, המתאים לכל הדפדפנים העיקריים, כולל Chrome, Firefox ו- Internet Explorer"
+            item_4: "ההצפנה והפענוח של המידע שלך נעשים באופן מקומי על המכשיר שלך באמצעות AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox למכשיר נייד"
+            widget: 
+                title: "אפליקציות סלולריות ללא תשלום"
+                subtitle: "הסיסמאות שלך בכל מקום"
+            notify: 
+                sms: "שלח הודעת טקסט לטלפון שלי"
+                email: "שלח דוא\"ל למכשיר שלי"
+                sending: "שולח קישור התקנה"
+            email: 
+                success: "הדוא\"ל נשלח! בדוק את תיבת הדוא\"ל שלך לקישור ההורדה"
+                errors: 
+                    invalid: "הדוא\"ל חסר או שאינו תקף"
+                    failed: "שליחת דוא\"ל נכשלה"
+            sms: 
+                body: "להתקנת PasswordBox, לחץ כאן במכשיר הנייד שלך: %{link}"
+                success: "הודעת הטקסט נשלחה! בדוק את המכשיר הנייד שלך לקישור ההורדה שלך."
+                errors: 
+                    phone: 
+                        missing: "מספר הטלפון חסר."
+                        invalid: "לא הצלחנו לשלוח הודעה למספר טלפון זה. הקפד לכלול את קידומת המדינה אם המספר הנו בינלאומי."
+                    service: 
+                        unavailable: "שירות ה-SMS אינו זמין כעת"
+            apps: 
+                app_store: "זמין <span>בחנות האפליקציות</span>"
+                google_play: "קבל זאת ללא תשלום <span>ב- Google Play</span>"
+            ces_award: "האפליקציה הטובה ביותר <span>לנייד על פי CES 2014</span>"
+        desktop: 
+            title: "הורד את PasswordBox ללא תשלום"
+            warnings: 
+                windows_only: "עבור Windows בלבד"
+                mac_only: "עבור Mac OS בלבד"
+            button: 
+                get: "קבל את PasswordBox"
+                for: "עבור"
+        instructions: " העתק את הקישור הבא והדבק אותו בשורת הכתובת של דפדפן ה-%{browser} שלך:"
+        copy: 
+            button: "העתק"
+            tooltip: "העתק ללוח העריכה"
+            success: "הועתק!"
+    login: 
+        title: "אם התקנת כבר את PasswordBox, לחץ על התיבה הירוקה כדי להתחבר."
+        reinstall: "אם אתה צריך להתקין מחדש את PasswordBox, לחץ על הכפתור שלהלן:"
+    member: 
+        errors: 
+            email: 
+                exists: "משתמש עם כתובת דוא\"ל זו כבר קיים. אנא נסה כתובת דוא\"ל אחרת."
+                invalid: "אנא הזן דוא\"ל תקף."
+    emails: 
+        common: 
+            greeting: "היי %{full_name},"
+            hey: "היי!"
+            pbox_team: "הצוות של PasswordBox"
+        layout: 
+            tagline: "PasswordBox מאפשר גישה מהירה ומאובטחת לחשבונות המקוונים שלך, שיתף סיסמאות מאובטח ו- Legacy Locker בכל המכשירים. לעולם לא תשכח עוד אף סיסמה."
+            unsubscribe: 
+                link: "הסר מרשימת התפוצה"
+                from_all: "%{unsubscribe} from PasswordBox emails."
+        welcome: 
+            subject: "%{full_name}, ברוך הבא ל- PasswordBox!"
+            title: "ברוך הבא"
+            avg_notice: "PasswordBox בסרגל הכלים של AVG מאפשר גישה מהירה לחשבונותיך המקוונים, שיתוף סיסמאות מאובטח ותכונות ירושה דיגיטלית בכל המכשירים."
+            account_ready: "החשבון שלך כמעט מוכן!"
+            login_info: "שם המשתמש שלך הוא %{email}. סיסמתך היא הסיסמה הראשית שאותה יצרת בעת תהליך ההרשמה."
+            say_goodbye: "היפרד לשלום ממספר רב של שמות משתמש וסיסמאות. מעכשיו, תזדקק רק לסיסמה הראשית שלך. PasswordBox מאפשר התחברות פשוטה בלחיצה אחת, שיתוף סיסמאות מאובטח וניהול החיים הדיגיטליים מכל המכשירים."
+            finally: "תוכל להסיר סוף סוף סיסמאות מדעתך!"
+            confirm: "אשר את חשבונך כעת"
+            click_below: "לחץ על הקישור שלהלן כדי לאשר את חשבונך:"
+            welcome: "ברוך הבא ל- PasswordBox!"
+        sync: 
+            subject: "הורד את PasswordBox למכשיר הנייד שלך!"
+            instructions: "להורדת PasswordBox, פתח דוא\"ל זה במכשיר הנייד שלך ובקר בקישור שלהלן:"

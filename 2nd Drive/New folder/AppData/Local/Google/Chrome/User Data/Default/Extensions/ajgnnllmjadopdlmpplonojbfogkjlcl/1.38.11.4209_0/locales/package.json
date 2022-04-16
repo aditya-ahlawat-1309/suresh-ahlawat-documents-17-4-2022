@@ -1,0 +1,12 @@
+{
+  "name": "translations-legacy",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Inpage translations",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/passwordbox/translations.git"
+  },
+  "homepage": "https://github.com/passwordbox/translations"
+}

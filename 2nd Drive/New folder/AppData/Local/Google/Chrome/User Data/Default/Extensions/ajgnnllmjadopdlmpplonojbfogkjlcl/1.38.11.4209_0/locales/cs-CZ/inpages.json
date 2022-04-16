@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Zavřít",
+		"done": "Hotovo",
+		"dontSave" : "Neukládat",
+		"neverSave" : "Nikdy neukládat",
+		"saveNow" : "Uložit",
+		"yes" : "Ano",
+		"no" : "Ne",
+		"remove": "Odebrat",
+		"dontUpdate" : "Neaktualizovat",
+		"updateNow" : "Aktualizovat",
+		"dontAskAgain" : "Znovu se neptat",
+
+		"dontSaveNow" : "Nyní neukládat",
+		"dontSaveItNow" : "Nyní neukládat",
+		"neverSaveIt" : "Nikdy neukládat",
+		"neverForThisSite" : "Nikdy neukládat",
+		"savePassword" : "Uložit heslo",
+		"saveThisPassword" : "Uložit toto heslo",
+		"dontShowAgain" : "Znovu nezobrazovat",
+		"masterPassword" : "Hlavní heslo",
+		"continue" : "Pokračovat",
+		"ok": "OK",
+		"typeMasterPassword" : "Zadat hlavní heslo",
+		"settings": "Nastavení",
+		"copyClipboard": "Kopírovat do schránky",
+		"youreIn" : "Hotovo.",
+		"success": "Výborně"
+	},
+
+	"bannerAutosave": {
+		"mainText": "Aplikace True Key uložila vaše heslo ke stránce <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerBoxfull": {
+		"mainText": "Aplikace True Key detekovala nové heslo ke stránce <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Počkejte chvíli"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Heslo ke stránce <span class='primary'>%{siteName}</span> není dostatečně silné"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Máte nové sdílené heslo."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Přihlásila vás aplikace True Key?",
+		"deleteConfirm": "Chcete z profilu aplikace True Key odebrat uživatele <span class='secondary'> %{username}</span>?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Litujeme. Aplikace True Key tuto stránku zatím nepodporuje."
+	},
+	"connectWith" : {
+		"mainText" : "Výběr profilu",
+		"login": "Přihlásit"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Váš profil je uzamčen",
+		"ctaUnlock": "Přihlásit a odemknout",
+		"placeholder" : "Zadejte hlavní heslo",
+		"mainTxtHasUsers" : "Přihlášení pomocí profilu aplikace True Key",
+		"mainTxtNoUsers" : "Chcete-li toto heslo uložit, zadejte hlavní heslo",
+		"error" : "Nesprávné heslo",
+		"decrypting" : "Dešifrování",
+		"profileLocked" : "Váš profil je uzamčen",
+		"unlockedLogIn" : "Odemknout a přihlásit"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Už vás nebaví mít řadu různých hesel? Přihlašujte se rychle pomocí aplikace True Key",
+		"signup" : "Ukázat"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Už vás unavuje zadávání hesel? Přihlašujte se snadno a rychle díky aplikaci True Key.",
+		"signup" : "Ukázat"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Přihlaste se ke stránce <span class='secondary'>%{siteName}</span> a",
+		"txt2" : "aplikace True Key uloží vaše heslo."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Příště vás aplikace True Key bezpečně přihlásí."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Nyní se můžete rychleji, jednodušeji a bezpečněji přihlašovat ze stránky Launchpad aplikace True Key."
+	},
+	"passgen" : {
+		"generate": "Generovat heslo",
+		"regenerate" : "Generovat heslo",
+		"noPassGenerated": "Žádné vygenerované heslo",
+		"letters" : "Písmena",
+		"digits" : "Číslice",
+		"symbols" : "Symboly",
+		"capitals" : "Velká písmena"
+	}
+}

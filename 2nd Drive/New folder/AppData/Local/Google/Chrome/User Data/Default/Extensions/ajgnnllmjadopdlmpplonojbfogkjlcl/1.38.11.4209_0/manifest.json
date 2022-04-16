@@ -1,0 +1,45 @@
+{
+   "background": {
+      "scripts": [ "build/js/config.js", "build/js/background-libs.js", "build/js/background-app.js", "build/js/background-init.js" ]
+   },
+   "browser_action": {
+      "default_icon": "build/images/ext/ext_icon_19.png",
+      "default_popup": "index.html",
+      "default_title": "PasswordBox"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [ "http://a0.psswrdbx.com/*", "https://a0.psswrdbx.com/*", "*://googleads.g.doubleclick.net/*", "*://platform.twitter.com/widgets/*", "*://www.facebook.com/plugins/*", "*://plusone.google.com/_/+1/*" ],
+      "js": [ "build/js/cs-loader.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   }, {
+      "js": [ "build/js/config.js", "build/js/content-script.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "build/js/config.js", "build/js/content-script.js" ],
+      "matches": [ "http://a0.psswrdbx.com/*", "https://a0.psswrdbx.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "build/js/content-script-pb.js" ],
+      "matches": [ "*://*.passwordbox.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://api.mixpanel.com https://a0.psswrdbx.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "build/images/ext/store_icon_128.png",
+      "16": "build/images/ext/store_icon_16.png",
+      "48": "build/images/ext/store_icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLUxXnDm1AKgA8KaSP2OgZSfT8PmBDHXlE9mDsc6GKI/5JZjHT7k6OiPGOV1Ee4R0evWme8Svzp8RqZ8xP8xzKqwau1PNLdiO00f7ANVrmFLKeUJawyxgRqpCJtyh41HDHzv5hmp+v5VOaauUF5j9FfsBBPLmjK1pVWsrzz6HzUwIDAQAB",
+   "manifest_version": 2,
+   "name": "PasswordBox - Log in with 1-Click",
+   "permissions": [ "cookies", "tabs", "bookmarks", "management", "unlimitedStorage", "storage", "notifications", "history", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.38.11.4209",
+   "web_accessible_resources": [ "iframe/*", "framefactory/frame.html" ]
+}

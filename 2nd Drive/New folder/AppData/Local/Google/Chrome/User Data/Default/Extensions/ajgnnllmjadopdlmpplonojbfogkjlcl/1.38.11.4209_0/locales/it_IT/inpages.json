@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Chiudi",
+    "done" : "Fatto",
+    "dontSave" : "Non salvare ",
+    "neverSave" : "Non salvare mai",
+    "saveNow" : "Salva",
+    "yes" : "Sì",
+    "no" : "No",
+    "remove" : "Rimuovi",
+    "dontUpdate" : "Non aggiornare",
+    "updateNow" : "Aggiorna",
+    "dontAskAgain" : "Non chiedere più",
+    "dontSaveNow" : "Non salvare adesso",
+    "dontSaveItNow" : "Non salvarla adesso",
+    "neverSaveIt" : "Non salvarla mai",
+    "neverForThisSite" : "Mai per questo sito",
+    "savePassword" : "Salva la password",
+    "saveThisPassword" : "Salva questa password",
+    "dontShowAgain" : "Non mostrare più",
+    "masterPassword" : "Password principale",
+    "continue" : "Continua",
+    "typeMasterPassword" : "Digitare la Password principale",
+    "settings" : "Impostazioni",
+    "copyClipboard" : "Copia negli appunti"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox </span> ha salvato una nuova password per <span class='green'> %{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span>  ha rilevato una nuova password per  <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> ti fa accedere immediatamente"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "La tua password per <span class='green'>%{siteName}</span> non è abbastanza forte."
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Hai <span id='shareCount' class='green'>1 nuovo</span> invito a condividere le password."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Sei riuscito ad accedere al tuo <span class='green'>account</span>  %{username}?",
+    "deleteConfirm" : "Vuoi elminare <span class='green'>%{username}</span> dalla tua PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Purtroppo questo sito non è ancora supportato. Stiamo lavorando intensamente per integrarlo e sarà presto disponibile"
+  },
+  "connectWith" : {
+    "mainText" : "Seleziona l'account con cui vuoi accedere",
+    "login" : "Accesso"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Digitare la Password principale",
+    "mainTxtHasUsers" : "Inserisci la tua Password Principale per accedere immediatamente",
+    "mainTxtNoUsers" : "Inserisci la Password principale per salvare questa password",
+    "error" : "Password errata",
+    "decrypting" : "Decriptaggio in corso..."
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Salva la password ora.",
+    "signup" : "Iscriviti a PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Seleziona la carta per il checkout",
+    "use" : "Usa"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Non dimenticherai mai più una password:",
+    "createAccount" : "Crea un account",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> è stato aggiunto alla tua barra degi strumenti %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Ora accedi al tuo <span class='green'>%{siteName}</span> account...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> la salverà automaticamente per te!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... E questo è tutto.",
+    "mainText" : "La tua password <span class='green'>%{siteName}</span> è ora al sicuro nella tua PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Congratulazioni",
+    "mainText" : "Da ora puoi accedere alle tue password in qualsiasi momento cliccando <strong class='green'>sull'icona con la scatolina verde</strong> nel browser. Prova subito!"
+  },
+  "passgen" : {
+    "generate" : "Genera password sicura",
+    "regenerate" : "Genera nuova password:",
+    "noPassGenerated" : "Nessuna password generata",
+    "letters" : "Lettere",
+    "digits" : "Numeri",
+    "symbols" : "Simboli",
+    "capitals" : "Maiuscole"
+  }
+}

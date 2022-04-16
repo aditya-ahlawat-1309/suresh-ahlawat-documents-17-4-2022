@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Bahasa Inggris"
+    common: 
+        privacy: "Privasi"
+        privacy_full: "Kebijakan Privasi"
+        terms: "Ketentuan"
+        terms_full: "Ketentuan Layanan"
+        alert: "Perhatian!"
+        warning: "Peringatan!"
+        or: "atau"
+        copyright: "© %{date}. Semua hak dilindungi undang-undang."
+        change_language: "Ubah bahasa"
+    shared: 
+        member_menu: 
+            upgrade: "Tingkatkan akun"
+            refer_friends: "Sarankan teman"
+            help: "Bantuan & Dukungan"
+            logout: "Keluar"
+    head: 
+        meta: 
+            description: 
+                default: " PasswordBox membantu Anda mengingat kata sandi. Tinggalkan kebiasaan mengingat banyak nama pengguna dan kata sandi. Kata sandi utama PasswordBox adalah satu-satunya yang dibutuhkan!"
+                mobile: "PasswordBox adalah pengelola kata sandi gratis yang membantu untuk menyimpan, mengambil, dan membagi kata sandi di perangkat apa pun. Coba aplikasi PasswordBox pada Android, iPhone, atau iPad."
+        title: 
+            default: "Pengelola Kata Sandi Gratis"
+            welcome: "Selamat Datang"
+    download: 
+        download: "Unduh GRATIS"
+        login: "Masuk"
+        mobile: "Mobile"
+        platforms: "Gratis untuk"
+        watch_video: "Tonton videonya"
+        available_for: "Juga tersedia untuk %{os} dan %{platform}"
+        free_for: "Gratis untuk %{windows}, %{mac}, dan %{mobile}."
+        guides: 
+            click_add: "Klik tambah untuk memasang PasswordBox"
+            click_allow: "Klik izinkan untuk memasang PasswordBox"
+            click_install: "Klik \"Pasang\""
+            click_install_now: "Klik \"Pasang Sekarang\""
+            click_run: "Klik \"Jalankan\" untuk memasang"
+            click_yes: "Klik \"Ya\" untuk menerima setelan"
+            click_here: "Klik di sini"
+            run_and_open: "Jalankan dan buka installer"
+            install_pbox: "Pasang PasswordBox"
+            close_window: "Tutup jendela"
+            download_pbox: "Unduh PasswordBox"
+        alerts: 
+            mobile: "Unduh aplikasi %{app_name} GRATIS dan nikmati 1-Tap Login di mana saja!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox hanya tersedia untuk versi %{browser} %{min_version} dan lebih baru. Perbarui browser Anda dan coba lagi."
+                single_version: "PasswordBox hanya tersedia untuk %{browser}. Perbarui browser Anda dan coba lagi."
+                unavailable: "PasswordBox tidak tersedia untuk versi %{browser} Anda. Coba lagi mengggunakan %{suggestion}."
+                safari_windows: "Saat ini PasswordBox untuk Safari hanya tersedia pada Mac OS X."
+                safari: 
+                    unsupported: "Sayangnya kami tidak lagi mendukung Safari. Silakan coba lagi di Chrome, Firefox, atau Internet Explorer."
+                    read_more: "Baca selengkapnya di sini"
+                unsupported: 
+                    problems: "Kami tidak secara resmi mendukung %{browser} versi ini. Anda masih dapat memasang PasswordBox, namun mungkin akan menemukan masalah."
+                    upgrade_suggestion: "Untuk memastikan pengalaman terbaik, kami usulkan Anda meningkatkan browser ke versi terbaru."
+                    install_anyway: "Tetap pasang"
+            mobile: 
+                min_version: "PasswordBox tidak tersedia untuk versi %{os} ini. Coba lagi menggunakan perangkat dengan versi %{min_version} atau yang lebih baru."
+                generic: "PasswordBox tidak tersedia untuk perangkat ini. Coba lagi di iPhone, iPad, atau Android, atau buka laman ini di desktop untuk memasang ekstensi browser."
+        onboard: 
+            welcome: "Selamat Datang di Pemasangan PasswordBox"
+            failed_install: "Gagal Memasang PasswordBox"
+            never_forget: "Tidak Akan Pernah Lagi Lupa Kata Sandi! "
+            click_to_retry: "Klik coba lagi untuk mencoba kembali"
+            retry: "Coba Lagi"
+            free_vault: "Brankas Kata Sandi Gratis untuk Google Chrome."
+            add_to_chrome: "Tambah ke Chrome"
+        guide: 
+            almost_done: "Hampir selesai! "
+            greeting: "Hai %{member_name}!"
+            welcome: "Selamat datang di PasswordBox. Ikuti langkah berikut untuk menyelesaikan pemasangan."
+            downloading: "PasswordBox akan secara otomatis mulai mengunduh. Jika tidak, %{restart_link}."
+            restart: "klik di sini untuk memulai ulang unduhan"
+    address_book: 
+        import: 
+            address: "Alamat"
+            email_password: "Kata sandi email"
+            fetching_contacts: "Mengambil kontak..."
+            gmail: 
+                connect_button: "Menghubung ke Gmail"
+                instructions: "Klik untuk menghubung ke buku alamat Gmail"
+            open_address_book: "Buka buku alamat"
+            sending_promise: "Kami tak akan mengirim email ke kontak tanpa persetujuan Anda."
+            connect: 
+                title: "Hubungkan ke buku alamat"
+                button: "Hubungkan ke %{provider}"
+                instructions: "Klik untuk menghubungkan ke buku alamat %{provider}"
+        select: 
+            contacts: "Kontak"
+            deselect_all: "Batal pilih semua"
+            search_contact: "Telusuri kontak"
+            select_all: "Pilih semua"
+            select_title: "Pilih dari Buku Alamat"
+            send_success: "Permintaan pewaris digital telah berhasil dikirim!"
+            to: "Kepada"
+    forms: 
+        buttons: 
+            back: "Kembali"
+            cancel: "Batal"
+            ok: "Oke"
+            save: "Simpan"
+            submit: "Serahkan"
+            send: "Kirim"
+        errors: 
+            digits: 
+                only: "Masukkan angka saja."
+            email: 
+                exists: "Email itu sudah digunakan."
+                invalid: "Email itu tidak valid."
+                invalid_please: "Masukkan alamat email valid."
+                required: "Bagian email wajib diisi."
+            fullname: 
+                required: "Masukkan nama lengkap Anda."
+                too_long: "Masukkan nama yang lebih pendek."
+                too_short: "Nama Anda harus sepanjang setidaknya %{length} karakter."
+            password: 
+                required: "Pilih kata sandi."
+                too_short: "Pastikan kata sandi setidaknya sepanjang %{length} karakter."
+                confirm: "Konfirmasi kata sandi."
+                match: "Pastikan kata sandi cocok."
+                different: "Kata sandi Anda tidak boleh sama dengan email atau nama"
+            required: 
+                generic: "Bagian ini wajib diisi."
+            generic: "Ups! Ada yang salah. Coba serahkan kembali formulirnya."
+            length: 
+                between: "Masukkan nilai dengan panjang karakter antara {0} dan {1}."
+        labels: 
+            email: "Email"
+            fullname: "Nama lengkap"
+            first_name: "Nama depan"
+            last_name: "Nama belakang"
+            master_password: "Kata Sandi Utama"
+            password: "Kata Sandi"
+            title: "Panggilan"
+            username: "Nama Pengguna"
+            email_full: "Alamat email Anda"
+            phone_full: "Nomor telepon"
+            date: "Tanggal"
+        success: 
+            thank_you: "Terima kasih!"
+        info: 
+            password: 
+                very_weak: "Sangat lemah"
+                weak: "Lemah"
+                average: "Sedang"
+                good: "Baik"
+                strong: "Kuat"
+    premium: 
+        limit_reached: "Anda telah mencapai batas %{limit}. Tingkatkan sekarang dan dapatkan penyimpanan kata sandi tanpa batas."
+        billing: 
+            details: "Anda akan diminta membayar %{price} USD untuk penggunaan PasswordBox Premium selama setahun. Jika tidak puas dalam waktu 30 hari berlangganan, uang Anda akan kembali 100%.  "
+            renewal: "Akun Anda akan diperbarui secara otomatis setiap tahunnya kecuali jika dibatalkan melalui email ke %{support_link} sebelum pembayaran selanjutnya jatuh tempo."
+        enter_cc_info: "Masukkan Informasi Kartu Kredit"
+        form: 
+            errors: 
+                credit_card_invalid: "Masukkan nomor kartu kredit valid."
+                generic_processing: "Ada masalah dalam memproses pembayaran Anda."
+                unable_to_process: "Kami tidak dapat memproses kartu kredit Anda. Mohon periksa ulang kebenaran informasi dan coba lagi."
+            labels: 
+                as_on_card: "sesuai pada kartu"
+                credit_card: "Nomor Kartu Kredit"
+                expiry: "Tanggal Kedaluwarsa"
+                secure: "Aman"
+                verification: "4 angka nomor verifikasi kartu"
+                what: "Apa ini?"
+                country: "Negara"
+                postal_code: "Kode pos"
+                street_address: "Alamat"
+                city: "Kota"
+                region: "Wilayah"
+            submit: "Aktifkan Premium"
+            processing: "Memroses... Mohon tunggu."
+        main_title: "Akses versi fitur penuh PasswordBox seharga %{price}/bulan!"
+        premium: "Premium"
+        quote: "Saya punya banyak sekali nama pengguna dan kata sandi. Untungnya PasswordBox dapat membantu saya mengingat. Layanan Anda juga memberi ketenangan karena jika saya terlibat dalam kecelakaan fatal hari ini, orang yang saya cintai akan menerima akses ke berbagai akun online saya bersama dengan instruksinya. Lega rasanya mengetahui bahwa suami saya dapat mengakses akun Paypal dan semua foto keluarga yang saya miliki di Flickr."
+        satisfaction_guarantee: "Jika tidak puas dalam waktu 30 hari berlangganan, kami akan langsung mengembalikan seluruh uang Anda.  <strong>Tanpa pertanyaan, tanpa repot.</strong>."
+        success: 
+            already_premium: "Anda telah menjadi anggota Premium! Langganan Anda valid hingga %{date}."
+            free_for_life_notice: "Terima kasih atas partisipasi dalam uji beta kami. Akun Anda gratis seumur hidup."
+            payment_success: "Terima kasih! Pembayaran telah diterima."
+            return_to_public: "Kembali ke situs publik"
+            to_passwordbox: "Arahkan saya ke PasswordBox"
+            upgrade_success: "Akun Anda telah berhasil ditingkatkan."
+        testimonial: "Testimoni"
+        unconfirmed: 
+            title: "Akun Anda belum dikonfirmasi"
+            check_spam: "Jika tidak ada email di kotak masuk, periksalah folder<strong> spam.</strong>"
+            no_email: "Tidak menerima email?"
+            explanation: "Konfirmasi akun Anda tidak hanya memvalidasi alamat untuk kami, ini juga membuka fitur berbagi dan Legacy Locker."
+            resend_email: "Kirim ulang email konfirmasi"
+            steps: 
+                send_email: "Kirim email verifikasi ke akun email Anda."
+                click_link: "Klik pada tautan yang disertakan dalam email"
+                done: "Selesai!"
+            continue: 
+                instructions: "Setelah mengonfirmasi akun, klik <strong>lanjutkan</strong> untuk melengkapi perincian pembayaran."
+                action: "Lanjutkan"
+            messages: 
+                email_sent: "Periksa inbox Anda. Kami telah mengirim email konfirmasi."
+                not_confirmed: "Anda belum mengonfirmasi akun."
+                general_error: "Ada yang salah. Coba lagi."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Undang Teman"
+                invite_new: "Undang baru"
+                invites_accepted: "Undangan diterima"
+                invites_sent: "Undangan terkirim"
+                manage_invites: "Kelola undangan saya"
+                manage_title: "Kelola undangan Anda"
+                no_invites_sent: "Anda belum mengirim undangan. Ayo kirim!"
+                referrals_needed: "%{count} undangan Anda perlu diterima guna memperoleh akun Penyimpanan Tanpa Batas"
+                referrals_needed_single: "1 undangan Anda perlu diterima guna memperoleh akun Penyimpanan Tanpa Batas"
+                resend: "Kirim ulang"
+                reward: "Setelah %{count} teman bergabung, Anda akan menerima Pro Account gratis seumur hidup."
+                sent: "Dikirim"
+                status: "Status"
+                subheader: "Ini adalah undangan yang dikirim. Anda dapat mengirimnya kembali jika perlu."
+            reward: "Minta %{count} teman untuk mendaftar ke PasswordBox, dan Anda akan menerima Pro Account gratis, serta menikmati penyimpanan kata sandi tak terbatas selamanya."
+            title: "Sarankan %{count} teman untuk"
+        import_contacts: 
+            manual_option: "Masukkan email teman secara manual"
+        important: "Penting"
+        installed_header: " PasswordBox telah berfungsi!"
+        invite_header: "Beri tahu teman tentang PasswordBox"
+        manual_invite: 
+            email_instructions: "Masukkan alamat email mereka"
+            import_option: "Undang teman dari buku alamat"
+            required_error: "Masukkan alamat email untuk mengundang"
+            send_action: "Kirim pass VIP"
+            send_instructions: "Kirim undangan ke teman"
+            send_success: "Pass VIP telah dikirim!"
+        resale_disclaimer: "Perhatikan bahwa PasswordBox tidak mengizinkan penjualan pass VIP di eBay atau situs lain. <strong>Ini hanya untuk penggunaan pribadi.</strong>"
+        sent_after_welcome: 
+            title: "Pendaftaran Anda selesai!"
+            video_instructions: "Tonton Video untuk mengetahui tentang PasswordBox"
+        vip: 
+            reward: "Anda akan menerima keanggotaan Free for Life"
+            title: "Beri akses VIP untuk teman ke"
+    welcome: 
+        headers: 
+            running: "%{logo} telah beroperasi!"
+        bulk_password: 
+            check_all: "Centang semua"
+            did_you_know_title: "Apakah Anda tahu bahwa 92% orang menggunakan kombinasi nama pengguna/kata sandi yang sama untuk kebanyakan akun online mereka?"
+            instructions: "Jika Anda seperti ini, masukkan login umum di bawah dan pilih situs tempat ini digunakan. Kami akan menyimpan semua akun ini di PasswordBox Anda dalam satu kali proses."
+            save_passwords: "Simpan kata sandi"
+            success_message: "Menyimpan kata sandi..."
+            uncheck_all: "Hapus semua centang"
+            username_label: "Nama pengguna dari alamat email"
+            website_error: "Pilih setidaknya satu situs web."
+        legacy: 
+            address_book: "Hubungkan ke buku alamat webmail"
+            email_label: "Email orang yang Anda percayai"
+            instructions: "Tulis nama orang yang Anda percayai dan kami akan mengirim email berisi permintaan Anda"
+            name_label: "Nama orang yang Anda percayai"
+            transfer_info: "Tenang, kata sandi Anda tidak akan dikirim hingga benar-benar perlu"
+            trust_title: "Siapa yang Anda percayai untuk mengakses akun online jika terjadi sesuatu?"
+            watch_video: "Tonton video untuk mengetahui selengkapnya"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Konfirmasi Kata Sandi Utama"
+                never_store_password: "Untuk menjamin keamanan, PasswordBox tidak pernah melihat atau menyimpan Kata Sandi Utama Anda."
+                no_recovery: "Anda tidak dapat memulihkan akun jika lupa Kata Sandi Utama"
+                repeat_title: "Masukkan kata sandi sekali lagi"
+            creating_account: "Membuat akun..."
+            form: 
+                create_account_action: "Buat akun gratis"
+                create_account_title: "Buat akun gratis"
+                create_password: "Buat Kata Sandi"
+                existing_account: "Sudah punya akun?"
+                facebook_promise: "Tenang, kami tak akan mengepos ke dinding Anda."
+                facebook_signup: "Mendaftar dengan Facebook"
+                login: "Masuk"
+                terms_disclaimer: "Dengan mengeklik di atas, Anda setuju akan ketentuan layanan."
+                terms_full: "Kami tidak akan pernah membagi email atau informasi pribadi Anda dengan pihak ketiga, dan hanya akan mengirim email transaksi terkait akun PasswordBox. Baca %{privacy_link} untuk selengkapnya."
+                terms_agree: "Dengan mengeklik di atas Anda setuju akan %{terms_link}."
+            installed_title: "Pemasangan selesai! Langkah Terakhir.."
+            never_forget: "Tidak Akan Pernah Lupa Kata Sandi! Aktifkan akun GRATIS Anda"
+            recently_installed: "PasswordBox baru ditambahkan ke browser Anda..."
+            testimonial: "Ini seperti Dropbox untuk kata sandi. Aplikasi ini berfungsi di semua perangkat saya, di mana saja, dan berbagi sangatlah mudah"
+            login_link: "Jika Anda sudah punya akun PasswordBox, <a href=\"%{path}\" target=\"_blank\">carilah kotak hijau</a> pada browser"
+            validating: "Memvalidasi informasi..."
+            almost_done: "Hampir selesai! Tinggal buat kata sandi Anda"
+            delayed: 
+                never_forget: 
+                    generic: "Tidak akan pernah lagi lupa kata sandi!"
+                    domain: "Tidak akan pernah lupa kata sandi <strong>%{website}</strong> lagi!"
+                signup_free: "Mendaftar GRATIS sekarang!"
+                secure: "Untuk mengamankan kata sandi tersimpan, <strong>mendaftar GRATIS dan nikmati login otomatis ke berbagai situs favorit!</strong>"
+                watch_video: "Tonton video kami"
+                how_pbox_works: "Cara Kerja PasswordBox"
+            crypto: 
+                creating: "Membuat akun..."
+                encrypting: "Kami mengenkripsi kata sandi Anda demi keamanan maksimal. Proses ini dapat memakan waktu (hingga semenit) di komputer lebih lawas. Ini normal. Tunggu hingga prosesnya selesai."
+        video: 
+            typing_passwords: "Mengetik kata sandi secara manual adalah proses yang menyulitkan dan menimbulkan frustrasi. PasswordBox membantu dengan menyimpan data secara otomatis ketika Anda masuk ke suatu situs."
+            next_step: "Saya paham. Terima kasih!"
+        guides: 
+            extension: 
+                congratulations: "Selamat!"
+                save_success: "Kami telah berhasil menyimpan kata sandi Anda ke PasswordBox!"
+                green_box: "Klik ikon kotak hijau di browser untuk mengaksesnya setiap Anda butuh!"
+        tutorial: 
+            create_password: 
+                click_instructions: "Klik tombol di bawah untuk menambah kata sandi pertama"
+                form_instructions: "Masukkan nama pengguna dan kata sandi"
+            one_click_login: "Bagus! Sekarang mari kita coba Masuk dengan 1-Klik"
+            tour_video: 
+                extension_guide: "Klik kotak hijau untuk membuka PasswordBox"
+                instructions: "Dapatkan manfaat besar dari PasswordBox melalui tur cepat produk ini."
+                title: "Tur untuk Memulai"
+    features: 
+        seamless_login: 
+            title: "Selamat Tinggal Kata Sandi. Masuk instan dari Perangkat, Situs Web, atau App Seluler apa pun."
+            subtitle: "Kesal karena diperlambat oleh layar login? Masuk ke akun lebih cepat dengan 1-Click dan 1-Tap login."
+            item_1: "Eksklusif bersama PasswordBox, %{link} tanpa harus mengetikkan nama pengguna atau kata sandi, selamanya."
+            item_2: "Buka laman web apa pun dan PasswordBox akan mengisikan informasi secara otomatis dan memasukkan Anda. Tidak perlu mengetik pada desktop atau perangkat seluler yang menggunakan Chrome dan Safari."
+            item_3: "Masuk ekspres ketika Anda memiliki beberapa akun pengguna untuk situs sama"
+            item_4: "Keamanan dari perangkat jahat ketikan - tanpa ketikan, kata sandi tidak dapat dicuri"
+            one_tap_link: "masuk ke aplikasi seluler favorit pada Android dengan 1-Tap"
+        device_syncing: 
+            title: "Kata Sandi Anda, Di Mana Saja"
+            subtitle: "Simpan kata sandi ke PasswordBox dan ini akan disimpan instan ke semua browser, komputer, dan perangkat mobile."
+            item_1: "Sinkron secara otomatis sehingga login akan selalu mudah"
+            item_2: "Berfungsi hampir di semua komputer, browser, dan perangkat mobile yang beredar di pasar"
+            item_3: "Plug-in gratis untuk semua browser utama termasuk Chrome, Firefox, dan Internet Explorer"
+            item_4: "Enkripsi dan dekripsi data dilakukan secara lokal di perangkat, menggunakan AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox untuk Mobile"
+            widget: 
+                title: "Aplikasi mobile gratis"
+                subtitle: "Kata sandi Anda di mana saja"
+            notify: 
+                sms: "Kirim teks ke telepon saya"
+                email: "Email ke perangkat saya"
+                sending: "Mengirim tautan pemasangan"
+            email: 
+                success: "Email dikirim! Lihat email Anda untuk tautan unduhan"
+                errors: 
+                    invalid: "Email tidak ada atau tidak valid"
+                    failed: "Gagal mengirim email kontak"
+            sms: 
+                body: "Untuk memasang PasswordBox, klik di sini pada perangkat mobile: %{link}"
+                success: "Email dikirim! Lihat email Anda untuk tautan unduhan."
+                errors: 
+                    phone: 
+                        missing: "Nomor telepon tidak ada."
+                        invalid: "Kami tidak dapat mengirim pesan ke nomor telepon itu. Pastikan untuk menyertakan kode negara jika ini adalah nomor internasional."
+                    service: 
+                        unavailable: "Saat ini layanan SMS tidak tersedia"
+            apps: 
+                app_store: "Tersedia di <span>App Store</span>"
+                google_play: "Dapatkan gratis di <span>Google Play</span>"
+            ces_award: "App seluler <span>terbaik CES 2014</span>"
+        desktop: 
+            title: "Unduh PasswordBox GRATIS"
+            warnings: 
+                windows_only: "Hanya untuk Windows"
+                mac_only: "Hanya untuk Mac OS"
+            button: 
+                get: "Dapatkan PasswordBox"
+                for: "untuk"
+        instructions: "Salin tautan berikut dan rekatkan ke bilah alamat %{browser}:"
+        copy: 
+            button: "Salin"
+            tooltip: "Salin ke papan klip"
+            success: "Disalin!"
+    login: 
+        title: "Jika Anda sudah memasang PasswordBox, klik kotak hijau untuk masuk."
+        reinstall: "Jika Anda harus memasang ulang PasswordBox, klik tombol di bawah ini:"
+    member: 
+        errors: 
+            email: 
+                exists: "Sudah ada anggota dengan email itu. Coba email yang lain."
+                invalid: "Masukkan email yang valid."
+    emails: 
+        common: 
+            greeting: "Hai %{full_name},"
+            hey: "Hei!"
+            pbox_team: "Tim PasswordBox"
+        layout: 
+            tagline: "PasswordBox menawarkan akses cepat ke berbagai akun online, pembagian kata sandi aman, dan Legacy Locker di berbagai perangkat. Tidak akan pernah lagi lupa kata sandi."
+            unsubscribe: 
+                link: "Berhenti langganan"
+                from_all: "%{unsubscribe} dari email PasswordBox"
+        welcome: 
+            subject: "%{full_name}, selamat datang di PasswordBox!"
+            title: "Selamat Datang"
+            avg_notice: "PasswordBox di bilah alat AVG menawarkan akses cepat ke berbagai akun online, pembagian aman, dan fitur pewaris digital di berbagai perangkat."
+            account_ready: "Akun Anda hampir siap!"
+            login_info: "Nama pengguna Anda adalah %{email}. Kata sandi Anda adalah Kata Sandi Utama yang dibuat saat pendaftaran."
+            say_goodbye: "Ucapkan selamat tinggal pada berbagai nama pengguna dan kata sandi. Mulai sekarang Anda hanya butuh Kata Sandi Utama. PasswordBox menawarkan login 1-klik yang mudah, berbagi kata sandi dengan aman, dan pengelolaan hidup secara digital di berbagai perangkat."
+            finally: "Akhirnya kata sandi tidak lagi menjadi beban pikiran!"
+            confirm: "Konfirmasi akun Anda sekarang"
+            click_below: "Klik tautan di bawah ini untuk memverifikasi konfirmasi akun:"
+            welcome: "Selamat datang di PasswordBox!"
+        sync: 
+            subject: "Unduh PasswordBox di perangkat mobile Anda!"
+            instructions: "Untuk mengunduh PasswordBox, buka email ini di perangkat mobile dan klik tautan di bawah:"

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension.",
+      "message": "Google Chrome上完全免費的密碼管理工具 ﹣ 從此以後再不會忘記您的密碼"
+   },
+   "appName": {
+      "description": "Name of the extension.",
+      "message": "PasswordBox.com"
+   }
+}

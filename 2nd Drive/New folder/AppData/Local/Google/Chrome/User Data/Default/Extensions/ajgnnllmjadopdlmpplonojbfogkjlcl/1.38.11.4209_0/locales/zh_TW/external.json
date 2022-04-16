@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "如何在 Firefox 中啟用 Cookie",
+    "onMac" : "在 Mac 上",
+    "onPC" : "在 PC 上",
+    "step1" : "<strong>1：前往「Firefox」&gt;「選項」&gt;「個人隱私」。</strong><br>在「歷史記錄」區段中，選取：<br><strong>「Firefox 應該：使用自訂的設定」</strong>",
+    "step2" : "<strong>2：在「歷史記錄」區段中，選取「允許網站設定 Cookie」</strong><br>然後在下方的下拉式功能表中，選取：<br><strong>「接受來自第三方的 Cookies」&gt;「總是」</strong>"
+  },
+  "import" : {
+    "title" : "將密碼匯入至 PasswordBox",
+    "selectSoure" : "選取來源",
+    "export" : "匯出您的密碼",
+    "import" : "將密碼匯入至 PasswordBox",
+    "dashlane1" : "若要從 Dashlane 匯入密碼，請開啟 Dashlane，然後再按一下：",
+    "dashlane2" : "「檔案」>「匯出資料」",
+    "dashlane3" : "選取<strong class=\"green\">「未受保護的封存 CSV」</strong>格式選項。",
+    "dashlane4" : "將檔案儲存於您所選擇的位置。",
+    "dashlane5" : "僅支援最新版本的 Dashlane。",
+    "lastpass1" : "若要從 LastPass 匯出密碼，請在瀏覽器中按一下 LastPass 外掛程式圖示，然後選取：",
+    "lastpass2" : "<strong>「工具」&gt;「匯出至」，</strong><br>然後在功能表中選取<strong class=\"green\">「LastPass CSV」</strong>檔案。若出現提示，請輸入您的密碼。",
+    "lastpass3" : "按一下「確定」，然後將檔案儲存於您所選擇的位置。",
+    "lastpass4" : "僅支援最新版本的 LastPass。",
+    "roboform1" : "目前僅 Mac 作業系統支援從 Roboform 匯出。",
+    "roboform2" : "即將推出 Windows 支援。",
+    "roboform3" : "若要從 RoboForm 匯出密碼，請開啟 RoboForm 瀏覽器延伸，然後按一下<strong>「選項」：</strong>",
+    "roboform4" : "在面板選項上，選取「使用者資料」，然後按一下<strong>「匯出至」</strong>",
+    "roboform5" : "<strong>將檔案另存為 .html 並</strong>放在您所選擇的位置。",
+    "roboform6" : "僅支援最新版本的 RoboForm。",
+    "onepassword1" : "若要從 1Password 匯出密碼，請開啟：",
+    "onepassword2" : "<strong>-「檔案」&gt;「匯出：」</strong><br>選取<strong class=\"green\">「Tab 分隔的文字」</strong>格式，然後選取<strong>「所有登入」</strong>選項。",
+    "onepassword3" : "按一下「確定」，然後將檔案儲存於您所選擇的位置。",
+    "onepassword4" : "僅支援最新版本的 1Password。",
+    "onepasswordClick" : "<u>按一下這裡</u>以上傳您的 <span class=\"serviceName green\">1Password </span>檔案",
+    "keepass1" : "若要從 KeePass 匯出密碼，請開啟 KeePass，然後按一下：<",
+    "keepass2" : "<strong>「檔案」&gt;「匯出」</strong><br>選取<strong>「KeePass CSV 1.x」</strong>格式選項。",
+    "keepass3" : "將檔案儲存於您所選擇的位置。",
+    "keepass4" : "僅支援最新版本的 KeePass。"
+  }
+}

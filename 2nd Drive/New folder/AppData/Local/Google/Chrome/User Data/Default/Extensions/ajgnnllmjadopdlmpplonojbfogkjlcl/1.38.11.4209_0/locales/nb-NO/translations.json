@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Konfigurer",
+		"add": "Legg til",
+		"addNew": "Legg til ny",
+		"addManually": "Legg til manuelt",
+		"cancel": "Avbryt",
+		"back": "Tilbake",
+		"save": "Lagre",
+		"saving": "Lagrer ...",
+		"saved": "Lagret!",
+		"upgrade": "Oppgrader",
+		"noThanks": "Nei takk",
+		"from": "Fra %{name}",
+		"remove": "Fjern",
+		"removing": "Fjerner...",
+		"disabling": "Deaktiverer...",
+		"delete": "Slett",
+		"warningPermanent": "Denne handlingen kan ikke angres.",
+		"confirmProceed": "Er du sikker på at du vil fortsette?",
+		"parameters": "Parametere",
+		"details": "Detaljer",
+		"sharing": "Deling",
+		"advancedSettings": "Avansert",
+		"validating": "Bekrefter...",
+		"tryAgain": "Prøv igjen",
+		"sending": "Sender...",
+		"send": "Send",
+		"sent": "Sendt!",
+		"waitingResponse": "Venter på respons",
+		"revoke": "Opphev",
+		"updating": "Oppdaterer ...",
+		"change": "Endre",
+		"changed": "Endret!",
+		"copy": "Kopier til utklippstavlen",
+		"accept": "Godta",
+		"decline": "Avslå",
+		"privacyNotice": "Personvernmerknad",
+		"dontAskAgain": "Ikke spør igjen",
+		"notNow": "Ikke nå",
+		"sendNotification": "Send melding",
+		"justAMoment": "Et øyeblikk...",
+		"learnMore": "Mer informasjon",
+		"notYou": "Er det ikke deg?",
+		"changeUser": "Endre bruker",
+		"confirm": "Bekreft",
+		"launchSite": "Start område",
+		"unlockMyTrueKey": "Lås opp True Key",
+		"next": "Neste",
+		"previous": "Forrige",
+		"visible": "Synlig",
+		"hidden": "Skjult",
+		"vistHelpDesk": "Besøk %{htmlBefore}brukerstøtte%{htmlAfter} for å lære mer.",
+		"addFacialRecognition": "Legg til Ansiktsopplåsing",
+		"comingSoon": "Kommer snart",
+		"offline": "Frakoblet",
+		"or": "eller",
+		"and": "og",
+		"activate": "Aktiver",
+		"logOut": "Logg av",
+		"logins": "Pålogginger",
+		"favorites": "Favoritter",
+		"other": "Annet",
+		"locked": "Låst",
+		"unlocked": "Ulåst",
+		"login": "Logg på",
+		"close": "Lukk",
+		"closing": "Lukker ...",
+		"dismiss": "Avvis",
+		"signin": "Logg på",
+		"signOut": "Logg ut",
+		"manageProfile": "Administrer profil",
+		"profile": "Profil",
+		"menu": "Meny",
+		"DD": "DD",
+		"MM": "MM",
+		"YYYY": "ÅÅÅÅ",
+		"visible": "Synlig",
+		"hidden": "Skjult",
+		"enable": "Aktiver",
+		"doNotShowAgain": "Ikke vis igjen",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Senere",
+		"restart": "Start på nytt",
+		"install": "Installer",
+		"feedback": "Tilbakemelding",
+		"done": "Fullført",
+		"success": "Suksess",
+		"youreIn": "Du er inne!",
+		"recommended": "anbefalt"
+	},
+
+	"validation": {
+		"required": "Feltet er obligatorisk",
+		"min": "{0} må ha minst {1} tegn"
+	},
+
+	"offline": {
+		"title": "Å nei, du er uten Internett-forbindelse.",
+		"desc": "Du er ikke koblet til Internett. Koble til internett og prøv på nytt."
+	},
+
+	"locked": {
+		"notYou": "Er det ikke deg?",
+		"changeUser": "endre bruker",
+		"cancelAuth": "Avbryt autentiseringen",
+		"signIn": "Logg på og gled deg over øyeblikkelig pålogging",
+		"alternativeEmail": "Bruk e-postbekreftelse i stedet",
+		"alternativeDevice": "Bruk en klarert enhet i stedet"
+	},
+
+	"time": {
+		"never": "Aldri",
+		"minutes": "%{smart_count} minutt |||| %{smart_count} minutter",
+		"hours": "%{smart_count} time |||| %{smart_count} timer",
+		"days": "%{smart_count} dag |||| %{smart_count} dager"
+	},
+
+	"labels": {
+		"email": "E-postadresse",
+		"masterPassword": "Master-passord",
+		"confirmMasterPassword": "Bekreft master-passord",
+		"rememberMe": "La meg forbli pålogget",
+		"websiteURL": "Webområde-URL",
+		"username": "Brukernavn",
+		"password": "Passord",
+		"mobile": "Mobiltelefonnummer",
+		"name": "Navn",
+		"title": "Tittel",
+		"details": "Detaljer",
+		"masterPassword": "Master-passord",
+		"websiteName": "Webområdets navn",
+		"notes": "Merknader",
+		"ccType": "Type kredittkort",
+		"cardholderName": "Navn på kortinnehaver",
+		"ccNumber": "Kredittkortnummer",
+		"expiryDate": "Utløpsdato",
+		"issueDate": "Utstedelsesdato",
+		"colorpicker": "Organiser kortene dine ved bruk av farger",
+		"driversLicenseNumber": "Lisensnummer",
+		"firstName": "Fornavn",
+		"lastName": "Etternavn",
+		"gender": "Kjønn",
+		"stateProvince": "Fylke",
+		"birthdate": "Fødselsdato",
+		"company": "Selskap",
+		"telephone": "Telefon",
+		"streetName": "Gateadresse",
+		"streetNumber": "Husnummer",
+		"city": "Poststed",
+		"zipcode": "Postnummer",
+		"memberID": "Medlems-ID",
+		"memberSince": "Medlem siden",
+		"country": "Land",
+		"passportNumber": "Passnummer",
+		"issuingCountry": "Utstedsland",
+		"placeOfBirth": "Fødselssted",
+		"number": "Nummer",
+		"male": "Mann",
+		"female": "Kvinne"
+	},
+
+	"placeholders": {
+		"email": "Angi e-postadressen din",
+		"masterPassword": "Angi master-passordet",
+		"phone": "(123)-456-7890",
+		"name": "Tast inn navnet ditt",
+		"title": "Angi en tittel her",
+		"websiteURL": "Angi URL her",
+		"websiteName": "Angi navnet på webområdet her",
+		"username": "Angi brukernavn her",
+		"password": "Angi passord her",
+		"notes": "Angi merknader her",
+		"cardholderName": "Anti navn på kortinnehaver",
+		"ccNumber": "Angi kredittkortnummer her",
+		"driversLicenseNumber": "Angi lisensnummeret her",
+		"firstName": "Angi fornavn her",
+		"lastName": "Angi etternavn her",
+		"stateProvince": "Angi fylke her",
+		"company": "Angi firmanavn her",
+		"telephone": "Angi telefonnummer her",
+		"streetName": "Angi gatenavn her",
+		"streetNumber": "Angi husnummer her",
+		"city": "Angi by her",
+		"zipcode": "Angi postnummer her",
+		"memberID": "Angi medlems-ID her",
+		"notesDetails": "Legg til ting du ønsker å huske. Låsekombinasjoner. Produkt- og programvarekoder. Påminnelser og til og med hemmelige kvitteringer.",
+		"country": "Velg land",
+		"passportNumber": "Angi passnummer her",
+		"issuingCountry": "Velg land",
+		"placeOfBirth": "Velg land",
+		"number": "Angi nummeret her"
+	},
+
+	"errors": {
+		"generic": "Noe gikk galt",
+		"passwordsMatch": "Passordene må være like",
+		"nameRequired": "Angi navnet ditt",
+		"emailInvalid": "Oppgi en gyldig e-postadresse",
+		"passwordTooShort": "Passordet må bestå av minst %{nbCharacters} tegn",
+		"usernameRequired": "Brukernavn kreves"
+	},
+
+	"form": {
+		"launch": "Åpne dette webområdet",
+		"passwordStrength": {
+			"veryWeak": "Svært svakt",
+			"weak": "Svakt",
+			"acceptable": "Akseptabelt",
+			"strong": "Sterkt",
+			"veryStrong": "Svært sterkt"
+		},
+		"copyPassword": "Kopier passord",
+		"viewPassword": "Vis passord"
+	},
+
+	"headerMessages": {
+		"txt1": "Hei %{firstName}, velkommen til True Key Launchpad"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "La oss komme i gang! Legg den første påloggingen til i True Key",
+		"addNewLogin": "Legg til ny pålogging",
+		"success": "Velkommen!"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Har du ikke en True Key-profil?",
+			"signup": "Få en her",
+			"haveAccount": "Har du allerede en True Key-profil?",
+			"login": "Logg på",
+			"help": "Hjelp"
+		},
+
+		"intro": {
+			"hi": "Hei sann.",
+			"meetTK": "Dette er True Key™. En enklere og sikker måte til å låse opp din digitale verden. Begynn med å opprette profilen din.",
+			"watchVideo": "Se video",
+			"createProfile": "Begynn med å opprette True Key-profilen.",
+			"cta": "Kom i gang",
+			"eulaPrivacy": "Ved å klikke på knappen nedenfor aksepterer du <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>EULA</a> og <a class='txt bold secondary btPrivacy'>Personvernmerknaden&nbsp;</a> vår."
+		},
+
+		"confirm": {
+			"title": "VIKTIG: Bekreft master-passordet",
+			"enterAgain": "Angi master-passordet en gang til.",
+			"wontRemember": "Master-passordet vil aldri oppbevares eller lagres, for at personvernet og passordet skal beskyttes. Du er den eneste som kjenner det, så sørg for å huske det.",
+			"promise": "Lover du å huske det?",
+			"submit": "Ja, jeg vil huske det"
+		},
+		"loginHelp": {
+			"title": "Har du vanskeligheter?",
+			"txt1": "Master-passordet ditt skiller mellom store og små bokstaver og har ikke mellomrom. Du kan ikke kopiere og lime.",
+			"txt2": "Har du glemt Master-passordet? Av hensyn til din sikkerheten, så har vi ikke kjennskap til det. Du må opprette en ny True Key™-konto.",
+			"createAccount": "Opprett ny konto"
+		},
+
+		"login": {
+			"title": "Logg på profilen din",
+			"submit": "Logg på",
+			"working": "Dekrypterer dataene dine...",
+			"error": "Det virket ikke"
+		},
+
+		"logout": {
+			"title": "Før du avslutter, bli mobil.",
+			"desc": "Send deg selv en tekstmelding med butikkoblingen til den kostnadsfrie appen."
+		},
+
+		"onboarding": {
+			"skip": "Hopp over dette trinnet",
+			"skipVideo": "Jeg forstår!",
+			"title": "%{firstName}, True Key™-profilen din er klar. La oss prøve det.",
+			"desc": "Velg én av disse populære nettstedene eller legg til et nytt webområde for å se hvordan det fungerer.",
+
+			"noWebsiteFlow": {
+				"desc": "Det er enkelt å få best mulig utbytte av True Key-appen:",
+				"addManually": "Legg til den første påloggingen manuelt"
+			}
+		},
+
+		"emailTaken": {
+			"title": "Denne e-postadressen har allerede en profil",
+			"desc": "Ønsker du å logge på som %{emailAddress}?"
+		},
+
+		"signup": {
+			"title": "Opprett en True Key™-profil",
+			"cta": "OK, neste",
+			"working": "Bekrefter...",
+			"success": "Ser bra ut!"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Øyeblikkelig innlogging",
+			"desc": "Bruk øyeblikkelig pålogging til å komme raskere inn på dette webområdet. La True Key-appen fylle inn brukernavnet og passordet for deg."
+		},
+		"passwordReprompt": {
+			"title": "Spør etter Master-passordet",
+			"desc": "Bare du kjenner Master-passordet ditt. Be om det hver gang før du logges på."
+		},
+		"subdomainOnly": {
+			"title": "Bruk det kun for dette underdomenet",
+			"desc": "Brukes for å tillate innlogging til bare dette spesifikke underdomenet."
+		},
+		"offlineHelp": {
+			"title": "Frakoblet modus",
+			"desc": "Det ser ut til at du har mistet Internett-forbindelsen, eller at Internett-forbindelsen din er svært sakte. Du kan fremdeles vise passordene dine i frakoblet modus, men du kan ikke legge til eller lagre endringer, eller dele et passord."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Språket ble endret",
+			"desc": "Språket ditt er nå %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Favoritt lagt til",
+			"desc": "Webområdet du valgte ble lagt til på din Launchpad."
+		},
+		"favoriteRemoved": {
+			"title": "Favoritt fjernet",
+			"desc": "Vellykket fjerning av denne favoritten fra Launchpad."
+		},
+		"favoriteEdited": {
+			"title": "Favoritt redigert",
+			"desc": "Endringene til denne favoritt ble lagret."
+		},
+		"passwordGenerated": {
+			"title": "Passord kopiert!",
+			"desc": "Det genererte passordet ble kopiert til utklippstavlen din."
+		},
+		"noteCreated": {
+			"title": "Notis opprettet!",
+			"desc": "Denne notisen har blitt lagt til i True Key."
+		},
+		"passwordSaved": {
+			"title": "Passord lagret!",
+			"desc": "Dette passordet har blitt lagt til i True Key."
+		},
+		"loginShared": {
+			"title": "Passord delt",
+			"desc": "Passordet ditt ble delt med %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Passord fjernet.",
+			"desc": "Dette passordet er fjernet fra True Key."
+		},
+		"loginEdited": {
+			"title": "Pålogging redigert.",
+			"desc": "Endringene til denne påloggingen har blitt lagret."
+		},
+		"copied": {
+			"title": "Kopiert!",
+			"desc": "Dette er kopiert til utklippstavlen din."
+		},
+		"passwordCopied": {
+			"title": "Passord kopiert!",
+			"desc": "Passordet er kopiert til utklippstavlen din."
+		},
+		"error": {
+			"title": "Noe gikk galt",
+			"desc": "Prøv på nytt"
+		},
+		"legacyAccepted": {
+			"title": "Invitasjon akseptert",
+			"desc": "Denne arvinvitasjonen har blitt akseptert."
+		},
+		"legacyDeclined": {
+			"title": "Invitasjon avslått",
+			"desc": "Denne arvinvitasjonen har blitt avslått."
+		},
+		"sharingAccepted": {
+			"title": "Invitasjon akseptert",
+			"desc": "Denne delingsinvitasjonen har blitt akseptert."
+		},
+		"sharingDeclined": {
+			"title": "Invitasjon avslått",
+			"desc": "Denne delingsinvitasjonen har blitt avslått."
+		},
+		"invitationResent": {
+			"title": "Invitasjonen er sendt på nytt!",
+			"desc": "Denne invitasjonen har blitt sendt på nytt."
+		},
+		"oobResent": {
+			"title": "Melding er sendt på nytt!",
+			"desc": "Det er sendt en ny melding til telefonen din."
+		},
+		"emailResent": {
+			"title": "E-post sendt på nytt!",
+			"desc": "En ny bekreftelses-e-post er sendt til deg."
+		},
+		"legacyRevoked": {
+			"title": "Historisk tilkobling opphevet!",
+			"desc": "Denne historiske koblingen er opphevet."
+		},
+		"legacySent": {
+			"title": "Arv-forespørsel sendt!",
+			"desc": "En invitasjon er sendt til %{email}."
+		},
+		"legacySendError": {
+			"title": "Feil i arv-forespørsel",
+			"desc": "Kunne ikke sende denne invitasjonen til %{email}."
+		},
+		"browserNewTab": {
+			"title": "Ny fane-innstilling i nettleseren er lagret!",
+			"desc": "Nettleserens innstillinger for nye faner har blitt oppdatert."
+		},
+		"changedMP": {
+			"title": "Master-passord endret!",
+			"desc": "Master-passordet ditt har blitt endret."
+		},
+		"clearAutosave": {
+			"title": "Automatisk lagring gjenopprettet",
+			"desc": "True Key vil nå automatisk lagre passord for alle områder."
+		},
+		"feedbackSent": {
+			"title": "Tilbakemelding sendt!",
+			"desc": "Takk for tilbakemeldingen."
+		},
+		"documentCreated": {
+			"title": "Dokument opprettet!",
+			"desc": "Dette dokumentet har blitt lagret i True Key."
+		},
+		"documentRemoved": {
+			"title": "Dokument slettet",
+			"desc": "Dette dokumentet er fjernet fra True Key."
+		},
+		"notesEdit": {
+			"title": "Endringer lagret",
+			"desc": "Endringene til denne notisen har blitt lagret."
+		},
+		"notesRemove": {
+			"title": "Notis fjernet",
+			"desc": "Denne notisen er fjernet fra True Key."
+		},
+		"settingsChanged": {
+			"title": "Innstillingene er endret",
+			"desc": "Låseinnstillingene dine er oppdatert."
+		},
+		"disabledTrustedDevice": {
+			"title": "Enhet deaktivert",
+			"desc": "Enheten din er deaktivert."
+		},
+		"deviceTrusted": {
+			"title": "Enhet klarert",
+			"desc": "Den gjeldende enheten er nå klarert."
+		},
+		"confirmationEmailSent": {
+			"title": "Bekreftelses-e-post sendt!",
+			"desc": "En bekreftelses-e-post ble sendt %{email}"
+		}
+	},
+
+	"logins": {
+		"title": "Pålogginger",
+		"editLogin": "Rediger pålogging",
+		"viewLogin": "Vis pålogging",
+		"shareLogin": "Del pålogging",
+		"shareSection": {
+			"title": "Del pålogginger med venner og familie på en sikker måte. <strong>Velg påloggingen du ønsker å dele under.</strong>"
+		},
+		"copyPassword": "Kopier passord",
+		"loginAs": "Logg på som",
+		"removeLogin": "Fjern denne påloggingen",
+		"noLoginFound": {
+			"title": "Kan ikke finne den",
+			"desc": "Kanskje denne påloggingen ikke har blitt lagret enda. Ønsker du å legge den til?"
+		},
+		"currentWebsite": "Gjeldende webområde",
+		"onboardingPopover": {
+			"title": "Øyeblikkelig innlogging",
+			"desc": "Klikk her for å logge inn uten å taste"
+		},
+		"searchAssets": "Søk i min %{smart_count} pålogging |||| Søk i mine %{smart_count} pålogginger",
+		"askForMasterPassword": "Master-passord",
+		"askForFaceRecognition": "Ansiktsopplåsing",
+		"instantLogin": "Øyeblikkelig innlogging",
+		"useForSubdomainOnly": "Bruk kun for underdomenet til <span class='primary'>%{domain}</span>",
+		"notShared": "For øyeblikket deler du ikke dette passordet med noen.",
+		"visiblity": {
+			"title": "Lag passord:"
+		},
+		"unshare": "Avslutt deling",
+		"waitingResponse": "venter på respons"
+	},
+
+	"sharing": {
+		"title": "Del <span class='primary'>%{name}</span>-passordet ditt",
+		"accessGiven": "Dette passordet er delt med:"
+	},
+
+	"verifyEmail": {
+		"title": "Du har ikke bekreftet e-postadressen din",
+		"subtitle": "Hvis du vil dele passord må du bekrefte e-postadressen din først.",
+		"desc": "Kan du ikke finne bekreftelses-e-posten vi sendte til deg tidligere? Få en ny nå.",
+		"cta": "Send bekreftelses-e-post på nytt"
+	},
+
+	"premiumOnly": {
+		"title": "Kun tilgjengelig for premiumbrukere",
+		"txt1": "Du må ha en premiumkonto for å legge til et nytt passord på din True Key",
+		"txt1": "Du har en grense på 5 kostnadsfrie passord før du må oppgradere. Oppgrader nå for ubegrenset tilgang!"
+	},
+
+	"generator": {
+		"title": "Generer et sterkt passord mens du er på farten.",
+		"subtitle": "Velg innstillingene dine, tapp deretter på \"Generer og kopier\"-knappen for å generere et nytt passord.",
+		"placeholder": "Klipp på knappen for å generere et passord",
+		"cta": "Generer og kopier",
+		"length": "Passordlengde",
+
+		"letters": "Bruk bokstaver",
+		"digits": "Bruk tall",
+		"symbols": "Bruk spesialtegn",
+		"capitals": "Bruk store bokstaver",
+		"showInForms": "Vis generator automatisk i skjema",
+
+		"history": {
+			"title": "Genererte passord",
+			"noGeneratedPassword": "Ingen genererte passord."
+		}
+	},
+
+	"legacy": {
+		"title": "Kontotilgang ved bortgang",
+		"countingOnYou": "Mennesker som stoler på deg",
+		"heirs": "Mennesker du stoler på",
+		"sentTimer": "%{time} siden",
+		"resendInvitation": "Send invitasjon på nytt",
+		"assignTrustees": "Tildel tillitspersoner",
+
+		"txtFeature": {
+			"txt1": "Hold den digitale identiteten din trygg, mens du lever og etter at du har gått bort.",
+			"txt2": "Kontotilgang ved bortgang er den beste måten å etterlate det digitale livet ditt til de du stoler på, enten det er ektefellen, et barn, en venn eller en kollega.",
+			"txt3": "Når du tildeler en tillitsperson til True Key, vil de ikke kunne få tilgang til kontoen din før det er tid for det. %{htmlBefore}Se video%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "Du må bekrefte e-postadressen din",
+		"descLegacy": "Du kan ikke tildele tillitsperson før e-postadressen din er bekreftet",
+		"getNewEmail": "Er du ikke sikker på om du har bekreftelses-e-posten vi sendte til deg tidligere? Få en ny nå.",
+		"cta": "Send meg en ny bekreftelses-e-post"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Pålogginger",
+		"wallet": "Legitimasjonslager",
+		"notes": "Sikre notiser",
+		"legacy": "Kontotilgang ved bortgang",
+		"generator": "Passordgenerator",
+		"settings": "Innstillinger",
+		"preferences": "Innstillinger",
+		"support": "Hjelp og støtte",
+		"tkProfile": "Min True Key-profil",
+		"logout": "Logg ut"
+	},
+
+	"browserNewTab": {
+		"title": "Ny fane i nettleser",
+		"txt1": "Velg hvilken nettside du vil at nettleseren din skal åpne med:",
+		"startpage": "Min True Key Launchpad",
+		"default": "Min standardnettleser",
+		"custom": "Min egen destinasjon:"
+	},
+
+	"changeMP": {
+		"title": "Endre master-passord",
+		"labels": {
+			"current": "Gjeldende master-passord",
+			"new": "Nytt master-passord",
+			"confirmNew": "Nytt master-passord"
+		},
+		"placeholders": {
+			"current": "Angi gjeldende Master-passord",
+			"new": "Angi ditt nye Master-passord",
+			"confirmNew": "Angi det nye master-passordet en gang til"
+		},
+		"cta": "Endre passord"
+	},
+
+	"lockUnlock": {
+		"title": "Du har kontrollen",
+		"desc": "Tilpass True Key-appen din med så mange faktorer som du ønsker. Legger du til flere faktorer gjør det profilen din sterkere (sikrere).",
+
+		"noYap": {
+			"title": "Fortell True Key-kontoen din hvor ofte den skal låses automatisk.",
+			"desc": "Velg ønsket forsinkelse på rullegardinmenyen under."
+		},
+
+		"basic": "Grunnleggende",
+		"advanced": "Avansert",
+
+		"autolock": {
+			"title": "Automatisk låsing",
+			"desc": "Etter hvor lang tid uten aktivitet vil du at True Key-kontoen din skal låses?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Launchpad-synlighet",
+			"desc": "Velg om du vil at din True Key Launchpad skal være synlig eller ikke når den er låst."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "Enheten du benytter er klarert.",
+			"txt2": "Når du klarerer en enhet kan du legge til flere sikkerhetsfaktorer, slik som Ansiktsopplåsing."
+		}
+	},
+
+	"preferences": {
+		"title": "Innstillinger",
+		"modals": {
+			"autologin": {
+				"title": "Øyeblikkelig innlogging",
+				"desc": "Bruk øyeblikkelig pålogging til å komme raskere inn på webområder. La True Key-appen fylle inn brukernavnet og passordet for deg.",
+				"txt1": "Øyeblikkelig pålogging gjør at True Key automatisk logger deg på et webområde du tidligere lagret på kontoen din. Du trenger bare skrive inn URL-adressen (f.eks. www.eksempel.com) i nettleseren din.",
+				"txt2": "Hvis øyeblikkelig pålogging er PÅ, vil True Key registrere URL-adressen til webområdet og automatisk logge deg på, uten flere museklikk.",
+				"txt3": "Hvis øyeblikkelig pålogging er AV, vil True Key registrere webområdets URL-adresse og fylle ut brukernavnet og passordet ditt, men du må selv klikke på påloggingsknappen."
+			},
+			"clearAutologin": {
+				"title": "Gjenopprett automatisk lagring på alle områder",
+				"desc": "Hvis du har bedt True Key om å ikke huske passordet ditt på et webområde og du ombestemmer deg, klikker du på Gjenopprett-knappen for å gi True Key tillatelse til å lagre passordet automatisk neste gang du logger inn."
+			}
+		},
+		"import": {
+			"title": "Lagrer du for tiden passord på en annen tjeneste? Legg dem til i True Key-kontoen.",
+			"desc": "Bruk passordimportøren til å legge passord til i True Key-kontoen din, raskt og enkelt.",
+			"cta": "Importer passord"
+		},
+		"newTab": "Hjemmeside & ny fane i nettleser",
+		"restoreAutosave": "Gjenopprette automatisk lagring på alle områder",
+		"restore": "Gjenopprett",
+		"instantLogin": "Øyeblikkelig innlogging",
+		"changeLanguage": "Bytt språk"
+	},
+
+	"shareSocial": {
+		"title": "Spre budskapet",
+		"title2": "Del kjærligheten",
+		"desc": "Er True Key-appen en gledelig opplevelse? Del med vennene dine og motta belønninger.",
+		"share": "Del",
+		"tweet": "Tvitring",
+		"rateChrome": "Ranger app",
+		"twitterMessage": "Vær en av de første til å eliminere passord. Reserver din #TrueKey by @IntelSecurity for å få tilgang tidlig."
+	},
+
+	"settingsNav": {
+		"profile": "Min True Key-profil",
+		"lockUnlock": "Låseinnstillinger",
+		"windowsLock": "Windows Ansiktsopplåsing",
+		"preferences": "Innstillinger",
+		"support": "Hjelp og støtte",
+		"shareSocial": "Spre budskapet",
+		"trustedDevices": "Klarerte enheter"
+	},
+
+	"tkProfile": {
+		"title": "Mine faktorer",
+		"hi": "Hei, %{fullname}",
+		"txt1": "Jo flere faktorer du legger til, %{htmlBefore}jo sterkere er True Key-profilen din.%{htmlAfter}",
+		"activeFactors": "Aktive faktorer",
+		"active": "Aktiv",
+		"strength": "Profilstyrke",
+
+		"accountStatus": {
+			"title": "Abonnementsstatus",
+			"premium": "Premium",
+			"ends": "Opphører"
+		},
+
+		"layerEmail": "Legg e-posten din til som en klarert faktor, og knytt den til True Key-profilen. <strong>Du vil motta varsler i innboksen når du logger på en ny eller uklarert enhet.</strong>",
+		"layerSwipe": "Send et varsel til mobilenheten, <strong>for ekstra beskyttelse når du logger på kontoer</strong>. Du må godta varselet før True Key logger deg på.",
+		"layerFace": {
+			"txt1": "<strong>Logg på uten å angi passord.</strong> Ansiktsopplåsing bruker de unike dimensjonene i ansiktet ditt – som avstanden mellom øyne og nese – til å gjenkjenne deg og slippe deg inn.",
+			"txt2": "Ansiktsopplåsing er tilgjengelig for PC- og Android-enheter."
+		},
+		"layerPassword": "Beskytt profilen med et sterkt master-passord, og ikke glem det! <strong>Master-passordet kan ikke tilbakestilles, du er den eneste som kjenner det.</strong> Hvis du legger til tilleggsfaktorer, vil master-passordet brukes som back-up hvis du ikke klarer å logge på ved å bruke disse.",
+		"layerDevice" : "True Key kan gjenkjenne enheten du eier eller bruker jevnlig. Legg til alle enhetene du har tilgang til True Key-profilen på. <strong>Dette forhindrer andre fra å få tilgang til kontoen din</strong>, ved at tilleggsfaktorer kreves ved påloggingsforsøk fra en ukjent enhet"
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Hvor sikker vil du at Windows-opplåsingen skal være?",
+		"desc": "Velg ønsket sikkerhetsnivå.",
+
+		"basic": {
+			"settingName": "Grunnleggende",
+			"title": "Denne grunninnstillingen vil gi deg den aller raskeste påloggingen",
+			"desc": "Denne innstillingen anbefales hvis du bruker en personlig datamaskin i et klarert miljø."
+		},
+		"advanced": {
+			"settingName": "Avansert",
+			"title": "De avanserte innstillingene aktiverer anti-spoofing",
+			"desc": "Denne innstillingen anbefales for personlige og offentlige datamaskiner, på jobb eller hjemme."
+		},
+		"boosted": {
+			"settingName": "Forsterket",
+			"title": "Forsterket-innstillingen aktiverer manipulasjonssikring og direktepåvisning",
+			"desc": "Ekstra-innstillingen vil be deg om å blinke for å bevise at du er deg. Denne innstillingen anbefales for offentlige datamaskiner i miljøer som ikke er klarert."
+		},
+		"howTo": {
+			"title": "Bruk ansiktet ditt til å logge deg på Windows",
+			"subtitle": "Er du lei av å taste inn passordet ditt til Windows hele tiden?",
+			"desc": "Bruk True Key til å låse opp enheten din. Det er raskt og enkelt.",
+			"cta": "Finn ut hvordan du kan aktivere det"
+		},
+		"howToModal": {
+			"title": "Bruk ansiktet ditt til å logge deg på Windows",
+			"desc": "Følg disse enkle trinnene for å kunne gjøre det mulig å logg deg på Windows med ansiktet ditt:",
+			"step1": "Lås skjermen din (Windows + L)",
+			"step2": "Klikk tilbake-knappen",
+			"step3": "Klikk på True Key-ikonet",
+			"tip": "Du kan låse skjermen din med tastatursnarveien Windows+L"
+		}
+	},
+
+	"videos": {
+		"title": "Videoer",
+		"intro": {
+			"title": "Introduksjon",
+			"desc": "Hva er True Key og hvorfor har du bruk for den? Finn ut her!"
+		},
+		"gettingStarted": {
+			"title": "Komme i gang-omvisning",
+			"desc": "Ny bruker? Få mest mulig ut av True Key med denne raske produktomviseren."
+		},
+		"security": {
+			"title": "Sikkerhet",
+			"desc": "Sikkerheten din er vår prioritet. Her er hvordan vi holder dataene dine trygge og sikre."
+		},
+		"sharing": {
+			"title": "Del et passord",
+			"desc": "Endelig! Kryptert deling som alle kan bruke!"
+		},
+		"sharingSecurity": {
+			"title": "Sikker deling",
+			"desc": "Kryptert deling – å gjøre det så enkelt å bruke er vanskeligere enn du kan tenke deg."
+		},
+		"legacy": {
+			"title": "Arv",
+			"desc": "Det eneste passordverktøyet som beskytter dataene dine hele livet ditt... og etterpå."
+		}
+	},
+
+	"support": {
+		"title": "Hjelp og støtte",
+		"feedback": {
+			"title": "Ta kontakt",
+			"desc": "Hvordan liker du True Key-tjenesten?",
+			"needsWork": "Trenger mer arbeid",
+			"awesome": "Fantastisk",
+			"leaveComment": "Legg til en kommentar:",
+			"placeholder": "Vi ønsker tilbakemeldingen din velkommen. Skriv inn kommentarene dine her. På forhånd takk!",
+			"thankYou": "Tusen takk!"
+		},
+		"getMoreSupport": "Få mer støtte"
+	},
+
+	"wallet": {
+		"title": "Legitimasjonslager",
+		"add": {
+			"subtitle1": "Lagre dokumentene dine trygt",
+			"subtitle2": "Velg en kategori nedenfor for å legge til det første emnet i legitimasjonslageret ditt"
+		},
+		"search": "Søk i legitimasjonslageret ditt",
+		"types": {
+			"identity": "Adressebok",
+			"cc": "Kredittkort",
+			"drivers": "Førerkort",
+			"membership": "Medlemskap",
+			"passport": "Pass",
+			"ssn": "Personnummer"
+		},
+		"remove": {
+			"title": "Fjerne et dokument",
+			"confirm": "Er du sikker på at du vil fjerne dette dokumentet fra True Key?",
+			"permanent": "Denne handlingen kan ikke angres."
+		},
+		"edit": {
+			"title": "Rediger dokument"
+		}
+	},
+
+	"notes": {
+		"title": "Sikre notiser",
+		"add": {
+			"title": "Legg til notis"
+		},
+		"empty": {
+			"title": "Ikke funnet",
+			"desc": "Kanskje notisen du leter etter ikke ble lagret på True Key.",
+			"cta": "Lag notis"
+		},
+		"sort": {
+			"alphabetically": "Alfabetisk",
+			"dateCreated": "Dato for opprettelse"
+		},
+		"search": "Søk i min %{smart_count} sikre notiser |||| Søk i mine %{smart_count} sikre notiser",
+		"remove": {
+			"title": "Fjerne en notis",
+			"desc": "Er du sikker på at du ønsker å fjerne denne notisen fra True Key?",
+			"permanent": "Denne handlingen kan ikke angres."
+		},
+		"edit": {
+			"title": "Sikker notis"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Bruk standard pålogging"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) ønsker å gjøre deg til sin arving."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) delte %{htmlBefore}%{title}%{htmlAfter} passordet sitt med deg."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) ønsker å dele et passord med deg."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Kontofremgang:",
+		"pctProgress": "%{percentage} %",
+		"addLogin": {
+			"title": "Legg til den første påloggingen din",
+			"desc": "Lagre en pålogging til True Key"
+		},
+		"oneClick": {
+			"title": "Prøv en øyeblikkelig pålogging",
+			"desc": "Innlogging uten at du trenger å berøre tastaturet ditt"
+		},
+		"addFace": {
+			"title": "Legg til Ansiktsopplåsing",
+			"desc": "Dette gjør pålogging raskere og enklere."
+		},
+		"addLogins": {
+			"title": "Legg til de fire første påloggingene dine",
+			"desc": "Legg flere pålogginger til i True Key-profilen din"
+		},
+		"sharing": {
+			"title": "Del et passord",
+			"desc": "Del trygt, med familie, venner og kolleger"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "Bruk ansiktet ditt til å logge på raskere.",
+		"txt1": "Konfigurer Ansiktsopplåsing for enkel og direkte tilgang til True Key™-appen din.",
+		"txt2": "Du kan også pare den med Master-passordet som en problemfri, andrefaktor.",
+		"txt3": "Ikke bekymre deg. Vi kommer ikke til å lagre eller dele bildet ditt.",
+		"cta": "Konfigurer Ansiktsopplåsing"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Legg til en klarert enhet",
+		"txt1": "Sjekk e-posten din for å bekrefte.",
+		"txt2": "Sjekk innboksen din for å gå videre."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Velg klarert enhet",
+		"txt": "Du har aktivert tofaktors godkjenning. Velg en klarert enhet for å motta denne meldingen."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Deaktiver klarert enhet",
+		"txt": "Du bestemte deg for å deaktivere følgende enhet: \"%{deviceName}\"",
+		"confirm": "Deaktiver"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "Enheten du benytter er klarert.",
+		"txt": "Når du klarerer en enhet kan du legge til flere sikkerhetsfaktorer, slik som Ansiktsopplåsing."
+	},
+
+	"overlayInstallExe": {
+		"title": "Du er nesten ferdig, tre trinn igjen",
+		"txt": "Programvaren til True Key lastes ned. Virker det ikke? ",
+		"restartDownload": "Klikk her for å starte nedlastningen på nytt."
+	},
+
+	"overlayOobPending": {
+		"txt": "Vi har akkurat sendt deg en push-melding for å bekrefte påloggingen din. Sjekk den klarerte enheten din.",
+		"btResend": "Send melding på nytt"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "Ops, push-varslingen din har utløpt.",
+		"txt2": "Prøv på nytt igjen med en ny varsling",
+		"btResend": "Har du ikke mottatt varslingen? Send på nytt"
+	},
+
+	"overlayInstallFace": {
+		"title": "Logg inn raskere",
+		"txt": "Spar tid. Bruk Ansiktsopplåsing i stedet for å skrive inn Master-passordet ditt."
+	},
+
+	"overlayTrustDevice": {
+		"title": "Er dette en klarert enhet?",
+		"txt1": "Det ser ut til at du prøver å logge på med en enhet som ikke er klarert.",
+		"txt2": "Hvis du legger denne datamaskinen til i de klarerte enhetene dine, vil du kunne logge på raskere med én eller flere faktorer.",
+		"dontTrust": "Nei, ikke klarer den",
+		"trustComputer": "Klarer denne enheten"
+	},
+
+	"overlayEmailPending": {
+		"title": "Bekreft e-postadressen din",
+		"txt": "Sjekk e-posten din for å bekrefte denne enheten.",
+		"btResend": "Send e-post på nytt"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Ops, e-postvarslingen din har utløpt.",
+		"txt2": "Prøv på nytt igjen med en ny varsling.",
+		"btResend": "Har du ikke mottatt varslingen? Send på nytt"
+	},
+
+	"overlayUpdate": {
+		"title": "Oppdater True Key-appen",
+		"txt": "En ny versjon er klart til å installeres. Klikk Oppdater for å installere den.",
+		"btUpdate": "Oppdater nå"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Angi master-passordet",
+			"enterMasterPasswordHere": "Angi master-passord her",
+			"invalidPassword": "Ugyldig passord"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Bekreftelse kreves"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Automatisk låsing",
+		"text": "Når vil du at True Key-appen din skal låses?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Launchpad-synlighet",
+		"text": "Bestem om favorittområdene dine skal skjules eller være synlige når Launchpad er låst.",
+		"visible": "<span class='bold'>Synlig:</span> Se Launchpad, også når den er låst.",
+		"invisible": "<span class='bold'>Skjult:</span> Skjul Launchpad når den er låst."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Klarert enhet",
+			"helpText": "Koble enheten din til True Key-profilen, for et ekstra sikkerhetslag.",
+			"enroll": "Klarert enhet"
+		},
+		"masterPassword": {
+			"title": "Master-passord",
+			"helpText": "Lag et sterkt Master-passord for True Key-profilen din. Vi kommer ikke til å huske dette, så pass på at du gjør det."
+		},
+		"email": {
+			"title": "Klarert e-post",
+			"helpText": "Bekreft e-posten din for å aktivere alle funksjonene. Du kan også bruke e-postadressen din som en andre faktor, for økt sikkerhet.",
+			"enroll": "Send bekreftelses-e-post"
+		},
+		"face": {
+			"title": "Ansiktsopplåsing",
+			"helpText": "True Keys Ansiktsopplåsing bruker en unik beregning av ansiktet ditt for å bekrefte hvem du er. Du kan bruke Ansiktsopplåsing som en hovedpåloggingsmetode, eller som en ekstra sikkerhetsfaktor.",
+			"enroll": "Legg til nå"
+		},
+		"mobile": {
+			"title": "Sveip for å låse opp (kun Android)",
+			"helpText": "Med Sveip for å låse opp sender du en push-melding til mobiltelefonen din som en andrefaktor. Sveip ganske enkelt over meldingen for å låse opp datamaskinprofilen din. Denne kan brukes i stedet for Master-passordet, eller sammen med det for ekstra sikkerhet.",
+			"enroll": "Legg til telefon"
+		},
+		"fingerprint": {
+			"title": "Trykk for å låse opp",
+			"helpText": "Bruk ditt unike fingeravtrykk for sikker tilgang til True Key, som et ekstra lag med sikkerhet. Denne funksjonen kommer snart."
+		}
+	},
+
+	"killswitch": {
+		"title": "Obligatorisk oppdatering",
+		"chrome": {
+			"txt1": "Denne versjonen av True Key-utvidelsen støttes ikke lenger.  Chrome har automatisk oppdatert deg til den nyeste versjonen.",
+			"txt2": "Start nettleser din på nytt."
+		},
+		"ie": {
+			"txt1": "Denne versjonen av True Key støttes ikke lenger. Klikk på knappen nedenfor for å oppdatere til den nyeste versjonen",
+			"cta": "Oppdater nå"
+		},
+		"downloading": "Denne versjonen av True Key støttes ikke lenger. En oppdatert versjon lastes ned nå og vil være klar om et par minutter …"
+	},
+
+	"downloadExe": {
+		"title": "Godt valg",
+		"txt1": "Ansiktsopplåsing gjør slutt på bryet med å skrive inn Master-passordet. Klikk nedenfor for å laste ned installasjonsprogrammet."
+	},
+
+	"enableIE": {
+		"appInstalled": "App installert",
+		"enableIt": "Nå kan du aktivere den i nettleseren",
+		"cta": "Klikk etter aktiveringen under",
+		"title": "Ett siste trinn",
+		"txt1": "Klikk \"Aktiver\" nedenfor for å begynne å bruke True Key-appen. Du behøver bare å gjøre dette én gang.",
+		"txt2": "Når dette er gjort, %{htmlBefore}klikk her%{htmlAfter}.",
+		"appInstalled" : "App installert.",
+		"enableIt" : "Nå kan du aktivere den i nettleseren.",
+		"havingTrouble" : "Problemer? Oppdater siden."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "Du er allerede beskyttet fordi du bruker en klarert enhet:",
+		"trustedDevice": "Denne klarerte enheten (\"%{deviceName}\")",
+		"chooseFactors": "Velg hvilken ytterligere faktor du ønsker skal låse opp appen din:",
+		"simple": "Enkelt",
+		"complex": "Kompleks",
+		"faceUnlock": "Ansiktsopplåsing",
+		"addFace": "Legg til ansikt",
+		"addSwipe": "Legg til Sveip for å låse opp",
+		"masterPassword": "Master-passord",
+		"theseFactorsAreRequired": "Disse faktorene kreves også for tilgang til appen din:",
+
+		"confirmAdvanced": {
+			"title": "Bare så du vet det",
+			"content": "Når du logger på ved bruk av \"Avansert\"-innstillingen, må enheten din være koblet til Internett. Hvis du ikke kan koble til vil du ikke få tilgang til True Key-profilen din.",
+			"confirm": "Jeg forstår"
+		}
+	},
+
+	"faq": {
+		"title": "Vanlige spørsmål",
+
+		"Q1": "Hva er True Key™?",
+		"A1": "True Key™ by Intel Security endrer hvordan verden logger seg på.  True Key fjerner bryet med å huske mange passord og logger deg direkte på til appene, områdene og enhetene dine ved bruk av faktorer som er unike for deg, slik som ansiktstrekkene dine og identifikatorer for enheter som du eier.  Jo flere faktorer du bruker, jo sterkere blir True Key, noe som gjør det enda enklere å bekrefte hvem du er. Med True Key er DU passordet.  Du vil få mer kontroll over den digitale identiteten din og vil kunne bevege deg gjennom din digitale verden på en raskere, enklere og tryggere måte.",
+
+		"Q2": "Hvordan fungerer det?",
+		"A2": "Åpne True Key-kontoen din på en smarttelefon, et nettbrett eller en PC, og opprett en profil slik at True Key vet hvem du er. Webområder som støtter True Key vil automatisk vite hvem du er, slik at du ikke behøver skrive inn – eller til og med huske – et passord. Webområder som enda ikke støttes av True Key bruker den inkluderte passordbehandleren for å lære og automatisk skrive inn brukernavn og passord for deg. Med True Key er DU passordet.  Du vil få mer kontroll over den digitale identiteten din og kunne bevege deg gjennom din digitale verden på en raskere, enklere og tryggere måte.",
+
+		"Q3": "Hvorfor logge på med True Key?",
+		"A3": "True Key forenkler livet ditt og lar den digitale verden vite at det virkelig er deg. Ved å logge på én gang med True Key med hjelp av unike attributter, som ansiktsberegning eller fingeravtrykk, kan du gå direkte dit du ønsker.",
+
+		"Q4": "Kan flere personer bruke True Key-kontoen sin på en delt datamaskin?",
+		"A4": "Ja, True Key vil gjenkjenne deg og kun logge deg på på din egen konto/dine egne kontoer. Det er like enkelt som å logge av og på igjen.",
+
+		"Q5": "Hvor sikker er True Key?",
+		"A5": "True Key er et sikkerhetsprodukt alle kan bruke. Dataene dine krypteres med AES-256, én av de sterkeste krypteringsgradene tilgjengelig. Du kan i tillegg forsterke True Key ved å legge til flere attributter, eller 'faktorer', slik som ansiktsberegningene dine eller et fingeravtrykk.",
+
+		"Q6": "Hvordan krypteres og dekrypteres dataene mine?",
+		"A6": "True Key oppbevarer dataene dine lokalt på enheten din ved bruk av AES-256-kryptering, én av de sterkeste krypteringsgradene tilgjengelig.  De sensitive dataene dine forlater aldri enheten med mindre de først er krypterte og kun du (og de du gir tillatelse) har tilgang til dem.",
+
+		"Q7": "Kan en ansatt hos True Key få tilgang til data lagret i kontoen min eller annen sensitiv informasjon?",
+		"A7": "Nei, med True Key er DU passordet.  Dataene dine krypteres og dekrypteres på din enhet og er alltid under din kontroll. True Key bruker faktorer som er unike for deg, inkludert ansiktsberegningene dine, fingeravtrykk eller Master-passord for å kryptere og dekryptere kun når du har behov for det.",
+
+		"Q8": "Hvor utføres krypteringen og dekrypteringen av dataene mine?",
+		"A8": "Dataene dine krypteres og dekrypteres lokalt, på din enhet. Kun krypterte data lagres på True Key-servere.",
+
+		"Q9": "Lagres dataene mine på True Key-servere?",
+		"A9": "Ja, de krypterte True Key-dataene dine lagres på en sikker True Key-server. Den eneste måten å få tilgang til denne informasjonen er ved bruk av faktorer som er unike for deg, inkludert ansiktsberegning eller Master-passord.",
+
+		"Q10": "Kan jeg bruke True Key Ansiktsopplåsing på Windows-enheter?",
+		"A10": "True Key Ansiktsopplåsing for Windows vil bli tilgjengelig tidlig i 2015.",
+
+		"Q11": "Må jeg ha en bestemt type webkamera?",
+		"A11": "True Key vil fungere med kamera i fronten på enheten din, samt USB-tilkoblede kameraer.",
+
+		"Q12": "Kan noen logge på med å bruke et bilde av meg?",
+		"A12": "Nei, True Key er utviklet med avansert anti-spoofingteknologi for å forhindre denne typen påloggingsforsøk. Du er i gode hender med Intel Security.",
+
+		"Q13": "Hvordan kan dere være sikker på at det er meg som logger på?",
+		"A13": "Du er i gode hender med Intel Security. True Key bruker svært sofistikerte algoritmer for å bekrefte at det er deg, inkludert biometri, ansiktsbilde, fingeravtrykk og andre attributter som du konfigurerer som er unike for deg.",
+
+		"Q14": "Hvor kan jeg bruke True Key Ansiktsopplåsing og på hvilke plattformer?",
+		"A14": "Du kan laste ned True Key på alle populære enheter, men ansiktsgjenkjenning er for tiden kun tilgjengelig på Windows 8, 8.1, Internet Explorer 10 + 11 og Google Chrome-nettleseren.  Vi kommer til å lansere flere plattformer og måter du kan bekrefte på i de kommende månedene."
+	},
+
+	"privacy": {
+		"title": "Du, dataene dine og True Key",
+
+		"Q1": "Først, ditt personvern",
+		"A1": "Intel Security respekterer personvernet ditt. Les vår %{privacyBefore}personvernmerknad%{linkAfter} for å få mer informasjon om hvordan Intel Security håndterer den personlige informasjonen du gir oss.",
+
+		"Q2": "Hvilken informasjon samler True Key-appen inn?",
+		"A2": "<p>Med din tillatelse vil True Key-appen samle inn bildet ditt og gjøre dette om til et mål som vi aller «Ansiktsberegning».</p><p>Etter at ansiktsberegningen din er beregnet vil bildet bli slettet. Ansiktsberegningen din krypteres og lagres lokalt på enhet din.  Den krypterte informasjonen lagres sikkert i et av Intel Securitys datasentre, slik at du kan få tilgang til enhetene og webområdene på en enkel og sikker måte.</p><p>Intel Security har ikke tilgang til noen av de sensitive opplysningene som er lagret i True Key-appen din da den blir kryptert før den blir sendt til Intel Security og i tillegg er beskyttet av et Master-passord som bare du kjenner.</p><p>I tillegg:</p><p>True Key-appen vil også lagre passordene og brukernavnene samt all annen informasjon som du oppgir.  Denne informasjonen vil bli kryptert å enheten din, og du kan synkronisere den med de andre enheten dine etter at den krypterte informasjonen er sent til de sikre True Key-serverne.</p>",
+
+		"Q3": "Hva er ansiktsberegning?",
+		"A3": "Med ansiktsberegning så mener vi den matematiske beregningen av ansiktstrekkene dine som gjør at teknologien for ansiktsopplåsing kan identifisere deg.",
+
+		"Q4": "Hvordan brukes ansiktsberegningen?",
+		"A4": "Intel Security bruker ansiktsberegningen din sammen med teknologien ansiktsopplåsing til å forsikre seg om at det er du som sitter der, og logge deg inn på enheten dine eller til et True Key-kompatibelt webområde.",
+
+		"Q5": "Hvor blir alt lagret?",
+		"A5": "Ansiktsberegningsmalen vil bli kryptert og lagret på enheten dine. Den krypterte informasjonen vil også bli lagret på et Intel Security datasenter slik at du kan synkronisere den mellom enhetene dine.",
+
+		"Q6": "Hvordan kan jeg fjerne ansiktsopplåsing fra enheten min?",
+		"A6": "Hvis du vil deaktivere denne funksjonen må du deaktivere kontoen din eller avinstallere programmet ved å bruke funksjonen for avinstallering på enheten eller systemet ditt.",
+
+		"Q7": "Hvordan kan jeg slette ansiktsberegningen min fra Intel Securitys datasenter?",
+		"A7": "Du kan be om at ansiktsberegningen din slettes ved å ta kontakt med True Key %{customerSupportBefore}kundeservice%{linkAfter}. Etter at du har autentisert deg kan du be om at ansiktsberegningen din blir slettet.",
+
+		"Q8": "Vil True Key-appen holde en oversikt over de webområdene jeg besøker?",
+		"A8": "Når du lagrer webområder og innloggingsinformasjon i True Key-profilen din, kan du se denne informasjonen på din True Key Launchpad.",
+
+		"Q9": "Vil True Key-tjenesten bruke informasjonen min til andre formål?",
+		"A9": "Nei, True Key-tjenesten har ikke tilgang til den ukrypterte informasjonen din.",
+
+		"Q10": "Hvor kan jeg få mer informasjon om True Key-appen?",
+		"A10": "Du kan få mer informasjon om Ansiktsopplåsing og True Key-appen på True Keys webområde, %{websiteBefore}truekey.com%{linkAfter}, eller ved å ta kontakt med True Key %{customerSupportBefore}kundeservice%{linkAfter}."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Legg til en klarert enhet",
+		"lastUsed": "Sist brukt:",
+		"twoFactor": "Tofaktors godkjenning:",
+		"title": "Velg og administrer klarerte enheter for True Key-profilen din.",
+		"txt1": "Du har kontroll over hvilke enheter True Key-profilen din kan stole på. Bruk disse enhetene for andrefaktorgodkjenning, og administrering av hvor du kan få tilgang til områdene og appene dine. Husk at du kan legge til eller fjerne en enhet når som helst."
+	},
+
+	"startpage": {
+		"searchNoResults": "Fant ingen resultater.",
+
+		"addFavorite": {
+			"title": "Legg til en Favoritt",
+			"placeholder": "Skriv inn navn på et webområde eller en URL",
+			"titleSuggestions": "Her en noen forslag:",
+			"moreSuggestions": "Flere forslag"
+		},
+
+		"addManually": {
+			"title": "Legg til en Favoritt manuelt",
+			"label": {
+				"websiteName": "Webområdets navn",
+				"url": "URL"
+			},
+			"placeholders": {
+				"websiteName": "f.eks.: Facebook",
+				"url": "f.eks.: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Rediger favoritt"
+		},
+
+		"ctaEdit": "Rediger denne favoritten",
+
+		"search": {
+			"onTheWeb": "Søk etter \"%{filter}\" på nettet",
+			"logins": "De lagrede påloggingene dine",
+			"placeholder": "Søk på nettet med True Key Launchpad"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Favoritter",
+			"description": "Disse ligner på bokmerker. Legg til, fjern og organiser de som du selv måtte ønske. Bruk favorittene til å få rask tilgang til de nettstedene du besøker mest, selv de som du ikke har lagret noen innloggingsdetaljer til."
+		},
+		"logins": {
+			"title": "Pålogginger",
+			"description": "Dette er stedet du vil kunne finne innloggingsdetaljene som er lagret på profilen din. Legg til, vis eller rediger detaljene og administrer sikkerhetsinnstillingene til hver enkelt."
+		},
+		"menu": {
+			"title": "Menyen din",
+			"description": "Få tilgang til innstillingene, sikkerhetsinnstillingene, kundestøtte og mer på menyen."
+		},
+		"search": {
+			"title": "Søk",
+			"description": "Søk raskt på nettet eller True Key-profilen din for informasjon du har bruk for."
+		},
+		"profile": {
+			"title": "Profil",
+			"description": "Vis og oppdater profilinnstillingene dine. Klikk på varslingsikonet når en melding venter på deg."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Du er nesten ferdig",
+		"description": "Nå må du aktivere True Key™-utvidelse. Velg en eller de nettleserne du benytter.",
+		"activated": "True Key™ er allerede aktivert på <em>%{activatedBrowser}</em>,<br> så legg den til på <em>%{availableBrowser}</em> også.",
+
+		"overlayTitle": "Aktiver True Key™",
+		"overlayText": "Hvis du vil logge deg på favorittsidene dine uten at du trenger å taste inn passordene, må du <strong>aktivere True Key</strong>.",
+		"errorNoBrowserSelected": "Velg minst én nettleser for å aktivere True Key"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "Oppdag True Key™ by Intel Security",
+			"subtitle": "Lås opp den digitale verdene din uten problemene med flere passord",
+			"description": "True Key-apper endrer måten verden logger seg inn på ved å bruke faktorer som er unike for deg for å gi deg en rask og sikker tilgang til favorittsidene, appene og enhetene dine."
+		},
+		"sync": {
+			"subtitle": "Ha friheten til å kunne være på farten, med automatisk synkronisering mellom telefonen din, nettbrettet ditt og datamaskinen din",
+			"description": "True Key-appen synkroniserer informasjonen på telefonen, nettbrettet og datamaskinen din på en sikker måte, slik at du har informasjonen lett tilgjengelig."
+		},
+		"encrypted": {
+			"subtitle": "Hold informasjonen din sikker og kryptert, og personvernet ditt beskyttet",
+			"description": "Dataene dine er lagret lokalt på enheten din, og forlater aldri denne uten at den er kryptert. Bare du har tilgang."
+		},
+		"unique": {
+			"subtitle": "Gjør profilen din unik, akkurat som deg",
+			"description": "Med True Key er DU passordet. Jo flere faktorer du legger til, jo sterkere er True Key-profilen din, slik at den digitale verdenen kan vite at det virkelig er deg."
+		},
+		"skipTour": "Hopp over turen",
+		"iGetIt": "Jeg har forstått det.",
+		"getStarted": "La oss komme i gang"
+	},
+
+	"slideshow2": {
+		"meetTK": "Oppdag True Key by Intel Security",
+		"multiple_passwords": {
+			"title": "Lås opp din digitale verden uten problemene med flere passord.",
+			"desc": "True Key fyller ut passordene dine, slik at du ikke trenger gjøre det"
+		},
+		"sync": {
+			"title": "Synkroniser passordene på tvers av enhetene dine",
+			"desc": "Installer True Key-appen på alle enhetene dine for å holde passordene lett tilgjengelig."
+		},
+		"encrypted": {
+			"title": "Hold passordene dine sikre og krypterte",
+			"desc": "True Key krypterer passordene på enheten, slik at du er den eneste med tilgang."
+		}
+	},
+
+	"enable": {
+		"lastStep": "Ett siste trinn",
+		"clickEnable": "Klikk \"Aktiver\" nedenfor for å begynne å bruke True Key-appen. Du behøver bare å gjøre dette én gang.",
+		"clickDone": "Så snart dette er gjort, %{htmlBefore}klikk her%{htmlAfter}."
+	},
+
+	"activation": {
+		"title": "Aktiver True Key™",
+		"txtEnable": "Hvis du vil logge deg inn på favorittområdene dine uten at du trenger å taste inn <br>passordene, må du <strong>aktivere True Key-utvidelsen</strong>.",
+		"txtInstall": "Hvis du vil logge deg på favorittområdene dine uten at du trenger<br> å taste inn passordene, må du <strong>installere True Key-utvidelsen</strong>.",
+		"txtRestart": "Du må starte nettleseren på nytt for å fullføre installasjonen av <br>utvidelsen til True Key."
+	},
+
+	"loginSuccess": {
+		"title": "Velkommen tilbake",
+		"text": "Se etter True Key-ikonet neste gang du starter nettleseren."
+	},
+
+	"signupSuccess": {
+		"text": "Profilen din er opprettet.<br>Se etter True Key-ikonet neste gang du starter nettleseren."
+	}
+}

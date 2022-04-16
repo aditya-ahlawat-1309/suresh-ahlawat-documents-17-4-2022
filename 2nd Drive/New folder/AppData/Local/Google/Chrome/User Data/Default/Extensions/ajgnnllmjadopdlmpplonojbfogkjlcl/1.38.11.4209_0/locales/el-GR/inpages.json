@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Κλείσιμο",
+		"done": "Τέλος",
+		"dontSave" : "Να μην γίνει αποθήκευση",
+		"neverSave" : "Να μην γίνεται ποτέ αποθήκευση",
+		"saveNow" : "Αποθήκευση τώρα",
+		"yes" : "Ναι",
+		"no" : "Όχι",
+		"remove": "Κατάργηση",
+		"dontUpdate" : "Να μην γίνει ενημέρωση",
+		"updateNow" : "Ενημέρωση τώρα",
+		"dontAskAgain" : "Να μην ερωτηθώ ξανά",
+
+		"dontSaveNow" : "Να μην γίνει αποθήκευση αυτήν τη φορά",
+		"dontSaveItNow" : "Να μην γίνει αποθήκευση τώρα",
+		"neverSaveIt" : "Να μην γίνεται ποτέ αποθήκευση",
+		"neverForThisSite" : "Να μην γίνεται ποτέ αποθήκευση",
+		"savePassword" : "Αποθήκευση κωδικού πρόσβασης",
+		"saveThisPassword" : "Αποθήκευση αυτού του κωδικού πρόσβασης",
+		"dontShowAgain" : "Να μην εμφανιστεί ξανά",
+		"masterPassword" : "Πρωτεύων κωδικός πρόσβασης",
+		"continue" : "Συνέχεια",
+		"ok": "ΟΚ",
+		"typeMasterPassword" : "Πληκτρολόγηση Πρωτεύοντα κωδικού πρόσβασης",
+		"settings": "Ρυθμίσεις",
+		"copyClipboard": "Αντιγραφή στο πρόχειρο",
+		"youreIn" : "Είστε συνδεδεμένοι.",
+		"success": "Επιτυχία"
+	},
+
+	"bannerAutosave": {
+		"mainText": "Το True Key αποθήκευσε τον κωδικό πρόσβασής σας για το <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerBoxfull": {
+		"mainText": "Το True Key εντόπισε έναν νέο κωδικό πρόσβασης για το <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Περιμένετε λίγο"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Ο κωδικός πρόσβασής σας για το <span class='primary'>%{siteName}</span> δεν είναι αρκετά ισχυρός"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Λάβατε έναν νέο κοινόχρηστο κωδικό πρόσβασης."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Συνδεθήκατε μέσω του True Key;",
+		"deleteConfirm": "Θέλετε να καταργήσετε το χρήστη <span class='secondary'>%{username}</span> από το προφίλ σας στο True Key;"
+	},
+	"topbarDisabled": {
+		"mainText" : "Ωχ. Το True Key δεν υποστηρίζει ακόμη αυτήν την τοποθεσία."
+	},
+	"connectWith" : {
+		"mainText" : "Επιλογή προφίλ",
+		"login": "Σύνδεση"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Το προφίλ σας είναι κλειδωμένο",
+		"ctaUnlock": "Σύνδεση για ξεκλείδωμα",
+		"placeholder" : "Εισαγωγή του Πρωτεύοντα κωδικού πρόσβασης",
+		"mainTxtHasUsers" : "Σύνδεση με το προφίλ True Key",
+		"mainTxtNoUsers" : "Εισαγάγετε τον Πρωτεύοντα κωδικό πρόσβασης για να αποθηκεύσετε αυτόν τον κωδικό πρόσβασης",
+		"error" : "Εσφαλμένος κωδικός πρόσβασης",
+		"decrypting" : "Εκτελείται αποκρυπτογράφηση",
+		"profileLocked" : "Το προφίλ σας είναι κλειδωμένο",
+		"unlockedLogIn" : "Ξεκλείδωμα και σύνδεση"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Σας έχει κουράσει η διαχείριση πολλαπλών κωδικών πρόσβασης; Χρησιμοποιήστε την εφαρμογή True Key για να συνδέεστε άμεσα",
+		"signup" : "Ναι, δείξτε μου πώς"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Σας έχουν κουράσει τα προβλήματα με τους κωδικούς πρόσβασης; Χρησιμοποιήστε το True Key για ευκολότερη και γρηγορότερη πρόσβαση.",
+		"signup" : "Ναι, δείξτε μου πώς"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Συνδεθείτε στο <span class='secondary'>%{siteName}</span> και",
+		"txt2" : "η εφαρμογή True Key θα απομνημονεύσει τον κωδικό πρόσβασης για εσάς."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Την επόμενη φορά, το True Key θα σας συνδέσει με ασφάλεια."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Πλέον μπορείτε να συνδέεστε γρηγορότερα, ευκολότερα και ασφαλέστερα, χρησιμοποιώντας το True Key launchpad."
+	},
+	"passgen" : {
+		"generate": "Δημιουργία κωδικού πρόσβασης",
+		"regenerate" : "Δημιουργία κωδικού πρόσβασης",
+		"noPassGenerated": "Δεν έχει δημιουργηθεί κωδικός πρόσβασης",
+		"letters" : "Γράμματα",
+		"digits" : "Ψηφία",
+		"symbols" : "Σύμβολα",
+		"capitals" : "Κεφαλαία"
+	}
+}

@@ -1,0 +1,61 @@
+{
+   "background": {
+      "page": "bg.html"
+   },
+   "chrome_url_overrides": {
+      "newtab": "stubby.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [ "http://dictionaryboss.dl.tb.ask.com/blank.jhtml" ],
+      "js": [ "common/js/common.js", "common/js/dynamic.js", "common/js/enableDetect.js", "common/js/unifiedLogging.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "contentScript.css" ],
+      "exclude_matches": [ "http://dictionaryboss.dl.tb.ask.com/blank.jhtml" ],
+      "js": [ "common/js/underscore-1.5.2.min.js", "js/messaging.js", "js/scriptInjector.js", "common/adapter/adapterUtil.js", "js/mutation_summary-min.js", "js/reservespacefortoolbar.js", "js/reservespaceifenabled.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "exclude_matches": [ "http://dictionaryboss.dl.tb.ask.com/blank.jhtml" ],
+      "js": [ "buildVars.js", "contentScript.js", "extension_toolbar_api.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "http://dictionaryboss.dl.tb.ask.com/blank.jhtml" ],
+      "js": [ "common/js/navRedirector.js", "superFrame.js" ],
+      "matches": [ "http://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "http://dictionaryboss.dl.tb.ask.com/blank.jhtml" ],
+      "js": [ "components/radio/radioWrapper/radioWrapper.js" ],
+      "matches": [ "http://ak.imgfarm.com/images/toolbar/radio/radioWrapper.html" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "js/readLocalStorage.js" ],
+      "matches": [ "http://dictionaryboss.dl.tb.ask.com/blank.jhtml" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "js/URILoaderContentScript.js" ],
+      "matches": [ "http://www.videodownloadconverter.com/chromeInstruct.jhtml" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://*.imgfarm.com/ https://*.webfetti.com/ https://*.wdgserv.com/ https://*.optimizely.com/ 'unsafe-eval'; object-src 'self' https://*.imgfarm.com/ https://*.webfetti.com/ https://*.wdgserv.com/ https://*.optimizely.com/",
+   "description": "You can now enjoy one-click access to helpful synonyms and semantic tools, fun word games, translation assistance and more.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpdl/IjF7z2F5w/63fn4qk5t0o32nuY3YH4Rpd1Gb6gfKPfmGtOebvGZIvaqqzijv2IyF0h59H8U9H1lKqr4J10j0qBEV6Oj7H0J+n1Nkls2C1eCCdEulDn63EqDjXIqvjp4CDyKb+rgS5tX3/Ph6LOgZZzt/yYHak6BOVC9x2DQIDAQAB",
+   "manifest_version": 2,
+   "name": "DictionaryBoss",
+   "permissions": [ "tabs", "cookies", "history", "contextMenus", "management", "http://*/*", "https://*/*", "http://127.0.0.1/*", "http://localhost/*", "chrome://favicon/*", "downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "12.9.6.9473",
+   "web_accessible_resources": [ "toolbarUI.html", "components/api/window/widgetWindow.html", "components/search/html/searchSuggestions.html", "common/widget-api/widgets/rss/rssWidget.html", "components/moviereviews/html/movieReviews.html", "common/components/embedscript/html/embedScriptTemplate.html", "common/components/embedhtml/html/embedHtmlTemplate.html", "common/components/menu/html/menuframe.html", "common/widget-api/widgets/weather/weatherButton.html", "components/supertab/html/supertab.html", "common/widget-api/widgets/radio/radio-widget.html", "js/widgetContentScriptInjectee.js" ]
+}

@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Sluiten",
+		"done": "Gereed",
+		"dontSave" : "Niet opslaan",
+		"neverSave" : "Nooit opslaan",
+		"saveNow" : "Nu opslaan",
+		"yes" : "Ja",
+		"no" : "Nee",
+		"remove": "Verwijderen",
+		"dontUpdate" : "Geen update uitvoeren",
+		"updateNow" : "Nu update uitvoeren",
+		"dontAskAgain" : "Niet opnieuw vragen",
+
+		"dontSaveNow" : "Dit keer niet opslaan",
+		"dontSaveItNow" : "Nu niet opslaan",
+		"neverSaveIt" : "Nooit opslaan",
+		"neverForThisSite" : "Nooit opslaan",
+		"savePassword" : "Wachtwoord opslaan",
+		"saveThisPassword" : "Dit wachtwoord opslaan",
+		"dontShowAgain" : "Niet meer weergeven",
+		"masterPassword" : "Hoofdwachtwoord",
+		"continue" : "Doorgaan",
+		"ok": "OK",
+		"typeMasterPassword" : "Hoofdwachtwoord invoeren",
+		"settings": "Instellingen",
+		"copyClipboard": "Naar klembord kopiëren",
+		"youreIn" : "U bent binnen.",
+		"success": "Geslaagd"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key heeft uw <span class='secondary'>%{siteName}</span>-wachtwoord opgeslagen."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key heeft een nieuw wachtwoord voor <span class='secondary'>%{siteName}</span> gedetecteerd"
+	},
+	"bannerConnecting": {
+		"mainText" : "Een ogenblik geduld"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Uw <span class='primary'>%{siteName}</span>-wachtwoord is niet sterk genoeg"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "U hebt een nieuw gedeeld wachtwoord."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Heeft True Key u aangemeld?",
+		"deleteConfirm": "Wilt u <span class='secondary'>%{username}</span> uit uw True Key-profiel verwijderen?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Oeps! True Key ondersteunt deze site nog niet."
+	},
+	"connectWith" : {
+		"mainText" : "Profiel kiezen",
+		"login": "Aanmelden"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Uw profiel is vergrendeld",
+		"ctaUnlock": "Aanmelden om te ontgrendelen",
+		"placeholder" : "Hoofdwachtwoord invoeren",
+		"mainTxtHasUsers" : "Aanmelden met uw True Key-profiel",
+		"mainTxtNoUsers" : "Uw hoofdwachtwoord invoeren om dit wachtwoord op te slaan",
+		"error" : "Wachtwoord onjuist",
+		"decrypting" : "Ontsleutelen",
+		"profileLocked" : "Uw profiel is vergrendeld",
+		"unlockedLogIn" : "Ontgrendelen en aanmelden"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Hebt u er genoeg van om meerdere wachtwoorden te moeten onthouden? Gebruik uw True Key-app om u automatisch aan te melden",
+		"signup" : "Ja, laat me zien wat ik moet doen"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Al die wachtwoorden beu? Gebruik True Key voor eenvoudigere, snellere toegang.",
+		"signup" : "Ja, laat me zien wat ik moet doen"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Meld u aan bij <span class='secondary'>%{siteName}</span> en",
+		"txt2" : "uw True Key-app onthoudt uw wachtwoord voor u."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "True Key meldt u de volgende keer veilig aan."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Meld u nu sneller, gemakkelijker en veiliger aan via uw True Key-launchpad."
+	},
+	"passgen" : {
+		"generate": "Wachtwoord genereren",
+		"regenerate" : "Wachtwoord genereren",
+		"noPassGenerated": "Geen wachtwoord gegenereerd",
+		"letters" : "Letters",
+		"digits" : "Cijfers",
+		"symbols" : "Symbolen",
+		"capitals" : "Hoofdletters"
+	}
+}

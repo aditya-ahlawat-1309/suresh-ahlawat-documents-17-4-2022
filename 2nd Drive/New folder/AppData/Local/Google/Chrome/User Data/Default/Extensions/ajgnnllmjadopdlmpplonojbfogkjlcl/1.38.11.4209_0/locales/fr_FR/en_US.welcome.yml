@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Anglais"
+    common: 
+        privacy: "Confidentialité"
+        privacy_full: "Politique de confidentialité"
+        terms: "Conditions"
+        terms_full: "Conditions d’utilisation"
+        alert: "Alerte !"
+        warning: "Avertissement !"
+        or: "ou"
+        copyright: "© %{date}. Tous droits réservés."
+        change_language: "Changer de langue"
+    shared: 
+        member_menu: 
+            upgrade: "Mettre le compte à niveau"
+            refer_friends: "Inviter des amis"
+            help: "Aide et assistance"
+            logout: "Se déconnecter"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox vous libère des mots de passe. Dites adieu aux nombreux noms d’utilisateur et mots de passe. Votre mot de passe principal PasswordBox est le seul dont vous aurez besoin !"
+                mobile: "PasswordBox est un gestionnaire de mots de passe gratuit qui vous aide à stocker, récupérer et partager des mots de passe sur n’importe quel appareil. Essayez l’application PasswordBox pour Android, iPhone ou iPad."
+        title: 
+            default: "Gestionnaire de mots de passe gratuit"
+            welcome: "Bienvenue"
+    download: 
+        download: "Télécharger gratuitement"
+        login: "Connectez-vous"
+        mobile: "mobile"
+        platforms: "Gratuit pour"
+        watch_video: "Regardez la vidéo"
+        available_for: "Également disponible pour %{os} et %{platform}"
+        free_for: "Gratuit sur %{windows}, %{mac} et %{mobile}."
+        guides: 
+            click_add: "Cliquez sur Ajouter pour installer PasswordBox"
+            click_allow: "Cliquez sur Autoriser pour installer PasswordBox"
+            click_install: "Cliquez sur « Installer »"
+            click_install_now: "Cliquez sur « Installer maintenant »"
+            click_run: "Cliquez sur « Exécuter » pour installer"
+            click_yes: "Cliquez sur « Oui » pour accepter les paramètres"
+            click_here: "Cliquez ici"
+            run_and_open: "Exécutez et ouvrez le programme d’installation"
+            install_pbox: "Installer PasswordBox"
+            close_window: "Fermer la fenêtre"
+            download_pbox: "Télécharger PasswordBox"
+        alerts: 
+            mobile: "Téléchargez GRATUITEMENT l’application %{app_name} pour profitez de 1-Tap Login à tout moment !"
+        errors: 
+            browser: 
+                min_version: "PasswordBox est uniquement disponible sur %{browser}, versions %{min_version} et ultérieures. Mettez à jour votre navigateur et réessayez."
+                single_version: "PasswordBox est uniquement disponible pour %{browser}. Mettez à jour votre navigateur et réessayez."
+                unavailable: "PasswordBox n’est pas disponible pour votre version de %{browser}. Veuillez réessayer avec %{suggestion}."
+                safari_windows: "Pour le moment, PasswordBox pour Safari est uniquement disponible sur Mac OS X."
+                safari: 
+                    unsupported: "Malheureusement, nous ne prenons plus en charge Safari. Veuillez réessayer avec Chrome, Firefox ou Internet Explorer."
+                    read_more: "En savoir plus"
+                unsupported: 
+                    problems: "Nous ne prenons pas officiellement en charge cette version de %{browser}. Vous pouvez quand même installer PasswordBox, mais vous risquez de rencontrer des problèmes."
+                    upgrade_suggestion: "Pour vous garantir la meilleure expérience possible, nous vous conseillons de mettre à jour votre navigateur avec la toute nouvelle version."
+                    install_anyway: "Installer quand même"
+            mobile: 
+                min_version: "PasswordBox n’est pas disponible pour cette version de %{os}. Veuillez réessayer sur un appareil qui exécute la version %{min_version} ou une version ultérieure."
+                generic: "PasswordBox n’est pas disponible pour cet appareil. Veuillez réessayer sur iPhone, iPad ou Android, ou ouvrez cette page sur votre bureau pour installer notre extension de navigateur."
+        onboard: 
+            welcome: "Bienvenue dans le programme d’installation de PasswordBox"
+            failed_install: "Échec de l’installation de PasswordBox"
+            never_forget: "N’oubliez plus aucun mot de passe !"
+            click_to_retry: "Cliquez sur Réessayer pour essayer à nouveau"
+            retry: "Réessayer"
+            free_vault: "Sauvegarde gratuite de mots de passe pour Google Chrome."
+            add_to_chrome: "Ajouter à Chrome"
+        guide: 
+            almost_done: "Vous avez presque terminé ! "
+            greeting: "Bonjour %{member_name} !"
+            welcome: "Bienvenue dans PasswordBox. Suivez les étapes ci-dessous pour terminer votre installation."
+            downloading: "PasswordBox va se télécharger automatiquement. Si ce n’est pas le cas, %{restart_link}."
+            restart: "cliquez ici pour recommencer le téléchargement"
+    address_book: 
+        import: 
+            address: "Adresse"
+            email_password: "Mot de passe du courriel"
+            fetching_contacts: "Importation des contacts en cours..."
+            gmail: 
+                connect_button: "Connectez-vous à votre compte Gmail"
+                instructions: "Cliquez pour vous connecter au carnet d'adresses de votre compte Gmail"
+            open_address_book: "Ouvrir le carnet d'adresses"
+            sending_promise: "Nous n'enverrons jamais de courriels à vos contacts sans votre permission."
+            connect: 
+                title: "Connectez-vous à votre carnet d’adresses"
+                button: "Connectez-vous à %{provider}"
+                instructions: "Cliquez pour vous connecter à votre carnet d’adresses %{provider}"
+        select: 
+            contacts: "Contacts"
+            deselect_all: "Tout désélectionner"
+            search_contact: "Cherchez un contact"
+            select_all: "Tout sélectionner"
+            select_title: "Sélectionnez depuis le carnet d'adresses"
+            send_success: "Votre demande d'héritage numérique a été envoyée avec succès!"
+            to: "À"
+    forms: 
+        buttons: 
+            back: "Retour"
+            cancel: "Annuler"
+            ok: "OK"
+            save: "Enregistrer"
+            submit: "Soumettre"
+            send: "Envoyer"
+        errors: 
+            digits: 
+                only: "Veuillez entrer seulement des chiffres."
+            email: 
+                exists: "Ce courriel est déjà utilisé."
+                invalid: "Cet courriel est invalide."
+                invalid_please: "Veuillez entrer une adresse de courriel valide."
+                required: "Le champ d’adresse électronique est obligatoire."
+            fullname: 
+                required: "Veuillez entrer votre nom complet."
+                too_long: "Veuillez entrer un nom plus court."
+                too_short: "Votre nom doit comporter au moins %{length} caractères."
+            password: 
+                required: "Veuillez choisir un mot de passe."
+                too_short: "Assurez-vous que votre mot de passe comprend au moins %{length} caractères."
+                confirm: "Veuillez confirmer votre mot de passe"
+                match: "Vos mots de passe doivent correspondre"
+                different: "Votre mot de passe ne peut être identique à votre courriel ou votre nom"
+            required: 
+                generic: "Ce champ est obligatoire."
+            generic: "Oups ! Une erreur s’est produite. Veuillez essayer de renvoyer le formulaire."
+            length: 
+                between: "Veuillez saisir une valeur contenant entre {0} et {1} caractères."
+        labels: 
+            email: "Courriel"
+            fullname: "Nom complet"
+            first_name: "Prénom"
+            last_name: "Nom de famille"
+            master_password: "Mot de passe maître"
+            password: "Mot de passe"
+            title: "Titre"
+            username: "Nom d'utilisateur"
+            email_full: "Votre adresse électronique"
+            phone_full: "Votre numéro de téléphone"
+            date: "Date"
+        success: 
+            thank_you: "Merci"
+        info: 
+            password: 
+                very_weak: "Très faible"
+                weak: "Faible"
+                average: "Moyen"
+                good: "Bon"
+                strong: "Fort"
+    premium: 
+        limit_reached: "Vous avez atteint la limite de %{limit}. Effectuez une mise à niveau dès maintenant et profitez d’un stockage de mots de passe illimité."
+        billing: 
+            details: "Vous serez facturé %{price} dollars pour un an d’abonnement à PasswordBox Premium. Si vous n’êtes pas satisfait au cours des 30 premiers jours de l’abonnement, nous vous rembourserons l’intégralité de la somme versée sans poser de questions."
+            renewal: "Votre abonnement sera renouvelé de manière automatique chaque année, à moins que vous n’envoyiez une demande d’annulation par courriel à %{support_link} avant la date de votre prochain paiement."
+        enter_cc_info: "Entrez les informations de carte de crédit"
+        form: 
+            errors: 
+                credit_card_invalid: "Veuillez entrer un numéro de carte bancaire valide."
+                generic_processing: "Un problème est survenu lors du traitement de votre paiement."
+                unable_to_process: "Nous n’avons pas pu traiter votre carte de crédit. Vérifiez l’exactitude des informations et essayez à nouveau."
+            labels: 
+                as_on_card: "comme il apparait sur votre carte"
+                credit_card: "Numéro de carte de crédit"
+                expiry: "Date d'expiration"
+                secure: "Sécurisé"
+                verification: "Numéro de vérification à 4 chiffres de la carte"
+                what: "Qu'est-ce que c'est?"
+                country: "Pays"
+                postal_code: "Code postal"
+                street_address: "Adresse"
+                city: "Ville"
+                region: "Région"
+            submit: "Activer l'accès Premium"
+            processing: "En cours de traitement...Veuillez patienter."
+        main_title: "Accédez à la version complète de PasswordBox pour %{price}/mois !"
+        premium: "Premium"
+        quote: "J'ai tellement de noms d'utilisateur et de mots de passe que je n'arrive pas à les retenir tous. Heureusement PasswordBox peut s'en souvenir à ma place. Votre service m'apporte la paix d'esprit car si je suis victime d'un accident de voiture fatal, je sais que mes proches recevront l'accès à mes différents comptes en ligne avec mes instructions. C'est un soulagement de savoir que mon mari aura accès à mon compte Paypal et à toutes les photos de famille que j'aies sur Flickr."
+        satisfaction_guarantee: "Si vous n'êtes pas complètement satisfait pendant vos 30 premiers jours, nous vous rembourserons toute la somme que vous avez payée sans question ni ennuis."
+        success: 
+            already_premium: "Vous êtes déjà membre premium! Votre inscription est valide jusqu'au %{date}."
+            free_for_life_notice: "Merci d'avoir participé à notre bêta test. Votre compte sera gratuit pour toujours."
+            payment_success: "Merci! Votre paiement a été reçu."
+            return_to_public: "Retournez vers le site public"
+            to_passwordbox: "Dirigez-moi vers mon PasswordBox"
+            upgrade_success: "Votre compte a bien été mis à jour."
+        testimonial: "Recommandation"
+        unconfirmed: 
+            title: "Votre compte n’est pas encore confirmé"
+            check_spam: "Si vous ne voyez pas le courriel dans votre boîte de réception, pensez à vérifier votre dossier de <strong>courrier indésirable</strong> ."
+            no_email: "Vous n’avez pas reçu le courriel ?"
+            explanation: "La confirmation de votre compte ne valide pas simplement votre adresse, mais déverrouille également le partage et les fonctionnalités Legacy Locker."
+            resend_email: "Renvoyer un courriel de confirmation"
+            steps: 
+                send_email: "Envoyer un courriel de vérification à votre compte de messagerie"
+                click_link: "Cliquer sur le lien suggéré dans le courriel"
+                done: "Vous avez terminé !"
+            continue: 
+                instructions: "Une fois que vous avez confirmé votre compte, cliquez sur <strong>continuer</strong> pour remplir les détails concernant le paiement."
+                action: "Continuer"
+            messages: 
+                email_sent: "Vérifiez votre boîte de réception. Nous vous avons envoyé un courriel de confirmation."
+                not_confirmed: "Vous n’avez pas encore confirmé votre compte."
+                general_error: "Une erreur s'est produite. Veuillez réessayer."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Invitez des amis"
+                invite_new: "Invitez"
+                invites_accepted: "Invitations acceptées"
+                invites_sent: "Invitations envoyées"
+                manage_invites: "Gérer mes invitations"
+                manage_title: "Gérer vos invitations"
+                no_invites_sent: "Vous n'avez pas encore envoyé d'invitations. Allez-y et envoyez en quelques unes!"
+                referrals_needed: "Vous devez compter %{count} invitations acceptées pour obtenir votre compte de stockage illimité gratuit"
+                referrals_needed_single: "Il vous faut encore 1 invitation acceptée pour obtenir votre compte de stockage illimité gratuit"
+                resend: "Renvoyez"
+                reward: "Une fois que vous aurez amené %{count} amis à s’inscrire, vous recevrez un compte pro gratuit à vie."
+                sent: "Envoyées"
+                status: "Statut"
+                subheader: "Voici les invitations que vous avez envoyées. Vous pouvez les renvoyer si nécessaire."
+            reward: "Encouragez %{count} amis à s’inscrire sur PasswordBox et vous recevrez un compte pro gratuit et profiterez ainsi d’un stockage de mots de passe illimité et à vie."
+            title: "Parrainez %{count} amis sur"
+        import_contacts: 
+            manual_option: "Saisissez les courriels de vos amis manuellement"
+        important: "Important"
+        installed_header: "PasswordBox est maintenant opérationnel !"
+        invite_header: "Parlez de PasswordBox à vos amis"
+        manual_invite: 
+            email_instructions: "Saisissez leurs adresses de courriel"
+            import_option: "Invitez des amis de votre carnet d’adresses"
+            required_error: "Veuillez saisir une adresse de courriel à inviter"
+            send_action: "Envoyez des accès VIP"
+            send_instructions: "Envoyez des invitations à vos amis"
+            send_success: "Vos accès VIP ont été envoyés !"
+        resale_disclaimer: "Veuillez noter que PasswordBox ne vous autorise pas à vendre votre accès VIP sur eBay or sur d’autres sites. Il est strictement réservé à un usage personnel."
+        sent_after_welcome: 
+            title: "Votre inscription est maintenant terminée !"
+            video_instructions: "Regardez cette vidéo pour en savoir plus à propos de PasswordBox"
+        vip: 
+            reward: "Vous deviendrez membre à vie gratuitement"
+            title: "Donnez à vos amis un accès VIP à"
+    welcome: 
+        headers: 
+            running: "%{logo} est maintenant opérationnel !"
+        bulk_password: 
+            check_all: "Tout cocher"
+            did_you_know_title: "Saviez-vous que 92 % des gens utilisent la même combinaison de nom d’utilisateur/mot de passe pour la plupart de leurs comptes en ligne ?"
+            instructions: "Si tel est votre cas, saisissez vos informations de connexion courantes et sélectionnez les sites sur lesquels vous les utilisez. Nous enregistrerons tous ces comptes dans votre PasswordBox simultanément."
+            save_passwords: "Enregistrer des mots de passe"
+            success_message: "Enregistrement de vos mots de passe en cours..."
+            uncheck_all: "Tout décocher"
+            username_label: "Nom d’utilisateur de l’adresse de courriel"
+            website_error: "Veuillez choisir au moins un site Web."
+        legacy: 
+            address_book: "Connectez-vous à votre carnet d’adresses de messagerie Web"
+            email_label: "Courriel de votre personne de confiance"
+            instructions: "Indiquez le nom de votre personne de confiance ci-dessous et nous lui enverrons un courriel contenant votre demande"
+            name_label: "Nom de votre personne de confiance"
+            transfer_info: "Ne vous inquiétez pas, vos mots de passe ne seront transférés que lorsque cela sera nécessaire"
+            trust_title: "Qui est la personne de confiance qui s’occupera de votre compte en ligne s’il vous arrive quelque chose ?"
+            watch_video: "Regardez notre vidéo pour en savoir plus"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Confirmez le mot de passe principal"
+                never_store_password: "Pour garantir votre sécurité, PasswordBox ne voit jamais et ne stocke jamais votre mot de passe principal"
+                no_recovery: "Il n’y a aucun moyen de récupérer votre compte si vous oubliez votre mot de passe principal"
+                repeat_title: "Saisissez votre mot de passe encore une fois"
+            creating_account: "Création de votre compte en cours..."
+            form: 
+                create_account_action: "Créez un compte gratuit"
+                create_account_title: "Créez votre compte gratuit"
+                create_password: "Créez un mot de passe"
+                existing_account: "Vous avez déjà un compte ?"
+                facebook_promise: "Ne vous inquiétez pas, nous ne publierons jamais sur votre mur."
+                facebook_signup: "Inscrivez-vous avec Facebook"
+                login: "Connexion"
+                terms_disclaimer: "En cliquant ci-dessus, vous acceptez nos conditions d’utilisation."
+                terms_full: "Nous ne partagerons jamais votre adresse de courriel ou vos informations personnelles avec des tierces personnes, et nous vous enverrons uniquement des courriels transactionnels en rapport avec votre compte PasswordBox. Lisez notre %{privacy_link} pour obtenir plus d’informations."
+                terms_agree: "En cliquant ci-dessus, vous acceptez nos %{terms_link}."
+            installed_title: "Installation terminée ! Dernière étape..."
+            never_forget: "N’oubliez plus jamais un mot de passe ! Activez votre compte GRATUIT"
+            recently_installed: "PasswordBox a récemment été ajouté à votre navigateur"
+            testimonial: "C’est une sorte de Dropbox pour les mots de passe. Cela fonctionne sur tous mes appareils, n’importe où, et le partage est facile"
+            login_link: "Si vous possédez déjà un compte PasswordBox, <a href=\"%{path}\" target=\"_blank\">cherchez la boîte verte</a> dans votre navigateur"
+            validating: "Informations en cours de validation..."
+            almost_done: "Vous avez presque terminé ! Il ne vous reste plus qu’à créer votre mot de passe"
+            delayed: 
+                never_forget: 
+                    generic: "N’oubliez plus jamais aucun mot de passe !"
+                    domain: "N’oubliez plus jamais votre mot de passe pour <strong>%{website}</strong> !"
+                signup_free: "Inscrivez-vous GRATUITEMENT dès maintenant !"
+                secure: "Pour sécuriser vos mots de passe enregistrés, <strong>inscrivez-vous GRATUITEMENT et profitez de la connexion automatique sur vos sites préférés !</strong>"
+                watch_video: "Regardez notre vidéo"
+                how_pbox_works: "Fonctionnement de PasswordBox"
+            crypto: 
+                creating: "Création de votre compte en cours..."
+                encrypting: "Nous encodons votre mot de passe afin de garantir une sécurité maximale. Ce processus peut prendre un moment (jusqu’à une minute) sur les anciens ordinateurs. C’est tout à fait normal. Veuillez patienter jusqu’à la fin du processus."
+        video: 
+            typing_passwords: "Taper des mots de passe manuellement est un processus pénible et frustrant. PasswordBox vous aide en enregistrant automatiquement vos identifiants lorsque vous vous connectez sur un site."
+            next_step: "J’ai compris. Merci !"
+        guides: 
+            extension: 
+                congratulations: "Félicitations !"
+                save_success: "Vos mots de passe ont bien été enregistrés dans PasswordBox !"
+                green_box: "Cliquez sur l’icône en forme de boîte verte dans votre navigateur lorsque vous souhaitez y accéder !"
+        tutorial: 
+            create_password: 
+                click_instructions: "Cliquez sur un bouton ci-dessous pour ajouter votre premier mot de passe"
+                form_instructions: "Saisissez votre nom d’utilisateur et votre mot de passe"
+            one_click_login: "Bien joué ! Essayons maintenant la connexion en 1 clic"
+            tour_video: 
+                extension_guide: "Cliquez sur la boîte verte pour ouvrir votre PasswordBox"
+                instructions: "Tirez le maximum de PasswordBox avec cette présentation rapide du produit."
+                title: "Présentation de démarrage"
+    features: 
+        seamless_login: 
+            title: "Adieu mots de passe. Connexion instantanée sur n’importe quel appareil, site Web ou application mobile."
+            subtitle: "Vous en avez assez d’être ralenti par les écrans de connexion ? Accédez plus rapidement à vos comptes grâce à la connexion en un seul clic et à la fonction 1-Tap Login."
+            item_1: "Exclusivement avec PasswordBox, %{link} sans même avoir besoin de saisir un nom d’utilisateur ou un mot de passe."
+            item_2: "Ouvrez une page Web et PasswordBox remplira automatiquement vos informations pour vous connecter. Vous n’avez pas besoin de saisir vos informations sur votre appareil mobile ou de bureau avec Chrome et Safari."
+            item_3: "Connexion express même lorsque vous possédez plusieurs comptes d’utilisateur pour le même site"
+            item_4: "Protection contre les programmes malveillants qui détectent la frappe : si vous ne tapez pas, ils ne peuvent rien voler"
+            one_tap_link: "connectez-vous à vos applications mobiles préférées sous Android avec 1-Tap"
+        device_syncing: 
+            title: "Vos mots de passe, où que vous soyez"
+            subtitle: "Enregistrez un mot de passe dans PasswordBox et il est instantanément enregistré dans tous vos navigateurs, sur tous vos ordinateurs et appareils mobiles."
+            item_1: "Synchronisation automatique afin d’avoir toujours vos identifiants à portée de main"
+            item_2: "Compatible avec presque tous les ordinateurs, navigateurs et appareils mobiles du marché"
+            item_3: "Extension gratuite pour les principaux navigateurs, notamment Chrome, Firefox et Internet Explorer"
+            item_4: "L’encodage et le décodage de vos données sont réalisés directement sur votre appareil grâce au système AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox pour appareil mobile"
+            widget: 
+                title: "Applications mobiles gratuites"
+                subtitle: "Vos mots de passe, où que vous soyez"
+            notify: 
+                sms: "Envoyer un SMS à mon téléphone"
+                email: "Envoyer un courriel sur mon appareil"
+                sending: "Lien d’installation en cours d’envoi"
+            email: 
+                success: "Courriel envoyé ! Consultez vos courriels pour obtenir votre lien de téléchargement"
+                errors: 
+                    invalid: "L’adresse de courriel n’est pas remplie ou n’est pas valide"
+                    failed: "Échec de l’envoi de courriel au contact"
+            sms: 
+                body: "Pour installer PasswordBox, cliquez ici sur votre appareil mobile : %{link}"
+                success: "SMS envoyé ! Consultez vos messages pour obtenir votre lien de téléchargement."
+                errors: 
+                    phone: 
+                        missing: "Le numéro de téléphone n’est pas rempli."
+                        invalid: "Nous n’avons pas pu envoyer de message à ce numéro de téléphone. Assurez-vous de fournir l’indicatif du pays s’il s’agit d’un numéro international."
+                    service: 
+                        unavailable: "Le service SMS n’est pas disponible pour le moment"
+            apps: 
+                app_store: "Disponible sur <span>App Store</span>"
+                google_play: "Obtenez-le gratuitement sur <span>Google Play</span>"
+            ces_award: "Meilleure application mobile <span>du CES 2014</span>"
+        desktop: 
+            title: "Téléchargez PasswordBox GRATUITEMENT"
+            warnings: 
+                windows_only: "Uniquement pour Windows"
+                mac_only: "Uniquement pour Mac OS"
+            button: 
+                get: "Obtenir PasswordBox"
+                for: "pour"
+        instructions: "Copiez le lien suivant et collez-le dans votre barre d’adresse %{browser} :"
+        copy: 
+            button: "Copier"
+            tooltip: "Copier dans le presse-papiers"
+            success: "Copié !"
+    login: 
+        title: "Si vous avez déjà installé PasswordBox, cliquez sur la boîte verte pour vous connecter."
+        reinstall: "Si vous devez réinstaller PasswordBox, cliquez sur le bouton ci-dessous :"
+    member: 
+        errors: 
+            email: 
+                exists: "Il existe déjà un autre membre avec cette adresse de courriel. Veuillez essayer avec une autre adresse."
+                invalid: "Veuillez saisir une adresse de courriel valide."
+    emails: 
+        common: 
+            greeting: "Bonjour %{full_name},"
+            hey: "Hé !"
+            pbox_team: "L’équipe PasswordBox"
+        layout: 
+            tagline: "PasswordBox vous permet d’accéder rapidement et de manière sécurisée à vos comptes en ligne, de partager vos mots de passe en toute sécurité et de profiter de la fonction Legacy Locker sur tous vos appareils. N’oubliez plus jamais aucun mot de passe."
+            unsubscribe: 
+                link: "Se désabonner"
+                from_all: "%{unsubscribe} des courriels de PasswordBox"
+        welcome: 
+            subject: "%{full_name}, bienvenue chez PasswordBox !"
+            title: "Bienvenue"
+            avg_notice: "Dans la barre d’outils AVG, PasswordBox vous permet d’accéder rapidement à vos comptes en ligne, de partager vos mots de passe en toute sécurité et de profiter des fonctions d’héritage numérique sur tous vos appareils. "
+            account_ready: "Votre compte est presque prêt !"
+            login_info: "Votre nom d’utilisateur est %{email}. Votre mot de passe est le mot de passe principal que vous avez créé lors de votre inscription."
+            say_goodbye: "Dites adieu aux nombreux identifiants et mots de passe. À partir de maintenant, vous n’aurez besoin que de votre mot de passe principal. PasswordBox permet une connexion facile en 1 clic, le partage sécurisé de mots de passe et la gestion de votre vie numérique sur tous vos appareils."
+            finally: "Enfin, vous allez pouvoir penser à autre chose qu’à vos mots de passe !"
+            confirm: "Confirmez votre compte maintenant"
+            click_below: "Cliquez sur le lien ci-dessous pour confirmer votre compte :"
+            welcome: "Bienvenue chez PasswordBox !"
+        sync: 
+            subject: "Téléchargez PasswordBox sur votre appareil mobile !"
+            instructions: "Pour télécharger PasswordBox, ouvrez ce courriel sur votre appareil mobile et suivez le lien ci-dessous :"

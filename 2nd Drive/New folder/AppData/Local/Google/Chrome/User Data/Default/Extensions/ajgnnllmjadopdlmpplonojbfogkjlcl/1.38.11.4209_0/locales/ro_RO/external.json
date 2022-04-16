@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Cum se activează modulele cookie în Firefox",
+    "onMac" : "Pe Mac",
+    "onPC" : "Pe calculator",
+    "step1" : "<strong>1: Mergeţi în Firefox &gt; Preferinţe &gt; Confidenţialitate.</strong><br>În secţiunea Istoric, selectaţi:<br><strong>„Firefox va: Utiliza setări personalizate pentru istoric”</strong>",
+    "step2" : "<strong>2: În secţiunea Istoric, selectaţi „Acceptă module cookie de pe site-uri”</strong><br>Apoi, din meniul vertical de mai jos:<br><strong>„Acceptă module cookie de terţă parte” &gt; „Întotdeauna”</strong>"
+  },
+  "import" : {
+    "title" : "Importaţi parole în PasswordBox",
+    "selectSoure" : "Selectaţi sursa",
+    "export" : "Exportaţi-vă parolele",
+    "import" : "Importaţi fişierul cu parolele dvs. în PasswordBox",
+    "dashlane1" : "Pentru a vă exporta parolele din Dashlane, deschideţi Dashlane şi faceţi clic pe:",
+    "dashlane2" : "Fişier > Exportare date",
+    "dashlane3" : "Selectaţi <strong class=\"green\">opţiunea de format</strong> Unsecured Archives CSV.",
+    "dashlane4" : "Salvaţi fişierul în locaţia pe care o doriţi.",
+    "dashlane5" : "Numai ultima versiune de Dashlane este acceptată.",
+    "lastpass1" : "Pentru a vă exporta parolele din LastPass, faceţi clic pe pictograma plugin-ului LastPass din browser-ul dvs. şi selectaţi:",
+    "lastpass2" : "<strong>Unelte &gt; Export</strong><br>La şi selectaţi <strong class=\"green\">fişierul LastPass CSV</strong> din meniu. Introduceţi-vă parola, dacă vi se solicită.",
+    "lastpass3" : "Faceţi clic pe OK şi salvaţi-l în locaţia pe care o doriţi.",
+    "lastpass4" : "Numai ultima versiune de LastPass este acceptată.",
+    "roboform1" : "Exportarea din Roboform este momentan disponibilă numai pe sistemele de operare Mac.",
+    "roboform2" : "Versiunea pentru Windows va fi lansată în curând.",
+    "roboform3" : "Pentru a vă exporta parolele din RoboForm, deschideţi extensia de browser pentru RoboForm şi faceţi clic pe <strong>Opţiuni:</strong>",
+    "roboform4" : "Pe opţiunea panou, selectaţi „User Data” (Datele utilizatorului) şi faceţi clic pe <strong>„Export to” (Exportaţi la)</strong>",
+    "roboform5" : "<strong>Salvaţi fişierul ca .html</strong> în locaţia pe care o doriţi.",
+    "roboform6" : "Numai ultima versiune de RoboForm este acceptată.",
+    "onepassword1" : "Pentru a vă exporta parolele din 1Password, deschideţi:",
+    "onepassword2" : "<strong>- fişier &gt; Export:</strong><br>selectaţi <strong class=\"green\">formatul</strong> Tab-delimited-text şi <strong>opţiunea</strong> All logins (toate conectările).",
+    "onepassword3" : "Faceţi clic pe OK şi salvaţi-l în locaţia pe care o doriţi.",
+    "onepassword4" : "Numai ultima versiune de 1Password este acceptată.",
+    "onepasswordClick" : "<u>Faceţi clic aici</u> pentru a încărca <span class=\"serviceName green\">fişierul dvs.</span> 1Password.",
+    "keepass1" : "Pentru a vă exporta parolele din KeePass, deschideţi KeePass şi faceţi clic pe:<",
+    "keepass2" : "<strong>Fişier &gt; Export</strong><br>Selectaţi <strong>opţiunea de format</strong> KeePass CSV 1.x.",
+    "keepass3" : "Salvaţi fişierul în locaţia pe care o doriţi.",
+    "keepass4" : "Numai ultima versiune de KeePass este acceptată."
+  }
+}

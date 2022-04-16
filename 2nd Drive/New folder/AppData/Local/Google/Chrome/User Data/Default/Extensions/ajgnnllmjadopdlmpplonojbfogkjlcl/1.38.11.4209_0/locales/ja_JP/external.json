@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "FirefoxでCookieを有効にする方法",
+    "onMac" : "Mac",
+    "onPC" : "PC",
+    "step1" : "<strong>1. 「Firefox」&gt;「オプション」&gt;「プライバシー」の順に選択します。</strong><br>「履歴」セクションで<strong>「Firefox に記憶させる履歴を詳細設定する」</strong>を選択します。",
+    "step2" : "<strong>2. 「履歴」セクションで、「サイトから送られてきた Cookie を保存する」を選択します。</strong><br>次に、<br><strong>「サードパーティ Cookie の保存」の横にあるドロップダウンメニューで「常に許可」</strong>を選択します。"
+  },
+  "import" : {
+    "title" : "PasswordBoxにパスワードをインポート",
+    "selectSoure" : "インポート元を選択",
+    "export" : "パスワードをエクスポート",
+    "import" : "PasswordBoxにパスワードファイルをインポート",
+    "dashlane1" : "Dashlaneからパスワードをエクスポートするには、Dashlaneを開いて、次をクリックしてください：",
+    "dashlane2" : "「ファイル」>「データをエクスポート」",
+    "dashlane3" : "<strong class=\"green\">「保護なしのアーカイブ CSV」</strong>フォーマットオプションを選択します。",
+    "dashlane4" : "好きな場所にファイルを保存します。",
+    "dashlane5" : "最新バージョンのDashlaneのみサポートされています。",
+    "lastpass1" : "LastPassからパスワードをエクスポートするには、お使いのブラウズでLastPassプラグインアイコンをクリックして、次を選択します：",
+    "lastpass2" : "<strong>「ツール」&gt;「エクスポート先」</strong><br>に移動し、メニューから<strong class=\"green\">「LastPass CSV」</strong>ファイルを選択します。入力が求められたら、パスワードを入力します。",
+    "lastpass3" : "「OK」をクリックし、好きな場所にファイルを保存します。",
+    "lastpass4" : "最新バージョンのLastPassのみサポートされています。",
+    "roboform1" : "Roboformからのエクスポートは、現在Macオペレーティングシステムでのみサポートされています。",
+    "roboform2" : "Windowsのサポートもまもなく導入される予定です。",
+    "roboform3" : "RoboFormからパスワードをエクスポートするには、RoboFormブラウザ拡張機能を開き、<strong>「オプション」</strong>をクリックします。",
+    "roboform4" : "パネルオプションで「ユーザーデータ」を選択し、<strong>「エクスポート先」</strong>をクリックします。",
+    "roboform5" : "好きな場所に、<strong>ファイルを.htmlとして保存</strong>します。",
+    "roboform6" : "最新バージョンのRoboFormのみサポートされています。",
+    "onepassword1" : "1Passwordからパスワードをエクスポートするには、次を開きます：",
+    "onepassword2" : "<strong>「ファイル」&gt;「エクスポート」</strong><br><strong class=\"green\">「タブ区切りテキスト」</strong>フォーマットを選択し、<strong>「すべてのログイン」</strong>オプションを選択します。",
+    "onepassword3" : "「OK」をクリックし、好きな場所にファイルを保存します。",
+    "onepassword4" : "最新バージョンの1Passwordのみサポートされています。",
+    "onepasswordClick" : "<span class=\"serviceName green\">1Password</span>ファイルをアップロードするには、<u>ここをクリックしてください</u>",
+    "keepass1" : "KeePassからパスワードをエクスポートするには、KeePassを開いて、次をクリックしてください：",
+    "keepass2" : "<strong>「ファイル」&gt;「エクスポート」</strong><br><strong>「KeePass CSV 1.x」</strong>フォーマットオプションを選択します。",
+    "keepass3" : "好きな場所にファイルを保存します。",
+    "keepass4" : "最新バージョンのKeePassのみサポートされています。"
+  }
+}

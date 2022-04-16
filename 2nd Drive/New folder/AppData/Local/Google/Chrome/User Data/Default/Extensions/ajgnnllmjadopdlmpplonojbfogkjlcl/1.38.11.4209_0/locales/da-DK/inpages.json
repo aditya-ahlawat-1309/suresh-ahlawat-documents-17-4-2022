@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Luk",
+		"done": "Færdig",
+		"dontSave" : "Gem ikke",
+		"neverSave" : "Gem aldrig",
+		"saveNow" : "Gem nu",
+		"yes" : "Ja",
+		"no" : "Nej",
+		"remove": "Fjern",
+		"dontUpdate" : "Opdater ikke",
+		"updateNow" : "Opdater nu",
+		"dontAskAgain" : "Spørg ikke igen",
+
+		"dontSaveNow" : "Gem ikke denne gang",
+		"dontSaveItNow" : "Gem ikke nu",
+		"neverSaveIt" : "Gem aldrig",
+		"neverForThisSite" : "Gem aldrig nogensinde",
+		"savePassword" : "Gem adgangskode",
+		"saveThisPassword" : "Gem denne adgangskode",
+		"dontShowAgain" : "Vis ikke igen",
+		"masterPassword" : "Hovedadgangskode",
+		"continue" : "Fortsæt",
+		"ok": "OK",
+		"typeMasterPassword" : "Indtast hovedadgangskoden",
+		"settings": "Indstillinger",
+		"copyClipboard": "Kopiér til udklipsholder",
+		"youreIn" : "Så er du inde.",
+		"success": "Gennemført"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key har gemt din adgangskode til <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key har registreret en ny adgangskode til <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Et øjeblik"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Adgangskoden til <span class='primary'>%{siteName}</span> er ikke stærk nok"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Du har fået en ny delt adgangskode."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Har True Key logget dig på?",
+		"deleteConfirm": "Vil du fjerne <span class='secondary'>%{username}</span> fra din True Key-profil?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Hovsa. True Key understøtter ikke dette websted endnu."
+	},
+	"connectWith" : {
+		"mainText" : "Vælg profil",
+		"login": "Log på"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Din profil er låst",
+		"ctaUnlock": "Log på for at låse den op",
+		"placeholder" : "Indtast din hovedadgangskode",
+		"mainTxtHasUsers" : "Log på med din True Key-profil",
+		"mainTxtNoUsers" : "Indtast hovedadgangskoden for at gemme denne adgangskode",
+		"error" : "Forkert adgangskode",
+		"decrypting" : "Dekryptering",
+		"profileLocked" : "Din profil er låst",
+		"unlockedLogIn" : "Lås op, og log på"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Er du træt af at skulle holde styr på mange adgangskoder? Brug True Key-appen til at logge på hurtigt",
+		"signup" : "Ja, vis mig hvordan"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Er du træt af problemer med adgangskoder? Brug True Key, som giver dig hurtigere og nemmere adgang.",
+		"signup" : "Ja, vis mig hvordan"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Log på <span class='secondary'>%{siteName}</span> –",
+		"txt2" : "True Key-appen husker adgangskoden for dig."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "True Key logger dig sikkert på næste gang."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Nu kan du logge på hurtigere, nemmere og mere sikkert fra True Key Launchpad."
+	},
+	"passgen" : {
+		"generate": "Generér adgangskode",
+		"regenerate" : "Generér adgangskode",
+		"noPassGenerated": "Der er ikke genereret nogen adgangskode",
+		"letters" : "Bogstaver",
+		"digits" : "Tal",
+		"symbols" : "Symboler",
+		"capitals" : "Store bogstaver"
+	}
+}

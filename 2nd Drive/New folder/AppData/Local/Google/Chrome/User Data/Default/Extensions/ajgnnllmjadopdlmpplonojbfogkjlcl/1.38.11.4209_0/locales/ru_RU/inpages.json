@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Закрыть",
+    "done" : "Выполнено",
+    "dontSave" : "Не сохранять",
+    "neverSave" : "Никогда не сохранять",
+    "saveNow" : "Сохранить сейчас",
+    "yes" : "Да",
+    "no" : "Нет",
+    "remove" : "Удалить",
+    "dontUpdate" : "Не обновлять",
+    "updateNow" : "Обновить сейчас",
+    "dontAskAgain" : "Больше не спрашивать",
+    "dontSaveNow" : "Не сохранять сейчас",
+    "dontSaveItNow" : "Не сохранять сейчас",
+    "neverSaveIt" : "Никогда не сохранять",
+    "neverForThisSite" : "Никогда для этого сайта",
+    "savePassword" : "Сохранить пароль",
+    "saveThisPassword" : "Сохранить этот пароль",
+    "dontShowAgain" : "Больше не показывать",
+    "masterPassword" : "Главный пароль",
+    "continue" : "Продолжить",
+    "typeMasterPassword" : "Введите главный пароль",
+    "settings" : "Настройки",
+    "copyClipboard" : "Скопировать в буфер обмена"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> сохранил новый пароль для <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> обнаружил новый пароль для <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> выполняет мгновенный вход"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Ваш пароль для <span class='green'>%{siteName}</span> недостаточно надежный"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "У вас есть <span id='shareCount' class='green'>1 новое</span> приглашение на доступ к паролю."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Вы успешно вошли через  учетную запись <span class='green'>%{username}?</span>",
+    "deleteConfirm" : "Желаете удалить <span class='green'>%{username}</span> из PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "К сожалению, этот сайт еще не поддерживается - наша команда прилагает все усилия, чтобы обеспечить его поддержку, и она вскоре появится."
+  },
+  "connectWith" : {
+    "mainText" : "Выберите учетную запись, в которую вы хотите войти",
+    "login" : "Вход"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Введите главный пароль",
+    "mainTxtHasUsers" : "Введите мастер-пароль для мгновенного входа",
+    "mainTxtNoUsers" : "Введите мастер-пароль, чтобы сохранить этот пароль",
+    "error" : "Неправильный пароль",
+    "decrypting" : "Расшифровка"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Сохранить этот пароль.",
+    "signup" : "Зарегистрироваться в PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Выберите карту для оплаты",
+    "use" : "Использовать"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Вы никогда больше не забудете свой пароль:",
+    "createAccount" : "Создать учетную запись",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> добавлен на панель инструментов %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Теперь войдите в свою учетную запись <span class='green'>%{siteName}</span> ...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> автоматически сохранит его для вас!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... Вот и все!",
+    "mainText" : "Ваш пароль для <span class='green'>%{siteName}</span> теперь надежно сохранен в вашем PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Поздравляем",
+    "mainText" : "Теперь у вас есть доступ к своим паролям в любое время - нажимайте <strong class='green'>зеленый квадратик</strong> в своем браузере! Попробуйте прямо сейчас!"
+  },
+  "passgen" : {
+    "generate" : "Сгенерировать надежный пароль",
+    "regenerate" : "Сгенерировать новый пароль",
+    "noPassGenerated" : "Пароль не сгенерирован",
+    "letters" : "Буквы",
+    "digits" : "Цифры",
+    "symbols" : "Символы",
+    "capitals" : "Заглавные"
+  }
+}

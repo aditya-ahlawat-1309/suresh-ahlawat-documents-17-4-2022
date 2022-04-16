@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension.",
+      "message": "Google Chrome을 위한 무료 비밀번호 관리자 – 다시는 절대 비밀번호를 잊지 마세요."
+   },
+   "appName": {
+      "description": "Name of the extension.",
+      "message": "PasswordBox.com"
+   }
+}

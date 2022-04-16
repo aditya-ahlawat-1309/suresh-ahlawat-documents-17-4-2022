@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Luk",
+    "done" : "Udført",
+    "dontSave" : "Gem ikke",
+    "neverSave" : "Gem aldrig",
+    "saveNow" : "Gem nu",
+    "yes" : "Ja",
+    "no" : "Nej",
+    "remove" : "Fjern",
+    "dontUpdate" : "Opdater ikke",
+    "updateNow" : "Opdater nu",
+    "dontAskAgain" : "Spørg ikke igen",
+    "dontSaveNow" : "Gem ikke nu",
+    "dontSaveItNow" : "Gem den ikke nu",
+    "neverSaveIt" : "Gem den aldrig",
+    "neverForThisSite" : "Aldrig for dette websted",
+    "savePassword" : "Gem adgangskode",
+    "saveThisPassword" : "Gem denne adgangskode",
+    "dontShowAgain" : "Vis ikke dette igen",
+    "masterPassword" : "Hovedadgangskode",
+    "continue" : "Fortsæt",
+    "typeMasterPassword" : "Indtast hovedadgangskoden",
+    "settings" : "Indstillinger",
+    "copyClipboard" : "Kopiér til udklipsholder"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> har gemt en ny adgangskode til <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> har registreret en ny adgangskode til <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> logger dig på med det samme"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Din adgangskode til <span class='green'>%{siteName}</span> er ikke længere stærk nok"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Du har <span id='shareCount' class='green'>1 ny</span> invitation til deling af adgangskode."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Kunne du logge på med din <span class='green'>%{username}-konto</span>?",
+    "deleteConfirm" : "Vil du fjerne <span class='green'>%{username}</span> fra din Passwordbox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Dette websted understøttes desværre ikke endnu - vores hold arbejder hårdt på at understøtte det, og det sker snart"
+  },
+  "connectWith" : {
+    "mainText" : "Vælg den konto, som du vil logge på med",
+    "login" : "Logon"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Indtast hovedadgangskoden",
+    "mainTxtHasUsers" : "Indtast din hovedadgangskode for at logge på med det samme",
+    "mainTxtNoUsers" : "Indtast din hovedadgangskode for at gemme denne adgangskode",
+    "error" : "Forkert adgangskode",
+    "decrypting" : "Dekrypterer"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Gem denne adgangskode nu.",
+    "signup" : "Tilmeld dig PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Vælg det kreditkort, der skal bruges",
+    "use" : "Brug"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Glem aldrig en adgangskode igen:",
+    "createAccount" : "Opret en konto",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> er blevet føjet til din %{partner}-værktøjslinje"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Log nu på din <span class='green'>%{siteName}</span>-konto ...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> vil automatisk gemme den for dig!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... Og det var det!",
+    "mainText" : "Din <span class='green'>%{siteName}</span>-adgangskode er nu sikkert gemt i din PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Tillykke",
+    "mainText" : "Du kan nu få adgang til dine adgangskoder på et hvilket som helst tidspunkt ved at klikke på <strong class='green'>det grønne boksikon</strong> i din browser! Prøv det nu!"
+  },
+  "passgen" : {
+    "generate" : "Generér en stærk adgangskode",
+    "regenerate" : "Generér en ny adgangskode",
+    "noPassGenerated" : "Der blev ikke genereret en adgangskode",
+    "letters" : "Bogstaver",
+    "digits" : "Tal",
+    "symbols" : "Symboler",
+    "capitals" : "Store bogstaver"
+  }
+}

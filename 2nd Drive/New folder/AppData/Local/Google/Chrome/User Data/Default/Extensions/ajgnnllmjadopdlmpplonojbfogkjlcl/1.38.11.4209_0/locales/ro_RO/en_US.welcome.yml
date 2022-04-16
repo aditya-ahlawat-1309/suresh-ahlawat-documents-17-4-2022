@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Engleză"
+    common: 
+        privacy: "Confidențialitate"
+        privacy_full: "Politică de confidențialitate"
+        terms: "Termeni"
+        terms_full: "Termeni de servicii"
+        alert: "Alertă!"
+        warning: "Avertisment!"
+        or: "sau"
+        copyright: "© %{date}. Toate drepturile rezervate."
+        change_language: "Alegeţi limba"
+    shared: 
+        member_menu: 
+            upgrade: "Actualizare cont"
+            refer_friends: "Invitaţi prieteni"
+            help: "Ajutor şi asistenţă"
+            logout: "Deconectare"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox vă permite să uitați de parole. Luați-vă rămas bun de la numele de utilizatori și de la parolele multiple. Veți avea nevoie doar de parola dvs. master PasswordBox!"
+                mobile: "PasswordBox este un manager de parole gratuit, care ajută oamenii să stocheze, recupereze și să partajeze parole pe orice dispozitiv. Încercați aplicația PasswordBox pentru Android, iPhone sau iPad."
+        title: 
+            default: "Manager de parole gratuit"
+            welcome: "Bun venit"
+    download: 
+        download: "Descărcați GRATUIT"
+        login: "Conectare"
+        mobile: "Mobil"
+        platforms: "Gratuit pentru"
+        watch_video: "Vizionați clipul video"
+        available_for: "De asemenea disponibil pentru %{os} și %{platform}"
+        free_for: "Gratuit pentru %{windows}, %{mac} și %{mobile}."
+        guides: 
+            click_add: "Faceţi clic pe adăugare pentru a instala PasswordBox"
+            click_allow: "Faceţi clic pe „allow” (permite) pentru a instala PasswordBox"
+            click_install: "Faceţi clic pe „Install” (Instalare)"
+            click_install_now: "Faceţi clic pe „Install Now” (Instalaţi acum)"
+            click_run: "Faceţi clic pe „Run” (Executare) pentru a instala"
+            click_yes: "Faceţi clic pe „Yes” (Da) pentru a accepta setările"
+            click_here: "Faceţi clic aici"
+            run_and_open: "Executați și deschideți programul de instalare"
+            install_pbox: "Instalați PasswordBox"
+            close_window: "Închideți fereastra"
+            download_pbox: "Descărcare PasswordBox"
+        alerts: 
+            mobile: "Descărcați GRATUIT aplicația %{app_name} pentru a vă bucura de conectarea 1-Tap din mers!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox este disponibilă doar pentru versiunile %{browser} %{min_version} și mai noi. Actualizați-vă browserul și încercați din nou."
+                single_version: "PasswordBox este disponibil doar pentru %{browser}. Actualizați-vă browserul și încercați din nou."
+                unavailable: "PasswordBox nu este disponibil pentru versiunea dvs. de %{browser}. Încercați din nou cu %{suggestion}."
+                safari_windows: "Momentan, PasswordBox pentru Safari este disponibil doar pentru Mac OS X."
+                safari: 
+                    unsupported: "Din păcate, Safari nu mai este suportat. Încercați din nou cu Chrome, Firefox sau Internet Explorer."
+                    read_more: "Citiți mai multe aici"
+                unsupported: 
+                    problems: "Această versiune de %{browser} nu este suportată în mod oficial. Puteți instala în continuare PasswordBox, dar s-ar putea să întâmpinați unele probleme."
+                    upgrade_suggestion: "Pentru a asigura cea mai bună experiență, vă sugerăm să vă actualizați browserul la ultima versiune."
+                    install_anyway: "Instalează oricum"
+            mobile: 
+                min_version: "PasswordBox nu este disponibil pentru această versiune de %{os}. Încercați din nou pe un dispozitiv care utilizează versiunea %{min_version} sau mai recentă."
+                generic: "PasswordBox nu este disponibil pentru acest dispozitiv. Încercați din nou pe iPhone, iPad sau Android sau deschideți această pagină pe spațiul dvs. de lucru, pentru a instala extensia noastră pentru browser."
+        onboard: 
+            welcome: "Bun venit la instalarea PasswordBox"
+            failed_install: "Instalarea PasswordBox a eşuat"
+            never_forget: "Nu mai uitaţi niciodată nicio parolă!"
+            click_to_retry: "Faceţi clic pe „retry” (reîncearcă) pentru a încerca din nou"
+            retry: "Reîncercați"
+            free_vault: "Seif de parole gratuit pentru Google Chrome."
+            add_to_chrome: "Adăugați la Chrome"
+        guide: 
+            almost_done: "Aproape ați terminat!"
+            greeting: "Salutare, %{member_name}!"
+            welcome: "Bun venit la PasswordBox. Urmați pașii de mai jos pentru a finaliza instalarea."
+            downloading: "Descărcarea PasswordBox va începe în mod automat. În caz contrar, %{restart_link}."
+            restart: "faceţi clic aici pentru a reporni descărcarea"
+    address_book: 
+        import: 
+            address: "Adresa"
+            email_password: "Parolă e-mail"
+            fetching_contacts: "Importare contacte..."
+            gmail: 
+                connect_button: "Conectați-vă la Gmail"
+                instructions: "Faceţi clic pentru a vă conecta la agenda dvs. Gmail"
+            open_address_book: "Deschideți agenda"
+            sending_promise: "Nu vom trimite niciodată e-mailuri către contactele dvs. fără acordul dvs."
+            connect: 
+                title: "Conectați-vă la agenda dvs."
+                button: "Conectați-vă la %{provider}"
+                instructions: "Faceţi clic pentru a vă conecta la agenda dvs.%{provider} "
+        select: 
+            contacts: "Contacte"
+            deselect_all: "Deselectați tot"
+            search_contact: "Căutați un contact"
+            select_all: "Selectați tot"
+            select_title: "Selectați din Agendă"
+            send_success: "Cererea dvs. de moştenire digitală a fost trimisă cu succes!"
+            to: "Către"
+    forms: 
+        buttons: 
+            back: "Înapoi"
+            cancel: "Anulare"
+            ok: "OK"
+            save: "Salvare"
+            submit: "Remitere"
+            send: "Trimitere"
+        errors: 
+            digits: 
+                only: "Introduceți doar cifre."
+            email: 
+                exists: "Acest e-mail este deja utilizat."
+                invalid: "Acest e-mail este nevalid."
+                invalid_please: "Introduceți o adresă de e-mail validă."
+                required: "Câmpul e-mail este necesar."
+            fullname: 
+                required: "Introduceți numele dvs. complet."
+                too_long: "Introduceți un nume mai scurt."
+                too_short: "Numele dvs. trebuie să aibă cel puțin %{length} caractere."
+            password: 
+                required: "Alegeți o parolă."
+                too_short: "Asigurați-vă că parola dvs. are cel puțin %{length} caractere."
+                confirm: "Confirmați parola dvs."
+                match: "Asigurați-vă că parolele dvs. se potrivesc."
+                different: "Parola dvs.nu poate fi aceeași cu e-mailul sau numele dvs."
+            required: 
+                generic: "Acest câmp este necesar."
+            generic: "Ups! S-a întâmplat ceva. Încercați să remiteți din nou formularul."
+            length: 
+                between: "Introduceți o valoare cu lungimea între {0} and {1} caractere."
+        labels: 
+            email: "E-mail"
+            fullname: "Nume complet"
+            first_name: "Prenume"
+            last_name: "Nume de familie"
+            master_password: "Parolă master"
+            password: "Parolă"
+            title: "Titlu"
+            username: "Nume de utilizator"
+            email_full: "Adresa dvs. de e-mail"
+            phone_full: "Numărul dvs. de telefon"
+            date: "Data"
+        success: 
+            thank_you: "Mulțumesc!"
+        info: 
+            password: 
+                very_weak: "Foarte slabă"
+                weak: "Slabă"
+                average: "Medie"
+                good: "Bună"
+                strong: "Puternică"
+    premium: 
+        limit_reached: "Ați atins limita dvs. de %{limit}. Actualizați acum și obțineți stocare nelimitată a parolelor."
+        billing: 
+            details: "Veți fi taxat cu %{price} dolari americani pentru un an de PasswordBox Premium. Dacă nu sunteți mulțumit în primele 30 de zile ale abonamentului dvs., vă vom returna 100% din suma plătită, fără a pune întrebări."
+            renewal: "Contul dvs. va fi reînnoit anual în mod automat, cu excepția cazului în care anulați acest lucru, prin trimiterea unui e-mail către %{support_link} înainte de data scadentă a următoarei plăți."
+        enter_cc_info: "Introduceți informațiile cardului de credit"
+        form: 
+            errors: 
+                credit_card_invalid: "Introduceți un număr valid de card de credit."
+                generic_processing: "A intervenit o problemă la procesarea plății dvs."
+                unable_to_process: "Nu am putut procesa cardul dvs. de credit. Verificați de două ori că aveți informațiile corecte și încercați din nou,"
+            labels: 
+                as_on_card: "așa cum apare pe card"
+                credit_card: "Numărul cardului de credit"
+                expiry: "Data de expirare"
+                secure: "Securizat"
+                verification: "Numărul din 4 cifre pentru verificarea cardului"
+                what: "Ce este aceasta?"
+                country: "Țara"
+                postal_code: "Cod poștal"
+                street_address: "Adresa"
+                city: "Oraşul"
+                region: "Regiunea"
+            submit: "Activare Premium"
+            processing: "Se procesează... Vă rugăm așteptați."
+        main_title: "Accesați versiunea cu funcţii complete a aplicaţiei PasswordBox pentru %{price}/lună!"
+        premium: "Premium"
+        quote: "Am mai multe nume de utilizator și parole decât pot ține minte. Din fericire, PasswordBox și le poate aminti pentru mine. Serviciul dvs. mă liniștește, deoarece dacă eu o să sufăr un accident de mașină fatal astăzi, știu că cei dragi vor avea acces la diferitele mele conturi online, cu instrucțiunile mele. Este o ușurare să știu că soțul meu va putea să îmi acceseze contul Paypal și toate fotografiile de familie pe care le am pe Flickr."
+        satisfaction_guarantee: "Dacă nu sunteți mulțumit în primele 30 de zile, vă vom returna 100% din suma plătită. <strong>Fără întrebări, fără complicaţii.</strong>."
+        success: 
+            already_premium: "Deja sunteţi membru Premium! Abonamentul dvs. este valid până la %{date}."
+            free_for_life_notice: "Vă mulțumim pentru participarea la testul nostru beta. Contul dvs. va fi întotdeauna gratuit."
+            payment_success: "Mulțumesc! Plata dvs. a fost primită."
+            return_to_public: "Întoarceți-vă pe site-ul public"
+            to_passwordbox: "Du-mă la contul meu PasswordBox"
+            upgrade_success: "Contul dvs. a fost actualizat cu succes."
+        testimonial: "Recomandare"
+        unconfirmed: 
+            title: "Contul dvs. încă nu este confirmat"
+            check_spam: "Dacă nu vedeți e-mailul în căsuţa dvs. poştală, nu uitaţi să verificați <strong>folderul</strong> cu mesaje spam."
+            no_email: "Nu ați primit e-mailul?"
+            explanation: "Confirmarea contului dvs. nu doar validează adresa dvs. pentru noi, ci deblochează şi funcţiile de partajare și Legacy Locker."
+            resend_email: "Retrimite e-mailul de confirmare"
+            steps: 
+                send_email: "Trimiteți un e-mail de verificare către contul dvs. de e-mail"
+                click_link: "Faceţi clic pe link-ul sugerat în e-mail"
+                done: "Ați terminat!"
+            continue: 
+                instructions: "După ce v-aţi confirmat contul, faceţi clic pe <strong>„continue” (continuare)</strong> pentru a completa detaliile dvs. de plată."
+                action: "Continuare"
+            messages: 
+                email_sent: "Verificați-vă căsuţa poştală. V-am trimis un e-mail de confirmare."
+                not_confirmed: "Încă nu v-ați confirmat contul."
+                general_error: "Ceva nu a funcționat. Încercați din nou."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Invită prieteni"
+                invite_new: "Invită nou"
+                invites_accepted: "Invitații acceptate"
+                invites_sent: "Invitații trimise"
+                manage_invites: "Gestionează-mi invitațiile"
+                manage_title: "Gestionarea invitațiilor dvs."
+                no_invites_sent: "Încă nu ați trimis nicio invitație. Trimiteți câteva!"
+                referrals_needed: "Aveți nevoie de %{count} invitații acceptate pentru a primi cont gratuit cu stocare nelimitată"
+                referrals_needed_single: "Aveți nevoie de încă o invitație acceptată pentru a obține contul dvs. gratuit cu stocare nelimitată"
+                resend: "Retrimiteți"
+                reward: "Odată ce vă convingeți %{count} prietenii să se înscrie, veți primi un gratuit un cont Pro pe viață."
+                sent: "Trimitere"
+                status: "Stare"
+                subheader: "Aici sunt invitațiile pe care le-ați trimis. Le puteți retrimite, dacă este nevoie."
+            reward: "Convingeți %{count} prieteni să se înscrie la PasswordBox și veți primi un cont gratuit Pro și veţi avea parte de stocare nelimitată a parolelor pe viaţă."
+            title: "Invitaţi %{count} prieteni la"
+        import_contacts: 
+            manual_option: "Introduceți manual e-mailurile prietenilor dvs."
+        important: "Important"
+        installed_header: "PasswordBox funcţionează acum!"
+        invite_header: "Spuneți prietenilor dvs. despre PasswordBox"
+        manual_invite: 
+            email_instructions: "Introduceți adresele de e-mail ale acestora"
+            import_option: "Invitați prieteni din agenda dvs."
+            required_error: "Introduceți o adresă de e-mail pentru a invita"
+            send_action: "Trimiteți permise VIP"
+            send_instructions: "Trimiteți invitații prietenilor dvs."
+            send_success: "Permisele dvs. VIP au fost trimise!"
+        resale_disclaimer: "Reţineţi că PasswordBox nu vă permite să vindeți permisul dvs. VIP pe eBay sau pe alte site-uri. <strong>Acesta este strict pentru uz personal.</strong>"
+        sent_after_welcome: 
+            title: "Înscrierea dvs. s-a finalizat!"
+            video_instructions: "Vizionați acest clip video pentru a afla mai multe despre PasswordBox"
+        vip: 
+            reward: "Veți primi un abonament gratuit pe viață"
+            title: "Oferiți prietenilor dvs. acces VIP la"
+    welcome: 
+        headers: 
+            running: "%{logo} funcţionează acum!"
+        bulk_password: 
+            check_all: "Verificați tot"
+            did_you_know_title: "Știaţi că 92% din oameni utilizează aceeași combinație de nume de utilizator/parolă pentru majoritatea conturilor online ale acestora?"
+            instructions: "Dacă lucrul acesta vă descrie pe dvs., introduceți detaliile de conectare obișnuite și selectați site-urile pentru care le utilizați. Vom salva aceste conturi în contul dvs. PasswordBox, într-o singură mişcare."
+            save_passwords: "Salvați parole"
+            success_message: "Parolele dvs. se salvează..."
+            uncheck_all: "Debifați tot"
+            username_label: "Numele de utilizator al adresei e-mail"
+            website_error: "Alegeți cel puțin un site web."
+        legacy: 
+            address_book: "Conectați-vă la agenda dvs. webmail."
+            email_label: "Trimiteți e-mail unei persoane în care aveți încredere"
+            instructions: "Numiți mai jos o persoană în care aveți încredere și îi vom trimite un e-mail cu cererea dvs."
+            name_label: "Numele persoanei în care aveți încredere"
+            transfer_info: "Nu vă faceți griji, parolele dvs. nu vor fi transferate până când nu va fi nevoie"
+            trust_title: "În cine aveţi încredere să vă gestioneze contul online dacă vi se întâmplă ceva?"
+            watch_video: "Vizionați clipul nostru video pentru a afla mai multe"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Confirmare parolă master"
+                never_store_password: "Pentru a garanta securitatea dvs., PasswordBox nu vizualizează sau stochează niciodată parola dvs. master"
+                no_recovery: "Nu există nicio modalitate de a vă recupera contul dacă uitați parola master"
+                repeat_title: "Introduceți încă o dată parola dvs."
+            creating_account: "Contul dvs. se creează..."
+            form: 
+                create_account_action: "Creare cont gratuit"
+                create_account_title: "Creați contul dvs. gratuit"
+                create_password: "Creare parolă"
+                existing_account: "Aveți deja un cont?"
+                facebook_promise: "Nu vă faceți griji, nu vom posta niciodată pe peretele dvs."
+                facebook_signup: "Înscrieţi-vă cu Facebook"
+                login: "Conectare"
+                terms_disclaimer: "Făcând clic mai sus, confirmaţi că sunteţi de acord cu termenii noştri de servicii "
+                terms_full: "Nu vom partaja niciodată e-mailul dvs. sau orice informații personale cu părți terțe și vă vom trimite doar e-mailuri cu tranzacțiile referitoare la contul dvs. PasswordBox. Citiți %{privacy_link} pentru mai multe detalii."
+                terms_agree: "Făcând clic mai sus, confirmaţi că sunteți de acord cu %{terms_link}."
+            installed_title: "Instalare finalizată! Ultimul pas.."
+            never_forget: "Nu mai uitaţi niciodată nicio parolă! Activați-vă contul GRATUIT"
+            recently_installed: "PasswordBox a fost adăugat recent la browserul dvs. ..."
+            testimonial: "Acesta este ca Dropbox pentru parole. Funcționează pe toate dispozitivele, indiferent unde sunt, iar partajarea este simplă."
+            login_link: "Dacă aveți deja un cont PasswordBox, <a href=\"%{path}\" target=\"_blank\">căutați caseta verde</a> din browserul dvs."
+            validating: "Informațiile dvs. se validează..."
+            almost_done: "Aproape am terminat! Trebuie doar să vă mai creaţi parola"
+            delayed: 
+                never_forget: 
+                    generic: "Nu mai uitaţi niciodată nicio parolă!"
+                    domain: "Nu vă mai uitaţi niciodată parola pentru <strong>%{website}</strong> !"
+                signup_free: "Înscrieți-vă acum GRATUIT!"
+                secure: "Pentru securizarea parolelor dvs. salvate, <strong>înscrieți-vă GRATUIT și bucurați-vă de conectarea automată pe site-urile dvs. preferate!</strong>"
+                watch_video: "Vizionaţi clipul nostru video"
+                how_pbox_works: "Cum funcționează PasswordBox"
+            crypto: 
+                creating: "Contul dvs. se creează..."
+                encrypting: "Pentru securitate maximă, parola dvs. se criptează. Procesul ar putea dura mai mult (până la un minut) pe calculatoarele mai vechi. Lucrul acesta este normal. Așteptați până când procesarea a fost finalizată."
+        video: 
+            typing_passwords: "Tastarea manuală a parolelor este un proces plictisitor și frustrant. PasswordBox vă ajută, prin salvarea automată a datelor dvs. personale, atunci când vă conectaţi pe un site."
+            next_step: "Înțeleg. Mulțumesc!"
+        guides: 
+            extension: 
+                congratulations: "Felicitări!"
+                save_success: "Parolele dvs. au fost salvate cu succes în PasswordBox!"
+                green_box: "Faceţi clic pe pictograma cu caseta verde din browser pentru a o accesa, ori de câte ori aveți nevoie!"
+        tutorial: 
+            create_password: 
+                click_instructions: "Faceţi clic pe un buton de mai jos pentru a adăuga prima dvs. parolă"
+                form_instructions: "Introduceți numele de utilizator și parola dvs."
+            one_click_login: "Bravo! Acum să încercăm o conectare 1-Click"
+            tour_video: 
+                extension_guide: "Faceţi clic pe caseta verde, pentru a deschide contul dvs. PasswordBox"
+                instructions: "Profitaţi la maxim de PasswordBox, cu ajutorul acestui tur rapid de prezentare a produsului."
+                title: "Tur pentru prezentarea noţiunilor de bază"
+    features: 
+        seamless_login: 
+            title: "Adio, parolelor. Conectare instantanee pe orice dispozitiv, site web sau aplicație mobilă."
+            subtitle: "V-ați săturat să fiți încetinit de ecranul de conectare? Accesați mai rapid conturile dvs., prin conectarea 1-Click şi 1-Tap."
+            item_1: "Exclusiv cu PasswordBox, %{link} fără a mai fi nevoit să tastați numele de utilizator sau parola."
+            item_2: "Intrați pe orice pagină web și PasswordBox va completa automat informațiile dvs. și vă va conecta. Nu este necesar să tastați pe calculatorul sau pe dispozitivul dvs. mobil cu Chrome și Safari."
+            item_3: "Conectare expres chiar şi atunci când aveți conturi multiple de utilizator pentru același site"
+            item_4: "Siguranță față de malware la apăsarea tastelor - dacă nu îl tastați, ei nu pot să vi-l fure"
+            one_tap_link: "conectați-vă la aplicațiile mobile preferate pe Android cu 1-Tap"
+        device_syncing: 
+            title: "Parolele dvs., oriunde"
+            subtitle: "Salvaţi o parolă în PasswordBox iar aceasta va fi instantaneu salvată în toate browserele, calculatoarele şi dispozitivele dvs. mobile."
+            item_1: "Se sincronizează automat, astfel încât să aveţi întotdeauna la îndemână datele dvs. de conectare"
+            item_2: "Funcționează pe aproape orice calculator, browser sau dispozitiv mobil de pe piață"
+            item_3: "Plugin-uri gratuite pentru toate browserele majore, inclusiv Chrome, Firefox și Internet Explorer"
+            item_4: "Criptarea și decriptarea datelor dvs. sunt efectuate la nivel local, pe dispozitivul dvs., utilizând AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox pentru mobil"
+            widget: 
+                title: "Aplicații gratuite pentru mobil"
+                subtitle: "Parolele dvs, oriunde"
+            notify: 
+                sms: "Trimite mesaj către telefonul meu"
+                email: "Trimite e-mail către dispozitivul meu"
+                sending: "Trimitere link de instalare"
+            email: 
+                success: "E-mail trimis! Verificați e-mailul pentru link-ul de descărcare"
+                errors: 
+                    invalid: "E-mailul fie lipsește, fie este nevalid"
+                    failed: "Trimiterea e-mailului de contact a eşuat"
+            sms: 
+                body: "Pentru a instala PasswordBox, faceţi clic aici pe dispozitivul dvs. mobil: %{link}"
+                success: "Mesaj text trimis! Verificați telefonul dvs. pentru link-ul de descărcare."
+                errors: 
+                    phone: 
+                        missing: "Numărul de telefon lipsește."
+                        invalid: "Nu am reușit să trimitem un mesaj pe acest număr de telefon. Asigurați-vă că ați inclus și codul țării, dacă acesta este un număr internațional."
+                    service: 
+                        unavailable: "Momentan, serviciul SMS este indisponibil"
+            apps: 
+                app_store: "Disponibil în <span>App Store</span>"
+                google_play: "Obțineți-l gratuit <span>din Google play</span>"
+            ces_award: "Cea mai bună aplicație <span>mobilă la CES 2014</span>"
+        desktop: 
+            title: "Descărcați PasswordBox GRATUIT"
+            warnings: 
+                windows_only: "Numai pentru Windows"
+                mac_only: "Numai pentru Mac OS"
+            button: 
+                get: "Obțineți PasswordBox"
+                for: "pentru"
+        instructions: "Copiați link-ul următor și lipiți-l în bara de adrese %{browser}:"
+        copy: 
+            button: "Copiere"
+            tooltip: "Copiați în clipboard"
+            success: "Copiat!"
+    login: 
+        title: "Dacă aveți deja instalat PasswordBox, faceţi clic pe caseta verde, pentru a vă conecta."
+        reinstall: "Dacă trebuie să reinstalați PasswordBox, faceţi clic pe butonul de mai jos:"
+    member: 
+        errors: 
+            email: 
+                exists: "Deja există un membru cu e-mailul acesta. Încercați altul."
+                invalid: "Introduceți o adresă de e-mail validă."
+    emails: 
+        common: 
+            greeting: "Salutare, %{full_name},"
+            hey: "Salut!"
+            pbox_team: "Echipa PasswordBox"
+        layout: 
+            tagline: "PasswordBox oferă acces rapid și securizat la conturile dvs. online, partajare securizată a parolelor și Legacy Locker pe toate dispozitivele. Nu mai uitaţi niciodată nicio parolă. "
+            unsubscribe: 
+                link: "Dezabonare"
+                from_all: "%{unsubscribe} de la e-mailurile PasswordBox"
+        welcome: 
+            subject: "%{full_name}, bun venit la PasswordBox!"
+            title: "Bun venit"
+            avg_notice: "PasswordBox din bara de unelte AVG oferă acces rapid la conturile dvs. online, la partajarea securizată a parolelor și la funcţiile de moştenire digitală pe toate dispozitivele."
+            account_ready: "Contul dvs. este aproape gata!"
+            login_info: "Numele dvs. de utilizator este %{email}. Parola dvs. este parola master pe care ați creat-o în timpul procesului de înregistrare."
+            say_goodbye: "Luați-vă rămas bun de la numele de utilizatori și de la parolele multiple. De acum înainte, aveți nevoie doar de parola dvs. master. PasswordBox oferă conectare ușoară 1-Click, partajare securizată a parolelor și gestionarea vieții digitale pe toate dispozitivele."
+            finally: "În sfârșit, puteți scăpa de grija parolelor!"
+            confirm: "Confirmați-vă contul acum"
+            click_below: "Faceți clic pe link-ul de mai jos pentru a vă confirma contul:"
+            welcome: "Bun venit la PasswordBox!"
+        sync: 
+            subject: "Descărcați PasswordBox pe dispozitivul dvs. mobil!"
+            instructions: "Pentru a descărca PasswordBox, deschideți acest e-mail pe dispozitivul dvs. mobil și accesaţi link-ul de mai jos:"

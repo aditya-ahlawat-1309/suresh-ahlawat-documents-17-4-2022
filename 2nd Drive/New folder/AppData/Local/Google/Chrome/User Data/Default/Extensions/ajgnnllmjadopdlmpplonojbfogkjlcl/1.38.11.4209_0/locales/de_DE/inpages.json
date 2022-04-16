@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Schließen",
+    "done" : "Fertig",
+    "dontSave" : "Nicht speichern",
+    "neverSave" : "Nie speichern",
+    "saveNow" : "Jetzt speichern",
+    "yes" : "Ja",
+    "no" : "Nein",
+    "remove" : "Entfernen",
+    "dontUpdate" : "Nicht aktualisieren",
+    "updateNow" : "Jetzt aktualisieren",
+    "dontAskAgain" : "Nicht erneut fragen",
+    "dontSaveNow" : "Jetzt nicht speichern",
+    "dontSaveItNow" : "Diesmal nicht speichern",
+    "neverSaveIt" : "Niemals speichern",
+    "neverForThisSite" : "Niemals für diese Seite",
+    "savePassword" : "Passwort speichern",
+    "saveThisPassword" : "Dieses Passwort speichern",
+    "dontShowAgain" : "Nicht erneut anzeigen",
+    "masterPassword" : "Masterpasswort",
+    "continue" : "Weiter",
+    "typeMasterPassword" : "Geben Sie das Masterpasswort ein.",
+    "settings" : "Einstellungen",
+    "copyClipboard" : "Kopieren passwort"
+  },
+  "bannerAutosave" : {
+    "mainText" : " <span class='pb-logo'>PasswordBox</span> hat ein neues Passwort gespeichert für <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : " <span class='pb-logo'>PasswordBox</span> hat ein neues Passwort erkannt für <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : " <span class='pb-logo'>PasswordBox</span> meldet Sie sofort an"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Ihr Passwort für <span class='green'>%{siteName}</span> ist nicht stark genug"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Sie haben eine neue Einladung zum Teilen eines Passworts.<span id='shareCount' class='green'> </span> "
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "War die Anmeldung bei Ihrem <span class='green'>%{username}</span> Konto erfogreich?",
+    "deleteConfirm" : "Möchten Sie <span class='green'>%{username}</span> aus Ihrer PasswordBox entfernen?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Leider wird diese Website noch nicht unterstützt. Unser Team arbeitet bereits daran und wird die Unterstützung in Kürze herausbringen."
+  },
+  "connectWith" : {
+    "mainText" : "Wählen Sie das Konto aus, bei dem Sie sich anmelden möchten",
+    "login" : "Anmelden"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Geben Sie das Masterpasswort ein.",
+    "mainTxtHasUsers" : "Geben Sie Ihr Masterpasswort ein, um sich sofort anzumelden",
+    "mainTxtNoUsers" : "Geben Sie Ihr Masterpasswort ein, um dieses Passwort zu speichern",
+    "error" : "Falsches Passwort",
+    "decrypting" : "Entschlüsselung"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Speichern Sie dieses Passwort jetzt.",
+    "signup" : "Bei PasswordBox anmelden"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Wählen Sie eine Karte zum Auschecken",
+    "use" : "Verwenden"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Vergessen Sie nie wieder ein Passwort:",
+    "createAccount" : "Konto erstellen",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> wurde zu Ihrer %{partner} Werkzeugleiste hinzugefügt"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Melden Sie sich jetzt bei Ihrem <span class='green'>%{siteName}</span> Konto an...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> speichert es automatisch für Sie!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "...und das war´s!",
+    "mainText" : "Ihr <span class='green'>%{siteName}</span> Passwort ist jetzt sicher in Ihrer PasswordBox gespeichert!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Herzlichen Glückwunsch",
+    "mainText" : "Sie können nun jederzeit auf Ihre Passwörter zugreifen, indem Sie <strong class='green'>auf das grüne Kästchensymbol</strong> in Ihrem Browser klicken! Probieren Sie es jetzt aus!"
+  },
+  "passgen" : {
+    "generate" : "Starkes Passwort erstellen",
+    "regenerate" : "Neues Passwort erzeugen",
+    "noPassGenerated" : "Kein Passwort erzeugt",
+    "letters" : "Buchstaben",
+    "digits" : "Ziffern",
+    "symbols" : "Symbole",
+    "capitals" : "Großbuchstaben"
+  }
+}

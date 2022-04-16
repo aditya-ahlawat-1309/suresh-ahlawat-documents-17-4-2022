@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Come attivare i cookie in Firefox",
+    "onMac" : "Su Mac",
+    "onPC" : "Su PC",
+    "step1" : "<strong>1: Andare a Firefox &gt; Preferenze &gt; Privacy.</strong><br>Nella sezione Cronologia, selezionare: <br><strong> &quot;Firefox: Usa impostazioni personalizzate per la cronologia&quot; </strong>",
+    "step2" : "<strong> 2: Nella sezione Cronologia, selezionare &quot;Accetta i cookie dai siti&quot; </strong><br> Poi nel menu a tendina sotto: <br><strong> &quot;Accetta i cookie di terze parti&quot;&gt; &quot;Sempre&quot; </strong>"
+  },
+  "import" : {
+    "title" : "Importare le password in PasswordBox",
+    "selectSoure" : "Selezionare fonte",
+    "export" : "Esportare le password",
+    "import" : "Importare il file di password in PasswordBox",
+    "dashlane1" : "Per esportare le password da Dashlane, aprire Dashlane e cliccare su:",
+    "dashlane2" : "File > Export data",
+    "dashlane3" : "Selezionare <strong class=\"green\">opzione di formato</strong> &quot;Unsecured Archives CSV&quot;.",
+    "dashlane4" : "Salvare il file sul percorso di vostra scelta.",
+    "dashlane5" : "Viene supportata solo l'ultima versione di Dashlane.",
+    "lastpass1" : "Per esportare le password da LastPass, cliccare sull'icona del plug-in di LastPass nel browser e selezionare:",
+    "lastpass2" : "<strong>Tools &gt; Export</strong><br> A e selezionare <strong class=\"green\">LastPass CSV file</strong> nel menu. Inserire la password se richiesto.",
+    "lastpass3" : "Cliccare su OK e salvarlo nella posizione desiderata.",
+    "lastpass4" : "Viene supportata solo l'ultima versione di LastPass.",
+    "roboform1" : "Attualmente l'esportazione da Roboform è disponibile solo per i sistemi operativi Mac.",
+    "roboform2" : "A breve sarà disponibile il supporto per Windows.",
+    "roboform3" : "Per esportare le password da RoboForm, aprire l'estensione del browser per RoboForm e cliccare su <strong>Options:</strong>",
+    "roboform4" : "Sul pannello di opzione selezionare &quot;User Data&quot; e cliccare su <strong> &quot;Export to&quot; </strong>",
+    "roboform5" : "<strong> Salvare il file come .html </strong>  sul percorso di vostra scelta.",
+    "roboform6" : "Viene supportata solo l'ultima versione di RoboForm.",
+    "onepassword1" : "Per esportare le password da 1Password, aprire:",
+    "onepassword2" : "<strong>- file &gt; Export:</strong><br> selezionare il formato <strong class=\"green\">Tab-delimited-text</strong> e l'opzione <strong>All logins</strong> .",
+    "onepassword3" : "Cliccare su OK e salvarlo nella posizione desiderata.",
+    "onepassword4" : "Viene supportata solo l'ultima versione di 1Password.",
+    "onepasswordClick" : "<u> Cliccare qui </u> per caricare il  <span class=\"serviceName green\">file </span> 1Password ",
+    "keepass1" : "Per esportare le password da KeePass, aprire KeePass e cliccare su:<",
+    "keepass2" : "<strong>File &gt; Export</strong><br> Selezionare <strong>l'opzione di formato </strong> KeePass 1.x CSV.",
+    "keepass3" : "Salvare il file sul percorso di vostra scelta.",
+    "keepass4" : "Viene supportata solo l'ultima versione di KeePass."
+  }
+}

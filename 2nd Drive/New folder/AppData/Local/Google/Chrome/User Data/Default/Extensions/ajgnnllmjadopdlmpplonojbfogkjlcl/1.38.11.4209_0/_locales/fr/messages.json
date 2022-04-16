@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension.",
+      "message": "Gestionnaire de mots de passe gratuit pour Google Chrome - Vous n’oublierez plus jamais votre mot de passe"
+   },
+   "appName": {
+      "description": "Name of the extension.",
+      "message": "PasswordBox.com"
+   }
+}

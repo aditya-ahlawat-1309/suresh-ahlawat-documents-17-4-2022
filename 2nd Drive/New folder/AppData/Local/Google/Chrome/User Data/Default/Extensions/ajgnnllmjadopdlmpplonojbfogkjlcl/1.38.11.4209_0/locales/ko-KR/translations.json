@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "설정",
+		"add": "추가",
+		"addNew": "새로 추가",
+		"addManually": "수동으로 추가",
+		"cancel": "취소",
+		"back": "뒤로",
+		"save": "저장",
+		"saving": "저장 중...",
+		"saved": "저장 완료!",
+		"upgrade": "업그레이드",
+		"noThanks": "아니요",
+		"from": "발신 %{name}",
+		"remove": "제거",
+		"removing": "제거 중...",
+		"disabling": "비활성화 중...",
+		"delete": "삭제",
+		"warningPermanent": "이 작업은 되돌릴 수 없습니다.",
+		"confirmProceed": "계속하시겠습니까?",
+		"parameters": "매개 변수",
+		"details": "세부 정보",
+		"sharing": "공유",
+		"advancedSettings": "고급",
+		"validating": "검증 중...",
+		"tryAgain": "다시 시도",
+		"sending": "보내는 중...",
+		"send": "보내기",
+		"sent": "보내기 완료!",
+		"waitingResponse": "응답을 기다리는 중",
+		"revoke": "취소",
+		"updating": "업데이트하는 중...",
+		"change": "변경",
+		"changed": "변경 완료!",
+		"copy": "클립보드로 복사",
+		"accept": "수락",
+		"decline": "동의 안 함",
+		"privacyNotice": "개인 정보 고지 사항",
+		"dontAskAgain": "다시 묻지 않음",
+		"notNow": "나중에",
+		"sendNotification": "통보 보내기",
+		"justAMoment": "잠시만 기다려 주십시오...",
+		"learnMore": "자세한 내용",
+		"notYou": "본인이 아니십니까?",
+		"changeUser": "사용자 변경",
+		"confirm": "확인",
+		"launchSite": "사이트 시작",
+		"unlockMyTrueKey": "내 True Key 잠금 해제",
+		"next": "다음",
+		"previous": "이전",
+		"visible": "보임",
+		"hidden": "숨김",
+		"vistHelpDesk": "자세한 내용은 %{htmlBefore}헬프 데스크%{htmlAfter}를 통해 확인하십시오.",
+		"addFacialRecognition": "얼굴 잠금 해제 추가",
+		"comingSoon": "곧 출시 예정",
+		"offline": "오프라인",
+		"or": "또는",
+		"and": "및",
+		"activate": "활성화",
+		"logOut": "로그아웃",
+		"logins": "로그인",
+		"favorites": "즐겨찾기",
+		"other": "기타",
+		"locked": "잠김",
+		"unlocked": "잠금 해제됨",
+		"login": "로그인",
+		"close": "닫기",
+		"closing": "닫는 중...",
+		"dismiss": "취소",
+		"signin": "로그인",
+		"signOut": "로그아웃",
+		"manageProfile": "프로파일 관리",
+		"profile": "프로파일",
+		"menu": "메뉴",
+		"DD": "DD",
+		"MM": "MM",
+		"YYYY": "YYYY",
+		"visible": "보임",
+		"hidden": "숨김",
+		"enable": "사용",
+		"doNotShowAgain": "다시 표시하지 않음",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "나중에",
+		"restart": "다시 시작",
+		"install": "설치",
+		"feedback": "피드백",
+		"done": "완료",
+		"success": "성공",
+		"youreIn": "로그인되었습니다!",
+		"recommended": "권장"
+	},
+
+	"validation": {
+		"required": "이 필드는 필수입니다",
+		"min": "{0}은(는) {1}자 이상이어야 합니다"
+	},
+
+	"offline": {
+		"title": "이런, 인터넷에 연결되어 있지 않군요.",
+		"desc": "온라인 상태가 아닙니다. 인터넷에 다시 연결한 다음 시도하십시오."
+	},
+
+	"locked": {
+		"notYou": "본인이 아니십니까?",
+		"changeUser": "사용자 변경",
+		"cancelAuth": "인증 취소",
+		"signIn": "즉시 로그인 사용을 위해 로그인",
+		"alternativeEmail": "이메일 확인 사용으로 대치",
+		"alternativeDevice": "신뢰 기기 사용으로 대치"
+	},
+
+	"time": {
+		"never": "안 함",
+		"minutes": "%{smart_count}분 |||| %{smart_count}분",
+		"hours": "%{smart_count}시간 |||| %{smart_count}시간",
+		"days": "%{smart_count}일 |||| %{smart_count}일"
+	},
+
+	"labels": {
+		"email": "전자 메일 주소",
+		"masterPassword": "마스터 암호",
+		"confirmMasterPassword": "마스터 암호 확인",
+		"rememberMe": "로그인 계속 유지",
+		"websiteURL": "웹 사이트 URL",
+		"username": "사용자 이름",
+		"password": "암호",
+		"mobile": "휴대 전화 번호",
+		"name": "이름",
+		"title": "직함",
+		"details": "세부 정보",
+		"masterPassword": "마스터 암호",
+		"websiteName": "웹 사이트 이름",
+		"notes": "메모",
+		"ccType": "신용 카드 유형",
+		"cardholderName": "카드 소지자 이름",
+		"ccNumber": "신용 카드 번호",
+		"expiryDate": "만료 날짜",
+		"issueDate": "발급 날짜",
+		"colorpicker": "카드 색상 지정",
+		"driversLicenseNumber": "면허증 번호",
+		"firstName": "이름",
+		"lastName": "성",
+		"gender": "성별",
+		"stateProvince": "시/도",
+		"birthdate": "생년월일",
+		"company": "회사",
+		"telephone": "전화 번호",
+		"streetName": "거리명",
+		"streetNumber": "거리 번지",
+		"city": "시",
+		"zipcode": "우편 번호",
+		"memberID": "구성원 ID",
+		"memberSince": "구성원 시작일",
+		"country": "국가",
+		"passportNumber": "여권 번호",
+		"issuingCountry": "발급 국가",
+		"placeOfBirth": "출생지",
+		"number": "번호",
+		"male": "남성",
+		"female": "여성"
+	},
+
+	"placeholders": {
+		"email": "이메일 주소 입력",
+		"masterPassword": "마스터 암호 입력",
+		"phone": "(123)-456-7890",
+		"name": "이름 입력",
+		"title": "직함 입력",
+		"websiteURL": "URL 입력",
+		"websiteName": "웹 사이트 이름 입력",
+		"username": "사용자 이름 입력",
+		"password": "암호 입력",
+		"notes": "메모 입력",
+		"cardholderName": "카드 소지자 이름 입력",
+		"ccNumber": "신용 카드 번호 입력",
+		"driversLicenseNumber": "사용권 번호 입력",
+		"firstName": "이름 입력",
+		"lastName": "성 입력",
+		"stateProvince": "시/도 입력",
+		"company": "회사 이름 입력",
+		"telephone": "전화 번호 입력",
+		"streetName": "거리명 입력",
+		"streetNumber": "거리 번지 입력",
+		"city": "도시 입력",
+		"zipcode": "우편 번호 입력",
+		"memberID": "구성원 ID 입력",
+		"notesDetails": "기억하고 싶은 사항을 추가하십시오. 잠금 조합입니다. 제품 및 소프트웨어 코드입니다. 알림 및 비밀 조합입니다.",
+		"country": "국가 선택",
+		"passportNumber": "여권 번호 입력",
+		"issuingCountry": "국가 선택",
+		"placeOfBirth": "국가 선택",
+		"number": "번호 입력"
+	},
+
+	"errors": {
+		"generic": "문제가 발생한 것 같습니다",
+		"passwordsMatch": "암호가 일치해야 합니다",
+		"nameRequired": "이름을 입력하십시오",
+		"emailInvalid": "올바른 이메일을 입력하십시오",
+		"passwordTooShort": "암호의 길이는 %{nbCharacters}자 이상이어야 합니다",
+		"usernameRequired": "사용자 이름 필요"
+	},
+
+	"form": {
+		"launch": "이 웹 사이트 열기",
+		"passwordStrength": {
+			"veryWeak": "매우 약함",
+			"weak": "약함",
+			"acceptable": "사용 가능",
+			"strong": "강함",
+			"veryStrong": "매우 강함"
+		},
+		"copyPassword": "암호 복사",
+		"viewPassword": "암호 보기"
+	},
+
+	"headerMessages": {
+		"txt1": "안녕하세요 %{firstName}님, True Key Launchpad를 시작합니다"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "시작하십시오! 최초 로그인 정보를 True Key에 추가",
+		"addNewLogin": "새 로그인 정보 추가",
+		"success": "환영합니다!"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "True Key 프로파일이 없으신가요?",
+			"signup": "여기서 만드십시오",
+			"haveAccount": "이미 True Key 프로파일이 있으신가요?",
+			"login": "로그인",
+			"help": "도움말"
+		},
+
+		"intro": {
+			"hi": "안녕하십니까.",
+			"meetTK": "True Key™를 소개합니다. 가장 손쉽고 안전한 디지털 잠금 해제 서비스입니다. 시작하려면 먼저 프로파일부터 만들어야 합니다.",
+			"watchVideo": "동영상 보기",
+			"createProfile": "시작하려면 먼저 True Key 프로파일부터 만들어야 합니다.",
+			"cta": "이동",
+			"eulaPrivacy": "아래 단추를 클릭하면 귀하는 <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>EULA</a> 및 <a class='txt bold secondary btPrivacy'>개인 정보 보호&nbsp;고지 사항</a>에 동의하는 것으로 간주합니다."
+		},
+
+		"confirm": {
+			"title": "중요: 마스터 암호 확인",
+			"enterAgain": "마스터 암호를 한 번 더 입력하십시오.",
+			"wontRemember": "개인 정보 및 암호를 안전하게 보호하기 위해 마스터 암호는 저장되지 않습니다. 본인 외에는 마스터 암호를 알지 못합니다. 확실히 기억해 주십시오.",
+			"promise": "암호를 잊지 않고 기억하시겠습니까?",
+			"submit": "예, 기억하겠습니다"
+		},
+		"loginHelp": {
+			"title": "문제가 있습니까?",
+			"txt1": "마스터 암호는 대소문자를 구별하며 공백을 포함하지 않아야 합니다. 복사 및 붙여넣기는 사용할 수 없습니다.",
+			"txt2": "마스터 암호를 잊으셨습니까? 보안 상의 이유로 암호는 저장되지 않습니다. 새 True Key™ 계정을 만들어야 합니다.",
+			"createAccount": "새 계정 만들기"
+		},
+
+		"login": {
+			"title": "프로파일에 로그인",
+			"submit": "로그인",
+			"working": "데이터 암호 해독 중...",
+			"error": "작동하지 않음"
+		},
+
+		"logout": {
+			"title": "계속하기 전에 모바일로 이동하십시오.",
+			"desc": "무료 앱 스토어 링크를 본인에게 문자로 보내십시오."
+		},
+
+		"onboarding": {
+			"skip": "이 단계를 건너뜁니다",
+			"skipVideo": "알겠습니다!",
+			"title": "%{firstName}님의 True Key™ 프로파일이 준비되었습니다. 이제 테스트해보십시오.",
+			"desc": "다음 유명 사이트 중 하나를 선택하거나 새 사이트를 추가하여 작동 여부를 확인해 보십시오.",
+
+			"noWebsiteFlow": {
+				"desc": "아주 쉽게 True Key 앱을 최대한 활용해 보십시오:",
+				"addManually": "수동으로 최초 로그인 정보 추가"
+			}
+		},
+
+		"emailTaken": {
+			"title": "이미 프로파일에 연결된 이메일입니다",
+			"desc": "%{emailAddress}(으)로 로그인하시겠습니까?"
+		},
+
+		"signup": {
+			"title": "True Key™ 프로파일 만들기",
+			"cta": "다음 단계로 이동",
+			"working": "검증 중...",
+			"success": "좋습니다!"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "즉시 로그인",
+			"desc": "즉시 로그인을 사용하여 이 웹 사이트에 보다 빠르게 로그인하십시오. True Key 앱이 사용자 이름 및 암호를 대신 입력하도록 하십시오."
+		},
+		"passwordReprompt": {
+			"title": "내 마스터 암호 묻기",
+			"desc": "마스터 암호는 오직 사용자 본인만 알고 있습니다. 로그인할 때마다 마스터 암호 입력을 요청합니다."
+		},
+		"subdomainOnly": {
+			"title": "이 하위 도메인에만 사용",
+			"desc": "이 특정 하위 도메인에 로그인할 때만 사용합니다."
+		},
+		"offlineHelp": {
+			"title": "오프라인 모드",
+			"desc": "인터넷 연결이 끊어졌거나 연결 속도가 매우 느린 것 같습니다. 오프라인 모드에서도 암호를 볼 수 있지만, 암호를 추가, 변경 사항 저장 또는 공유할 수 없습니다."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "언어 변경됨",
+			"desc": "현재 사용 언어는 %{languageName}입니다"
+		},
+		"favoriteAdded": {
+			"title": "즐겨찾기 추가됨",
+			"desc": "선택한 웹 사이트가 Launchpad에 추가되었습니다."
+		},
+		"favoriteRemoved": {
+			"title": "즐겨찾기 제거됨",
+			"desc": "이 즐겨찾기가 Launchpad에서 제거되었습니다."
+		},
+		"favoriteEdited": {
+			"title": "즐겨찾기 편집됨",
+			"desc": "이 즐겨찾기에 대한 변경 사항이 저장되었습니다."
+		},
+		"passwordGenerated": {
+			"title": "암호가 복사되었습니다!",
+			"desc": "생성된 암호가 클립보드로 복사되었습니다."
+		},
+		"noteCreated": {
+			"title": "메모가 작성되었습니다!",
+			"desc": "해당 메모가 True Key에 추가되었습니다."
+		},
+		"passwordSaved": {
+			"title": "암호가 저장되었습니다!",
+			"desc": "해당 암호가 True Key에 추가되었습니다."
+		},
+		"loginShared": {
+			"title": "암호가 공유되었습니다",
+			"desc": "사용자의 암호가 %{email}(으)로 공유되었습니다"
+		},
+		"passwordRemoved": {
+			"title": "암호가 제거되었습니다.",
+			"desc": "해당 암호가 True Key에서 제거되었습니다."
+		},
+		"loginEdited": {
+			"title": "로그인 정보가 편집되었습니다.",
+			"desc": "해당 로그인 정보의 변경 사항이 저장되었습니다."
+		},
+		"copied": {
+			"title": "복사 완료!",
+			"desc": "클립보드로 복사되었습니다."
+		},
+		"passwordCopied": {
+			"title": "암호가 복사되었습니다!",
+			"desc": "사용자의 암호가 클립보드로 복사되었습니다."
+		},
+		"error": {
+			"title": "문제가 발생한 것 같습니다",
+			"desc": "다시 시도하십시오"
+		},
+		"legacyAccepted": {
+			"title": "초대 수락됨",
+			"desc": "이 레거시 초대가 수락되었습니다."
+		},
+		"legacyDeclined": {
+			"title": "초대 거부됨",
+			"desc": "이 레거시 초대가 거부되었습니다."
+		},
+		"sharingAccepted": {
+			"title": "초대 수락됨",
+			"desc": "이 공유 초대가 수락되었습니다."
+		},
+		"sharingDeclined": {
+			"title": "초대 거부됨",
+			"desc": "이 공유 초대가 거부되었습니다."
+		},
+		"invitationResent": {
+			"title": "초대 다시 전송!",
+			"desc": "이 초대를 다시 전송했습니다."
+		},
+		"oobResent": {
+			"title": "통보 다시 전송!",
+			"desc": "새 통보가 사용자의 전화로 다시 전송되었습니다."
+		},
+		"emailResent": {
+			"title": "이메일 다시 전송!",
+			"desc": "새 확인 이메일이 사용자에게 전송되었습니다."
+		},
+		"legacyRevoked": {
+			"title": "레거시 연결 취소됨!",
+			"desc": "이 레거시 연결이 취소되었습니다."
+		},
+		"legacySent": {
+			"title": "레거시 요청 전송됨!",
+			"desc": "%{email}에게 초대가 전송되었습니다."
+		},
+		"legacySendError": {
+			"title": "레거시 요청 오류",
+			"desc": "%{email}에게 초대를 전송하지 못했습니다."
+		},
+		"browserNewTab": {
+			"title": "브라우저 새 탭 설정 저장 완료!",
+			"desc": "브라우저 새 탭 설정 업데이트가 완료되었습니다."
+		},
+		"changedMP": {
+			"title": "마스터 암호 변경 완료!",
+			"desc": "사용자의 마스터 암호 변경이 완료되었습니다."
+		},
+		"clearAutosave": {
+			"title": "자동 저장 복원됨",
+			"desc": "True Key가 이제 모든 사이트의 암호를 자동 저장합니다."
+		},
+		"feedbackSent": {
+			"title": "피드백 제출 완료!",
+			"desc": "피드백을 제공해주셔서 감사합니다."
+		},
+		"documentCreated": {
+			"title": "문서 생성 완료!",
+			"desc": "이 문서가 True Key에 저장되었습니다."
+		},
+		"documentRemoved": {
+			"title": "문서 삭제됨",
+			"desc": "이 문서가 True Key에서 삭제되었습니다."
+		},
+		"notesEdit": {
+			"title": "변경 사항 저장됨",
+			"desc": "이 노트에 대한 변경 사항이 저장되었습니다."
+		},
+		"notesRemove": {
+			"title": "메모 제거됨",
+			"desc": "이 메모가 True Key에서 제거되었습니다."
+		},
+		"settingsChanged": {
+			"title": "설정 변경됨",
+			"desc": "잠금 설정이 업데이트되었습니다."
+		},
+		"disabledTrustedDevice": {
+			"title": "기기 비활성화됨",
+			"desc": "기기가 비활성화되었습니다."
+		},
+		"deviceTrusted": {
+			"title": "신뢰 기기 설정됨",
+			"desc": "현재 기기를 신뢰 기기로 설정했습니다."
+		},
+		"confirmationEmailSent": {
+			"title": "확인 이메일 전송 완료!",
+			"desc": "확인 이메일을 %{email}에게 전송했습니다"
+		}
+	},
+
+	"logins": {
+		"title": "로그인",
+		"editLogin": "로그인 정보 편집",
+		"viewLogin": "로그인 정보 보기",
+		"shareLogin": "로그인 정보 공유",
+		"shareSection": {
+			"title": "로그인 정보를 친구 및 가족과 안전하게 공유합니다. <strong>공유하려는 로그인 정보를 아래에서 선택하십시오.</strong>"
+		},
+		"copyPassword": "암호 복사",
+		"loginAs": "다음으로 로그인",
+		"removeLogin": "이 로그인 정보 제거",
+		"noLoginFound": {
+			"title": "해당 항목을 찾을 수 없음",
+			"desc": "이 로그인 정보는 아직 저장되지 않았을 수 있습니다. 추가하시겠습니까?"
+		},
+		"currentWebsite": "현재 웹 사이트",
+		"onboardingPopover": {
+			"title": "즉시 로그인",
+			"desc": "입력 없이 로그인하려면 여기를 클릭하십시오"
+		},
+		"searchAssets": "내 %{smart_count} 로그인 검색 |||| 내 %{smart_count} 로그인 검색",
+		"askForMasterPassword": "마스터 암호",
+		"askForFaceRecognition": "얼굴 잠금 해제",
+		"instantLogin": "즉시 로그인",
+		"useForSubdomainOnly": "<span class='primary'>%{domain}</span> 하위 도메인에만 사용",
+		"notShared": "이 암호는 현재 누구하고도 공유하고 있지 않습니다.",
+		"visiblity": {
+			"title": "암호 만들기:"
+		},
+		"unshare": "공유 해제",
+		"waitingResponse": "응답을 기다리는 중"
+	},
+
+	"sharing": {
+		"title": "<span class='primary'>%{name}</span> 암호 공유",
+		"accessGiven": "이 암호 공유 대상:"
+	},
+
+	"verifyEmail": {
+		"title": "사용자 이메일 주소가 확인되지 않았습니다",
+		"subtitle": "암호를 공유하려면 먼저 이메일을 확인하십시오.",
+		"desc": "이전에 받은 확인 이메일을 찾을 수 없습니까? 새 이메일을 받으십시오.",
+		"cta": "확인 이메일 다시 보내기"
+	},
+
+	"premiumOnly": {
+		"title": "프리미엄 사용자만 사용할 수 있습니다",
+		"txt1": "True Key에 새 암호를 추가하려면 프리미엄 계정이 필요합니다",
+		"txt1": "업그레이드하지 않으면 저장 가능한 암호는 최대 5개로 제한됩니다. 지금 업그레이드하고 무제한으로 저장하세요!"
+	},
+
+	"generator": {
+		"title": "이동 중에도 강력한 암호를 생성하십시오.",
+		"subtitle": "기본 설정을 선택한 다음 \"생성 및 복사\" 단추를 눌러 새 암호를 생성하십시오.",
+		"placeholder": "단추를 클릭하여 암호 생성",
+		"cta": "생성 및 복사",
+		"length": "암호 길이",
+
+		"letters": "문자 사용",
+		"digits": "숫자 사용",
+		"symbols": "특수 문자 사용",
+		"capitals": "대문자 사용",
+		"showInForms": "자동으로 양식에 생성기 표시",
+
+		"history": {
+			"title": "생성된 암호",
+			"noGeneratedPassword": "생성된 암호가 없습니다."
+		}
+	},
+
+	"legacy": {
+		"title": "레거시 보관함",
+		"countingOnYou": "나를 신뢰하는 사람",
+		"heirs": "내가 신뢰하는 사람",
+		"sentTimer": "%{time} 이전",
+		"resendInvitation": "초대 다시 보내기",
+		"assignTrustees": "수탁자 지정",
+
+		"txtFeature": {
+			"txt1": "현재 및 사후에도 디지털 ID를 안전하게 보호하십시오.",
+			"txt2": "레거시 보관함은 자신의 디지털 라이프를 신뢰하는 배우자, 자녀, 친구 또는 동료에게 전달하는 최선의 방법입니다.",
+			"txt3": "True Key에 지정한 수탁자는 지정된 시일 전까지 사용자 계정에 대한 액세스 권한을 받을 수 없습니다. %{htmlBefore}동영상 보기%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "이메일 주소 확인이 필요합니다",
+		"descLegacy": "이메일 주소를 확인하지 않으면 수탁자를 지정할 수 없습니다",
+		"getNewEmail": "이전에 받은 확인 이메일이 있는지 잘 모르시겠습니까? 새 이메일을 받으십시오.",
+		"cta": "새 확인 이메일 받기"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "로그인",
+		"wallet": "디지털 가방",
+		"notes": "안전 메모",
+		"legacy": "레거시 보관함",
+		"generator": "암호 생성기",
+		"settings": "설정",
+		"preferences": "기본 설정",
+		"support": "도움말 및 지원",
+		"tkProfile": "내 True Key 프로파일",
+		"logout": "로그아웃"
+	},
+
+	"browserNewTab": {
+		"title": "브라우저 새 탭",
+		"txt1": "브라우저 시작 웹 페이지 설정:",
+		"startpage": "내 True Key Launchpad",
+		"default": "내 브라우저 기본값",
+		"custom": "내 고유 대상:"
+	},
+
+	"changeMP": {
+		"title": "마스터 암호 변경",
+		"labels": {
+			"current": "현재 마스터 암호",
+			"new": "새 마스터 암호",
+			"confirmNew": "새 마스터 암호"
+		},
+		"placeholders": {
+			"current": "현재 마스터 암호 입력",
+			"new": "새 마스터 암호 입력",
+			"confirmNew": "새 마스터 암호 다시 입력"
+		},
+		"cta": "암호 변경"
+	},
+
+	"lockUnlock": {
+		"title": "완료되었습니다",
+		"desc": "여러 요소를 사용하여 True Key 앱을 사용자에 맞게 지정하십시오. 요소를 추가하면 보다 강력한 프로파일을 만들 수 있습니다.",
+
+		"noYap": {
+			"title": "자동 잠금을 얼마나 자주 실행할 것인지 True Key 계정을 설정하십시오.",
+			"desc": "아래의 드롭다운 메뉴를 통해 원하는 시간을 선택하십시오."
+		},
+
+		"basic": "기본",
+		"advanced": "고급",
+
+		"autolock": {
+			"title": "자동 잠금",
+			"desc": "비활성 상태 시작 이후 True Key 계정의 자동 잠금 시간을 어느 정도로 설정하시겠습니까?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Launchpad 가시성",
+			"desc": "잠김 또는 잠금 해제 상태에서의 True Key Launchpad 표시 여부를 선택하십시오."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "사용 중인 기기는 신뢰 기기입니다.",
+			"txt2": "신뢰 기기로 설정하면 얼굴 잠금 해제와 같은 더 많은 보안 요소를 추가할 수 있습니다."
+		}
+	},
+
+	"preferences": {
+		"title": "기본 설정",
+		"modals": {
+			"autologin": {
+				"title": "즉시 로그인",
+				"desc": "즉시 로그인을 사용하여 웹 사이트에 보다 빠르게 로그인하십시오. True Key 앱이 사용자 이름 및 암호를 대신 입력하도록 하십시오.",
+				"txt1": "즉시 로그인을 사용하면 브라우저에 URL 주소(예: www.example.com)만 입력해도 True Key를 통해 사용자 계정에 저장된 웹 사이트에 자동으로 로그인할 수 있습니다.",
+				"txt2": "즉시 로그인이 켜져 있으면 True Key가 웹 사이트의 URL 주소를 감지하여 자동으로 로그인되므로, 추가로 마우스를 클릭할 필요가 없습니다.",
+				"txt3": "즉시 로그인이 꺼져 있으면 True Key가 웹 사이트의 URL 주소를 감지하고 사용자 이름과 암호를 입력하지만, 사용자가 로그인 단추를 클릭해야 합니다."
+			},
+			"clearAutologin": {
+				"title": "모든 사이트에 대해 자동 저장 복원",
+				"desc": "특정 웹 사이트의 암호를 True Key가 기억하지 않도록 요청했지만 사용자가 마음을 바꾼 경우, 복원을 클릭하면 브라우저 사용 중에 자동으로 암호를 저장합니다."
+			}
+		},
+		"import": {
+			"title": "다른 서비스를 통해 저장 중인 암호가 있습니까? 해당 암호를 True Key 계정에 추가하십시오.",
+			"desc": "암호 가져오기 도구를 사용하여 암호를 빠르게 True Key 계정에 추가하십시오.",
+			"cta": "암호 가져오기"
+		},
+		"newTab": "브라우저 홈 페이지 및 새 탭",
+		"restoreAutosave": "모든 사이트에 대해 자동 저장 복원",
+		"restore": "복원",
+		"instantLogin": "즉시 로그인",
+		"changeLanguage": "언어 변경"
+	},
+
+	"shareSocial": {
+		"title": "널리 알리세요",
+		"title2": "사랑을 공유하세요",
+		"desc": "True Key 앱 사용에 만족하십니까? 친구와 공유하고 보상을 받으십시오.",
+		"share": "공유",
+		"tweet": "Tweet",
+		"rateChrome": "앱 등급 평가",
+		"twitterMessage": "암호 관리의 어려움에서 빨리 벗어나세요. 예약을 통해 #TrueKey by @IntelSecurity를 보다 빠르게 만나보세요."
+	},
+
+	"settingsNav": {
+		"profile": "내 True Key 프로파일",
+		"lockUnlock": "잠금 기본 설정",
+		"windowsLock": "Windows 얼굴 잠금 해제",
+		"preferences": "기본 설정",
+		"support": "도움말 및 지원",
+		"shareSocial": "널리 알리세요",
+		"trustedDevices": "신뢰 기기"
+	},
+
+	"tkProfile": {
+		"title": "내 요소",
+		"hi": "안녕하세요, %{fullname}님",
+		"txt1": "요소를 추가할수록, %{htmlBefore}True Key 프로파일은 강화됩니다.%{htmlAfter}",
+		"activeFactors": "활성 요소",
+		"active": "활성",
+		"strength": "프로파일 강도",
+
+		"accountStatus": {
+			"title": "구독 상태",
+			"premium": "프리미엄",
+			"ends": "종료"
+		},
+
+		"layerEmail": "이메일을 신뢰하는 요소로 추가하면 이메일을 True Key 프로파일에 연결할 수 있습니다. <strong>새 기기 또는 신뢰되지 않은 기기에 로그인할 때 받은 편지함에 통보를 수신합니다.</strong>",
+		"layerSwipe": "<strong>계정에 로그인할 때 추가 보호를 위해</strong> 모바일 기기로 통보를 전송합니다. True Key로 로그인하기 전에 통보를 수락해야 합니다.",
+		"layerFace": {
+			"txt1": "<strong>암호 입력 없이 로그인할 수 있습니다.</strong> 얼굴 잠금 해제는 눈과 코 사이 거리와 같이 얼굴의 고유한 크기를 사용하여 사용자를 인식하고 로그인 과정을 진행합니다.",
+			"txt2": "얼굴 잠금 해제는 PC 및 Android 기기에서 사용 가능합니다."
+		},
+		"layerPassword": "강력한 마스터 암호로 귀하의 프로파일을 보호하십시오. 마스터 암호를 잊어버리지 않도록 주의하십시오! <strong>분실할 경우 마스터 암호를 재설정할 수 없습니다. 본인 외에는 마스터 암호를 알 수 없습니다.</strong> 추가 요소를 추가한 상태에서 추가 요소를 사용하여 로그인할 수 없을 때 마스터 암호를 보조 요소로 사용할 수 있습니다.",
+		"layerDevice" : "True Key는 사용자가 보유하거나 자주 사용하는 기기를 인식할 수 있습니다. 액세스하려는 각 기기를 True Key 프로파일과 함께 추가하십시오. 알 수 없는 기기에서 로그인을 시도하면 추가 요소를 요청하므로 <strong>다른 사람이 귀하의 계정에 액세스하지 못하도록 보호합니다</strong>"
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Windows 잠금 해제 보안의 강도를 어떻게 설정하시겠습니까?",
+		"desc": "원하는 보안 수준을 선택하십시오.",
+
+		"basic": {
+			"settingName": "기본",
+			"title": "기본 설정을 사용하면 가장 빠르게 로그인할 수 있습니다",
+			"desc": "신뢰할 수 있는 환경에서 사용하는 개인용 컴퓨터의 경우 이 설정을 권장합니다."
+		},
+		"advanced": {
+			"settingName": "고급",
+			"title": "고급 설정에서는 안티 스푸핑이 활성화됩니다",
+			"desc": "사무실 및 가정에서 사용하는 개인 및 공용 컴퓨터의 경우 이 설정이 권장됩니다."
+		},
+		"boosted": {
+			"settingName": "매우 강함",
+			"title": "매우 강함으로 설정하면 안티 스푸핑 및 라이브 탐지가 활성화됩니다",
+			"desc": "매우 강함으로 설정하는 경우 사용자 본인 확인을 위해 눈을 깜빡여야 합니다. 신뢰할 수 없는 환경에서 사용하는 공용 컴퓨터의 경우 이 설정이 권장됩니다."
+		},
+		"howTo": {
+			"title": "얼굴 인식을 통해 Windows에 로그인하십시오",
+			"subtitle": "Windows 암호 입력이 번거로우신가요?",
+			"desc": "True Key를 이용하여 기기의 잠금을 해제하십시오. 빠르고 간편합니다.",
+			"cta": "활성화 방법"
+		},
+		"howToModal": {
+			"title": "얼굴 인식을 통해 Windows에 로그인하십시오",
+			"desc": "간편한 다음 단계에 따라 얼굴 인식을 통한 Windows 로그인을 활성화하십시오:",
+			"step1": "화면 잠그기(Windows + L)",
+			"step2": "뒤로 단추 클릭",
+			"step3": "True Key 아이콘 클릭",
+			"tip": "키보드 바로 가기(Windows+L)를 눌러 화면을 잠글 수 있습니다"
+		}
+	},
+
+	"videos": {
+		"title": "동영상",
+		"intro": {
+			"title": "소개",
+			"desc": "True Key가 무엇이며 왜 필요할까요? 여기서 알아보세요!"
+		},
+		"gettingStarted": {
+			"title": "둘러보기 시작",
+			"desc": "처음이십니까? 빠른 제품 둘러보기로 True Key를 최대한 활용하십시오."
+		},
+		"security": {
+			"title": "보안",
+			"desc": "사용자의 보안은 무엇보다도 중요합니다. 사용자의 데이터를 안전하고 확실하게 보호하는 방법은 다음과 같습니다."
+		},
+		"sharing": {
+			"title": "암호 공유",
+			"desc": "드디어! 누구나 암호화 공유를 사용할 수 있습니다!"
+		},
+		"sharingSecurity": {
+			"title": "공유 보안",
+			"desc": "손쉬운 암호화 공유를 구현하는 것은 쉬운 일이 아닙니다."
+		},
+		"legacy": {
+			"title": "레거시",
+			"desc": "지금 현재뿐만 아니라 사후에도 귀하의 데이터를 보호하는 유일한 암호 도구입니다."
+		}
+	},
+
+	"support": {
+		"title": "도움말 및 지원",
+		"feedback": {
+			"title": "문의",
+			"desc": "True Key 서비스에 얼마나 만족하십니까?",
+			"needsWork": "개선 필요",
+			"awesome": "매우 만족",
+			"leaveComment": "비고 남기기:",
+			"placeholder": "귀하의 피드백에 감사드립니다. 여기에 비고를 입력하십시오. 미리 감사드립니다!",
+			"thankYou": "감사합니다!"
+		},
+		"getMoreSupport": "추가 지원 받기"
+	},
+
+	"wallet": {
+		"title": "디지털 가방",
+		"add": {
+			"subtitle1": "사용자의 정보를 안전하게 저장합니다",
+			"subtitle2": "처음으로 디지털 가방 항목을 추가할 범주를 선택하십시오"
+		},
+		"search": "디지털 가방 검색",
+		"types": {
+			"identity": "주소록",
+			"cc": "신용 카드",
+			"drivers": "운전 면허증",
+			"membership": "구성원 자격",
+			"passport": "여권",
+			"ssn": "주민등록번호"
+		},
+		"remove": {
+			"title": "문서 제거",
+			"confirm": "이 문서를 True Key에서 제거하시겠습니까?",
+			"permanent": "이 작업은 되돌릴 수 없습니다."
+		},
+		"edit": {
+			"title": "문서 편집"
+		}
+	},
+
+	"notes": {
+		"title": "안전 메모",
+		"add": {
+			"title": "메모 추가"
+		},
+		"empty": {
+			"title": "찾을 수 없음",
+			"desc": "True Key에 저장되지 않은 메모일 수 있습니다.",
+			"cta": "메모 만들기"
+		},
+		"sort": {
+			"alphabetically": "알파벳 순",
+			"dateCreated": "생성일"
+		},
+		"search": "내 %{smart_count} 안전 메모 검색 |||| 내 %{smart_count} 안전 메모 검색",
+		"remove": {
+			"title": "메모 제거",
+			"desc": "이 메모를 True Key에서 제거하시겠습니까?",
+			"permanent": "이 작업은 되돌릴 수 없습니다."
+		},
+		"edit": {
+			"title": "안전 메모"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "일반 로그인 사용"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email})님이 귀하를 상속인으로 지정하고 싶어 합니다."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email})님이 자신의 %{htmlBefore}%{title}%{htmlAfter} 암호를 귀하와 공유했습니다."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email})님이 암호를 귀하와 공유하고 싶어 합니다."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "계정 진행률:",
+		"pctProgress": "%{percentage}%",
+		"addLogin": {
+			"title": "최초 로그인 정보 추가",
+			"desc": "True Key에 로그인 정보 저장"
+		},
+		"oneClick": {
+			"title": "즉시 로그인 시도",
+			"desc": "키보드 사용 없이 로그인"
+		},
+		"addFace": {
+			"title": "얼굴 잠금 해제 추가",
+			"desc": "보다 빠르고 쉬운 로그인을 제공합니다."
+		},
+		"addLogins": {
+			"title": "최초 4개 로그인 정보 추가",
+			"desc": "True Key 프로파일에 더 많은 로그인 정보 추가"
+		},
+		"sharing": {
+			"title": "암호 공유",
+			"desc": "가족, 친구 및 동료와 안전하게 공유합니다"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "얼굴 인식으로 빠르게 로그인하십시오.",
+		"txt1": "얼굴 잠금 해제를 설치하여 손쉽고 빠르게 True Key™ 앱에 액세스하십시오.",
+		"txt2": "또한 마스터 암호와 페어링하여 간편한 두 번째 요소로 사용할 수 있습니다.",
+		"txt3": "걱정하지 마십시오. 얼굴 사진은 저장되거나 공유되지 않습니다.",
+		"cta": "얼굴 잠금 해제 설치"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "신뢰 기기 추가",
+		"txt1": "확인하려면 이메일을 체크하십시오.",
+		"txt2": "계속하려면 받은 편지함을 체크하십시오."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "신뢰 기기 선택",
+		"txt": "이단계 인증이 활성화되었습니다. 이 통보를 받을 신뢰 기기를 선택하십시오."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "신뢰 기기 비활성화",
+		"txt": "다음 기기가 비활성화됩니다: \"%{deviceName}\"",
+		"confirm": "비활성화"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "사용 중인 기기는 신뢰 기기입니다.",
+		"txt": "신뢰 기기로 설정하면 얼굴 잠금 해제와 같은 더 많은 보안 요소를 추가할 수 있습니다."
+	},
+
+	"overlayInstallExe": {
+		"title": "이제 마지막 세 단계만 남았습니다",
+		"txt": "True Key 소프트웨어를 다운로드하고 있습니다. 다운로드가 진행되지 않습니까? ",
+		"restartDownload": "여기를 클릭하여 다운로드를 다시 시작하십시오."
+	},
+
+	"overlayOobPending": {
+		"txt": "로그인 확인을 위해 푸시 통보를 보냈습니다. 신뢰 기기를 확인하십시오.",
+		"btResend": "통보 다시 보내기"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "이런, 푸시 통보가 만료되었군요.",
+		"txt2": "새 통보로 다시 시도",
+		"btResend": "통보를 받지 못했습니까? 다시 보내기"
+	},
+
+	"overlayInstallFace": {
+		"title": "보다 빠르게 로그인",
+		"txt": "시간을 절약하십시오. 마스터 암호 입력 대신 얼굴 잠금 해제를 사용하십시오."
+	},
+
+	"overlayTrustDevice": {
+		"title": "이 기기는 신뢰 기기입니까?",
+		"txt1": "신뢰할 수 없는 기기에 로그인을 시도하는 것 같습니다.",
+		"txt2": "이 컴퓨터를 신뢰 기기에 추가하면 하나 이상의 요소로 보다 빠르게 로그인할 수 있습니다.",
+		"dontTrust": "아니요, 신뢰하지 않습니다",
+		"trustComputer": "이 컴퓨터를 신뢰합니다"
+	},
+
+	"overlayEmailPending": {
+		"title": "사용자 이메일 주소 확인",
+		"txt": "이 기기를 확인하려면 이메일을 체크하십시오.",
+		"btResend": "이메일 다시 보내기"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "이런, 이메일 통보가 만료되었네요.",
+		"txt2": "새 통보로 다시 시도하십시오.",
+		"btResend": "통보를 받지 못했습니까? 다시 보내기"
+	},
+
+	"overlayUpdate": {
+		"title": "TrueKey 앱 업데이트",
+		"txt": "새 버전을 설치할 준비가 되었습니다. 업데이트를 클릭하여 설치하십시오.",
+		"btUpdate": "지금 업데이트"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "마스터 암호 입력",
+			"enterMasterPasswordHere": "여기에 마스터 암호 입력",
+			"invalidPassword": "잘못된 암호"
+		}
+	},
+
+	"userConfirm": {
+		"title": "확인 필요"
+	},
+
+	"fullscreenAutolock": {
+		"title": "자동 잠금",
+		"text": "언제 True Key 앱을 잠그시겠습니까?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Launchpad 가시성",
+		"text": "Launchpad가 잠겨 있을 때 즐겨 찾는 사이트의 숨김 또는 표시 여부를 선택하십시오.",
+		"visible": "<span class='bold'>보임:</span> 잠김 상태에서도 Launchpad를 볼 수 있습니다.",
+		"invisible": "<span class='bold'>숨김:</span> 잠김 상태에서 Launchpad를 숨깁니다."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "신뢰 기기",
+			"helpText": "추가 보호 계층을 위해 True Key 프로파일에 기기를 추가하십시오.",
+			"enroll": "기기 신뢰"
+		},
+		"masterPassword": {
+			"title": "마스터 암호",
+			"helpText": "강력한 True Key 프로파일용 마스터 암호를 만드십시오. 해당 암호는 저장되지 않으므로 안심하고 만드셔도 됩니다."
+		},
+		"email": {
+			"title": "신뢰 이메일",
+			"helpText": "이메일을 확인하여 모든 기능을 활성화하십시오. 이메일을 추가 보안 요소로 사용할 수도 있습니다.",
+			"enroll": "확인 이메일 보내기"
+		},
+		"face": {
+			"title": "얼굴 잠금 해제",
+			"helpText": "True Key 얼굴 잠금 해제는 사용자가 가진 고유의 얼굴 계산을 통해 본인 확인을 수행합니다. 얼굴 잠금 해제를 기본 로그인 방법 또는 추가 보안 요소로 사용하십시오.",
+			"enroll": "지금 추가"
+		},
+		"mobile": {
+			"title": "밀어서 해제(Android에만 해당)",
+			"helpText": "밀어서 해제 기능을 두 번째 요소로 사용하여 휴대폰에 푸시 통보를 보낼 수 있습니다. 통보를 밀기만 하면 컴퓨터 프로파일이 잠금 해제됩니다. 마스터 암호 대신 사용하거나 추가 보안 요소로 사용할 수 있습니다.",
+			"enroll": "전화 추가"
+		},
+		"fingerprint": {
+			"title": "지문 잠금 해제",
+			"helpText": "추가 보호 계층을 위해 사용자 고유의 지문을 사용하여 안전하게 True Key에 액세스하십시오. 해당 기능은 곧 출시됩니다."
+		}
+	},
+
+	"killswitch": {
+		"title": "필수 업데이트",
+		"chrome": {
+			"txt1": "이 버전의 True Key 확장은 더 이상 지원되지 않습니다.  Chrome의 경우 최신 버전으로 자동 업데이트됩니다.",
+			"txt2": "브라우저를 다시 시작하십시오."
+		},
+		"ie": {
+			"txt1": "이 버전의 True Key는 더 이상 지원되지 않습니다. 아래의 단추를 클릭하여 최신 버전으로 업데이트하십시오",
+			"cta": "지금 업데이트"
+		},
+		"downloading": "이 버전의 True Key는 더 이상 지원되지 않습니다. 지금 업데이트된 버전을 다운로드 중입니다. 몇 분만 기다리십시오…"
+	},
+
+	"downloadExe": {
+		"title": "탁월한 선택입니다",
+		"txt1": "얼굴 잠금 해제를 사용하면 마스터 암호를 입력하는 번거로움이 사라집니다. 아래를 클릭하여 설치 프로그램을 다운로드하십시오."
+	},
+
+	"enableIE": {
+		"appInstalled": "앱 설치됨",
+		"enableIt": "이제 브라우저에서 사용할 수 있습니다",
+		"cta": "아래를 활성화한 후 클릭하십시오",
+		"title": "마지막 단계",
+		"txt1": "아래의 \"사용\"을 클릭하여 True Key 앱을 시작하십시오. 이 작업은 한 번만 하면 됩니다.",
+		"txt2": "작업이 완료되면 %{htmlBefore}여기를 클릭%{htmlAfter}하십시오.",
+		"appInstalled" : "앱이 설치되었습니다.",
+		"enableIt" : "이제 브라우저에서 사용할 수 있습니다.",
+		"havingTrouble" : "문제가 있습니까? 이 페이지를 새로 고침하십시오."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "신뢰 기기를 사용 중이므로 이미 보호되고 있습니다:",
+		"trustedDevice": "이 신뢰 기기(\"%{deviceName}\")",
+		"chooseFactors": "앱 잠금 해제를 위한 추가 요소를 선택하십시오:",
+		"simple": "단순함",
+		"complex": "복잡함",
+		"faceUnlock": "얼굴 잠금 해제",
+		"addFace": "얼굴 추가",
+		"addSwipe": "밀어서 해제 추가",
+		"masterPassword": "마스터 암호",
+		"theseFactorsAreRequired": "또한 앱에 액세스하려면 다음 요소가 필요합니다:",
+
+		"confirmAdvanced": {
+			"title": "알아두십시오",
+			"content": "\"고급\" 설정을 사용하여 로그인하는 경우 기기가 반드시 인터넷에 연결되어 있어야 합니다. 연결할 수 없는 경우 True Key 프로파일에 액세스할 수 없습니다.",
+			"confirm": "알겠습니다"
+		}
+	},
+
+	"faq": {
+		"title": "FAQ",
+
+		"Q1": "True Key란 무엇입니까?",
+		"A1": "True Key™ by Intel Security 는 새로운 로그인 방식을 제시합니다.  True Key를 사용하면 번거롭게 여러 암호를 기억해야 할 필요 없이, 얼굴의 특징이나 소유 기기의 식별자 등 사용자 고유의 요소를 사용하여 앱, 사이트 및 기기에 즉시 로그인할 수 있습니다.  또한 더 많은 요소를 사용할수록 True Key는 더욱 강력해지며 보다 쉽게 사용자 본인을 확인할 수 있습니다. True Key를 사용하면 사용자 본인이 곧 암호입니다.  더욱 강력한 디지털 ID 제어를 통해 보다 빠르고, 쉽고, 안전한 디지털 라이프를 즐길 수 있습니다.",
+
+		"Q2": "True Key는 어떻게 작동합니까?",
+		"A2": "스마트폰, 태블릿 또는 PC에서 True Key 계정을 열고 프로파일을 만들면 True Key가 사용자를 인식합니다. True Key를 지원하는 웹 사이트는 자동으로 사용자를 인식하므로 암호를 입력하거나 기억할 필요조차 없습니다. 아직 지원하지 않는 웹 사이트의 경우 True Key에 포함된 암호 관리자가 학습을 통해 자동으로 사용자 이름과 암호를 입력합니다. True Key를 사용하면 사용자 본인이 곧 암호입니다.  더욱 강력한 디지털 ID 제어를 통해 보다 빠르고, 쉽고, 안전한 디지털 라이프를 즐길 수 있습니다.",
+
+		"Q3": "True Key를 통해 로그인해야 하는 이유는 무엇입니까?",
+		"A3": "True Key를 사용하면 일상이 간편해지며 디지털 세계에서 보다 강력한 본인 인증이 가능합니다. 얼굴 계산 또는 지문 등 사용자 고유의 속성을 사용하여 True Key에 로그인하는 것만으로 어디에서든 즉시 본인을 인증할 수 있습니다.",
+
+		"Q4": "공유 컴퓨터에서 여러 명이 각자의 True Key를 사용할 수 있습니까?",
+		"A4": "예, True Key가 사용자 본인을 인식하므로 사용자의 계정에는 오직 사용자 본인만 로그인할 수 있습니다. 로그아웃 및 재로그인 역시 마찬가지로 간편합니다.",
+
+		"Q5": "True Key는 안전합니까?",
+		"A5": "True Key는 누구나 사용할 수 있는 보안 제품입니다. 사용자 데이터는 가장 강력한 암호화 단계 중 하나인 AES-256으로 암호화됩니다. 또한 추가 속성 또는 얼굴 계산이나 지문과 같은 ‘요소'를 추가하여 True Key를 보다 강력하게 만들 수 있습니다.",
+
+		"Q6": "데이터는 어떤 방식으로 암호화 및 암호 해독됩니까?",
+		"A6": "True Key는 가장 강력한 암호화 단계 중 하나인 AES-256으로 암호화된 사용자의 데이터를 로컬 기기에 보관합니다.  개인 데이터는 암호화되지 않은 상태에서 결코 기기 밖으로 유출되지 않으며 오직 사용자 본인(및 사용자가 인증한 사람)만 액세스할 수 있습니다.",
+
+		"Q7": "True Key 직원이 내 계정에 저장된 데이터나 기타 비밀 정보에 대한 액세스를 가질 수 있습니까?",
+		"A7": "아니요, True Key를 사용하면 사용자 본인이 곧 암호입니다.  사용자 데이터의 암호화 및 암호 해독은 사용자의 기기에서 이루어지며 데이터는 항상 사용자만 관리할 수 있습니다. True Key는 얼굴 계산, 지문 또는 마스터 암호 등 사용자 고유의 요소를 사용하며, 이러한 요소는 사용자가 필요한 경우에만 암호화 및 암호 해독이 가능합니다.",
+
+		"Q8": "데이터의 암호화 및 암호 해독은 어디에서 이루어집니까?",
+		"A8": "사용자 데이터의 암호화 및 암호 해독은 사용자의 기기에서 로컬로 이루어집니다. True Key 서버에는 오직 암호화된 데이터만 저장됩니다.",
+
+		"Q9": "내 데이터가 True Key 서버에 저장됩니까?",
+		"A9": "예, 암호화된 True Key 데이터는 안전한 True Key 서버에 저장됩니다. 이러한 정보는 얼굴 계산 또는 마스터 암호 등 사용자 고유의 요소를 통해서만 액세스할 수 있습니다.",
+
+		"Q10": "Windows 기기에서 True Key 얼굴 잠금 해제 기능을 사용할 수 있습니까?",
+		"A10": "Windows 기기용 True Key 얼굴 잠금 해제는 2015년 초에 출시될 예정입니다.",
+
+		"Q11": "특정 웹 카메라가 필요합니까?",
+		"A11": "True Key는 사용자 기기에 장착된 전면 카메라 및 USB 연결 카메라를 지원합니다.",
+
+		"Q12": "다른 사람이 내 사진을 이용하여 로그인할 수 있습니까?",
+		"A12": "아니요, True Key는 그런 종류의 로그인 시도를 방지할 수 있는 정밀한 안티 스푸핑 기술로 개발되었습니다. Intel Security의 보안은 신뢰할 수 있습니다.",
+
+		"Q13": "로그인한 사람이 본인인지 어떻게 확신할 수 있습니까?",
+		"A13": "Intel Security의 보안은 신뢰할 수 있습니다. True Key는 생체 인식, 얼굴 이미지, 지문 및 기타 사용자가 설정한 사용자 고유 속성을 포함하여 정교한 알고리즘을 통해 사용자 본인을 확인합니다.",
+
+		"Q14": "True Key 얼굴 잠금 해제는 어디에서 사용할 수 있으며, 어떤 플랫폼에서 사용할 수 있습니까?",
+		"A14": "True Key는 잘 알려진 모든 기기에서 다운로드받을 수 있지만, 얼굴 인식 로그인 기능은 현재 Windows 8, 8.1, Internet Explorer 10 + 11 및 Google Chrome 브라우저에서만 가능합니다.  몇 달 내에 추가 플랫폼 및 인증 방법이 릴리스될 예정입니다."
+	},
+
+	"privacy": {
+		"title": "사용자, 데이터, 그리고 True Key",
+
+		"Q1": "무엇보다 중요한 것은 귀하의 개인 정보 보호입니다",
+		"A1": "Intel Security는 귀하의 개인 정보를 소중하게 생각합니다. Intel Security가 모든 개인 정보를 어떻게 관리하는지 알아보려면 당사의 %{privacyBefore}개인 정보 보호 고지 사항%{linkAfter}에서 자세한 내용을 참조하십시오.",
+
+		"Q2": "True Key 앱이 수집하는 정보에는 어떤 것이 있나요?",
+		"A2": "<p>사용자의 허가를 통해, True Key 앱은 사용자의 이미지를 수집하여 “얼굴 계산”이라 불리는 측정값으로 변환합니다. </p><p>사용자의 얼굴 계산이 완료되면 이미지가 감지됩니다. 얼굴 계산은 암호화되어 사용자의 기기서 로컬로 저장됩니다.  그리고 암호화된 정보는 안전하게 Intel Security 데이터 센터에 저장되므로, 사용자는 쉽고 안전하게 기기 및 웹 사이트에 액세스할 수 있습니다.</p><p>사용자의 비밀 정보는 암호화되어 Intel Security에 전송되고 오직 사용자만 알고 있는 마스터 암호에 의해 보호되므로, Intel Security는 이를 액세스할 수 없습니다.</p><p>추가:</p><p>또한 True Key 앱에는 사용자가 제공한 암호, 사용자 이름 및 디지털 가방 정보가 저장됩니다.  해당 항목들은 사용자 기기에서 암호화되며, 암호화된 정보가 안전한 True Key 서버에 전송되어 사용자와 통신할 수 있게 되면 다른 기기와 동기화될 수도 있습니다.</p>",
+
+		"Q3": "얼굴 계산이란 무엇인가요?",
+		"A3": "얼굴 계산을 통해 사용자의 얼굴 정보를 계산함으로써 얼굴 잠금 해제 기술이 사용자를 인식할 수 있습니다.",
+
+		"Q4": "내 얼굴 계산은 어떻게 사용됩니까?",
+		"A4": "Intel Security는 얼굴 잠금 해제 기술로 사용자의 얼굴 계산을 사용하고, 이를 통해 사용자 본인을 확인하여 기기 또는 True Key를 사용하는 웹 사이트에 로그인합니다.",
+
+		"Q5": "모든 정보가 저장되는 위치는 어디인가요?",
+		"A5": "얼굴 계산 템플릿은 암호화되어 사용자의 기기에 저장됩니다. 또한 암호화된 정보는 Intel Security 데이터 센터에 저장되므로, 사용자는 기기 간의 동기화를 수행할 수 있습니다.",
+
+		"Q6": "내 기기에서 얼굴 잠금 해제를 제거하려면 어떻게 해야 하나요?",
+		"A6": "기능을 활성화하거나 비활성화하려면 계정을 비활성화하거나, 기기 또는 시스템의 제거 옵션을 통해 프로그램을 제거하십시오.",
+
+		"Q7": "Intel Security 데이터 센터에서 내 얼굴 계산을 삭제하려면 어떻게 해야 하나요?",
+		"A7": "True Key %{customerSupportBefore}고객 서비스%{linkAfter}에 문의하여 얼굴 계산을 삭제하도록 요청할 수 있습니다. 본인 인증 후 얼굴 계산의 삭제를 요청할 수 있습니다.",
+
+		"Q8": "True Key 앱이 내가 액세스한 웹 사이트를 추적하나요?",
+		"A8": "True Key 프로파일에 웹 사이트 및 로그인 정보를 저장할 때 True Key Launchpad에서 해당 정보를 확인할 수 있습니다.",
+
+		"Q9": "True Key 서비스가 다른 목적으로 내 정보를 사용하기도 하나요?",
+		"A9": "아니요. True Key 서비스는 암호화되지 않은 사용자 정보에 액세스하지 않습니다.",
+
+		"Q10": "True Key 앱에 대한 자세한 내용은 어디에서 얻을 수 있나요?",
+		"A10": "얼굴 잠금 해제 및 True Key 앱에 대한 자세한 내용은 True Key 웹 사이트, %{websiteBefore}truekey.com%{linkAfter}에서 확인하거나 True Key %{customerSupportBefore}고객 서비스%{linkAfter}에 문의하십시오."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "신뢰 기기 추가",
+		"lastUsed": "마지막 사용:",
+		"twoFactor": "이단계 인증:",
+		"title": "True Key 프로파일에 대해 신뢰 기기를 선택하고 관리하십시오.",
+		"txt1": "True Key 프로파일이 신뢰할 수 있는 기기를 제어할 수 있습니다. 이러한 기기를 두 번째 요소 인증으로 사용하여 사이트 및 앱 액세스 위치를 관리하십시오. 언제든지 기기를 추가 또는 제거할 수 있습니다."
+	},
+
+	"startpage": {
+		"searchNoResults": "결과가 없습니다.",
+
+		"addFavorite": {
+			"title": "즐겨찾기 추가",
+			"placeholder": "웹 사이트 이름 또는 URL 입력",
+			"titleSuggestions": "몇 가지 제안:",
+			"moreSuggestions": "추가 제안"
+		},
+
+		"addManually": {
+			"title": "수동으로 즐겨찾기 추가",
+			"label": {
+				"websiteName": "웹 사이트 이름",
+				"url": "URL"
+			},
+			"placeholders": {
+				"websiteName": "예: Facebook",
+				"url": "예: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "즐겨찾기 편집"
+		},
+
+		"ctaEdit": "이 즐겨찾기 편집",
+
+		"search": {
+			"onTheWeb": "웹에서 \"%{filter}\" 검색",
+			"logins": "저장된 로그인 정보",
+			"placeholder": "웹 또는 True Key Launchpad 검색"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "즐겨찾기",
+			"description": "북마크와 비슷합니다. 원하는 대로 추가, 제거, 정리할 수 있습니다. 즐겨찾기를 사용하여 로그인 정보의 저장 여부와 관계 없이 자주 방문하는 사이트에 빠르게 액세스하십시오."
+		},
+		"logins": {
+			"title": "로그인",
+			"description": "프로파일에 저장된 로그인 정보를 확인할 수 있습니다. 로그인을 추가, 확인하거나 세부 정보를 편집하고 각 보안 설정을 관리하십시오."
+		},
+		"menu": {
+			"title": "사용자 메뉴",
+			"description": "기본 설정, 보안 설정, 지원 및 기타 다양한 메뉴 항목에 액세스할 수 있습니다."
+		},
+		"search": {
+			"title": "검색",
+			"description": "웹 또는 True Key 프로파일에서 필요한 정보를 빠르게 검색합니다."
+		},
+		"profile": {
+			"title": "프로파일",
+			"description": "사용자의 프로파일 설정을 확인하고 업데이트합니다. 사용자의 확인이 필요한 메시지가 있는 경우 통보 아이콘을 클릭하십시오."
+		}
+	},
+
+	"browserActivation": {
+		"title": "거의 완료되었습니다",
+		"description": "이제 True Key™ 확장을 활성화해야 합니다. 사용하는 브라우저를 하나 또는 모두 선택하십시오.",
+		"activated": "True Key™가 이미 <em>%{activatedBrowser}</em>에서 활성화되었습니다.<br> <em>%{availableBrowser}</em>에도 추가하십시오.",
+
+		"overlayTitle": "활성화된 True Key™",
+		"overlayText": "암호 입력 없이 즐겨 찾는 사이트에 즉시 로그인하려면 <strong>True Key를 활성화</strong>하십시오.",
+		"errorNoBrowserSelected": "True Key를 사용할 브라우저를 하나 이상 선택하십시오"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "True Key™ by Intel Security를 소개합니다",
+			"subtitle": "암호 관리의 번거로움에서 벗어난 간편한 디지털 라이프",
+			"description": "True Key 앱은 사용자 고유의 요소를 사용하여 즐겨찾는 사이트, 앱 및 기기에 안전하게 빠르게 액세스할 수 있는 혁신적인 로그인 방법을 제공합니다."
+		},
+		"sync": {
+			"subtitle": "전화기, 태블릿 및 컴퓨터와 자동 동기화를 통해 자유롭게 다양한 기기 사용",
+			"description": "True Key 앱은 전화기, 태블릿 및 컴퓨터와 안전하게 동기화되므로 정보를 간편하게 관리할 수 있습니다."
+		},
+		"encrypted": {
+			"subtitle": "안전한 정보 관리 및 암호화, 개인 정보 보호",
+			"description": "데이터는 사용자 기기에 로컬로 저장되며 암호화 없이 외부로 전송되지 않습니다. 오직 사용자만 액세스할 수 있습니다."
+		},
+		"unique": {
+			"subtitle": "사용자마다 고유의 프로파일 생성",
+			"description": "True Key 앱을 사용하면 사용자 본인이 곧 암호입니다. 더 많은 요소를 사용할수록 True Key 프로파일은 강력해지며 본인 인증 또한 보다 정확해집니다."
+		},
+		"skipTour": "둘러보기 건너뛰기",
+		"iGetIt": "알겠습니다.",
+		"getStarted": "시작하십시오"
+	},
+
+	"slideshow2": {
+		"meetTK": "True Key by Intel Security 소개",
+		"multiple_passwords": {
+			"title": "골치 아픈 암호 관리의 어려움 해소",
+			"desc": "True Key 앱이 귀하의 암호를 기억하고 있으므로 직접 입력할 필요가 없습니다."
+		},
+		"sync": {
+			"title": "암호를 모든 기기에서 동기화",
+			"desc": "True Key 앱을 모든 기기에 설치하여 암호를 편하게 관리하십시오."
+		},
+		"encrypted": {
+			"title": "암호를 암호화된 상태로 안전하게 보관",
+			"desc": "True Key 앱은 암호를 기기에서 암호화하므로 오직 사용자만 액세스할 수 있습니다."
+		}
+	},
+
+	"enable": {
+		"lastStep": "마지막 단계",
+		"clickEnable": "아래의 \"사용\"을 클릭하여 True Key 앱을 시작하십시오. 이 작업은 한 번만 하면 됩니다.",
+		"clickDone": "작업이 완료되면 %{htmlBefore}여기를 클릭%{htmlAfter}하십시오"
+	},
+
+	"activation": {
+		"title": "True Key™ 활성화",
+		"txtEnable": "즐겨 찾는 사이트에 암호 입력 없이 즉시<br>로그인하려면 <strong>True Key 확장을 활성화</strong>하십시오.",
+		"txtInstall": "즐겨 찾는 사이트에 암호 입력 없이 즉시<br>로그인하려면 <strong>True Key 확장을 설치</strong>하십시오.",
+		"txtRestart": "True Key 확장을 설치하려면 브라우저를 다시<br>시작해야 합니다."
+	},
+
+	"loginSuccess": {
+		"title": "환영합니다",
+		"text": "브라우저를 다시 시작하면 True Key 아이콘을 찾으십시오."
+	},
+
+	"signupSuccess": {
+		"text": "프로파일이 만들어졌습니다.<br>브라우저를 다시 시작하면 True Key 아이콘을 찾으십시오."
+	}
+}

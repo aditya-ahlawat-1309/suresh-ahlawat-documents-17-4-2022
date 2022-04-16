@@ -1,0 +1,41 @@
+{
+	"appName": {
+		"message": "PasswordBox.com",
+		"description": "Name of the extension."
+	},
+	"appDesc": {
+		"message": "1 TIKLA OTURUM AÇARAK ZAMANDAN TASARRUF EDİN! ARTIK ŞİFRELERİNİZİ YAZMAK YA DA EZBERLEMEK ZORUNDA DEĞİLSİNİZ.",
+		"description": "Description of the extension.
+
+[Old description]
+Google Chrome için Ücretsiz Şifre Yöneticisi - Şifrelerinizi Bir Daha Asla Unutmayın
+
+[Store]
+PasswordBox® siz internette gezinirken kullanıcı adı ve şifrelerinizi otomatik olarak kaydeder, bu sayede istediğiniz sitede sadece bir tıkla oturum açabilirsiniz.
+Tıpkı DropBox'ta olduğu gibi, PasswordBox'a bir şifre kaydettiğinizde, bu şifre bütün tarayıcılarınız, bilgisayarlarınız, tabletleriniz ve telefonlarınızda kaydedilir.
+FAYDALARI:
+,Şifrelerinizi artık kaybetmeyecek ya da unutmayacaksınız.
+,%100 ÜCRETSİZ! Depolayabileceğiniz şifre sayısında bir sınırlama bulunmamaktadır.
+,İhtiyacınız olan önemli bilgiler artık siz nerede olursanız olun parmaklarınızın ucunda olacak.
+,Otomatik senkronizasyon özelliği birden fazla cihaz kullananların her zaman en güncel bilgilere sahip olabilmesi için idealdir.
+
+BÜTÜN İNTERNET TARAYICILARI VE CİHAZLARLA UYUMLU:
+,Chrome, Firefox, IE8, IE9, IE10.
+,iPhone, iPad ve Android Uygulamaları + diğer telefonlar için mobil internet.
+,Mac ve Windows OS.
+KULLANICI DOSTU ÖZELLİKLERİ:
+,İnternet sitelerini 1 tıkla açar.
+,Hızlı bir şekilde yeni hesaplar eklemek için ön ayarlı şablonlara sahiptir.
+,Özelleştirebileceğiniz bir başlangıç sayfasına sahiptir.
+GÜVENLİK:
+,Askeri bilgilerin güvenliği için kullanılan AES şifrelemeyi kullanarak verilerinizi emniyet altında tutar.
+,Otomatik kilit fonksiyonu telefonun çalınması ya da kaybolması durumunda verilerinizi korur.✔ Verilerin şifrelenmesi ya da şifre çözümü sadece sizin bilgisayarınızda ve sadece sizin bildiğiniz bir ana şifre ile yapılır.
+YORUMLAR:
+/“PasswordBox.com TAM ihtiyacım olan şey… Bu KESİNLİKLE bütün arkadaşlarıma tavsiye edebileceğim bir uygulama!/” – Scott W.
+
+/“PasswordBox.com çok faydalı bir uygulama, ihtiyacı tam olarak karşılıyor, sezgisel ve kullanımı kolay. Başarılarınızın devamını dilerim./” – Devon L.
+PasswordBox.com ile ihtiyacınız olan bilgilere her istediğinizde ulaşabileceksiniz. Şifre yöneticisi ile ilgili ihtiyacınızı karşılamak amacıyla PasswordBox.com'u tercih ettiğiniz için teşekkür ederiz.
+PasswordBox.com ekibi kendisini taleplere cevap verecek bir uygulama geliştirme yaklaşımı ve kullanıcı desteği anlayışına adamıştır. Sorularınız ya da eleştirileriniz varsa lütfen help@passwordbox.com e-posta adresimizi kullanarak bunları bize bildirin. Sorunlarınızı çözmemiz için geçecek süre bize olumsuz bir değerlendirme yazarken harcayacağınız süreden daha kısa olacaktır.
+Geri bildirim, öneri ve yorumlarınızı çok ciddiye alıyoruz. Yapacağınız katkılar PasswordBox.com Chrome Eklentimizi daha fazla zenginleştirmemize, eklentimiz için yeni özellikler geliştirmemize olanak sağlayacaktır."
+	}
+}

@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Slik aktiverer du informasjonskapsler i Firefox",
+    "onMac" : "På Mac",
+    "onPC" : "På PC",
+    "step1" : "<strong>1: Gå til Firefox &gt; Innstillinger &gt; Personvern.</strong><br>I Historikk-delen, velg:<br><strong>Firefox skal: Bruke egne innstillinger for historikk</strong>",
+    "step2" : "<strong>2: I Historikk-delen, velg Tillat infokapsler</strong><br>og deretter fra nedtrekksmenyen nedenfor:<br><strong>Tillat tredjeparts infokapsler &gt; Alltid</strong>"
+  },
+  "import" : {
+    "title" : "Importer passord til PasswordBox",
+    "selectSoure" : "Velg kilde",
+    "export" : "Eksporter passordene dine",
+    "import" : "Importer passordfilen til PasswordBox",
+    "dashlane1" : "For å eksportere passordene dine fra Dashlane, åpne Dashlane og klikk på:",
+    "dashlane2" : "File > Export data",
+    "dashlane3" : "Velg <strong class=\"green\">Unsecured archive (readable) in CSV format</strong> -alternativet.",
+    "dashlane4" : "Lagre filen på ønsket plassering.",
+    "dashlane5" : "Bare den nyeste versjonen av Dashlane støttes.",
+    "lastpass1" : "For å eksportere passordene dine fra LastPass, klikk på ikonet for LastPass-programvareutvidelsen fra nettleseren din og velg:",
+    "lastpass2" : "<strong>Verktøy &gt; Eksporter</strong><br>til og velg <strong class=\"green\">LastPass CSV-fil</strong> i menyen. Angi passordet ditt hvis du blir bedt om det.",
+    "lastpass3" : "Klikk på OK, og lagre den på ønsket plassering.",
+    "lastpass4" : "Bare den nyeste versjonen av LastPass støttes.",
+    "roboform1" : "Eksport fra Roboform er for tiden kun tilgjengelig på Mac-operativsystemer.",
+    "roboform2" : "Windows-støtte kommer snart.",
+    "roboform3" : "For å eksportere passordene dine fra RoboForm, åpne RoboForm-nettlesertillegget og klikk på: <strong>Valg:</strong>",
+    "roboform4" : "Velg alternativet Brukerdata og klikk på <strong>Eksporter til ...</strong>",
+    "roboform5" : "<strong>Lagre filen som .html</strong>  på ønsket plassering.",
+    "roboform6" : "Bare den nyeste versjonen av RoboForm støttes.",
+    "onepassword1" : "For å eksportere passordene dine fra 1Password, åpne:",
+    "onepassword2" : "<strong>- File &gt; Export...</strong><br>velg alternativet <strong class=\"green\">Tab-Delimited-Text</strong> og alternativet <strong>All Logins</strong> .",
+    "onepassword3" : "Klikk på OK, og lagre den på ønsket plassering.",
+    "onepassword4" : "Bare den nyeste versjonen av 1Password støttes.",
+    "onepasswordClick" : "<u>Klikk her</u> for å laste opp <span class=\"serviceName green\">1Password</span> -filen",
+    "keepass1" : "For å eksportere passordene dine fra KeePass, åpne KeePass og klikk på: <",
+    "keepass2" : "<strong>File &gt; Export To</strong><br>Velg <strong>CSV File...</strong> -formatalternativet.",
+    "keepass3" : "Lagre filen på ønsket plassering.",
+    "keepass4" : "Bare den nyeste versjonen av KeePass støttes."
+  }
+}

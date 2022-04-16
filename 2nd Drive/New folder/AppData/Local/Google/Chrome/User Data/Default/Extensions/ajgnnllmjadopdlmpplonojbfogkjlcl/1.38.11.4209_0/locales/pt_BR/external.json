@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Como ativar cookies no Firefox",
+    "onMac" : "No Mac",
+    "onPC" : "No PC",
+    "step1" : "<strong>1: Vá para Firefox &gt; Preferências &gt; Privacidade.</strong><br>Na seção Histórico, selecione:<br><strong>“Firefox irá: Usar configurações personalizadas para histórico”</strong>",
+    "step2" : "<strong>2: Na seção Histórico, selecione “Aceitar cookies dos sites”</strong><br>Em seguida no menu suspenso abaixo:<br><strong>“Aceitar cookies de terceiros” &gt; “Sempre”</strong>"
+  },
+  "import" : {
+    "title" : "Importar senhas para PasswordBox",
+    "selectSoure" : "Selecionar fonte",
+    "export" : "Exportar suas senhas",
+    "import" : "Importar seu arquivo de senhas para PasswordBox",
+    "dashlane1" : "Para exportar suas senhas do Dashlane, abra o Dashlane e clique em:",
+    "dashlane2" : " Arquivo > Exportar dados ",
+    "dashlane3" : "Selecione <strong class=\"green\">a opção de formato </strong> CSV arquivos não seguros.",
+    "dashlane4" : "Salve o arquivo no local de sua escolha.",
+    "dashlane5" : "Apenas a versão mais recente do Dashlane é suportada.",
+    "lastpass1" : "Para exportar suas senhas do LastPass, clique no ícone do plug-in LastPass de seu navegador e selecione:",
+    "lastpass2" : "<strong>Ferramentas &gt; Exportar</strong><br>para e selecione o arquivo <strong class=\"green\">LastPass CSV</strong> no menu. Insira a senha se solicitado.",
+    "lastpass3" : "Clique em OK e salve no local de sua escolha.",
+    "lastpass4" : "Apenas a versão mais recente do LastPass é suportada.",
+    "roboform1" : "Atualmente, a exportação do Roboform está disponível apenas em sistemas operacionais Mac.",
+    "roboform2" : "O suporte para o Windows ocorrerá em breve.",
+    "roboform3" : "Para exportar suas senhas do RoboForm, abra a extensão do navegador RoboForm e clique em <strong> Opções:</strong>",
+    "roboform4" : "Na opção do painel selecione &quot;Dados do usuário&quot; e clique em <strong> &quot;Exportar para&quot;</strong>",
+    "roboform5" : "<strong> Salve o arquivo como. Html </strong>no local de sua escolha.",
+    "roboform6" : "Apenas a versão mais recente do RoboForm é suportada.",
+    "onepassword1" : "Para exportar suas senhas do 1Password, abra:",
+    "onepassword2" : "<strong> - Arquivo &gt; Exportar: </strong><br> selecione o formato <strong class=\"green\"> Delimitado por tabulações de texto </strong> , e a opção <strong> Todos os logins </strong> .",
+    "onepassword3" : "Clique em OK e salve no local de sua escolha.",
+    "onepassword4" : "Apenas a versão mais recente do 1Password é suportada.",
+    "onepasswordClick" : "<u> Clique aqui </u> para carregar o seu arquivo do <span class=\"serviceName green\"> 1Password </span>  ",
+    "keepass1" : "Para exportar suas senhas do KeePass, abra o KeePass e clique em:",
+    "keepass2" : "<strong>Arquivo &gt; Exportar </strong><br> Selecione a opção de formato <strong> KeePass CSV 1.x </strong> .",
+    "keepass3" : "Salve o arquivo no local de sua escolha.",
+    "keepass4" : "Apenas a versão mais recente do KeePass é suportada."
+  }
+}

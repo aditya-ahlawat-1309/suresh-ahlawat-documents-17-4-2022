@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Tutup",
+    "done" : "Selesai",
+    "dontSave" : "Jangan simpan",
+    "neverSave" : "Jangan pernah simpan",
+    "saveNow" : "Simpan Sekarang",
+    "yes" : "Ya",
+    "no" : "Tidak",
+    "remove" : "Hapus",
+    "dontUpdate" : "Jangan perbarui",
+    "updateNow" : "Perbarui sekarang",
+    "dontAskAgain" : "Jangan tanya lagi",
+    "dontSaveNow" : "Jangan simpan sekarang",
+    "dontSaveItNow" : "Jangan simpan sekarang",
+    "neverSaveIt" : "Jangan pernah simpan",
+    "neverForThisSite" : "Tidak pernah untuk situs ini",
+    "savePassword" : "Simpan Kata Sandi",
+    "saveThisPassword" : "Simpan kata sandi ini",
+    "dontShowAgain" : "Jangan tampilkan lagi",
+    "masterPassword" : "Kata Sandi Utama",
+    "continue" : "Lanjutkan",
+    "typeMasterPassword" : "Ketikkan Kata Sandi Utama",
+    "settings" : "Setelan",
+    "copyClipboard" : "Salin ke papan klip"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> menyimpan kata sandi baru untuk <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> mendeteksi kata sandi baru untuk <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> memasukkan Anda secara instan"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Kata sandi Anda untuk <span class='green'>%{siteName}</span> tidak cukup kuat"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Anda punya <span id='shareCount' class='green'>1</span> undangan berbagi kata sandi baru."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Apa Anda berhasil masuk ke akun <span class='green'>%{username} Anda?</span>",
+    "deleteConfirm" : "Ingin menghapus <span class='green'>%{username}</span> dari PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Sayangnya situs ini belum didukung - Tim kami bekerja keras untuk mendukungnya, ini akan segera hadir"
+  },
+  "connectWith" : {
+    "mainText" : "Pilih akun yang ingin digunakan untuk masuk",
+    "login" : "Masuk"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Ketikkan Kata Sandi Utama",
+    "mainTxtHasUsers" : "Masukkan Kata Sandi Utama untuk masuk instan",
+    "mainTxtNoUsers" : "Masukkan Kata Sandi Utama untuk menyimpan kata sandi ini",
+    "error" : "Kata Sandi salah",
+    "decrypting" : "Mendekripsi"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Simpan kata sandi ini sekarang.",
+    "signup" : "Mendaftar ke PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Pilih kartu untuk check out",
+    "use" : "Pakai"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Tidak akan pernah lagi lupa kata sandi:",
+    "createAccount" : "Buat akun",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> telah ditambahkan ke bilah alat %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Sekarang masuk ke akun<span class='green'>%{siteName}...</span>",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> akan menyimpannya secara otomatis!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... Dan itu saja!",
+    "mainText" : "Kata sandi <span class='green'>%{siteName}</span> telah tersimpan aman di PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Selamat",
+    "mainText" : "Sekarang Anda dapat mengakses kata sandi kapan saja dengan mengeklik <strong class='green'>ikon kotak hijau</strong> di browser! Ayo kita coba sekarang!"
+  },
+  "passgen" : {
+    "generate" : "Buat Kata Sandi Kuat",
+    "regenerate" : "Buat kata sandi baru",
+    "noPassGenerated" : "Tidak ada kata sandi yang dibuat",
+    "letters" : "Huruf",
+    "digits" : "Angka",
+    "symbols" : "Simbol",
+    "capitals" : "Huruf Besar"
+  }
+}

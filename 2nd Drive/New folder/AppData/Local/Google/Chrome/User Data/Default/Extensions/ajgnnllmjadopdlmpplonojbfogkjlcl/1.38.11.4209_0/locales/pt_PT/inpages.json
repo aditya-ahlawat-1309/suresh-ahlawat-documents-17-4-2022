@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Fechar",
+    "done" : "Concluído",
+    "dontSave" : "Não guardar",
+    "neverSave" : "Nunca guardar",
+    "saveNow" : "Guardar agora",
+    "yes" : "Sim",
+    "no" : "Não",
+    "remove" : "Remover",
+    "dontUpdate" : "Não atualizar",
+    "updateNow" : "Atualizar agora",
+    "dontAskAgain" : "Não voltar a perguntar",
+    "dontSaveNow" : "Não guardar agora",
+    "dontSaveItNow" : "Não guardar agora",
+    "neverSaveIt" : "Nunca guardar",
+    "neverForThisSite" : "Nunca para este site",
+    "savePassword" : "Guardar palavra-passe",
+    "saveThisPassword" : "Guardar esta palavra-passe",
+    "dontShowAgain" : "Não voltar a mostrar",
+    "masterPassword" : "Palavra-Passe Mestra",
+    "continue" : "Continuar",
+    "typeMasterPassword" : "Digite a Palavra-Passe Mestra",
+    "settings" : "Definições",
+    "copyClipboard" : "Copiar"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> guardou uma nova palavra-passe para <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> detetou uma nova palavra-passe para <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> inicia a sessão por si de imediato"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "A sua palavra-passe para <span class='green'>%{siteName}</span> não é suficientemente forte"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Tem 1 <span id='shareCount' class='green'>convite novo para partilha</span> da palavra-passe."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Conseguiu iniciar a sessão na sua <span class='green'>conta</span> %{username}?",
+    "deleteConfirm" : "Pretende retirar <span class='green'>%{username}</span> da sua PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Lamentamos mas este site ainda não é suportado. A nossa equipa está a trabalhar para esse efeito e em breve estará disponível"
+  },
+  "connectWith" : {
+    "mainText" : "Selecione a conta em que pretende iniciar a sessão",
+    "login" : "Início de sessão"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Digite a Palavra-Passe Mestra",
+    "mainTxtHasUsers" : "Introduza a sua Palavra-Passe Mestra para iniciar a sessão de imediato",
+    "mainTxtNoUsers" : "Introduza a sua Palavra-Passe Mestra para guardar esta palavra-passe",
+    "error" : "Palavra-passe errada",
+    "decrypting" : "Desencriptar"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Guarde agora esta palavra-passe.",
+    "signup" : "Inscrição na PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Selecione cartão para sair",
+    "use" : "Utilizar"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Não volte a esquecer uma palavra-passe:",
+    "createAccount" : "Criar uma conta",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> foi adicionada à barra de ferramentas do seu %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Agora inicie a sessão <span class='green'>na sua conta %{siteName}</span> ...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> irá guardá-la automaticamente para si!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... E já está!",
+    "mainText" : "A sua palavra-passe <span class='green'>de %[siteName]</span> está agora guardada em segurança<br>na sua PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Parabéns",
+    "mainText" : "Agora, já pode aceder às suas palavras-passe em qualquer altura, clicando <strong class='green'>no ícone da caixa verde</strong> no seu navegador! Vamos lá experimentar!"
+  },
+  "passgen" : {
+    "generate" : "Gerar palavra-passe forte",
+    "regenerate" : "Gerar nova palavra-passe",
+    "noPassGenerated" : "Nenhuma palavra-passe gerada",
+    "letters" : "Letras",
+    "digits" : "Dígitos",
+    "symbols" : "Símbolos",
+    "capitals" : "Maiúsculas"
+  }
+}

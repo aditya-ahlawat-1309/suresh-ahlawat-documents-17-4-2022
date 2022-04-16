@@ -1,0 +1,101 @@
+{
+  "common" : {
+    "txtClose" : "Κλείσιμο",
+    "done" : "Ολοκληρώθηκε",
+    "dontSave" : "Χωρίς αποθήκευση",
+    "neverSave" : "Να μην αποθηκεύεται ποτέ",
+    "saveNow" : "Αποθήκευση τώρα",
+    "yes" : "Ναι",
+    "no" : "Όχι",
+    "remove" : "Αφαίρεση",
+    "dontUpdate" : "Χωρίς ενημέρωση",
+    "updateNow" : "Ενημέρωση τώρα",
+    "dontAskAgain" : "Να μην ερωτηθώ ξανά",
+    "dontSaveNow" : "Να μην αποθηκευτεί τώρα",
+    "dontSaveItNow" : "Να μην αποθηκευτεί τώρα",
+    "neverSaveIt" : "Να μην αποθηκεύεται ποτέ",
+    "neverForThisSite" : "Ποτέ για αυτή την ιστοσελίδα",
+    "savePassword" : "Αποθήκευση κωδικού πρόσβασης",
+    "saveThisPassword" : "Αποθήκευση αυτού του κωδικού πρόσβασης",
+    "dontShowAgain" : "Να μην εμφανιστεί ξανά",
+    "masterPassword" : "Κύριος κωδικός πρόσβασης",
+    "continue" : "Συνέχεια",
+    "typeMasterPassword" : "Πληκτρολογήστε τον κύριο κωδικό πρόσβασης",
+    "settings" : "Ρυθμίσεις",
+    "copyClipboard" : "Αντιγραφή στο πρόχειρο"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>Το PasswordBox</span> αποθήκευσε έναν νέο κωδικό πρόσβασης για το <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>Το PasswordBox</span> εντόπισε νέο κωδικό πρόσβασης για το <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>Το PasswordBox</span> σας συνδέει άμεσα"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Ο κωδικός πρόσβασής σας για το <span class='green'>%{siteName}</span> δεν είναι αρκετά ισχυρός"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Έχετε <span id='shareCount' class='green'>1 πρόσκληση</span> κοινής χρήσης κωδικού πρόσβασης."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Μπορέσατε να συνδεθείε με επιτυχία στον λογαριασμό σας με το <span class='green'>%{username}</span> ;",
+    "deleteConfirm" : "Θέλετε να αφαιρέσετε το <span class='green'>%{username}</span> από το PasswordBox;"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Δυστυχώς αυτή η ιστοσελίδα δεν υποστηρίζεται ακόμη - Η ομάδα μας καταβάλει καθε προσπάθεια για την υποστήριξή της και θα είναι διαθέσιμη σύντομα"
+  },
+  "connectWith" : {
+    "mainText" : "Επιλέξτε το λογαριασμό με τον οποίο θέλετε να συνδεθείτε",
+    "login" : "Σύνδεση"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Πληκτρολογήστε τον κύριο κωδικό πρόσβασης",
+    "mainTxtHasUsers" : "Καταχωρίστε τον Κύριο κωδικό πρόσβασής σας για να συνδεθείτε άμεσα",
+    "mainTxtNoUsers" : "Καταχωρίστε τον Κύριο κωδικό πρόσβασης για να αποθηκεύσετε αυτόν τον κωδικό πρόσβασης",
+    "error" : "Λάθος κωδικός πρόσβασης",
+    "decrypting" : "Αποκρυπτογράφηση"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Αποθήκευση αυτού του κωδικού πρόσβασης τώρα.",
+    "signup" : "Εγγραφή στο PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Επιλέξτε κάρτα για την έξοδο από το κατάστημα",
+    "use" : "Χρήση"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Δεν θα ξεχάσετε τον κωδικό πρόσβασής σας ποτέ ξανά:",
+    "createAccount" : "Δημιουργία λογαριασμού",
+    "passwordboxAdded" : "<span class='pb-logo'>Το PasswordBox</span> προστέθηκε στη γραμμή εργαλείων %{partner}"
+  },
+  "autosaveTutorial" : {
+    "labelTxt1" : "Συνδεθείτε στο λογαριασμό <span id='siteName'>[SITENAME]</span> ...",
+    "labelTxt2" : "Το PasswordBox θα το αποθηκευσει αυτόματα για εσάς!",
+    "thatsIt" : "... Και αυτό ήταν!",
+    "completeMainText" : "Ο κωδικός πρόσβασής σας <span id='siteName'>[SITENAME]</span> έχει αποθηκευτεί με ασφάλεια στο PasswordBox!",
+    "completeMainText2" : "Ο κωδικός πρόσβασής σας <span id='siteName'>[SITENAME]</span> έχει<br>αποθηκευτεί με ασφάλεια στο PasswordBox!"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Συνδεθείτε στο λογαριασμό <span class='green'>%{siteName}</span> ...",
+    "txt2" : "<span class='pb-logo'>Το PasswordBox</span> θα το αποθηκευσει αυτόματα για εσάς!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... Και αυτό ήταν!",
+    "mainText" : "Ο κωδικός πρόσβασής σας <span class='green'>%{siteName}</span> έχει αποθηκευτεί με ασφάλεια στο PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Συγχαρητήρια",
+    "mainText" : "Μπορείτε να προσπελάσετε τους κωδικούς πρόσβασής σας οποιαδήποτε στιγμή, πατώντας <strong class='green'>το εικονίδιο πράσινου πλαισίου</strong> στο πρόγραμμα περιήγησής σας! Δοκιμάστε το τώρα!"
+  },
+  "passgen" : {
+    "generate" : "Δημιουργία ισχυρού κωδικού πρόσβασης",
+    "regenerate" : "Δημιουργία νέου κωδικού πρόσβασης",
+    "noPassGenerated" : "Δεν δημιουργήθηκε κωδικός πρόσβασης",
+    "letters" : "Γράμματα",
+    "digits" : "Ψηφία",
+    "symbols" : "Σύμβολα",
+    "capitals" : "Κεφαλαία"
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Fechar",
+		"done": "Concluído",
+		"dontSave" : "Não salvar",
+		"neverSave" : "Nunca salvar",
+		"saveNow" : "Salvar agora",
+		"yes" : "Sim",
+		"no" : "Não",
+		"remove": "Remover",
+		"dontUpdate" : "Não atualizar",
+		"updateNow" : "Atualizar agora",
+		"dontAskAgain" : "Não perguntar novamente",
+
+		"dontSaveNow" : "Não salvar desta vez",
+		"dontSaveItNow" : "Não salvar agora",
+		"neverSaveIt" : "Nunca salvar",
+		"neverForThisSite" : "Nunca salvar",
+		"savePassword" : "Salvar senha",
+		"saveThisPassword" : "Salvar esta senha",
+		"dontShowAgain" : "Não mostra novamente",
+		"masterPassword" : "Senha principal",
+		"continue" : "Continuar",
+		"ok": "OK",
+		"typeMasterPassword" : "Digitar senha principal",
+		"settings": "Configurações",
+		"copyClipboard": "Copiar para a área de transferência",
+		"youreIn" : "Você acessou.",
+		"success": "Êxito"
+	},
+
+	"bannerAutosave": {
+		"mainText": "O True Key salvou a senha do <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerBoxfull": {
+		"mainText": "O True Key detectou uma nova senha para o <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Aguarde um instante"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Sua senha do <span class='primary'>%{siteName}</span> não é suficientemente forte"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Você tem uma nova senha compartilhada."
+	},
+	"bannerLoginFailure": {
+		"mainText": "O True Key permitiu o acesso?",
+		"deleteConfirm": "Deseja remover <span class='secondary'>%{username}</span> do seu perfil do True Key?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Êpa. O True Key ainda não oferece suporte a este site."
+	},
+	"connectWith" : {
+		"mainText" : "Escolher perfil",
+		"login": "Entrar"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Seu perfil está bloqueado",
+		"ctaUnlock": "Entre para desbloquear",
+		"placeholder" : "Digite sua senha principal",
+		"mainTxtHasUsers" : "Entrar com o perfil do True Key",
+		"mainTxtNoUsers" : "Digite sua senha principal para salvar esta senha",
+		"error" : "Senha incorreta",
+		"decrypting" : "Descriptografando",
+		"profileLocked" : "Seu perfil está bloqueado",
+		"unlockedLogIn" : "Desbloqueie e entre"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Não aguenta mais lidar com várias senhas? Use o True Key e acesse tudo num instante",
+		"signup" : "Sim, mostre-me como"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Não aguenta mais ter de lembrar dezenas de senhas?Com o True Key, você acessa tudo de modo rápido e fácil.",
+		"signup" : "Sim, mostre-me como"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Entre em <span class='secondary'>%{siteName}</span> e",
+		"txt2" : "o True Key lembrará da senha para você."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Da próxima vez, o True Key garantirá o seu acesso seguro."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Entre com mais rapidez, facilidade e segurança a partir do launchpad do True Key."
+	},
+	"passgen" : {
+		"generate": "Gerar senha",
+		"regenerate" : "Gerar senha",
+		"noPassGenerated": "Não foram geradas senhas",
+		"letters" : "Letras",
+		"digits" : "Dígitos",
+		"symbols" : "Símbolos",
+		"capitals" : "Letras maiúsculas"
+	}
+}

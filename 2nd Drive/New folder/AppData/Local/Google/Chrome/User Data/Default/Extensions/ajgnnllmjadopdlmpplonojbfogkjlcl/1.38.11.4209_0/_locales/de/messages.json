@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension.",
+      "message": "Kostenloser Passwortmanager für Google Chrome – Vergessen Sie kein einziges Passwort mehr."
+   },
+   "appName": {
+      "description": "Name of the extension.",
+      "message": "PasswordBox.com"
+   }
+}

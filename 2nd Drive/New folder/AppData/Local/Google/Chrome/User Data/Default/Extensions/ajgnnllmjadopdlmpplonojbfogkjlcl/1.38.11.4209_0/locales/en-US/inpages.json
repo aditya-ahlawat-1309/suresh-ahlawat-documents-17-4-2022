@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Close",
+		"done": "Done",
+		"dontSave" : "Don't save",
+		"neverSave" : "Never save",
+		"saveNow" : "Save Now",
+		"yes" : "Yes",
+		"no" : "No",
+		"remove": "Remove",
+		"dontUpdate" : "Don't update",
+		"updateNow" : "Update now",
+		"dontAskAgain" : "Don't ask again",
+
+		"dontSaveNow" : "Don't save this time",
+		"dontSaveItNow" : "Don't save it now",
+		"neverSaveIt" : "Never save it",
+		"neverForThisSite" : "Don't ever save",
+		"savePassword" : "Save Password",
+		"saveThisPassword" : "Save this password",
+		"dontShowAgain" : "Do not show again",
+		"masterPassword" : "Master Password",
+		"continue" : "Continue",
+		"ok": "OK",
+		"typeMasterPassword" : "Type Master Password",
+		"settings": "Settings",
+		"copyClipboard": "Copy to clipboard",
+		"youreIn" : "You're in.",
+		"success": "Success"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key saved your <span class='secondary'>%{siteName}</span> password."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key has detected a new password for <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Just a moment"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Your <span class='primary'>%{siteName}</span> password is not strong enough"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "You've got a new shared password."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Did True Key log you in?",
+		"deleteConfirm": "Want to remove <span class='secondary'>%{username}</span> from your True Key profile?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Oops. True Key doesn't support this site yet."
+	},
+	"connectWith" : {
+		"mainText" : "Choose profile",
+		"login": "Log in"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Your profile is locked",
+		"ctaUnlock": "Login to unlock",
+		"placeholder" : "Enter your Master Password",
+		"mainTxtHasUsers" : "Log in with your True Key profile",
+		"mainTxtNoUsers" : "Enter your Master Password to save this password",
+		"error" : "Wrong Password",
+		"decrypting" : "Decrypting",
+		"profileLocked" : "Your profile is locked",
+		"unlockedLogIn" : "Unlock and log in"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Tired of managing multiple passwords? Use your True Key app to log in instantly",
+		"signup" : "Yes, show me how"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Tired of password troubles? Use True Key for easier, faster access.",
+		"signup" : "Yes, show me how"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Log in to <span class='secondary'>%{siteName}</span> and",
+		"txt2" : "your True Key app will remember your password for you."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "True Key will securely log you in next time."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Now log in faster, easier and safer from your True Key launchpad."
+	},
+	"passgen" : {
+		"generate": "Generate Password",
+		"regenerate" : "Generate password",
+		"noPassGenerated": "No password generated",
+		"letters" : "Letters",
+		"digits" : "Digits",
+		"symbols" : "Symbols",
+		"capitals" : "Capitals"
+	}
+}

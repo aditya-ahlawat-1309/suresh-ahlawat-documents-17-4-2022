@@ -1,0 +1,11 @@
+{
+	"name": "pb",
+	"private": true,
+	"description": "utility functions related to PasswordBox",
+	"scripts": [ "index.js", "cookies.js", "isTabIgnored.js" ],
+	"dependencies": {
+		"caolan/async": "*",
+		"yields/isArray": "*",
+		"visionmedia/debug": "*"
+	}
+}

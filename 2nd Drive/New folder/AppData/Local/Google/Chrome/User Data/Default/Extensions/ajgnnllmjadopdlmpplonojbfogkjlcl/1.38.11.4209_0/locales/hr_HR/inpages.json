@@ -1,0 +1,101 @@
+{
+  "common" : {
+    "txtClose" : "Zatvorite",
+    "done" : "Gotovo",
+    "dontSave" : "Nemoj spremiti",
+    "neverSave" : "Nikad ne spremaj",
+    "saveNow" : "Spremi sada",
+    "yes" : "Da ",
+    "no" : "Ne",
+    "remove" : "Uklonite",
+    "dontUpdate" : "Nemoj ažurirati",
+    "updateNow" : "Ažurirajte sada",
+    "dontAskAgain" : "Ne pitaj ponovno",
+    "dontSaveNow" : "Nemoj sada spremiti",
+    "dontSaveItNow" : "Nemoj sada spremiti",
+    "neverSaveIt" : "Nikad ne spremaj",
+    "neverForThisSite" : "Nikad za ovu stranicu",
+    "savePassword" : "Spremite lozinku",
+    "saveThisPassword" : "Spremi ovu lozinku",
+    "dontShowAgain" : "Ne prikazuj ponovno",
+    "masterPassword" : "Glavna lozinka",
+    "continue" : "Nastavite",
+    "typeMasterPassword" : "Unesite glavnu lozinku",
+    "settings" : "Postavke",
+    "copyClipboard" : "Kopiraj u međuspr."
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> je spremio novu lozinku za <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> je detektirao novu lozinku za <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> vas automatski prijavljuje"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Vaša lozinka za <span class='green'>%{siteName}</span> nije dovoljno jaka"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Imate <span id='shareCount' class='green'>1 novu</span> pozivnicu za dijeljenje lozinke."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Jeste li se uspješno prijavili na svoj <span class='green'>%{username}</span> račun?",
+    "deleteConfirm" : "Želite li uklonite <span class='green'>%{username}</span> lozinku iz svog PasswordBoxa?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Nažalost, ova stranica još nije podržana - Naš tim predano radi na tome i uskoro će biti podržana"
+  },
+  "connectWith" : {
+    "mainText" : "Odaberite račun s kojim se želite prijaviti",
+    "login" : "Prijava"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Unesite glavnu lozinku",
+    "mainTxtHasUsers" : "Unesite glavnu lozinku za trenutačnu prijavu",
+    "mainTxtNoUsers" : "Unesite svoju glavnu lozinku da spremite ovu lozinku",
+    "error" : "Neispravna lozinka",
+    "decrypting" : "Dešifriranje"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Spremite ovu lozinku sada",
+    "signup" : "Registrirajte se u PasswordBoxu"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Odaberite karticu za plaćanje",
+    "use" : "Koristite"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Nikad više nemojte zaboraviti lozinku:",
+    "createAccount" : "Napravite račun",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> je dodan u vašu %{partner} alatnu traku"
+  },
+  "autosaveTutorial" : {
+    "labelTxt1" : "Prijavljivanje na vaš <span id='siteName'>[SITENAME]</span> račun...",
+    "labelTxt2" : "PasswordBox će to automatski spremiti za vas!",
+    "thatsIt" : "... I to je to!",
+    "completeMainText" : "Vaša <span id='siteName'>[SITENAME]</span> lozinka je sada sigurno spremljena u vašem PasswordBoxu!",
+    "completeMainText2" : "Vaša <span id='siteName'>[SITENAME]</span> lozinka je sada sigurno spremljena<br>u vašem PasswordBoxu!"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Prijavljivanje na vaš <span class='green'>%{siteName}</span> račun...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> će to automatski spremiti za vas!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... I to je to!",
+    "mainText" : "Vaša <span class='green'>%{siteName}</span> lozinka je sada sigurno spremljena u vašem PasswordBoxu!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Čestitamo",
+    "mainText" : "Možete pristupiti svojim lozinkama bilo kad klikom na <strong class='green'>ikonu zelene kutije</strong> u svom pregledniku! Isprobajmo to sad!"
+  },
+  "passgen" : {
+    "generate" : "Generirajte jaku lozinku",
+    "regenerate" : "Generirajte novu lozinku",
+    "noPassGenerated" : "Nema generiranih lozinki",
+    "letters" : "Slova",
+    "digits" : "Znamenke",
+    "symbols" : "Simboli",
+    "capitals" : "Velika slova"
+  }
+}

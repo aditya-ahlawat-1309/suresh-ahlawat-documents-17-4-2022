@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Set",
+		"add": "Add",
+		"addNew": "Add new",
+		"addManually": "Add manually",
+		"cancel": "Cancel",
+		"back": "Back",
+		"save": "Save",
+		"saving": "Saving...",
+		"saved": "Saved!",
+		"upgrade": "Upgrade",
+		"noThanks": "No thanks",
+		"from": "From %{name}",
+		"remove": "Remove",
+		"removing": "Removing...",
+		"disabling": "Disabling...",
+		"delete": "Delete",
+		"warningPermanent": "This action can't be undone.",
+		"confirmProceed": "Are you sure you want to proceed?",
+		"parameters": "Parameters",
+		"details": "Details",
+		"sharing": "Sharing",
+		"advancedSettings": "Advanced",
+		"validating": "Validating...",
+		"tryAgain": "Try again",
+		"sending": "Sending...",
+		"send": "Send",
+		"sent": "Sent!",
+		"waitingResponse": "Waiting for response",
+		"revoke": "Revoke",
+		"updating": "Updating...",
+		"change": "Change",
+		"changed": "Changed!",
+		"copy": "Copy to clipboard",
+		"accept": "Accept",
+		"decline": "Decline",
+		"privacyNotice": "Privacy Notice",
+		"dontAskAgain": "Don't ask again",
+		"notNow": "Not now",
+		"sendNotification": "Send notification",
+		"justAMoment": "Just a moment...",
+		"learnMore": "Learn more",
+		"notYou": "Not you?",
+		"changeUser": "Change User",
+		"confirm": "Confirm",
+		"launchSite": "Launch site",
+		"unlockMyTrueKey": "Unlock my True Key",
+		"next": "Next",
+		"previous": "Previous",
+		"visible": "Visible",
+		"hidden": "Hidden",
+		"vistHelpDesk": "Visit our %{htmlBefore}help desk%{htmlAfter} to learn more.",
+		"addFacialRecognition": "Add Face Unlock",
+		"comingSoon": "Coming soon",
+		"offline": "Offline",
+		"or": "or",
+		"and": "and",
+		"activate": "Activate",
+		"logOut": "Log out",
+		"logins": "Logins",
+		"favorites": "Favorites",
+		"other": "Other",
+		"locked": "Locked",
+		"unlocked": "Unlocked",
+		"login": "Login",
+		"close": "Close",
+		"closing": "Closing...",
+		"dismiss": "Dismiss",
+		"signin": "Sign in",
+		"signOut": "Sign out",
+		"manageProfile": "Manage profile",
+		"profile": "Profile",
+		"menu": "Menu",
+		"DD": "DD",
+		"MM": "MM",
+		"YYYY": "YYYY",
+		"visible": "Visible",
+		"hidden": "Hidden",
+		"enable": "Enable",
+		"doNotShowAgain": "Do not show again",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Later",
+		"restart": "Restart",
+		"install": "Install",
+		"feedback": "Feedback",
+		"done": "Done",
+		"success": "Success",
+		"youreIn": "You're in!",
+		"recommended": "recommended"
+	},
+
+	"validation": {
+		"required": "This field is required",
+		"min": "{0} should be at least {1} characters"
+	},
+
+	"offline": {
+		"title": "Oops, no Internet connection.",
+		"desc": "You're not online. Reconnect to the Internet and try again."
+	},
+
+	"locked": {
+		"notYou": "Not You?",
+		"changeUser": "change user",
+		"cancelAuth": "Cancel Authentification",
+		"signIn": "Sign in to enjoy 1-Click login",
+		"alternativeEmail": "Use email verification instead",
+		"alternativeDevice": "Use a trusted device instead"
+	},
+
+	"time": {
+		"never": "Never",
+		"minutes": "%{smart_count} minute |||| %{smart_count} minutes",
+		"hours": "%{smart_count} hour |||| %{smart_count} hours",
+		"days": "%{smart_count} day |||| %{smart_count} days"
+	},
+
+	"labels": {
+		"email": "Email Address",
+		"masterPassword": "Master Password",
+		"confirmMasterPassword": "Confirm Master Password",
+		"rememberMe": "Keep me logged in",
+		"websiteURL": "Website URL",
+		"username": "Username",
+		"password": "Password",
+		"mobile": "Mobile Number",
+		"name": "Name",
+		"title": "Title",
+		"details": "Details",
+		"masterPassword": "Master Password",
+		"websiteName": "Website name",
+		"notes": "Notes",
+		"ccType": "Type of Credit Card",
+		"cardholderName": "Cardholder name",
+		"ccNumber": "Credit Card Number",
+		"expiryDate": "Expiry Date",
+		"issueDate": "Issue Date",
+		"colorpicker": "Organize your cards with colors",
+		"driversLicenseNumber": "License number",
+		"firstName": "First Name",
+		"lastName": "Last Name",
+		"gender": "Gender",
+		"stateProvince": "State/Province",
+		"birthdate": "Date of Birth",
+		"company": "Company",
+		"telephone": "Telephone",
+		"streetName": "Street",
+		"streetNumber": "Street Number",
+		"city": "City",
+		"zipcode": "Zipcode",
+		"memberID": "Member ID",
+		"memberSince": "Member Since",
+		"country": "Country",
+		"passportNumber": "Passport Number",
+		"issuingCountry": "Issuing country",
+		"placeOfBirth": "Place of Birth",
+		"number": "Number",
+		"male": "Male",
+		"female": "Female"
+	},
+
+	"placeholders": {
+		"email": "Enter your email address",
+		"masterPassword": "Enter your Master Password",
+		"phone": "(123)-456-7890",
+		"name": "Enter your name",
+		"title": "Enter a title here",
+		"websiteURL": "Enter URL here",
+		"websiteName": "Enter the name of the website here",
+		"username": "Enter username here",
+		"password": "Enter password here",
+		"notes": "Enter notes here",
+		"cardholderName": "Enter cardholder name",
+		"ccNumber": "Enter credit card number here",
+		"driversLicenseNumber": "Enter the license's number here",
+		"firstName": "Enter the first name here",
+		"lastName": "Enter the last name here",
+		"stateProvince": "Enter state or province here",
+		"company": "Enter company name here",
+		"telephone": "Enter telephone here",
+		"streetName": "Enter street here",
+		"streetNumber": "Enter street number here",
+		"city": "Enter city here",
+		"zipcode": "Enter zipcode here",
+		"memberID": "Enter the member ID here",
+		"notesDetails": "Add things you want to remember. Lock combinations. Product and software codes. Reminders, and even secret recipes.",
+		"country": "Select country",
+		"passportNumber": "Enter the passport's number here",
+		"issuingCountry": "Select Country",
+		"placeOfBirth": "Select Country",
+		"number": "Enter the number here"
+	},
+
+	"errors": {
+		"generic": "Something went wrong",
+		"passwordsMatch": "Your passwords must match",
+		"nameRequired": "Please enter your name",
+		"emailInvalid": "Please enter a valid email",
+		"passwordTooShort": "Your password must be at least %{nbCharacters} characters long",
+		"usernameRequired": "Username is required"
+	},
+
+	"form": {
+		"launch": "Open this website",
+		"passwordStrength": {
+			"veryWeak": "Very Weak",
+			"weak": "Weak",
+			"acceptable": "Acceptable",
+			"strong": "Strong",
+			"veryStrong": "Very Strong"
+		},
+		"copyPassword": "Copy password",
+		"viewPassword": "View password"
+	},
+
+	"headerMessages": {
+		"txt1": "Hi %{firstName}, welcome to your True Key Launchpad"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "Let's get started! Add your first login to True Key",
+		"addNewLogin": "Add new login",
+		"success": "Welcome!"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Don't have a True Key profile?",
+			"signup": "Get one here",
+			"haveAccount": "Already have a True Key profile?",
+			"login": "Log in",
+			"help": "Help"
+		},
+
+		"intro": {
+			"hi": "Hi there.",
+			"meetTK": "Meet True Key™. The easier, safer way to unlock your digital world. Start by creating your profile.",
+			"watchVideo": "Watch video",
+			"createProfile": "Get started by creating your True Key profile.",
+			"cta": "Let's go",
+			"eulaPrivacy": "By clicking the button below, you agree to our <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>EULA</a> and <a class='txt bold secondary btPrivacy'>Privacy&nbsp;Notice</a>."
+		},
+
+		"confirm": {
+			"title": "IMPORTANT: Confirm Master Password",
+			"enterAgain": "Enter your Master Password once more.",
+			"wontRemember": "To protect your privacy and keep your password secure, your Master Password is never stored or saved. You're the only one who has it, so be sure to remember it.",
+			"promise": "Promise to remember it?",
+			"submit": "Yes, I'll remember"
+		},
+		"loginHelp": {
+			"title": "Having trouble?",
+			"txt1": "Your Master Password is case sensitive and doesn't have spaces. And copying and pasting won't work.",
+			"txt2": "Forgot your Master Password? For your security, we don't know it. You'll need to create a new True Key™ account.",
+			"createAccount": "Create new account"
+		},
+
+		"login": {
+			"title": "Log in to your profile",
+			"submit": "Log in",
+			"working": "Decrypting your data...",
+			"error": "That did not work"
+		},
+
+		"logout": {
+			"title": "Before you go, go mobile.",
+			"desc": "Text yourself the free app store link."
+		},
+
+		"onboarding": {
+			"skip": "Skip this step",
+			"skipVideo": "Got it!",
+			"title": "%{firstName}, your True Key™ profile is ready. Let's try it out.",
+			"desc": "Pick one of these popular sites or add a new site to see how it works.",
+
+			"noWebsiteFlow": {
+				"desc": "Getting the most of your True Key app is easy:",
+				"addManually": "Add your first login manually"
+			}
+		},
+
+		"emailTaken": {
+			"title": "This email already has a profile",
+			"desc": "Do you want to log in as %{emailAddress}?"
+		},
+
+		"signup": {
+			"title": "Create your True Key™ profile",
+			"cta": "Ok, next",
+			"working": "Validating...",
+			"success": "Looks good!"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Instant Log in",
+			"desc": "Use Instant Log in to get into this website faster. Let the True Key app fill in your username and password for you."
+		},
+		"passwordReprompt": {
+			"title": "Ask for my Master Password",
+			"desc": "Only you know your Master Password. Request it every time before logging you in."
+		},
+		"subdomainOnly": {
+			"title": "Use for this subdomain only",
+			"desc": "Use to allow log in only on this specific subdomain."
+		},
+		"offlineHelp": {
+			"title": "Offline Mode",
+			"desc": "It seems you have lost your Internet connection, or that your Internet connection is very slow. You can still view your passwords in offline mode, however you can't add or save changes, or share a password."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Language Changed",
+			"desc": "Your current language is now %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Favorite Added",
+			"desc": "The website you selected was successfully added to your Launchpad."
+		},
+		"favoriteRemoved": {
+			"title": "Favorite Removed",
+			"desc": "This favorite was successfully removed from your Launchpad."
+		},
+		"favoriteEdited": {
+			"title": "Favorite Edited",
+			"desc": "The changes to this favorite were successfully saved."
+		},
+		"passwordGenerated": {
+			"title": "Password Copied!",
+			"desc": "The generated password was copied to your clipboard."
+		},
+		"noteCreated": {
+			"title": "Note created!",
+			"desc": "This note has been added to your True Key."
+		},
+		"passwordSaved": {
+			"title": "Password saved!",
+			"desc": "This password was added to your True Key."
+		},
+		"loginShared": {
+			"title": "Password Shared",
+			"desc": "Your password was successfully shared with %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Password removed.",
+			"desc": "This password has been removed from your True Key."
+		},
+		"loginEdited": {
+			"title": "Login edited.",
+			"desc": "The changes to this login have been saved."
+		},
+		"copied": {
+			"title": "Copied!",
+			"desc": "This has been copied to your clipboard."
+		},
+		"passwordCopied": {
+			"title": "Password copied!",
+			"desc": "Your password has been copied to your clipboard."
+		},
+		"error": {
+			"title": "Something went wrong",
+			"desc": "Please try again"
+		},
+		"legacyAccepted": {
+			"title": "Invitation accepted",
+			"desc": "This legacy invitation has been successfully accepted."
+		},
+		"legacyDeclined": {
+			"title": "Invitation declined",
+			"desc": "This legacy invitation has been successfully declined."
+		},
+		"sharingAccepted": {
+			"title": "Invitation accepted",
+			"desc": "This sharing invitation has been successfully accepted."
+		},
+		"sharingDeclined": {
+			"title": "Invitation declined",
+			"desc": "This sharing invitation has been successfully declined."
+		},
+		"invitationResent": {
+			"title": "Invitation resent!",
+			"desc": "This invitation has been resent."
+		},
+		"oobResent": {
+			"title": "Notification resent!",
+			"desc": "A new notification has been sent to your phone."
+		},
+		"emailResent": {
+			"title": "Email resent!",
+			"desc": "A new confirmation email has been sent to you."
+		},
+		"legacyRevoked": {
+			"title": "Legacy connection revoked!",
+			"desc": "This legacy connection has been revoked."
+		},
+		"legacySent": {
+			"title": "Legacy request sent!",
+			"desc": "An invitation has been sent to %{email}."
+		},
+		"legacySendError": {
+			"title": "Legacy request error",
+			"desc": "The invitation could not be sent to %{email}."
+		},
+		"browserNewTab": {
+			"title": "Browser New Tab setting saved!",
+			"desc": "Your browser new tab setting has been updated successfully."
+		},
+		"changedMP": {
+			"title": "Master Password changed!",
+			"desc": "Your master Password has been changed successfully."
+		},
+		"clearAutosave": {
+			"title": "Auto-Save Restored",
+			"desc": "True Key will now auto-save passwords on all sites."
+		},
+		"feedbackSent": {
+			"title": "Feedback submitted!",
+			"desc": "Thank you for your feedback."
+		},
+		"documentCreated": {
+			"title": "Document created!",
+			"desc": "This document has been saved to your True Key."
+		},
+		"documentRemoved": {
+			"title": "Document deleted",
+			"desc": "This document has been removed from your True Key."
+		},
+		"notesEdit": {
+			"title": "Changes saved",
+			"desc": "The changes to this note have been saved."
+		},
+		"notesRemove": {
+			"title": "Note removed",
+			"desc": "This note has been removed from your True Key."
+		},
+		"settingsChanged": {
+			"title": "Settings changed",
+			"desc": "Your lock settings have been updated."
+		},
+		"disabledTrustedDevice": {
+			"title": "Device disabled",
+			"desc": "Your device has been disabled."
+		},
+		"deviceTrusted": {
+			"title": "Device trusted",
+			"desc": "Your current device is now trusted."
+		},
+		"confirmationEmailSent": {
+			"title": "Confirmation email sent!",
+			"desc": "A confirmation email was sent at %{email}"
+		}
+	},
+
+	"logins": {
+		"title": "Logins",
+		"editLogin": "Edit Login",
+		"viewLogin": "View Login",
+		"shareLogin": "Share Login",
+		"shareSection": {
+			"title": "Securely share logins with friends and family. <strong>Select the login you would like to share below.</strong>"
+		},
+		"copyPassword": "Copy Password",
+		"loginAs": "Log in as",
+		"removeLogin": "Remove this login",
+		"noLoginFound": {
+			"title": "Can't find that one",
+			"desc": "Maybe this login has not been saved yet. Would you like to add it?"
+		},
+		"currentWebsite": "Current Website",
+		"onboardingPopover": {
+			"title": "Instant Log in",
+			"desc": "Click here to log in without typing"
+		},
+		"searchAssets": "Search my %{smart_count} login |||| Search my %{smart_count} logins",
+		"askForMasterPassword": "Master Password",
+		"askForFaceRecognition": "Face Unlock",
+		"instantLogin": "Instant Log in",
+		"useForSubdomainOnly": "Use for the <span class='primary'>%{domain}</span> subdomain only",
+		"notShared": "You are not currently sharing this password with anyone.",
+		"visiblity": {
+			"title": "Make password:"
+		},
+		"unshare": "Unshare",
+		"waitingResponse": "waiting for response"
+	},
+
+	"sharing": {
+		"title": "Share your <span class='primary'>%{name}</span> password",
+		"accessGiven": "This password is shared with:"
+	},
+
+	"verifyEmail": {
+		"title": "You have not verified your email address",
+		"subtitle": "To share passwords, confirm your email first.",
+		"desc": "Can't find the verification email we sent you? Get a new one now.",
+		"cta": "Resend confirmation email"
+	},
+
+	"premiumOnly": {
+		"title": "Only available to Premium users",
+		"txt1": "A Premium account is required to add a new password to your True Key",
+		"txt1": "You have a limit of 5 free passwords before upgrading. Upgrade now to go unlimited!"
+	},
+
+	"generator": {
+		"title": "Generate a strong password on the go.",
+		"subtitle": "Choose your preferences, then tap on the \"Generate and copy\" button to generate a new password.",
+		"placeholder": "Click the button to generate a password",
+		"cta": "Generate and copy",
+		"length": "Password length",
+
+		"letters": "Use letters",
+		"digits": "Use numbers",
+		"symbols": "Use special characters",
+		"capitals": "Use capitals",
+		"showInForms": "Automatically show generator in forms",
+
+		"history": {
+			"title": "Generated Passwords",
+			"noGeneratedPassword": "No generated passwords."
+		}
+	},
+
+	"legacy": {
+		"title": "Legacy Locker",
+		"countingOnYou": "People counting on you",
+		"heirs": "People you count on",
+		"sentTimer": "%{time} ago",
+		"resendInvitation": "Resend Invitation",
+		"assignTrustees": "Assign your trustees",
+
+		"txtFeature": {
+			"txt1": "Keep your digital identity safe during, and after, life.",
+			"txt2": "Legacy Locker is the best way to pass on your digital life to those you trust - be it a spouse, child, friend or colleague.",
+			"txt3": "When you assign a trustee to your True Key, they will never receive access to your account until it's time. %{htmlBefore}Watch video%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "You need to verify your email address",
+		"descLegacy": "You can't assign trustees until your email address is verified",
+		"getNewEmail": "Not sure you still have the verification email we sent you previously? Get a new one now.",
+		"cta": "Send me a new verification email"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Logins",
+		"wallet": "Wallet",
+		"notes": "Safe Notes",
+		"legacy": "Legacy Locker",
+		"generator": "Password Generator",
+		"settings": "Settings",
+		"preferences": "Preferences",
+		"support": "Help & Support",
+		"tkProfile": "My True Key Profile",
+		"logout": "Sign out"
+	},
+
+	"browserNewTab": {
+		"title": "Browser New Tab",
+		"txt1": "Set which webpage you would like your browser to open with:",
+		"startpage": "My True Key Launchpad",
+		"default": "My browser default",
+		"custom": "My own destination:"
+	},
+
+	"changeMP": {
+		"title": "Change Master Password",
+		"labels": {
+			"current": "Current Master Password",
+			"new": "New Master Password",
+			"confirmNew": "New Master Password"
+		},
+		"placeholders": {
+			"current": "Enter your current Master Password",
+			"new": "Enter your new Master Password",
+			"confirmNew": "Retype your new Master Password"
+		},
+		"cta": "Change Password"
+	},
+
+	"lockUnlock": {
+		"title": "You're in control",
+		"desc": "Customize your True Key app with as many factors as you like. Adding more factors makes your profile stronger.",
+
+		"noYap": {
+			"title": "Tell your True Key account how often it should automatically lock.",
+			"desc": "Select your desired amount of time from the dropdown menu below."
+		},
+
+		"basic": "Basic",
+		"advanced": "Advanced",
+
+		"autolock": {
+			"title": "Auto-lock",
+			"desc": "After how much time of inactivity would you like your True Key account to lock?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Launchpad Visibility",
+			"desc": "Choose whether you would like your True Key Launchpad to be visible when locked or not."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "The device you're using is trusted.",
+			"txt2": "When you trust a device you're able to add more security factor such as Face Unlock."
+		}
+	},
+
+	"preferences": {
+		"title": "Preferences",
+		"modals": {
+			"autologin": {
+				"title": "Instant Log in",
+				"desc": "Use Instant Log in to get into websites faster. Let the True Key app fill in your user name and password for you.",
+				"txt1": "Instant Log in allows True Key to automatically log you into a website you have previously saved in your account by simply typing its URL address (e.g. www.example.com) into your browser.",
+				"txt2": "If Instant Log in is ON, True Key will detect the website's URL address and log you in automatically - no additional mouse clicks are needed.",
+				"txt3": "If Instant Log in is OFF, True Key will detect the website's URL address, fill in your username and password, but you will have to click the Login button."
+			},
+			"clearAutologin": {
+				"title": "Restore Auto-Save on All Sites",
+				"desc": "If on certain websites you ask True Key not to remember your password, and you changed your mind, Click Restore to automatically save passwords while you browse."
+			}
+		},
+		"import": {
+			"title": "Are you currently saving passwords on another service? Add them to your True Key account.",
+			"desc": "Use the password importer to quickly add passwords to your True Key account.",
+			"cta": "Import passwords"
+		},
+		"newTab": "Browser Homepage & New Tab",
+		"restoreAutosave": "Restore auto-save on all sites",
+		"restore": "Restore",
+		"instantLogin": "Instant Log in",
+		"changeLanguage": "Change Language"
+	},
+
+	"shareSocial": {
+		"title": "Spread The Word",
+		"title2": "Share the love",
+		"desc": "Enjoying your experience with the True Key app? Share with your friends and earn rewards.",
+		"share": "Share",
+		"tweet": "Tweet",
+		"rateChrome": "Rate app",
+		"twitterMessage": "Be one of the first to eliminate passwords. Reserve your #TrueKey by @IntelSecurity for early access."
+	},
+
+	"settingsNav": {
+		"profile": "My True Key Profile",
+		"lockUnlock": "Lock Preferences",
+		"windowsLock": "Windows Face Unlock",
+		"preferences": "Preferences",
+		"support": "Help & Support",
+		"shareSocial": "Spread The Word",
+		"trustedDevices": "Trusted Devices"
+	},
+
+	"tkProfile": {
+		"title": "My factors",
+		"hi": "Hi, %{fullname}",
+		"txt1": "The more factors you add, %{htmlBefore}the stronger your True Key profile.%{htmlAfter}",
+		"activeFactors": "Active Factors",
+		"active": "Active",
+		"strength": "Profile Strength",
+
+		"accountStatus": {
+			"title": "Subscription Status",
+			"premium": "Premium",
+			"ends": "Ends"
+		},
+
+		"layerEmail": "Add your email as a trusted factor, linking it to your True Key Profile. <strong>You’ll receive notifications in your inbox when logging in on new or untrusted devices.</strong>",
+		"layerSwipe": "Send a notification to your mobile device, <strong>for added protection when logging in to accounts</strong>. You’ll need to accept the notification before True Key will log you in.",
+		"layerFace": {
+			"txt1": "<strong>Log in without typing a password.</strong> Face Unlock uses the unique dimensions of your face - like the distance between your eyes and nose - to recognize you and let you in.",
+			"txt2": "Face Unlock is available for PC and Android devices."
+		},
+		"layerPassword": "Protect your Profile with a strong Master Password, and don’t forget it! <strong>Your Master Password cannot be reset if lost, you’re the only one who has it.</strong> If you add additional factors, your Master Password will be used as a back-up if you’re unable to login using them.",
+		"layerDevice" : "True Key can recognize the devices that you own or use frequently. Add each device you access your True Key Profile with. <strong>This prevents someone from accessing your account</strong>, by requiring additional factors when logins are attempted from an unknown device"
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "How secure do you want your Windows Unlock to be?",
+		"desc": "Select your desired security level.",
+
+		"basic": {
+			"settingName": "Basic",
+			"title": "The basic setting will allow you to log in the fastest",
+			"desc": "This setting is recommended if you are using a personal computer in a trusted environment."
+		},
+		"advanced": {
+			"settingName": "Advanced",
+			"title": "The advanced setting activates anti-spoofing",
+			"desc": "This setting is recommended for personal and public computers at work or home."
+		},
+		"boosted": {
+			"settingName": "Boosted",
+			"title": "The boosted setting activates anti-spoofing and live detection",
+			"desc": "The boosted setting will ask you to blink to prove you are you. This setting is recommended for public computers in untrusted environments."
+		},
+		"howTo": {
+			"title": "Use your face to log in to Windows",
+			"subtitle": "Tired of typing your Windows password?",
+			"desc": "Use True Key to unlock your device. It’s fast and easy.",
+			"cta": "Learn how to activate"
+		},
+		"howToModal": {
+			"title": "Use your face to log in to Windows",
+			"desc": "Follow these simple steps to enable Windows log in with your face:",
+			"step1": "Lock your screen (Windows + L)",
+			"step2": "Click the back button",
+			"step3": "Click the True Key icon",
+			"tip": "You can lock your screen with the keyboard shortcut Windows+L"
+		}
+	},
+
+	"videos": {
+		"title": "Videos",
+		"intro": {
+			"title": "The Introduction",
+			"desc": "What is a True Key and why do you need one? Find out here!"
+		},
+		"gettingStarted": {
+			"title": "Getting Started Tour",
+			"desc": "New user? Get the most out of True Key with this quick product tour."
+		},
+		"security": {
+			"title": "Security",
+			"desc": "Your security is our priority. Here's how we keep your data safe and secure."
+		},
+		"sharing": {
+			"title": "Share a Password",
+			"desc": "Finally! Encrypted sharing that everyone can use!"
+		},
+		"sharingSecurity": {
+			"title": "Security of Sharing",
+			"desc": "Encrypted sharing - making it this easy to use is more complicated than you'd think."
+		},
+		"legacy": {
+			"title": "Legacy",
+			"desc": "The only password tool that protects your data during your life... and after."
+		}
+	},
+
+	"support": {
+		"title": "Help & Support",
+		"feedback": {
+			"title": "Get In Touch",
+			"desc": "How are you liking the True Key service?",
+			"needsWork": "Needs work",
+			"awesome": "Awesome",
+			"leaveComment": "Leave a comment:",
+			"placeholder": "Your feedback is appreciated. Type your comments here. Thanks in advance!",
+			"thankYou": "Thank you!"
+		},
+		"getMoreSupport": "Get more support"
+	},
+
+	"wallet": {
+		"title": "Wallet",
+		"add": {
+			"subtitle1": "Securely store your information",
+			"subtitle2": "Select a category below to add your first wallet item"
+		},
+		"search": "Search your wallet",
+		"types": {
+			"identity": "Address Book",
+			"cc": "Credit Card",
+			"drivers": "Driver's License",
+			"membership": "Memberships",
+			"passport": "Passport",
+			"ssn": "Social Security Number"
+		},
+		"remove": {
+			"title": "Removing a document",
+			"confirm": "Are you sure you want to remove this document from your True Key?",
+			"permanent": "This action cannot be undone."
+		},
+		"edit": {
+			"title": "Edit Document"
+		}
+	},
+
+	"notes": {
+		"title": "Safe Notes",
+		"add": {
+			"title": "Add Note"
+		},
+		"empty": {
+			"title": "Not found",
+			"desc": "Maybe the note you're looking for wasn't saved on True Key.",
+			"cta": "Create Note"
+		},
+		"sort": {
+			"alphabetically": "Alphabetically",
+			"dateCreated": "Date created"
+		},
+		"search": "Search my %{smart_count} safe note |||| Search my %{smart_count} safe notes",
+		"remove": {
+			"title": "Removing a note",
+			"desc": "Are you sure you want to remove this note from your True Key?",
+			"permanent": "This action cannot be undone."
+		},
+		"edit": {
+			"title": "Safe Note"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Use Standard Login"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) wants to assign you as their heir."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) shared his %{htmlBefore}%{title}%{htmlAfter} password with you."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) wants to share a password with you."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Account progress:",
+		"pctProgress": "%{percentage}%",
+		"addLogin": {
+			"title": "Add your first login",
+			"desc": "Save a login to True Key"
+		},
+		"oneClick": {
+			"title": "Try an Instant Log in",
+			"desc": "Log in without touching your keyboard"
+		},
+		"addFace": {
+			"title": "Add Face Unlock",
+			"desc": "It makes logging in faster and easier."
+		},
+		"addLogins": {
+			"title": "Add your first four logins",
+			"desc": "Add more logins to your True Key profile"
+		},
+		"sharing": {
+			"title": "Share a password",
+			"desc": "Safely share with family, friends and co-workers"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "Use your face to log in faster.",
+		"txt1": "Set up Face Unlock for simple, instant access to your True Key™ app.",
+		"txt2": "You can also pair it with your Master Password as a hassle-free, second factor.",
+		"txt3": "Don't worry. We won't store or share your picture.",
+		"cta": "Set up Face Unlock"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Add a trusted device",
+		"txt1": "Check your email to confirm.",
+		"txt2": "Check your inbox to continue."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Select Trusted Device",
+		"txt": "You've activated two-factor authentication. Select a Trusted Device to receive this notification."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Disable Trusted Device",
+		"txt": "You've decided to disable the following device: \"%{deviceName}\"",
+		"confirm": "Disable"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "The device you're using is trusted.",
+		"txt": "When you trust a device you're able to add more security factor such as Face Unlock."
+	},
+
+	"overlayInstallExe": {
+		"title": "You're almost there, three steps to go",
+		"txt": "Your True Key software is now downloading. Not working? ",
+		"restartDownload": "Click here to restart the download."
+	},
+
+	"overlayOobPending": {
+		"txt": "We just sent you a push notification to verify your log in. Check your trusted device.",
+		"btResend": "Resend notification"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "Oops, your push notification expired.",
+		"txt2": "Try again with a new notification",
+		"btResend": "Didn't receive the notification? Resend"
+	},
+
+	"overlayInstallFace": {
+		"title": "Log in faster",
+		"txt": "Save time. Use Face Unlock instead of typing your Master Password."
+	},
+
+	"overlayTrustDevice": {
+		"title": "Is this a trusted device?",
+		"txt1": "Looks like you're attempting to log in to an untrusted device.",
+		"txt2": "Adding this computer to your trusted devices will let you log in faster with one or more factors.",
+		"dontTrust": "No, don't trust",
+		"trustComputer": "Trust this computer"
+	},
+
+	"overlayEmailPending": {
+		"title": "Confirm your email address",
+		"txt": "Check your email to confirm this device.",
+		"btResend": "Resend email"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Oops, your email notification expired.",
+		"txt2": "Try again with a new notification.",
+		"btResend": "Didn't receive the notification? Resend"
+	},
+
+	"overlayUpdate": {
+		"title": "Please update your TrueKey app",
+		"txt": "A new version is ready to be installed, Click Update to install.",
+		"btUpdate": "Update now"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Enter your Master Password",
+			"enterMasterPasswordHere": "Enter your Master Password here",
+			"invalidPassword": "Invalid Password"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Confirmation Required"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Auto-Lock",
+		"text": "When do you want your True Key app to lock?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Launchpad Visibility",
+		"text": "Decide whether your favorite sites are hidden or visible while your Launchpad is locked.",
+		"visible": "<span class='bold'>Visible:</span> See your Launchpad, even while locked.",
+		"invisible": "<span class='bold'>Hidden:</span> Hide your Launchpad while locked."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Trusted Device",
+			"helpText": "Connect your device to your True Key profile, for an added layer of security.",
+			"enroll": "Trust device"
+		},
+		"masterPassword": {
+			"title": "Master Password",
+			"helpText": "Create a strong Master Password for your True Key profile. We won't remember this one, so please make sure that you do."
+		},
+		"email": {
+			"title": "Trusted email",
+			"helpText": "Confirm your email to enable all the features. You can also use your email as a second factor, for added security.",
+			"enroll": "Send confirmation email"
+		},
+		"face": {
+			"title": "Face Unlock",
+			"helpText": "True Key's Face Unlock uses your unique facial math to confirm that it's you. Use Face Unlock as a primary log in method, or as an additional security factor.",
+			"enroll": "Add now"
+		},
+		"mobile": {
+			"title": "Swipe Unlock (Android only)",
+			"helpText": "With Swipe Unlock, you'll send a push notification to your mobile phone as a 2nd factor - just swipe the notification to unlock your computer profile. This can be used in place of your Master Password, or with it for added security.",
+			"enroll": "Add phone"
+		},
+		"fingerprint": {
+			"title": "Touch Unlock",
+			"helpText": "Use your unique fingerprint to securely access your True Key, for an additional layer of security. This feature is coming soon."
+		}
+	},
+
+	"killswitch": {
+		"title": "Mandatory Update",
+		"chrome": {
+			"txt1": "This version of the True Key extension is no longer supported.  Chrome has automatically updated you to the latest version.",
+			"txt2": "Please restart your browser."
+		},
+		"ie": {
+			"txt1": "This version of True Key is no longer supported. Please click the button below to update to the latest version",
+			"cta": "Update now"
+		},
+		"downloading": "This version of True Key is no longer supported. An updated version is downloading now, and will be ready in a few minutes…"
+	},
+
+	"downloadExe": {
+		"title": "Good Choice",
+		"txt1": "Face Unlock removes the hassle of typing your Master Password. Click below to download the installer."
+	},
+
+	"enableIE": {
+		"appInstalled": "App Installed",
+		"enableIt": "Now enable it in your browser",
+		"cta": "Click after enabling below",
+		"title": "One last step",
+		"txt1": "Click \"Enable\" below to start using the True Key app. You will only have to do this once.",
+		"txt2": "Once this is done, %{htmlBefore}click here%{htmlAfter}.",
+		"appInstalled" : "App installed.",
+		"enableIt" : "Now enable it in your browser.",
+		"havingTrouble" : "Having trouble ? Refresh this page."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "You're already protected because you are on a trusted device:",
+		"trustedDevice": "This trusted device (\"%{deviceName}\")",
+		"chooseFactors": "Choose which additional factor you want to unlock your app:",
+		"simple": "Simple",
+		"complex": "Complex",
+		"faceUnlock": "Face Unlock",
+		"addFace": "Add Face",
+		"addSwipe": "Add Swipe Unlock",
+		"masterPassword": "Master Password",
+		"theseFactorsAreRequired": "These factors are also required to access your app:",
+
+		"confirmAdvanced": {
+			"title": "Just so you know",
+			"content": "When logging in using the \"Advanced\" setting, your device must be connected to the internet. If you are unable to connect, you won't be able to access your True Key profile.",
+			"confirm": "Got it"
+		}
+	},
+
+	"faq": {
+		"title": "FAQs",
+
+		"Q1": "What is True Key™?",
+		"A1": "True Key™ by Intel Security is changing the way the world logs in.  True Key removes the hassle of remembering multiple passwords and instantly logs you in to your apps, sites and devices using factors that are unique to you, like your facial features and identifiers for the devices you own.  And, the more factors you use, the stronger your True Key becomes, making it even easier to confirm it's really you. With True Key, you are the password.  You will have  more control over your digital identity and will be able to roam your digital world in a faster, easier, and safer way.",
+
+		"Q2": "How does it work?",
+		"A2": "Open your True Key account on a smartphone, tablet, or PC and create your profile so True Key knows it's you. Websites that support True Key will know it's you automatically so you won't need to type in - or even remember - a password. Websites that are not yet supported by True Key use the included password manager to learn and automatically enter your usernames and passwords for you. With True Key, you are the password.  You will have  more control over your digital identity and be able to roam your digital world in a faster, easier, and safer way.",
+
+		"Q3": "Why log in/sign in with True Key?",
+		"A3": "True Key simplifies your life, and lets the digital world know it's really you. By logging in once to True Key using unique attributes like your facial math, or your fingerprint you can instantly get where you want to go.",
+
+		"Q4": "Can several people use their True Key account on a shared computer?",
+		"A4": "Yes, True Key will recognize it's you and only log you in to your own account(s). It's as easy as logging out and back in.",
+
+		"Q5": "How secure is True Key?",
+		"A5": "True Key is a security product anyone can use. Your data is encrypted with AES-256, one of the strongest grades of encryption available. And, you can boost your True Key by adding additional attributes, or ‘factors' - like your facial math or a fingerprint.",
+
+		"Q6": "How is my data encrypted and decrypted?",
+		"A6": "True Key keeps your data locally on your device using AES-256 encryption, one of the strongest grades of encryption available.  Your sensitive data never leaves your device unless encrypted first and only you (and those you authorize) have access to it.",
+
+		"Q7": "Can a True Key employee gain access to data stored in my account or other sensitive information?",
+		"A7": "No, with True Key, you are the password.  Your data is encrypted and decrypted on your device and in your control at all times. True Key uses factors that are unique to you - including your facial math, fingerprint or Master Password to encrypt and decrypt only when you need it.",
+
+		"Q8": "Where is the encryption and decryption of my data performed?",
+		"A8": "Your data is encrypted and decrypted locally, on your device. Only encrypted data is stored on True Key servers.",
+
+		"Q9": "Is my data stored on True Key servers?",
+		"A9": "Yes, your encrypted True Key data is stored on a secure True Key server. The only way this information is accessed is with factors that are unique to you - including your facial math or Master Password.",
+
+		"Q10": "Can I use True Key Face Unlock for Windows devices?",
+		"A10": "True Key Face Unlock for Windows devices will be coming in early 2015.",
+
+		"Q11": "Do I need a particular web camera?",
+		"A11": "True Key will work with your device's front-facing camera and USB-connected cameras.",
+
+		"Q12": "Can someone log in using a picture of me?",
+		"A12": "No, True Key has been developed with sophisticated anti-spoofing technology to prevent this kind of log in attempt. You're in good hands with Intel Security.",
+
+		"Q13": "How are you sure it's me logging in?",
+		"A13": "You're in good hands with Intel Security. True Key uses very sophisticated algorithms to confirm it's you, including biometrics, facial image, fingerprint, and other attributes that you set up and are unique to you.",
+
+		"Q14": "Where can I use True Key Face Unlock and on which platforms?",
+		"A14": "You can download True Key on all popular devices however, facial log in is currently only available on Windows 8, 8.1, Internet Explorer 10 + 11 and Google Chrome browser.  We will be releasing more platforms and ways to authenticate in the months to come."
+	},
+
+	"privacy": {
+		"title": "You, Your Data and True Key",
+
+		"Q1": "First, Your Privacy",
+		"A1": "Intel Security respects your privacy. Please read our %{privacyBefore}Privacy Notice%{linkAfter} for more information on how Intel Security manages any personal information.",
+
+		"Q2": "What information does the True Key app collect?",
+		"A2": "<p>With your permission, the True Key app will collect your image and turn it into measurements, which are called “facial math.”</p><p>After your facial math is calculated, the image is deleted. Your facial math is encrypted and stored locally on your device.  Then the encrypted information is securely stored in an Intel Security data center so you can access your devices, and websites easily and securely.</p><p>Intel Security has no access to your sensitive information stored in your True Key app as it is encrypted before being sent to Intel Security and protected by a Master Password that only you know.</p><p>In addition:</p><p>The True Key app will also store the passwords, usernames and wallet information that you provide.  These items will all be encrypted on your device, and can sync to your other devices after the encrypted information is sent to the secure True Key servers to communicate with you.</p>",
+
+		"Q3": "What is facial math?",
+		"A3": "By facial math, we mean a calculation of your facial measurements that allow the Face Unlock technology to identify you.",
+
+		"Q4": "How is my facial math used?",
+		"A4": "Intel Security uses your facial math with the Face Unlock technology to know it's you and log you into your device or a True Key enabled website.",
+
+		"Q5": "Where is everything stored?",
+		"A5": "The facial math template will be encrypted and saved on your devices. The encrypted information will also be stored in an Intel Security data center so you can sync between your devices.",
+
+		"Q6": "How can I remove Face Unlock from my device?",
+		"A6": "To remove or disable the feature, disable your account or uninstall the program using your device or system's uninstall options.",
+
+		"Q7": "How can I delete my facial math from Intel Security's data center?",
+		"A7": "You can request the deletion of your facial math by contacting True Key %{customerSupportBefore}customer service%{linkAfter}. After you authenticate yourself, you can request that your facial math be deleted.",
+
+		"Q8": "Will my True Key app keep track of the websites I access?",
+		"A8": "When you store websites and logins in your True Key profile, you can see this information on your True Key Launchpad.",
+
+		"Q9": "Will the True Key service use my information for any other purpose?",
+		"A9": "No, the True Key service has no access to your decrypted information.",
+
+		"Q10": "Where to get more information about the True Key app?",
+		"A10": "Get more information about Face Unlock and the True Key app the True Key Website, %{websiteBefore}truekey.com%{linkAfter}, or by contacting True Key %{customerSupportBefore}customer service%{linkAfter}."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Add a trusted device",
+		"lastUsed": "Last used:",
+		"twoFactor": "Two-factor authentication:",
+		"title": "Select and manage trusted devices for your True Key profile.",
+		"txt1": "You're in control of which devices your True Key profile can trust. Use these devices for second factor authentication, managing where you can access your sites and apps. Remember, you can add or remove a device at any time."
+	},
+
+	"startpage": {
+		"searchNoResults": "No results found.",
+
+		"addFavorite": {
+			"title": "Add a Favorite",
+			"placeholder": "Type a website's name or URL",
+			"titleSuggestions": "Here are a few suggestions:",
+			"moreSuggestions": "More suggestions"
+		},
+
+		"addManually": {
+			"title": "Add a Favorite Manually",
+			"label": {
+				"websiteName": "Website name",
+				"url": "URL"
+			},
+			"placeholders": {
+				"websiteName": "e.g.: Facebook",
+				"url": "e.g.: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Edit Favorite"
+		},
+
+		"ctaEdit": "Edit this favorite",
+
+		"search": {
+			"onTheWeb": "Search for \"%{filter}\" on the web",
+			"logins": "Your Saved Logins",
+			"placeholder": "Search the Web or your True Key Launchpad"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Favorites",
+			"description": "These are similar to bookmarks. Add, remove and organize them as you like. Use Favorites for fast access to the sites you visit most, even those you don't have logins saved for."
+		},
+		"logins": {
+			"title": "Logins",
+			"description": "This is where you'll find the logins saved to your profile. Add, view or edit the details and manage the security settings for each one."
+		},
+		"menu": {
+			"title": "Your Menu",
+			"description": "Access your preferences, security settings, support and more in Menu."
+		},
+		"search": {
+			"title": "Search",
+			"description": "Quickly search the web or your True Key profile for the info you need fast."
+		},
+		"profile": {
+			"title": "Profile",
+			"description": "View and update your profile settings. Click the notification icon when there's a message waiting for you."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Almost done",
+		"description": "Now you need to enable the True Key™ extension. Choose one or all of your browsers.",
+		"activated": "True Key™ is already enabled on <em>%{activatedBrowser}</em>,<br> add it to <em>%{availableBrowser}</em> too.",
+
+		"overlayTitle": "Enabled True Key™",
+		"overlayText": "To log in to your favorite sites instantly without typing passwords, <strong>enable the True Key</strong>.",
+		"errorNoBrowserSelected": "Please select at least one browser to Enable True Key"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "Meet True Key™ by Intel Security",
+			"subtitle": "Unlock your digital world without the hassle of multiple passwords",
+			"description": "The True Key app is changing the way the world logs in by using factors unique to you, for secure, fast access to your favorite sites, apps and devices."
+		},
+		"sync": {
+			"subtitle": "Be free to roam, with automatic sync to your phone, tablet and computer",
+			"description": "The True Key app securely syncs to your phone, tablet, and computer - keeping your information close at hand."
+		},
+		"encrypted": {
+			"subtitle": "Keep your info safe and encrypted, and your privacy protected",
+			"description": "Your data is stored locally on your device and never leaves unless encrypted. Only you have access to it."
+		},
+		"unique": {
+			"subtitle": "Make your profile unique, like you",
+			"description": "With the True Key app, you are the password. The more factors you use, the stronger your True Key profile is - so the digital world knows it’s really you."
+		},
+		"skipTour": "Skip tour",
+		"iGetIt": "I get it.",
+		"getStarted": "Let's get started"
+	},
+
+	"slideshow2": {
+		"meetTK": "Meet True Key by Intel Security",
+		"multiple_passwords": {
+			"title": "Eliminate the hassle of multiple passwords",
+			"desc": "The True Key app remembers your passwords so you don't have to."
+		},
+		"sync": {
+			"title": "Sync your passwords across all your devices",
+			"desc": "Install the True Key app on all your devices to keep your passwords on hand."
+		},
+		"encrypted": {
+			"title": "Keep your passwords safe and encrypted",
+			"desc": "The True Key app encrypts your passwords on your device so only you have access."
+		}
+	},
+
+	"enable": {
+		"lastStep": "One last step",
+		"clickEnable": "Click \"Enable\" below to start using the True Key app. You will only have to do this once.",
+		"clickDone": "Once this is done, %{htmlBefore}click here%{htmlAfter}"
+	},
+
+	"activation": {
+		"title": "Enable True Key™",
+		"txtEnable": "To log in to your favorite sites instantly without typing<br>passwords, <strong>enable the True Key extension</strong>.",
+		"txtInstall": "To log in to your favorite sites instantly without typing<br>passwords, <strong>install the True Key extension</strong>.",
+		"txtRestart": "You need to restart your browser to install the True Key<br>extension."
+	},
+
+	"loginSuccess": {
+		"title": "Welcome back",
+		"text": "Look for the True Key icon the next time you start your browser."
+	},
+
+	"signupSuccess": {
+		"text": "Your Profile has been created.<br>Look for the True Key icon the next time you start your browser."
+	}
+}

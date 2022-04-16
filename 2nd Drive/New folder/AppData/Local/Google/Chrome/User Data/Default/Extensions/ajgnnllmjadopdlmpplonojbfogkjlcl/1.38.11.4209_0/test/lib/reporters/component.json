@@ -1,0 +1,23 @@
+{
+	"name": "reporters",
+	"private": true,
+	"scripts": [
+		"index.js",
+		"base.js",
+		"html.js",
+		"csv.js",
+		"json.js"
+	],
+	"styles": [
+		"html.css"
+	],
+	"local": ["pb"],
+	"dependencies": {
+		"component/progress": "*",
+		"visionmedia/debug": "*",
+		"component/classes": "*",
+		"moment/moment": "*",
+		"olivoil/progress": "*",
+		"olivoil/pie": "*"
+	}
+}

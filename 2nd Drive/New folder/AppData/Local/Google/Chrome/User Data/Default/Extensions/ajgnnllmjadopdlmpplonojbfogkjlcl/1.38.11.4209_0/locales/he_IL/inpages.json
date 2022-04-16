@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "סגור",
+    "done" : "בוצע",
+    "dontSave" : "אל תשמור",
+    "neverSave" : "לעולם אל תשמור",
+    "saveNow" : "שמור כעת",
+    "yes" : "כן",
+    "no" : "לא",
+    "remove" : "הסר",
+    "dontUpdate" : "אל תעדכן",
+    "updateNow" : "עדכן עכשיו",
+    "dontAskAgain" : "אל תשאל שוב",
+    "dontSaveNow" : "אל תשמור עכשיו",
+    "dontSaveItNow" : "אל תשמור את זה עכשיו",
+    "neverSaveIt" : "לעולם אל תשמור זאת",
+    "neverForThisSite" : "אף פעם לא עבור אתר זה",
+    "savePassword" : "שמור סיסמה",
+    "saveThisPassword" : "שמור סיסמה זו",
+    "dontShowAgain" : "אל תציג שוב",
+    "masterPassword" : "סיסמה ראשית",
+    "continue" : "המשך",
+    "typeMasterPassword" : "הקלד סיסמה ראשית",
+    "settings" : "הגדרות",
+    "copyClipboard" : "העתק ללוח העריכה"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> שמר סיסמה חדשה עבור <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> זיהה סיסמה חדשה עבור <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> מחבר אותך מיידית"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "הסיסמה שלך עבור <span class='green'>%{siteName}</span> אינה חזקה מספיק"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "יש לך <span id='shareCount' class='green'>הזמנת שיתוף סיסמה</span> חדשה אחת."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "האם הצלחת להתחבר בהצלחה לחשבון ה- <span class='green'>%{username}</span> שלך?",
+    "deleteConfirm" : "האם ברצונך להסיר את <span class='green'>%{username}</span> מחשבון ה- PasswordBox שלך?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "לצערנו, אתר זה אינו נתמך עדיין - הצוות שלנו עובד קשה כדי לתמוך בו, והוא יעלה בקרוב"
+  },
+  "connectWith" : {
+    "mainText" : "בחר את החשבון שעמו תרצה להתחבר",
+    "login" : "התחבר"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "הקלד סיסמה ראשית",
+    "mainTxtHasUsers" : "הזן את הסיסמה הראשית שלך כדי להתחבר מיידית",
+    "mainTxtNoUsers" : "הזן את הסיסמה הראשית שלך כדי לשמור סיסמה זו",
+    "error" : "סיסמה שגויה",
+    "decrypting" : "מפענח"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "שמור סיסמה זו עכשיו.",
+    "signup" : "הירשם ל- PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "בחר כרטיס שאיתו תרצה לבצע את הרכישה",
+    "use" : "השתמש"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "לעולם לא תשכח עוד אף סיסמה:",
+    "createAccount" : "צור חשבון",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> נוסף לסרגל הכלים של %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "כעת, התחבר לחשבון ה- <span class='green'>%{siteName}</span> שלך...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> ישמור אותו אוטומטית עבורך!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... וזה הכול!",
+    "mainText" : "סיסמתך ב- <span class='green'>[SITENAME]</span> נשמרה בבטחה בחשבון ה-PasswordBox שלך!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "מזל טוב",
+    "mainText" : "כעת תוכל לגשת לסיסמאות שלך בכל עת על ידי לחיצה על <strong class='green'>סמל התיבה הירוקה</strong> שבדפדפן שלך! בוא ננסה את זה עכשיו!"
+  },
+  "passgen" : {
+    "generate" : "צור סיסמה חזקה",
+    "regenerate" : "צור סיסמה חדשה",
+    "noPassGenerated" : "לא נוצרה סיסמה",
+    "letters" : "אותיות",
+    "digits" : "ספרות",
+    "symbols" : "סמלים",
+    "capitals" : "רישיות"
+  }
+}

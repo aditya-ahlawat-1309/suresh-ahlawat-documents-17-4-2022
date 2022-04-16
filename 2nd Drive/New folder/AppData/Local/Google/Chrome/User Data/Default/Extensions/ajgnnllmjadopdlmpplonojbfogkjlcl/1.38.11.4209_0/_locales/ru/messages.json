@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension.",
+      "message": "Бесплатный менеджер паролей для Google Chrome – теперь вы не забудете ни один пароль"
+   },
+   "appName": {
+      "description": "Name of the extension.",
+      "message": "PasswordBox.com"
+   }
+}

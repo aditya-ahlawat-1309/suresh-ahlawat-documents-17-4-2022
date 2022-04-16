@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Zatvori",
+		"done": "Gotovo",
+		"dontSave" : "Ne čuvaj",
+		"neverSave" : "Nikada ne čuvaj",
+		"saveNow" : "Sačuvaj sada",
+		"yes" : "Da",
+		"no" : "Ne",
+		"remove": "Ukloni",
+		"dontUpdate" : "Nemoj da ažuriraš",
+		"updateNow" : "Ažuriraj odmah",
+		"dontAskAgain" : "Ne pitaj ponovo",
+
+		"dontSaveNow" : "Ne čuvaj ovaj put",
+		"dontSaveItNow" : "Ne čuvaj sada",
+		"neverSaveIt" : "Nikada ne čuvaj",
+		"neverForThisSite" : "Nikada ne čuvaj",
+		"savePassword" : "Sačuvaj lozinku",
+		"saveThisPassword" : "Sačuvaj ovu lozinku",
+		"dontShowAgain" : "Ne prikazuj ponovo",
+		"masterPassword" : "Glavna lozinka",
+		"continue" : "Nastavi",
+		"ok": "U redu",
+		"typeMasterPassword" : "Unesite Glavnu lozinku",
+		"settings": "Postavke",
+		"copyClipboard": "Kopiraj u ostavu",
+		"youreIn" : "Ušli ste.",
+		"success": "Uspešno"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key je sačuvao lozinku za <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key je otkrio novu lozinku za <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Sačekajte trenutak"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Lozinka za <span class='primary'>%{siteName}</span> nije dovoljno jaka"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Imate novu deljenu lozinku."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Da li vas je True Key prijavio?",
+		"deleteConfirm": "Želite li da uklonite <span class='secondary'>%{username}</span> sa True Key profila?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Ups. True Key još uvek ne podržava ovu lokaciju."
+	},
+	"connectWith" : {
+		"mainText" : "Odaberite profil",
+		"login": "Prijavi se"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Vaš profil je zaključan",
+		"ctaUnlock": "Prijavite se da biste ga otključali",
+		"placeholder" : "Unesite Glavnu lozinku",
+		"mainTxtHasUsers" : "Prijavite se pomoću True Key profila",
+		"mainTxtNoUsers" : "Unesite glavnu lozinku da biste sačuvali ovu lozinku",
+		"error" : "Pogrešna lozinka",
+		"decrypting" : "Dešifrovanje",
+		"profileLocked" : "Vaš profil je zaključan",
+		"unlockedLogIn" : "Otključajte ga i prijavite se"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Da li ste umorni od upravljanja većim brojem lozinki? Prijavite se brzo pomoću True Key aplikacije",
+		"signup" : "Da, pokaži mi kako"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Umorni ste od peripetija sa lozinkama? Koristite True Key za lakši i brži pristup.",
+		"signup" : "Da, pokaži mi kako"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Prijavite se na <span class='secondary'>%{siteName}</span> i",
+		"txt2" : "True Key aplikacija će zapamtiti lozinku umesto vas."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Sledeći put će vas True Key bezbedno prijaviti."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Sada se prijavite brže, lakše i bezbednije sa True Key trake za pokretanje."
+	},
+	"passgen" : {
+		"generate": "Generiši lozinku",
+		"regenerate" : "Generiši lozinku",
+		"noPassGenerated": "Nema generisanih lozinki",
+		"letters" : "Slova",
+		"digits" : "Brojevi",
+		"symbols" : "Simboli",
+		"capitals" : "Velika slova"
+	}
+}

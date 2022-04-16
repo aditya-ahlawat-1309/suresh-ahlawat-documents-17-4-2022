@@ -1,0 +1,14 @@
+{
+	"name": "minitest",
+	"private": true,
+	"scripts": [
+		"index.js",
+		"runner.js",
+		"suite.js",
+		"test.js"
+	],
+	"dependencies": {
+		"component/emitter": "*"
+	},
+	"local": [ "reporters" ]
+}

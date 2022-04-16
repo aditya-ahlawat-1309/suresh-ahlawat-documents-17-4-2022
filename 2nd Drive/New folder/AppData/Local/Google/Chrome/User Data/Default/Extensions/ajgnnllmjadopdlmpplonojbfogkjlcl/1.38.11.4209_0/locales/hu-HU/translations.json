@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Beállítás",
+		"add": "Hozzáadás",
+		"addNew": "Új hozzáadása",
+		"addManually": "Hozzáadás manuálisan",
+		"cancel": "Mégse",
+		"back": "Vissza",
+		"save": "Mentés",
+		"saving": "Mentés...",
+		"saved": "Mentve!",
+		"upgrade": "Frissítés a Prémium verzióra",
+		"noThanks": "Köszönöm, nem",
+		"from": "Feladó: %{name}",
+		"remove": "Eltávolítás",
+		"removing": "Eltávolítás...",
+		"disabling": "Letiltás...",
+		"delete": "Törlés",
+		"warningPermanent": "Ez a művelet nem vonható vissza.",
+		"confirmProceed": "Biztosan folytatja?",
+		"parameters": "Paraméterek",
+		"details": "Részletek",
+		"sharing": "Megosztás",
+		"advancedSettings": "Speciális",
+		"validating": "Ellenőrzés...",
+		"tryAgain": "Próbálkozzon újra",
+		"sending": "Küldés...",
+		"send": "Küldés",
+		"sent": "Elküldve!",
+		"waitingResponse": "Válaszra várakozás",
+		"revoke": "Visszavonás",
+		"updating": "Frissítés...",
+		"change": "Módosítás",
+		"changed": "Módosítva!",
+		"copy": "Másolás a vágólapra",
+		"accept": "Elfogadom",
+		"decline": "Nem fogadom el",
+		"privacyNotice": "Adatvédelmi közlemény",
+		"dontAskAgain": "Ne kérdezze meg újra",
+		"notNow": "Most nem",
+		"sendNotification": "Értesítés küldése",
+		"justAMoment": "Egy pillanat...",
+		"learnMore": "További tájékoztatás",
+		"notYou": "Nem Ön az?",
+		"changeUser": "Felhasználóváltás",
+		"confirm": "Megerősítés",
+		"launchSite": "Webhely megnyitása",
+		"unlockMyTrueKey": "Saját True Key zárolásának feloldása",
+		"next": "Tovább",
+		"previous": "Vissza",
+		"visible": "Látható",
+		"hidden": "Rejtett",
+		"vistHelpDesk": "További információért keresse fel a McAfee %{htmlBefore}támogatási weboldalát%{htmlAfter}.",
+		"addFacialRecognition": "Arcalapú feloldás hozzáadása",
+		"comingSoon": "Hamarosan elérhető",
+		"offline": "Offline",
+		"or": "vagy",
+		"and": "és",
+		"activate": "Aktiválás",
+		"logOut": "Kijelentkezés",
+		"logins": "Bejelentkezési adatok",
+		"favorites": "Kedvencek",
+		"other": "Egyéb",
+		"locked": "Zárolva",
+		"unlocked": "Zárolás feloldva",
+		"login": "Bejelentkezés",
+		"close": "Bezárás",
+		"closing": "Bezárás...",
+		"dismiss": "Elvetés",
+		"signin": "Bejelentkezés",
+		"signOut": "Kijelentkezés",
+		"manageProfile": "Profil kezelése",
+		"profile": "Profil",
+		"menu": "Menü",
+		"DD": "NN",
+		"MM": "HH",
+		"YYYY": "ÉÉÉÉ",
+		"visible": "Látható",
+		"hidden": "Rejtett",
+		"enable": "Engedélyezés",
+		"doNotShowAgain": "Ne jelenjen meg többé",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Később",
+		"restart": "Újraindítás",
+		"install": "Telepítés",
+		"feedback": "Visszajelzés",
+		"done": "Kész",
+		"success": "Sikerült",
+		"youreIn": "Bejelentkezett!",
+		"recommended": "ajánlott"
+	},
+
+	"validation": {
+		"required": "Ezt a mezőt kötelező kitölteni",
+		"min": "A(z) {0} legalább {1} karakter hosszú kell, hogy legyen."
+	},
+
+	"offline": {
+		"title": "Nincs internetkapcsolat.",
+		"desc": "Nem csatlakozik az internethez. Csatlakozzon újból az internethez, és próbálkozzon újra."
+	},
+
+	"locked": {
+		"notYou": "Nem Ön az?",
+		"changeUser": "felhasználóváltás",
+		"cancelAuth": "Hitelesítés megszakítva",
+		"signIn": "Jelentkezzen be a gyors bejelentkezés funkció használatához",
+		"alternativeEmail": "E-mail hitelesítés használata inkább",
+		"alternativeDevice": "Megbízható készülék használata inkább"
+	},
+
+	"time": {
+		"never": "Soha",
+		"minutes": "%{smart_count} perc |||| %{smart_count} perc",
+		"hours": "%{smart_count} óra |||| %{smart_count} óra",
+		"days": "%{smart_count} nap |||| %{smart_count} nap"
+	},
+
+	"labels": {
+		"email": "E-mail cím",
+		"masterPassword": "Fő jelszó",
+		"confirmMasterPassword": "Fő jelszó megerősítése",
+		"rememberMe": "Maradjak bejelentkezve",
+		"websiteURL": "Webhely URL-címe",
+		"username": "Felhasználónév",
+		"password": "Jelszó",
+		"mobile": "Mobilszám",
+		"name": "Név",
+		"title": "Megszólítás",
+		"details": "Részletek",
+		"masterPassword": "Fő jelszó",
+		"websiteName": "Webhely neve",
+		"notes": "Jegyzetek",
+		"ccType": "Hitelkártya típusa",
+		"cardholderName": "Kártyatulajdonos neve",
+		"ccNumber": "Hitelkártya száma",
+		"expiryDate": "Lejárat dátuma",
+		"issueDate": "Kibocsátás dátuma",
+		"colorpicker": "Kártyák szín szerinti rendezése",
+		"driversLicenseNumber": "Licencszám",
+		"firstName": "Utónév",
+		"lastName": "Vezetéknév",
+		"gender": "Nem",
+		"stateProvince": "Állam/megye",
+		"birthdate": "Születési dátum",
+		"company": "Vállalat",
+		"telephone": "Telefon",
+		"streetName": "Utca",
+		"streetNumber": "Házszám",
+		"city": "Település",
+		"zipcode": "Irányítószám",
+		"memberID": "Tag azonosítója",
+		"memberSince": "Tagság kezdete",
+		"country": "Ország",
+		"passportNumber": "Útlevél száma",
+		"issuingCountry": "Kibocsátó ország",
+		"placeOfBirth": "Születési hely",
+		"number": "Szám",
+		"male": "Férfi",
+		"female": "Nő"
+	},
+
+	"placeholders": {
+		"email": "Adja meg e-mail címét",
+		"masterPassword": "Fő jelszó megadása",
+		"phone": "(123)-456-7890",
+		"name": "Írja be a nevét",
+		"title": "Írjon be egy címet",
+		"websiteURL": "Írja be az URL-t",
+		"websiteName": "Adja meg a webhely címét",
+		"username": "Adja meg a felhasználónevet",
+		"password": "Írja be a jelszót",
+		"notes": "Írjon be jegyzetet",
+		"cardholderName": "Adja meg a kártyatulajdonos nevét",
+		"ccNumber": "Adja meg hitelkártyája számát",
+		"driversLicenseNumber": "Adja meg a licenc számát",
+		"firstName": "Adja meg az utónevet",
+		"lastName": "Adja meg a vezetéknevet",
+		"stateProvince": "Adja meg az államot vagy tartományt",
+		"company": "Adja meg a vállalat nevét",
+		"telephone": "Adja meg a telefonszámot",
+		"streetName": "Adja meg az utcanevet",
+		"streetNumber": "Adja meg a házszámot",
+		"city": "Adja meg a települést",
+		"zipcode": "Adja meg az irányítószámot",
+		"memberID": "Adja meg a tagi azonosítót",
+		"notesDetails": "Írja be azokat az adatokat, amelyeket nem szeretne elfelejteni. Zárkombinációk. Termék- és szoftverkódok. Emlékeztetők és akár titkos receptek.",
+		"country": "Ország kiválasztása",
+		"passportNumber": "Adja meg az útlevél számát",
+		"issuingCountry": "Ország kiválasztása",
+		"placeOfBirth": "Ország kiválasztása",
+		"number": "Adja meg a számot"
+	},
+
+	"errors": {
+		"generic": "Hiba történt",
+		"passwordsMatch": "Jelszavainak egyeznie kell",
+		"nameRequired": "Írja be nevét",
+		"emailInvalid": "Adjon meg egy érvényes e-mail címet",
+		"passwordTooShort": "A jelszónak legalább %{nbCharacters} karakter hosszúnak kell lennie",
+		"usernameRequired": "Meg kell adni a felhasználónevet"
+	},
+
+	"form": {
+		"launch": "Nyissa meg ezt a webhelyet",
+		"passwordStrength": {
+			"veryWeak": "Nagyon gyenge",
+			"weak": "Gyenge",
+			"acceptable": "Elfogadható",
+			"strong": "Erős",
+			"veryStrong": "Nagyon erős"
+		},
+		"copyPassword": "Jelszó másolása",
+		"viewPassword": "Jelszó megtekintése"
+	},
+
+	"headerMessages": {
+		"txt1": "Tisztelt %{firstName}! Üdvözli Önt a True Key Launchpad"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "Kezdjük el! Vegye fel első bejelentkezési adatait a True Key-profilba",
+		"addNewLogin": "Új bejelentkezési adatok hozzáadása",
+		"success": "Üdvözöljük!"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Nincs True Key-profilja?",
+			"signup": "Hozza létre",
+			"haveAccount": "Már van True Key-profilja?",
+			"login": "Bejelentkezés",
+			"help": "Súgó"
+		},
+
+		"intro": {
+			"hi": "Üdvözöljük!",
+			"meetTK": "Ez a True Key™. A digitális élet egyszerűbb és biztonságosabb kezeléséhez. Először hozzon létre profilt.",
+			"watchVideo": "Videó megtekintése",
+			"createProfile": "Lássunk hozzá a True Key-profil létrehozásával.",
+			"cta": "Indítás",
+			"eulaPrivacy": "Az alábbi gombra kattintva elfogadja az <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>EULA</a> és az <a class='txt bold secondary btPrivacy'>Adatvédelmi&nbsp;közlemény</a> feltételeit."
+		},
+
+		"confirm": {
+			"title": "FONTOS: Fő jelszó megerősítése",
+			"enterAgain": "Írja be még egyszer a fő jelszót.",
+			"wontRemember": "Személyes adatainak és jelszavának védelme érdekében a fő jelszót sehol nem tároljuk vagy mentjük. Ezt csak Ön ismeri; ezért nem szabad elfelejtenie!",
+			"promise": "Biztosan megjegyzi?",
+			"submit": "Igen, megjegyzem"
+		},
+		"loginHelp": {
+			"title": "Probléma merült fel?",
+			"txt1": "A program megkülönbözteti a fő jelszóban a kis- és nagybetűket. A másolás és beillesztés nem működik.",
+			"txt2": "Elfelejtette a fő jelszót? Saját biztonsága érdekében mi nem ismerjük ezt. Új True Key™-fiókot kell létrehoznia.",
+			"createAccount": "Új fiók létrehozása"
+		},
+
+		"login": {
+			"title": "Bejelentkezés a profilba",
+			"submit": "Bejelentkezés",
+			"working": "Adatok visszafejtése...",
+			"error": "Ez nem sikerült"
+		},
+
+		"logout": {
+			"title": "Mielőtt elindulna, töltse le a mobil alkalmazást.",
+			"desc": "Küldje el önmagának SMS-ben az ingyenes alkalmazások online áruházának hivatkozását."
+		},
+
+		"onboarding": {
+			"skip": "Hagyja ki ezt a lépést",
+			"skipVideo": "Sikerült!",
+			"title": "%{firstName}! True Key™-profilja elkészült. Próbáljuk ki.",
+			"desc": "Válassza ki az egyik népszerű webhelyet, vagy vegyen fel újat, hogy megnézze, hogy hogyan működik.",
+
+			"noWebsiteFlow": {
+				"desc": "A True Key alkalmazás funkcióinak használata igen egyszerű:",
+				"addManually": "Vegye fel manuálisan első bejelentkezési adatait"
+			}
+		},
+
+		"emailTaken": {
+			"title": "Ehhez az e-mail címhez már tartozik profil",
+			"desc": "Mint %{emailAddress} szeretne bejelentkezni?"
+		},
+
+		"signup": {
+			"title": "Hozzon létre True Key-profilt",
+			"cta": "OK, tovább",
+			"working": "Ellenőrzés...",
+			"success": "Jól néz ki!"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Gyors bejelentkezés",
+			"desc": "Használja a gyors bejelentkezés funkciót az adott webhelyre való gyorsabb belépéshez. A True Key alkalmazás kitölti a felhasználónevet és a jelszót Ön helyett."
+		},
+		"passwordReprompt": {
+			"title": "Kérje a fő jelszót",
+			"desc": "Csak Ön ismeri a fő jelszót. Kérje minden egyes bejelentkezés előtt."
+		},
+		"subdomainOnly": {
+			"title": "Csak ehhez a résztartományhoz használja",
+			"desc": "Csak ehhez az adott résztartományba való bejelentkezéshez használja."
+		},
+		"offlineHelp": {
+			"title": "Offline mód",
+			"desc": "Úgy tűnik, hogy megszűnt vagy nagyon lassú az internetkapcsolat. A jelszók offline módban is láthatók, de azok nem módosíthatók, és a módosítások nem menthetők, illetve a jelszók nem oszthatók meg."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Nyelv módosítva",
+			"desc": "A jelenleg kiválasztott nyelv: %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Kedvenc hozzáadva",
+			"desc": "A kiválasztott webhelyet sikeresen hozzáadta a Launchpadhez."
+		},
+		"favoriteRemoved": {
+			"title": "Kedvenc eltávolítva",
+			"desc": "Ezt a kedvencet sikeresen eltávolította a Launchpadről."
+		},
+		"favoriteEdited": {
+			"title": "Kedvenc szerkesztve",
+			"desc": "A kedvenc módosításait sikeresen mentette."
+		},
+		"passwordGenerated": {
+			"title": "Jelszó másolva!",
+			"desc": "A generált jelszót a vágólapra másolta."
+		},
+		"noteCreated": {
+			"title": "Jegyzet létrehozva!",
+			"desc": "A jegyzetet hozzáadta a True Key-profilhoz."
+		},
+		"passwordSaved": {
+			"title": "Jelszó mentve!",
+			"desc": "A jelszót hozzáadtuk True Key-profiljához."
+		},
+		"loginShared": {
+			"title": "Jelszó megosztva",
+			"desc": "A jelszót sikeresen megosztotta a következővel: %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Jelszó eltávolítva.",
+			"desc": "A jelszó el lett távolítva a True Key-profilból."
+		},
+		"loginEdited": {
+			"title": "Bejelentkezési adatok szerkesztve.",
+			"desc": "A bejelentkezési adatok módosításai el vannak mentve."
+		},
+		"copied": {
+			"title": "Másolva!",
+			"desc": "A vágólapra másolta."
+		},
+		"passwordCopied": {
+			"title": "Jelszó másolva!",
+			"desc": "A jelszót a vágólapra másolta."
+		},
+		"error": {
+			"title": "Hiba történt",
+			"desc": "Próbálkozzon újra"
+		},
+		"legacyAccepted": {
+			"title": "Meghívó elfogadva",
+			"desc": "Ez a korábbi meghívó sikeresen el lett fogadva."
+		},
+		"legacyDeclined": {
+			"title": "Meghívó visszautasítva",
+			"desc": "Ez a korábbi meghívó sikeresen el lett utasítva."
+		},
+		"sharingAccepted": {
+			"title": "Meghívó elfogadva",
+			"desc": "Ez a megosztási meghívó sikeresen el lett fogadva."
+		},
+		"sharingDeclined": {
+			"title": "Meghívó visszautasítva",
+			"desc": "Ez a megosztási meghívó sikeresen el lett utasítva."
+		},
+		"invitationResent": {
+			"title": "Meghívó újból elküldve!",
+			"desc": "A meghívó újból el lett küldve."
+		},
+		"oobResent": {
+			"title": "Értesítés újból elküldve!",
+			"desc": "Új értesítést küldtünk telefonjára."
+		},
+		"emailResent": {
+			"title": "E-mail újból elküldve!",
+			"desc": "Egy új megerősítő e-mailt küldtünk Önnek."
+		},
+		"legacyRevoked": {
+			"title": "Korábbi kapcsolat visszavonva.",
+			"desc": "Ez a korábbi kapcsolat vissza lett vonva."
+		},
+		"legacySent": {
+			"title": "Hagyatékkal kapcsolatos kérés elküldve.",
+			"desc": "Meghívót küldtünk %{email} részére."
+		},
+		"legacySendError": {
+			"title": "Korábbi kérelemmel kapcsolatos hiba",
+			"desc": "A meghívót nem lehet elküldeni %{email} részére."
+		},
+		"browserNewTab": {
+			"title": "Böngésző Új lap beállítása mentve.",
+			"desc": "A böngésző Új lap beállítása sikeresen frissült."
+		},
+		"changedMP": {
+			"title": "Módosult a fő jelszó.",
+			"desc": "Fő jelszavát sikeresen megváltoztatta."
+		},
+		"clearAutosave": {
+			"title": "Automatikus mentés visszaállítva",
+			"desc": "A True Key automatikusan menti a jelszókat az összes webhelyhez."
+		},
+		"feedbackSent": {
+			"title": "Visszajelzés elküldve.",
+			"desc": "Köszönjük visszajelzését."
+		},
+		"documentCreated": {
+			"title": "Dokumentum létrehozva!",
+			"desc": "A dokumentum el lett mentve a True Key alkalmazásba."
+		},
+		"documentRemoved": {
+			"title": "Dokumentum törölve",
+			"desc": "Ez a dokumentum el lett távolítva a True Key alkalmazásból."
+		},
+		"notesEdit": {
+			"title": "Módosítások mentve",
+			"desc": "A jegyzet módosításai el lettek mentve."
+		},
+		"notesRemove": {
+			"title": "Jegyzet eltávolítva",
+			"desc": "Ez a jegyzet el lett távolítva a True Key-profilból."
+		},
+		"settingsChanged": {
+			"title": "Beállítások módosítva",
+			"desc": "Frissültek a zárolási beállítások."
+		},
+		"disabledTrustedDevice": {
+			"title": "Készülék letiltva",
+			"desc": "Készüléke le lett tiltva."
+		},
+		"deviceTrusted": {
+			"title": "Készülék megbízhatónak minősítve",
+			"desc": "Az adott készülék megbízhatónak van minősítve."
+		},
+		"confirmationEmailSent": {
+			"title": "Megerősítő e-mail elküldve!",
+			"desc": "Megerősítő üzenetet küldtünk a(z) %{email} e-mail címre"
+		}
+	},
+
+	"logins": {
+		"title": "Bejelentkezési adatok",
+		"editLogin": "Bejelentkezési adatok szerkesztése",
+		"viewLogin": "Bejelentkezési adatok megtekintése",
+		"shareLogin": "Bejelentkezési adatok megosztása",
+		"shareSection": {
+			"title": "Bejelentkezési adatait biztonságosan megoszthatja barátaival és családtagjaival. <strong>Válassza ki, hogy mely bejelentkezési adatokat kívánja megosztani.</strong>"
+		},
+		"copyPassword": "Jelszó másolása",
+		"loginAs": "Bejelentkezés mint",
+		"removeLogin": "Bejelentkezési adatok eltávolítása",
+		"noLoginFound": {
+			"title": "Nem található",
+			"desc": "Előfordulhat, hogy ezeket a bejelentkezési adatokat még nem mentette. Hozzá szeretné adni?"
+		},
+		"currentWebsite": "Jelenlegi webhely",
+		"onboardingPopover": {
+			"title": "Gyors bejelentkezés",
+			"desc": "Ide kattintva gépelés nélkül bejelentkezhet"
+		},
+		"searchAssets": "Keresés %{smart_count} bejelentkezésben |||| Keresés %{smart_count} bejelentkezésben",
+		"askForMasterPassword": "Fő jelszó",
+		"askForFaceRecognition": "Arcalapú feloldás",
+		"instantLogin": "Gyors bejelentkezés",
+		"useForSubdomainOnly": "Csak a(z) <span class='primary'>%{domain}</span> résztartományhoz használja",
+		"notShared": "Jelenleg ez a jelszó senkivel sincs megosztva.",
+		"visiblity": {
+			"title": "Legyen a jelszó:"
+		},
+		"unshare": "Megosztás megszüntetése",
+		"waitingResponse": "válaszra várakozás"
+	},
+
+	"sharing": {
+		"title": "A(z) <span class='primary'>%{name}</span> jelszó megosztása",
+		"accessGiven": "A jelszó a következővel lett megosztva:"
+	},
+
+	"verifyEmail": {
+		"title": "Még nem erősítette meg e-mail címét",
+		"subtitle": "A jelszók megosztásához először erősítse meg e-mail címét.",
+		"desc": "Nem találja az általunk küldött megerősítő e-mailt? Igényeljen újat.",
+		"cta": "Megerősítő e-mail újraküldése"
+	},
+
+	"premiumOnly": {
+		"title": "Csak a Prémium verzió felhasználói részére érhető el",
+		"txt1": "A True Key-fiókhoz csak akkor vehet fel új jelszót, ha Prémium fiókkal rendelkezik.",
+		"txt1": "A Prémium verzióra való frissítés előtt maximum 5 jelszót használhat. Frissítsen a fizetős verzióra, hogy bármennyi jelszót használhasson!"
+	},
+
+	"generator": {
+		"title": "Generáljon erős jelszót útközben.",
+		"subtitle": "Válassza ki a megfelelő beállításokat, majd érintse meg a „Generálás és másolás” gombot az új jelszó létrehozásához.",
+		"placeholder": "A gombra kattintva hozhat jelszót létre",
+		"cta": "Generálás és másolás",
+		"length": "Jelszó hossza",
+
+		"letters": "Betűk használata",
+		"digits": "Számok használata",
+		"symbols": "Különleges karakterek használata",
+		"capitals": "Nagybetűk használata",
+		"showInForms": "Generátor automatikus megjelenítése az űrlapokon",
+
+		"history": {
+			"title": "Generált jelszavak",
+			"noGeneratedPassword": "Nincs generált jelszó."
+		}
+	},
+
+	"legacy": {
+		"title": "Hagyatékszéf",
+		"countingOnYou": "Az Önre számító emberek",
+		"heirs": "Emberek, akikre Ön számít",
+		"sentTimer": "Ennyi idővel ezelőtt: %{time}",
+		"resendInvitation": "Meghívó újraküldése",
+		"assignTrustees": "Megbízottak hozzárendelése",
+
+		"txtFeature": {
+			"txt1": "Gondoskodjon digitális személyes adatainak biztonságáról most és halála után is.",
+			"txt2": "A Hagyatékszéf segítségével azokra hagyhatja digitális adatait, akikben megbízik: házastársára, gyermekére, egy barátra vagy munkatársra.",
+			"txt3": "Ha True Key-profiljához hozzárendel egy meghatalmazottat, a meghatalmazott csak akkor férhet hozzá adataihoz, ha eljött annak az ideje. %{htmlBefore}Videó megtekintése%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "Meg kell erősítenie az e-mail címet",
+		"descLegacy": "Az e-mail cím megerősítése nélkül nem adhat meg meghatalmazottakat",
+		"getNewEmail": "Nem biztos benne, hogy még megvan a megerősítő e-mail, amelyet korábban küldtünk Önnek? Igényeljen újat.",
+		"cta": "Új megerősítő e-mailt kérek"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Bejelentkezési adatok",
+		"wallet": "Tárca",
+		"notes": "Biztonságos jegyzetek",
+		"legacy": "Hagyatékszéf",
+		"generator": "Jelszógenerátor",
+		"settings": "Beállítások",
+		"preferences": "Beállítások",
+		"support": "Súgó és támogatás",
+		"tkProfile": "Saját True Key-profil",
+		"logout": "Kijelentkezés"
+	},
+
+	"browserNewTab": {
+		"title": "Böngésző új lapja",
+		"txt1": "Állítsa be, hogy melyik weblap legyen a böngésző kezdőlapja:",
+		"startpage": "Saját True Key Launchpad",
+		"default": "Böngészőmben az alapértelmezett",
+		"custom": "Saját magam által választott oldal:"
+	},
+
+	"changeMP": {
+		"title": "Fő jelszó módosítása",
+		"labels": {
+			"current": "Aktuális fő jelszó",
+			"new": "Új fő jelszó",
+			"confirmNew": "Új fő jelszó"
+		},
+		"placeholders": {
+			"current": "Adja meg az aktuális fő jelszót",
+			"new": "Adja meg az új fő jelszót",
+			"confirmNew": "Írja be újra az új fő jelszót"
+		},
+		"cta": "Jelszó módosítása"
+	},
+
+	"lockUnlock": {
+		"title": "Az Ön kezében van az irányítás",
+		"desc": "A True Key alkalmazást tetszés szerinti számú tényezővel szabhatja testre. További tényezők hozzáadásával még erősebbé teheti profilját.",
+
+		"noYap": {
+			"title": "Adja meg, hogy a True Key-fiókot milyen gyakran zárolja automatikusan a program.",
+			"desc": "A legördülő menüből válassza ki a megfelelő időtartamot."
+		},
+
+		"basic": "Alapvető",
+		"advanced": "Speciális",
+
+		"autolock": {
+			"title": "Automatikus zárolás",
+			"desc": "Milyen időtartamú inaktivitás után szeretné zárolni a True Key-fiókot?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Launchpad láthatósága",
+			"desc": "Adja meg, hogy a True Key Launchpad látható legyen-e vagy sem."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "Az Ön által használt készülék nem megbízható.",
+			"txt2": "Ha megbízhatónak minősít egy készüléket, további biztonsági tényezőket (például az arcalapú feloldást) is felvehet."
+		}
+	},
+
+	"preferences": {
+		"title": "Beállítások",
+		"modals": {
+			"autologin": {
+				"title": "Gyors bejelentkezés",
+				"desc": "Használja a gyors bejelentkezés funkciót a webhelyekre való gyorsabb belépéshez. A True Key alkalmazás kitölti a felhasználónevet és a jelszót Ön helyett.",
+				"txt1": "A gyors bejelentkezés funkció segítségével a True Key automatikusan belépteti Önt a fiókban korábban mentett webhelyekre, amint a böngészőbe beírja az URL-t (például: www.example.com).",
+				"txt2": "Ha engedélyezte a gyors bejelentkezés funkciót, a True Key észleli a webhely URL-címét, és automatikusan belépteti Önt anélkül, hogy további kattintgatásra lenne szüksége.",
+				"txt3": "Ha kikapcsolta az Instant Log in funkciót, a True Key észleli a webhely URL-címét, és kitölti a felhasználónevet és a jelszót, de a bejelentkezéshez Önnek a Bejelentkezés gombra kell kattintania."
+			},
+			"clearAutologin": {
+				"title": "Az automatikus mentés visszaállítása az összes webhelyen",
+				"desc": "Ha bizonyos webhelyekre vonatkozóan azt kéri, hogy a True Key ne emlékezzen a jelszóra, de később meggondolja magát, kattintson a Visszaállítás gombra, hogy a True Key automatikusan mentse a jelszókat böngészés közben."
+			}
+		},
+		"import": {
+			"title": "Jelenleg egy másik szolgáltatás segítségével menti jelszavait? Vegye fel azokat a True Key-fiókba.",
+			"desc": "A jelszóimportáló segítségével gyorsan felveheti a jelszókat a True Key-fiókba.",
+			"cta": "Jelszavak importálása"
+		},
+		"newTab": "Böngésző kezdőlapja és új lapja",
+		"restoreAutosave": "Az automatikus mentés visszaállítása az összes webhelyen",
+		"restore": "Visszaállítás",
+		"instantLogin": "Gyors bejelentkezés",
+		"changeLanguage": "Nyelv módosítása"
+	},
+
+	"shareSocial": {
+		"title": "Népszerűsítés",
+		"title2": "Ossza meg véleményét",
+		"desc": "Élvezi a True Key alkalmazás használatát? Ossza meg barátaival véleményét, és megjutalmazzuk.",
+		"share": "Megosztás",
+		"tweet": "Tweet",
+		"rateChrome": "Alkalmazás értékelése",
+		"twitterMessage": "Legyen Ön az első, aki nem használ jelszókat. Rendelje meg előre a #TrueKey by @IntelSecurity terméket, hogy mielőbb használatba vehesse."
+	},
+
+	"settingsNav": {
+		"profile": "Saját True Key-profil",
+		"lockUnlock": "Zárolási beállítások",
+		"windowsLock": "Windows arcalapú feloldás",
+		"preferences": "Beállítások",
+		"support": "Súgó és támogatás",
+		"shareSocial": "Népszerűsítés",
+		"trustedDevices": "Megbízható készülék"
+	},
+
+	"tkProfile": {
+		"title": "Saját tényezők",
+		"hi": "Üdvözöljük, %{fullname}!",
+		"txt1": "Minél több tényezőt vesz fel, %{htmlBefore}annál erősebb lesz True Key-profilja.%{htmlAfter}",
+		"activeFactors": "Aktív tényezők",
+		"active": "Aktív",
+		"strength": "Profil erőssége",
+
+		"accountStatus": {
+			"title": "Előfizetési állapot",
+			"premium": "Prémium",
+			"ends": "Lejár"
+		},
+
+		"layerEmail": "Vegye fel e-mail címét megbízható tényezőként, és kapcsolja össze True Key-profiljával. <strong>E-mailben értesítjük, ha új vagy nem megbízható készülékre jelentkezik be.</strong>",
+		"layerSwipe": "Küldjön értesítést mobilkészülékére <strong>a különböző fiókokba való belépés még biztonságosabbá tétele érdekében</strong>. Jóvá kell hagynia az értesítést, mielőtt a True Key beléptetné Önt.",
+		"layerFace": {
+			"txt1": "<strong>Lépjen be a jelszó beírása nélkül.</strong> Az arcalapú feloldás az arc egyedi méretei – például a szem és az orr közötti távolság – alapján azonosítja és lépteti be Önt.",
+			"txt2": "Az arcalapú feloldás számítógépeken és Android készülékekhez érhető el."
+		},
+		"layerPassword": "Profiljának védelméről egy erős fő jelszóval gondoskodjon, amelyet nem szabad elfelejtenie. <strong>A fő jelszót nem tudjuk visszaállítani, ha elfelejti azt, mivel csak Ön ismeri.</strong> Ha további tényezőkkel is rendelkezik, a fő jelszót csak akkor kell használnia, ha nem tud a többi tényezővel bejelentkezni.",
+		"layerDevice" : "A True Key felismeri az Ön tulajdonában levő és az Ön által gyakran használt készülékeket. Vegye fel azokat a készülékeket, amelyekkel True Key-profilját használja. <strong>Ezzel megakadályozhatja, hogy más hozzáférjen az Ön fiókjához</strong>, mivel ismeretlen készülékről való belépéskor további tényezők megadását is kérjük."
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Mennyire legyen biztonságos a Windows zárolásának feloldása?",
+		"desc": "Válassza ki a kívánt biztonsági szintet.",
+
+		"basic": {
+			"settingName": "Alapvető",
+			"title": "Az Alapvető beállítással a leggyorsabban jelentkezhet be",
+			"desc": "Javasoljuk, hogy ezt a beállítást használja, ha megbízható környezetben saját számítógépét használja."
+		},
+		"advanced": {
+			"settingName": "Speciális",
+			"title": "A Speciális beállítással aktiválja a hamisítást megelőző funkciót.",
+			"desc": "Javasoljuk, hogy ezt a beállítást használja, ha munkahelyén vagy otthon saját számítógépét vagy másokkal megosztott számítógépet használ."
+		},
+		"boosted": {
+			"settingName": "Kiemelt",
+			"title": "A Kiemelt beállítással aktiválja a hamisítást megelőző és az élő észlelés funkciót",
+			"desc": "Ha a Kiemelt beállítást választja, az alkalmazás az azonosításkor arra kéri Önt, hogy pislogjon. Javasoljuk, hogy ezt a beállítást használja, ha mások által használt számítógépet nem megbízható környezetben használ."
+		},
+		"howTo": {
+			"title": "Bejelentkezés az arc használatával a Windows-ba",
+			"subtitle": "Unja, hogy mindig meg kell adnia a Windows-jelszót?",
+			"desc": "A True Key segítségével feloldhatja készülékének zárolását. Gyors és egyszerű.",
+			"cta": "További tudnivalók az aktiválással kapcsolatosan"
+		},
+		"howToModal": {
+			"title": "Bejelentkezés az arc használatával a Windows-ba",
+			"desc": "A következő egyszerű lépéseket végrehajtva engedélyezheti, hogy arcával is bejelentkezhessen a Windows-ba:",
+			"step1": "Zárolja a képernyőt (Windows + L)",
+			"step2": "Kattintson a Vissza gombra",
+			"step3": "Kattintson a True Key ikonra",
+			"tip": "A képernyőt a Windows+L billentyűkombinációval zárolhatja"
+		}
+	},
+
+	"videos": {
+		"title": "Videók",
+		"intro": {
+			"title": "A bevezetés",
+			"desc": "Mi az a True Key, és miért van rá szükségem? Itt megtudhatja!"
+		},
+		"gettingStarted": {
+			"title": "Első lépések bemutató",
+			"desc": "Új felhasználó? Hozza ki a legtöbbet a True Key alkalmazásból a rövid termékbemutató alapján."
+		},
+		"security": {
+			"title": "Biztonság",
+			"desc": "Az Ön biztonsága elsődleges számunkra. Bemutatjuk, hogy hogyan gondoskodunk adatainak biztonságáról."
+		},
+		"sharing": {
+			"title": "Jelszó megosztása",
+			"desc": "Végre! Bárki által igénybe vehető titkosított megosztás!"
+		},
+		"sharingSecurity": {
+			"title": "A megosztás biztonsága",
+			"desc": "Titkosított megosztás – az egyszerű használatot egy rendkívül bonyolult megoldás teszi lehetővé."
+		},
+		"legacy": {
+			"title": "Korábbi",
+			"desc": "Az egyetlen jelszókezelő eszköz, amely egész élete során gondoskodik adatainak védelméről – és azután is."
+		}
+	},
+
+	"support": {
+		"title": "Súgó és támogatás",
+		"feedback": {
+			"title": "Mondja el véleményét",
+			"desc": "Mennyire elégedett a True Key szolgáltatással?",
+			"needsWork": "Még kell rajta dolgozni",
+			"awesome": "Nagyszerű",
+			"leaveComment": "Megjegyzés írása:",
+			"placeholder": "Visszajelzését nagyra értékeljük. Ide írja észrevételeit. Előre is köszönjük!",
+			"thankYou": "Köszönjük!"
+		},
+		"getMoreSupport": "További támogatás kérése"
+	},
+
+	"wallet": {
+		"title": "Tárca",
+		"add": {
+			"subtitle1": "Tárolja adatait biztonságosan",
+			"subtitle2": "Válasszon alább kategóriát, és vegye fel az első tárcaelemet"
+		},
+		"search": "Keresés a tárcában",
+		"types": {
+			"identity": "Címjegyzék",
+			"cc": "Hitelkártya",
+			"drivers": "Jogosítvány",
+			"membership": "Tagságok",
+			"passport": "Útlevél",
+			"ssn": "TAJ-szám"
+		},
+		"remove": {
+			"title": "Dokumentum eltávolítása",
+			"confirm": "Biztos, hogy eltávolítja a dokumentumot a True Key profilból?",
+			"permanent": "Ez a művelet nem vonható vissza."
+		},
+		"edit": {
+			"title": "Dokumentum szerkesztése"
+		}
+	},
+
+	"notes": {
+		"title": "Biztonságos jegyzetek",
+		"add": {
+			"title": "Megjegyzés hozzáadása"
+		},
+		"empty": {
+			"title": "Nem található",
+			"desc": "Előfordulhat, hogy a keresett jegyzetet nem mentette a True Key segítségével.",
+			"cta": "Jegyzet létrehozása"
+		},
+		"sort": {
+			"alphabetically": "Betűrendben",
+			"dateCreated": "Létrehozás dátuma"
+		},
+		"search": "Keresés %{smart_count} biztonságos jegyzetben |||| Keresés %{smart_count} biztonságos jegyzetben",
+		"remove": {
+			"title": "Jegyzet eltávolítása",
+			"desc": "Biztos, hogy eltávolítja ezt a jegyzetet a True Key alkalmazásból?",
+			"permanent": "Ez a művelet nem vonható vissza."
+		},
+		"edit": {
+			"title": "Biztonságos jegyzet"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Standard bejelentkezés használata"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) örökösként szeretné Önt kijelölni."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) megosztotta Önnel %{htmlBefore}%{title}%{htmlAfter} jelszavát."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email} meg szeretne Önnel osztani egy jelszót."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Fiók állapota:",
+		"pctProgress": "%{percentage}%",
+		"addLogin": {
+			"title": "Első bejelentkezési adatok hozzáadása",
+			"desc": "Bejelentkezési adatok mentése a True Key alkalmazásba"
+		},
+		"oneClick": {
+			"title": "A gyors bejelentkezés kipróbálása",
+			"desc": "Jelentkezzen be a billentyűzet használata nélkül."
+		},
+		"addFace": {
+			"title": "Arcalapú feloldás hozzáadása",
+			"desc": "Gyorsabbá és egyszerűbbé teszi a bejelentkezést."
+		},
+		"addLogins": {
+			"title": "Az első négy bejelentkezés hozzáadása",
+			"desc": "További bejelentkezési adatok hozzáadása a True Key-profilhoz"
+		},
+		"sharing": {
+			"title": "Jelszó megosztása",
+			"desc": "Biztonságosan megoszthatja családtagjaival, ismerőseivel és munkatársaival"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "A gyorsabb bejelentkezéshez használja saját arcát.",
+		"txt1": "Az egyszerű és gyors hozzáférés érdekében állítsa be az arcalapú feloldás szolgáltatást a True Key™ alkalmazáshoz.",
+		"txt2": "Társíthatja a fő jelszóval is egyszerűen használható, második tényezőként.",
+		"txt3": "Ne aggódjon. Fényképét nem tároljuk és nem osztjuk meg senkivel.",
+		"cta": "Arcalapú feloldás beállítása"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Megbízható készülék hozzáadása",
+		"txt1": "A megerősítéshez ellenőrizze üzeneteit.",
+		"txt2": "A folytatáshoz ellenőrizze a beérkező üzeneteket."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Megbízható készülék kiválasztása",
+		"txt": "Kéttényezős hitelesítést aktivált. Ha szeretne ilyen értesítést kapni, jelöljön ki egy megbízható készüléket."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Megbízható készülék letiltása",
+		"txt": "Úgy döntött, hogy letiltja a következő készüléket: „%{deviceName}”",
+		"confirm": "Letiltás"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "Az Ön által használt készülék nem megbízható.",
+		"txt": "Ha megbízhatónak minősít egy készüléket, további biztonsági tényezőket (például az arcalapú feloldást) is felvehet."
+	},
+
+	"overlayInstallExe": {
+		"title": "Majdnem kész. Már csak három lépés van hátra",
+		"txt": "Éppen letölti a True Key szoftvert. Nem megy? ",
+		"restartDownload": "Kattintson ide a letöltés elindításához."
+	},
+
+	"overlayOobPending": {
+		"txt": "Leküldéses értesítést küldtünk a bejelentkezési adatok megerősítéséhez. Ellenőrizze megbízható készülékét.",
+		"btResend": "Értesítés újraküldése"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "A leküldéses értesítés lejárt.",
+		"txt2": "Próbálkozzon újra új értesítéssel.",
+		"btResend": "Nem kapta meg az értesítést? Újraküldés"
+	},
+
+	"overlayInstallFace": {
+		"title": "Gyorsabb bejelentkezés",
+		"txt": "Takarítson meg időt. A fő jelszó beírása helyett használja az arcalapú feloldás funkciót."
+	},
+
+	"overlayTrustDevice": {
+		"title": "Ez egy megbízható készülék?",
+		"txt1": "Úgy tűnik, hogy nem megbízható készülékre próbál bejelentkezni.",
+		"txt2": "Ha felveszi ezt a számítógépet a megbízható készülékek közé, gyorsabban tud bejelentkezni egy vagy két tényezővel.",
+		"dontTrust": "Nem, nem megbízható",
+		"trustComputer": "Számítógép megbízhatónak minősítése"
+	},
+
+	"overlayEmailPending": {
+		"title": "Erősítse meg e-mail címét",
+		"txt": "A készülék megerősítéséhez ellenőrizze üzeneteit.",
+		"btResend": "E-mail újraküldése"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Az e-mailben küldött értesítés sajnos lejárt.",
+		"txt2": "Próbálkozzon újra új értesítéssel.",
+		"btResend": "Nem kapta meg az értesítést? Újraküldés"
+	},
+
+	"overlayUpdate": {
+		"title": "Frissítse a True Key alkalmazást",
+		"txt": "Az új verzió már telepíthető. A telepítéshez kattintson a Frissítés gombra.",
+		"btUpdate": "Frissítés"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Fő jelszó megadása",
+			"enterMasterPasswordHere": "Itt adja meg a fő jelszót",
+			"invalidPassword": "Érvénytelen jelszó"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Megerősítés szükséges"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Automatikus zárolás",
+		"text": "Mikor szeretné zárolni a True Key alkalmazást?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Launchpad láthatósága",
+		"text": "Döntse el, hogy kedvenc webhelyei rejtve vagy láthatók legyenek, ha zárolva van a Launchpad.",
+		"visible": "<span class='bold'>Látható:</span> A Launchpad még zárolt állapotban is látható legyen.",
+		"invisible": "<span class='bold'>Rejtett:</span> A Launchpad legyen rejtve, ha zárolva van."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Megbízható készülék",
+			"helpText": "A még nagyobb biztonság érdekében készülékét kösse össze True Key-profiljával.",
+			"enroll": "Készülék megbízhatónak minősítése"
+		},
+		"masterPassword": {
+			"title": "Fő jelszó",
+			"helpText": "True Key-profiljához hozzon létre erős fő jelszót. Mivel ezt mi nem jegyezzük meg, Önnek kell emlékeznie rá."
+		},
+		"email": {
+			"title": "Megbízható e-mail",
+			"helpText": "Az összes funkció engedélyezéséhez erősítse meg e-mail címét. A még nagyobb biztonság érdekében e-mail címét használhatja második tényezőként.",
+			"enroll": "Megerősítő e-mail küldése"
+		},
+		"face": {
+			"title": "Arcalapú feloldás",
+			"helpText": "A True Key arcalapú feloldás funkciója az Ön egyedi arcszerkezete alapján ellenőrzi, hogy valóban Ön-e az. Az arcalapú feloldást használhatja elsődleges bejelentkezési módként, de akár másodlagos biztonsági tényezőként is.",
+			"enroll": "Hozzáadás"
+		},
+		"mobile": {
+			"title": "Feloldás pöccintéssel (csak Android esetén)",
+			"helpText": "A feloldás pöccintéssel funkció segítségével második tényezőként leküldéses értesítést küld mobiltelefonjára. Ehhez húzza el az értesítést a számítógépprofil zárolásának feloldásához. Ez használható a fő jelszó helyett vagy azzal együtt is a nagyobb biztonság érdekében.",
+			"enroll": "Telefon hozzáadása"
+		},
+		"fingerprint": {
+			"title": "Feloldás érintéssel",
+			"helpText": "A még nagyobb biztonság érdekében egyedi ujjlenyomata segítségével is beléphet biztonságosan True Key-profiljába. Ez a funkció hamarosan elérhető lesz."
+		}
+	},
+
+	"killswitch": {
+		"title": "Kötelező frissítés",
+		"chrome": {
+			"txt1": "A True Key-bővítmény ezen verzióját a McAfee már nem támogatja.  A Chrome automatikusan frissítette a legújabb verzióra.",
+			"txt2": "Indítsa újra a böngészőt."
+		},
+		"ie": {
+			"txt1": "A True Key ezen verzióját a McAfee már nem támogatja. A legújabb verzióra való frissítéshez kattintson az alábbi gombra",
+			"cta": "Frissítés"
+		},
+		"downloading": "A True Key ezen verzióját a McAfee már nem támogatja. A frissített verziót éppen most tölti le. A letöltés néhány perc múlva befejeződik…"
+	},
+
+	"downloadExe": {
+		"title": "Jó választás",
+		"txt1": "Az arcalapú feloldás funkciónak köszönhetően nem kell többé a fő jelszó beírásával vesződnie. A telepítő letöltéséhez kattintson az alábbi hivatkozásra."
+	},
+
+	"enableIE": {
+		"appInstalled": "Alkalmazás telepítve",
+		"enableIt": "Engedélyezze a böngészőben",
+		"cta": "Az engedélyezés után kattintson az alábbi gombra",
+		"title": "Egy utolsó lépés",
+		"txt1": "Kattintson alább az „Engedélyezés” lehetőségre, hogy megkezdhesse a True Key alkalmazás használatát. Csak egyszer kell ezt végrehajtania.",
+		"txt2": "Ha ezzel készen van, %{htmlBefore}kattintson ide%{htmlAfter}.",
+		"appInstalled" : "Alkalmazás telepítve.",
+		"enableIt" : "Engedélyezze a böngészőben.",
+		"havingTrouble" : "Probléma merült fel? Frissítse az oldalt."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "Már védelem alatt áll, mert készüléke megbízható:",
+		"trustedDevice": "Ez a megbízható készülék” („%{deviceName}”)",
+		"chooseFactors": "Válassza ki, hogy az alkalmazás zárolásának feloldásához mely további tényezőt szeretné használni:",
+		"simple": "Egyszerű",
+		"complex": "Összetett",
+		"faceUnlock": "Arcalapú feloldás",
+		"addFace": "Arc hozzáadása",
+		"addSwipe": "Feloldás pöccintéssel hozzáadása",
+		"masterPassword": "Fő jelszó",
+		"theseFactorsAreRequired": "A következő tényezők szükségesek az alkalmazás eléréséhez:",
+
+		"confirmAdvanced": {
+			"title": "Tudta?",
+			"content": "Ha a „Speciális” beállítás segítségével jelentkezik be, a készüléknek internetkapcsolatra van szüksége. Ha nem tud csatlakozni, nem férhet hozzá True Key-fiókjához.",
+			"confirm": "Sikerült"
+		}
+	},
+
+	"faq": {
+		"title": "GYIK",
+
+		"Q1": "Mi az a True Key™?",
+		"A1": "A True Key™ by Intel Security alkalmazás megváltoztatja a bejelentkezésről alkotott fogalmainkat.  A True Key alkalmazásnak köszönhetően nem kell több jelszót észben tartania, és azonnal bejelentkezhet alkalmazásaiba, az egyes webhelyekre és készülékekre az olyan egyedi tényezők segítségével, mint például az arcvonások és az Ön tulajdonában levő készülékek azonosítói.  Továbbá minél több tényezőt használ, a True Key annál erősebb lesz, és így még egyszerűbben tudjuk ellenőrizni, hogy valóban Ön-e az. A True Key segítségével Ön a jelszó.  Digitális személyazonosságát még inkább kezében tarthatja, és gyorsabban, egyszerűbben és biztonságosabban navigálhat a digitális világban.",
+
+		"Q2": "Hogyan működik mindez?",
+		"A2": "Okostelefonon, táblaszámítógépen vagy számítógépen nyissa meg True Key-fiókját, és hozzon létre egy profilt, amely alapján a True Key azonosítani tudja Önt. A True Key alkalmazást támogató webhelyek automatikusan felismerik Önt, és így nem kell beírnia – sőt megjegyeznie sem – a jelszót. A True Key alkalmazást még nem támogató webhelyek a beépített jelszókezelő segítségével jegyzik meg és írják be automatikusan a felhasználónevet és jelszót Ön helyett. A True Key segítségével Ön a jelszó.  Digitális személyazonosságát még inkább kezében tarthatja, és gyorsabban, egyszerűbben és biztonságosabban navigálhat a digitális világban.",
+
+		"Q3": "Miért érdemes a True Key segítségével bejelentkezni?",
+		"A3": "A True Key egyszerűbbé teszi életét, és lehetővé teszi, hogy a digitális világ felismerje Önt. Elég egyszer bejelentkeznie a True Key alkalmazásba egyedi azonosítóival, mint például arcszerkezetével vagy ujjlenyomatával, és azonnal kinyílik az összes kapu.",
+
+		"Q4": "Lehet több személynek is saját True Key-fiókja egy közösen használt gépen?",
+		"A4": "Igen, a True Key felismeri Önt, és csak saját fiókjaiba lépteti be. Olyan egyszerű, mintha csak ki-, majd bejelentkezne.",
+
+		"Q5": "Mennyire biztonságos a True Key?",
+		"A5": "A True Key egy bárki állhat használható biztonsági termék. Adatainak titkosítása az AES-256 módszerrel történik. Ez a jelenleg elérhető legerősebb szintű titkosítási módszer. A True Key használatát még biztonságosabbá teheti további attribútumok vagy „tényezők” (mint például saját arcszerkezete vagy ujjlenyomata) hozzáadásával.",
+
+		"Q6": "Hogyan történik adataim titkosítása és visszafejtése?",
+		"A6": "A True Key az adatokat helyben, az Ön készülékén tárolja az AES-256 titkosítási módszerrel. Ez a jelenleg elérhető egyik legerősebb szintű titkosítási módszer.  Érzékeny adatai csak azután hagyhatják el a készüléket, hogy azok titkosításra kerülnek, és az ilyen adatokhoz csak Ön (és az Ön által feljogosított személyek) férhet hozzá.",
+
+		"Q7": "A True Key munkatársai hozzáférhetnek a fiókomban tárolt adatokhoz és egyéb érzékeny információimhoz?",
+		"A7": "Nem, a True Key alkalmazáshoz Ön a jelszó.  Adatainak titkosítása és visszafejtése a készüléken történik, és mindezt Ön szabályozza. A True Key az Ön egyedi tényezőivel – beleértve arcszerkezetét, ujjlenyomatát vagy fő jelszavát – titkosítja és fejti vissza az adatokat, és csak akkor, ha Önnek szüksége van rá.",
+
+		"Q8": "Hol történik adataim titkosítása és visszafejtése?",
+		"A8": "Adatainak titkosítása és visszafejtése helyben, a saját készülékén történik. A True Key kiszolgálóin kizárólag titkosított adatok tárolása történik.",
+
+		"Q9": "Adataimat a True Key kiszolgálóin tárolják?",
+		"A9": "Igen, titkosított True Key-adatait a True Key biztonságos kiszolgálóin tároljuk. Ezekhez az adatokhoz csak az Ön egyedi tényezőivel – beleértve arcszerkezetét vagy fő jelszavát – lehet hozzáférni.",
+
+		"Q10": "Használhatom a True Key arcalapú feloldás funkciót Windows rendszerű készülékeken is?",
+		"A10": "A True Key arcalapú feloldás funkciója 2015 elejétől lesz elérhető Windows rendszerű készülékekhez.",
+
+		"Q11": "Valamilyen speciális webkamerára lesz szükségem?",
+		"A11": "A True Key készülékének elülső kameráját vagy egy USB-n keresztül csatlakoztatott kamerát használ.",
+
+		"Q12": "Más is be tud jelentkezni az én képemet használva?",
+		"A12": "Nem, a True Key kifinomult, hamisítást megakadályozó technológiát alkalmaz az ilyen jellegű bejelentkezési kísérletek kiszűrésére. Az Intel Security révén jó kezekben van.",
+
+		"Q13": "Hogyan győződnek meg róla, hogy valóban én akarok bejelentkezni?",
+		"A13": "Az Intel Security révén jó kezekben van. A True Key rendkívül kifinomult algoritmusokat használ az azonosításhoz, beleértve a biometrikus azonosítókat, az arcot, az ujjlenyomatot és más attribútumokat, amelyeket Ön állít be, és amelyek egyedi módon azonosítják Önt.",
+
+		"Q14": "Hol és milyen platformon használhatom a True Key arcalapú feloldás funkcióját?",
+		"A14": "A True Key alkalmazást bármilyen népszerű készülékre letöltheti, az arcalapú bejelentkezés funkció azonban jelenleg csak Windows 8 és 8.1 operációs rendszerben, Internet Explorer 10 + 11 és Google Chrome böngészőben használható.  Az elkövetkező hónapokban más platformokon is elérhető lesz, és további hitelesítési módokat is igénybe lehet majd venni."
+	},
+
+	"privacy": {
+		"title": "Ön, az Ön adatai és a True Key",
+
+		"Q1": "Adatainak védelme az első",
+		"A1": "Az Intel Security tiszteletben tartja az Ön személyes adatait. Ha szeretné tudni, hogy az Intel Security hogyan kezeli az Ön személyes adatait, olvassa el az %{privacyBefore}Adatvédelmi közleményt%{linkAfter}.",
+
+		"Q2": "Milyen adatokat gyűjt a True Key alkalmazás?",
+		"A2": "<p>Az Ön engedélyével a True Key alkalmazás méréseket végez az Ön fényképén. Az így kapott adatokat hívjuk „arcszerkezetnek”.</p><p>Arcszerkezetének kiszámítása után töröljük a képet. Arcszerkezetének titkosítása és tárolása helyben, a saját készülékén történik.  Ezután az titkosított adatokat biztonságosan az Intel Security egyik adatközpontjában tároljuk, hogy készülékeit és webhelyeit egyszerűen és biztonságosan elérhesse.</p><p>Az Intel Security nem fér hozzá az Ön érzékeny adataihoz, amelyeket a True Key alkalmazás tárol, mivel azokat már titkosítva és csak az Ön által ismert fő jelszóval védve kapja meg az Intel Security.</p><p>Továbbá:</p><p>a True Key alkalmazás az Ön által megadott jelszókat, felhasználóneveket és tárcaelemeket is tárolja.  Ezek az elemek mind titkosításra kerülnek készülékén, és a többi készülék azután kaphatja meg ezeket, ha a titkosított adatok megérkeznek a True Key biztonságos kiszolgálóira.</p>",
+
+		"Q3": "Mi az az arcszerkezet?",
+		"A3": "Arcszerkezet alatt az arc méreteit értjük, amelyek alapján az arcalapú feloldás technológia segítségével fel tudjuk ismerni Önt.",
+
+		"Q4": "Hogyan használják fel az arcszerkezetemet?",
+		"A4": "Az Intel Security az arcalapú feloldás technológia segítségével az arcszerkezet alapján állapítja meg az Ön személyazonosságát, és végzi el Ön helyett a bejelentkezést készülékére vagy egy olyan webhelyre, amelyhez engedélyezte a True Key használatát.",
+
+		"Q5": "Hol történik az adatok tárolása?",
+		"A5": "Az arcszerkezet sablont titkosítjuk, és készülékein mentjük. A titkosított adatokat az Intel Security egyik adatközpontjában is tároljuk, hogy készülékeit szinkronizálhassa.",
+
+		"Q6": "Hogyan tudom eltávolítani az arcalapú feloldás funkciót a készülékemről?",
+		"A6": "A funkció eltávolításához vagy letiltásához tiltsa le a fiókot vagy távolítsa el a programot a készülék vagy a rendszer eltávolítási opcióival.",
+
+		"Q7": "Hogyan törölhetem arcszerkezetemet az Intel Security adatközpontjából?",
+		"A7": "Arcszerkezetének törlését a True Key %{customerSupportBefore}ügyfélszolgálatától%{linkAfter} kérheti. Miután azonosította önmagát, kérheti arcszerkezetének törlését.",
+
+		"Q8": "A True Key alkalmazás nyomon követi az általam felkeresett webhelyeket?",
+		"A8": "Ha a webhelyeket és a bejelentkezési adatokat a True Key-profilban tárolja, ezek az információk a True Key Launchpadben megjelennek.",
+
+		"Q9": "A True Key szolgáltatás egyéb célra is felhasználja az adataimat?",
+		"A9": "Nem, a True Key szolgáltatás nem fér hozzá az Ön visszafejtett adataihoz.",
+
+		"Q10": "Hol juthatok hozzá további információhoz a True Key alkalmazással kapcsolatosan?",
+		"A10": "Az arcalapú feloldás funkcióval és a True Key alkalmazással kapcsolatosan további tájékoztatásért keresse fel a True Key webhelyét (%{websiteBefore}truekey.com%{linkAfter}), vagy vegye fel a kapcsolatot a True Key %{customerSupportBefore}ügyfélszolgálatával%{linkAfter}."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Megbízható készülék hozzáadása",
+		"lastUsed": "Utoljára használva:",
+		"twoFactor": "Kéttényezős hitelesítés:",
+		"title": "Válassza ki és kezelje a megbízható készülékeket a True Key-profilhoz.",
+		"txt1": "Ön határozza meg, hogy True Key-profilja mely készülékeket tart megbízhatónak. Ezeket a készülékeket használhatja második tényezős hitelesítéshez, és megadhatja, hogy a webhelyeket és alkalmazásokat hol érhesse el. Ne feledje, hogy készüléket bármikor felvehet vagy eltávolíthat."
+	},
+
+	"startpage": {
+		"searchNoResults": "Nincs találat.",
+
+		"addFavorite": {
+			"title": "Kedvenc hozzáadása",
+			"placeholder": "Írja be a webhely nevét vagy URL-jét",
+			"titleSuggestions": "Néhány javaslat:",
+			"moreSuggestions": "További javaslatok"
+		},
+
+		"addManually": {
+			"title": "Kedvenc hozzáadása manuálisan",
+			"label": {
+				"websiteName": "Webhely neve",
+				"url": "URL"
+			},
+			"placeholders": {
+				"websiteName": "pl.: Facebook-",
+				"url": "pl.: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Kedvenc szerkesztése"
+		},
+
+		"ctaEdit": "Ezen kedvenc szerkesztése",
+
+		"search": {
+			"onTheWeb": "„%{filter}” keresése a weben",
+			"logins": "Mentett bejelentkezési adatai",
+			"placeholder": "Keresés a weben vagy a True Key Launchpad segítségével"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Kedvencek",
+			"description": "Ezek hasonlóak a könyvjelzőkhöz. Igény szerint eltávolíthatja és rendezheti őket, illetve újakat vehet fel. A Kedvencek segítségével gyorsabban elérheti a gyakran használt webhelyeket (még azokat is, amelyekhez nem mentette bejelentkezési adatait)."
+		},
+		"logins": {
+			"title": "Bejelentkezési adatok",
+			"description": "Itt találja a profilba mentett bejelentkezési adatokat. Az adatokat megtekintheti vagy módosíthatja, és újakat vehet fel, illetve mindegyikre vonatkozóan kezelheti a biztonsági beállításokat."
+		},
+		"menu": {
+			"title": "Saját menü",
+			"description": "Beállításait, biztonsági beállításait, a támogatást stb. a menüből érheti el."
+		},
+		"search": {
+			"title": "Keresés",
+			"description": "Gyorsan megkeresheti a weben vagy True Key-profiljában a szükséges információkat."
+		},
+		"profile": {
+			"title": "Profil",
+			"description": "Megtekintheti és frissítheti a profilbeállításokat. Ha üzenete érkezett, kattintson az értesítés ikonra."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Majdnem kész.",
+		"description": "Engedélyeznie kell a True Key™ bővítményt. Válassza ki az egyik vagy az összes böngészőprogramját.",
+		"activated": "A True Key™ már engedélyezve van a(z) <em>%{activatedBrowser}</em> böngészőben. <br> Engedélyezze a(z) <em>%{availableBrowser}</em> böngészőben is.",
+
+		"overlayTitle": "Engedélyezte a True Key™ szolgáltatást.",
+		"overlayText": "Ha jelszó beírása nélkül, gyorsan szeretne kedvenc webhelyeire bejelentkezni, <strong>engedélyezze a True Key alkalmazást</strong>.",
+		"errorNoBrowserSelected": "A True Key engedélyezéséhez válasszon ki legalább egy böngészőt"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "A True Key™ by Intel Security alkalmazás bemutatása",
+			"subtitle": "Fedezze fel a digitális világot anélkül, hogy sok jelszóval kellene vesződnie",
+			"description": "A csak Önre jellemző tényezők használatával a True Key™ alkalmazás alapjaiban megváltoztatja, hogy a felhasználók hogyan jelentkezhetnek be biztonságosan és gyorsan kedvenc webhelyeikre, alkalmazásaikba és készülékeikre."
+		},
+		"sync": {
+			"subtitle": "Nyugodtan böngésszen, miközben telefonja, táblaszámítógépe és számítógépe automatikusan szinkronizálja az adatokat",
+			"description": "A True Key alkalmazás biztonságosan szinkronizálja telefonját, táblaszámítógépét és számítógépét, hogy információi mindig kéznél legyenek."
+		},
+		"encrypted": {
+			"subtitle": "Adatait tárolja biztonságosan és titkosítva az adatvédelemről is gondoskodva",
+			"description": "Adatainak tárolása helyben, a saját készülékén történik, és azok csak titkosítva hagyhatják el készülékét. Adataihoz kizárólag Ön tud hozzáférni."
+		},
+		"unique": {
+			"subtitle": "Tegye profilját egyedivé, hogy csak Önre legyen jellemző",
+			"description": "A True Key alkalmazással Ön a jelszó. Minél több tényezőt alkalmaz, annál erősebb lesz True Key-profilja: a digitális világ így biztos lehet abban, hogy valóban Ön az."
+		},
+		"skipTour": "Bemutató kihagyása",
+		"iGetIt": "Rendben.",
+		"getStarted": "Kezdjük el"
+	},
+
+	"slideshow2": {
+		"meetTK": "A True Key by Intel Security alkalmazás bemutatása",
+		"multiple_passwords": {
+			"title": "Nem kell többé a jelszókkal vesződnie",
+			"desc": "A True Key alkalmazás Ön helyett is megjegyzi a jelszókat."
+		},
+		"sync": {
+			"title": "Jelszók szinkronizálása az összes készüléken",
+			"desc": "Telepítse a True Key alkalmazást minden készülékére, hogy jelszavai kéznél legyenek."
+		},
+		"encrypted": {
+			"title": "Jelszavai legyenek biztonságban és titkosítva",
+			"desc": "A True Key alkalmazás az Ön készülékén titkosítja a jelszókat, hogy azokhoz csak Ön férhessen hozzá."
+		}
+	},
+
+	"enable": {
+		"lastStep": "Egy utolsó lépés",
+		"clickEnable": "Kattintson alább az „Engedélyezés” lehetőségre, hogy megkezdhesse a True Key alkalmazás használatát. Csak egyszer kell ezt végrehajtania.",
+		"clickDone": "Ha ezzel készen van, %{htmlBefore}kattintson ide%{htmlAfter}"
+	},
+
+	"activation": {
+		"title": "A True Key™ engedélyezése",
+		"txtEnable": "Ha jelszó beírása nélkül, gyorsan szeretne kedvenc<br>webhelyeire bejelentkezni, <strong>engedélyezze a True Key bővítményt</strong>.",
+		"txtInstall": "Ha jelszó beírása nélkül, gyorsan szeretne kedvenc<br>webhelyeire bejelentkezni, <strong>telepítse a True Key bővítményt</strong>.",
+		"txtRestart": "A True Key<br> bővítmény telepítéséhez újra kell indítania a böngészőprogramot."
+	},
+
+	"loginSuccess": {
+		"title": "Üdvözöljük ismét",
+		"text": "Keresse meg a True Key ikont a böngésző következő indításakor."
+	},
+
+	"signupSuccess": {
+		"text": "Profilja elkészült.<br>Keresse meg a True Key ikont a böngésző következő indításakor."
+	}
+}

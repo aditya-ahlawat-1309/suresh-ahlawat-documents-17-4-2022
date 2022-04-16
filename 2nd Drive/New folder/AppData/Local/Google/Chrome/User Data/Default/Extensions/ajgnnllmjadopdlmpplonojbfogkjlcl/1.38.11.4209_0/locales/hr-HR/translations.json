@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Postavi",
+		"add": "Dodaj",
+		"addNew": "Dodaj novo",
+		"addManually": "Dodati ručno",
+		"cancel": "Odustani",
+		"back": "Natrag",
+		"save": "Spremi",
+		"saving": "Spremanje...",
+		"saved": "Spremljeno!",
+		"upgrade": "Nadogradi",
+		"noThanks": "Ne, hvala",
+		"from": "Pošiljatelj %{name}",
+		"remove": "Ukloni",
+		"removing": "Uklanjanje...",
+		"disabling": "Onemogućivanje...",
+		"delete": "Izbriši",
+		"warningPermanent": "Ova se radnja ne može poništiti.",
+		"confirmProceed": "Jeste li sigurni da želite nastaviti?",
+		"parameters": "Parametri",
+		"details": "Pojedinosti",
+		"sharing": "Dijeljenje",
+		"advancedSettings": "Napredno",
+		"validating": "Provjera valjanosti...",
+		"tryAgain": "Pokušajte ponovno",
+		"sending": "Slanje...",
+		"send": "Pošalji",
+		"sent": "Poslano!",
+		"waitingResponse": "Čeka se odgovor",
+		"revoke": "Opozovi",
+		"updating": "Ažuriranje...",
+		"change": "Promijeni",
+		"changed": "Promijenjeno!",
+		"copy": "Kopiraj u međuspremnik",
+		"accept": "Prihvaćam",
+		"decline": "Odbijam",
+		"privacyNotice": "Obavijest o privatnosti",
+		"dontAskAgain": "Ne pitaj ponovo",
+		"notNow": "Ne sada",
+		"sendNotification": "Pošalji obavijest",
+		"justAMoment": "Samo trenutak...",
+		"learnMore": "Saznajte više",
+		"notYou": "To niste vi?",
+		"changeUser": "Promjena korisnika",
+		"confirm": "Potvrdi",
+		"launchSite": "Pokreni web-mjesto",
+		"unlockMyTrueKey": "Otključaj moju aplikaciju True Key",
+		"next": "Dalje",
+		"previous": "Prethodno",
+		"visible": "Vidljivo",
+		"hidden": "Skriveno",
+		"vistHelpDesk": "Posjetite našu %{htmlBefore}službu za pomoć%{htmlAfter} da biste saznali više.",
+		"addFacialRecognition": "Dodaj Otključavanje licem",
+		"comingSoon": "Uskoro",
+		"offline": "Izvanmrežno",
+		"or": "ili",
+		"and": "i",
+		"activate": "Aktiviraj",
+		"logOut": "Odjavite se",
+		"logins": "Prijave",
+		"favorites": "Favoriti",
+		"other": "Ostalo",
+		"locked": "Zaključano",
+		"unlocked": "Otključano",
+		"login": "Prijava",
+		"close": "Zatvori",
+		"closing": "Zatvaranje...",
+		"dismiss": "Odbaci",
+		"signin": "Prijava",
+		"signOut": "Odjava",
+		"manageProfile": "Upravljajte profilom",
+		"profile": "Profil",
+		"menu": "Izbornik",
+		"DD": "DD",
+		"MM": "MM",
+		"YYYY": "GGGG",
+		"visible": "Vidljiva",
+		"hidden": "Skriveno",
+		"enable": "Omogući",
+		"doNotShowAgain": "Ne prikazuj ponovno",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Kasnije",
+		"restart": "Ponovno pokreni",
+		"install": "Instaliraj",
+		"feedback": "Povratne informacije",
+		"done": "Gotovo",
+		"success": "Uspjelo",
+		"youreIn": "Uspjeli ste!",
+		"recommended": "preporučeno"
+	},
+
+	"validation": {
+		"required": "Ovo je polje obavezno",
+		"min": "{0} mora sadržavati najmanje {1} znak(ov)a"
+	},
+
+	"offline": {
+		"title": "Ups, nema internetske veze.",
+		"desc": "Niste na mreži. Ponovno se povežite s internetom i pokušajte ponovo."
+	},
+
+	"locked": {
+		"notYou": "To niste vi?",
+		"changeUser": "promjeni korisnika",
+		"cancelAuth": "Odustani od provjere autentičnosti",
+		"signIn": "Prijavite se da biste uživali u trenutačnoj prijavi",
+		"alternativeEmail": "Umjesto toga upotrijebite potvrdu e-poštom",
+		"alternativeDevice": "Umjesto toga upotrijebite pouzdan uređaj"
+	},
+
+	"time": {
+		"never": "Nikada",
+		"minutes": "%{smart_count} minuta |||| %{smart_count} minute",
+		"hours": "%{smart_count} sat |||| %{smart_count} sati",
+		"days": "%{smart_count} dan |||| %{smart_count} dani"
+	},
+
+	"labels": {
+		"email": "Adresa e-pošte",
+		"masterPassword": "Glavna lozinka",
+		"confirmMasterPassword": "Potvrda glavne lozinke",
+		"rememberMe": "Neka ostanem prijavljen(a)",
+		"websiteURL": "URL web-mjesta",
+		"username": "Korisničko ime",
+		"password": "Lozinka",
+		"mobile": "Broj mobilnog telefona",
+		"name": "Ime",
+		"title": "Naslov",
+		"details": "Pojedinosti",
+		"masterPassword": "Glavna lozinka",
+		"websiteName": "Naziv web-mjesta",
+		"notes": "Bilješke",
+		"ccType": "Vrsta kreditne kartice",
+		"cardholderName": "Ime vlasnika kartice",
+		"ccNumber": "Broj kreditne kartice",
+		"expiryDate": "Datum isteka",
+		"issueDate": "Datum izdavanja",
+		"colorpicker": "Organizirajte svoje kartice s pomoću boja",
+		"driversLicenseNumber": "Broj licence",
+		"firstName": "Ime",
+		"lastName": "Prezime",
+		"gender": "Spol",
+		"stateProvince": "Država/pokrajina",
+		"birthdate": "Datum rođenja",
+		"company": "Tvrtka",
+		"telephone": "Telefon",
+		"streetName": "Ulica",
+		"streetNumber": "Kućni broj",
+		"city": "Grad",
+		"zipcode": "Poštanski broj",
+		"memberID": "Članski ID",
+		"memberSince": "Član od",
+		"country": "Država",
+		"passportNumber": "Broj putovnice",
+		"issuingCountry": "Država izdavanja",
+		"placeOfBirth": "Mjesto rođenja",
+		"number": "Broj",
+		"male": "Muško",
+		"female": "Žensko"
+	},
+
+	"placeholders": {
+		"email": "Unesite adresu e-pošte",
+		"masterPassword": "Unesite svoju glavnu lozinku",
+		"phone": "(123)-456-7890",
+		"name": "Unesite svoje ime",
+		"title": "Ovdje unesite naslov",
+		"websiteURL": "Ovdje unesite URL",
+		"websiteName": "Ovdje unesite naziv web-mjesta",
+		"username": "Ovdje unesite korisničko ime",
+		"password": "Ovdje unesite lozinku",
+		"notes": "Ovdje unesite bilješke",
+		"cardholderName": "Unesite ime vlasnika kartice",
+		"ccNumber": "Ovdje unesite broj kreditne kartice",
+		"driversLicenseNumber": "Ovdje unesite broj licence",
+		"firstName": "Ovdje unesite ime",
+		"lastName": "Ovdje unesite prezime",
+		"stateProvince": "Ovdje unesite županiju",
+		"company": "Ovdje unesite ime tvrtke",
+		"telephone": "Ovdje unesite telefonski broj",
+		"streetName": "Ovdje unesite ulicu",
+		"streetNumber": "Ovdje unesite ulični broj",
+		"city": "Ovdje unesite grad",
+		"zipcode": "Ovdje unesite poštanski broj",
+		"memberID": "Ovdje unesite članski ID",
+		"notesDetails": "Dodajte ono što želite zapamtiti. Kombinacije zaključavanja. Kodovi proizvoda i softvera. Podsjetnici i čak i tajni recepti.",
+		"country": "Odaberite državu",
+		"passportNumber": "Ovdje unesite broj putovnice",
+		"issuingCountry": "Odaberite državu",
+		"placeOfBirth": "Odaberite državu",
+		"number": "Ovdje unesite broj"
+	},
+
+	"errors": {
+		"generic": "Došlo je do pogreške",
+		"passwordsMatch": "Lozinke se moraju podudarati",
+		"nameRequired": "Unesite svoje ime",
+		"emailInvalid": "Unesite valjanu adresu e-pošte",
+		"passwordTooShort": "Vaša lozinka mora sadržavati najmanje %{nbCharacters} znakova",
+		"usernameRequired": "Korisničko je ime obavezno"
+	},
+
+	"form": {
+		"launch": "Otvori ovo web-mjesto",
+		"passwordStrength": {
+			"veryWeak": "Vrlo slaba",
+			"weak": "Slaba",
+			"acceptable": "Prihvatljiva",
+			"strong": "Jaka",
+			"veryStrong": "Vrlo jaka"
+		},
+		"copyPassword": "Kopiraj lozinku",
+		"viewPassword": "Prikaži lozinku"
+	},
+
+	"headerMessages": {
+		"txt1": "Pozdrav %{firstName}, dobro došli u True Key Launchpad"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "Počnimo! Dodajte svoju prvu prijavu na True Key",
+		"addNewLogin": "Dodajte novu prijavu",
+		"success": "Dobro došli!"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Nemate profil za True Key?",
+			"signup": "Nabavite ga ovdje",
+			"haveAccount": "Već imate profil za True Key?",
+			"login": "Prijavite se",
+			"help": "Pomoć"
+		},
+
+		"intro": {
+			"hi": "Pozdrav.",
+			"meetTK": "Upoznajte se s aplikacijom True Key™. Jednostavniji, sigurniji način za otključavanje digitalnog svijeta. Započnite stvaranjem profila.",
+			"watchVideo": "Pogledajte videozapis",
+			"createProfile": "Započnite stvaranjem profila za True Key.",
+			"cta": "Idemo",
+			"eulaPrivacy": "Klikom na gumb u nastavku prihvaćate sporazum <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>EULA</a> i <a class='txt bold secondary btPrivacy'>Obavijest &nbsp;o privatnosti</a>."
+		},
+
+		"confirm": {
+			"title": "VAŽNO: Potvrdite glavnu lozinku",
+			"enterAgain": "Unesite svoju glavnu lozinku još jednom.",
+			"wontRemember": "Radi zaštite privatnosti i čuvanja lozinke na sigurnom, vaša se glavna lozinka nikada ne pohranjuje niti sprema. Samo je vi znate, pa je obavezno zapamtite.",
+			"promise": "Obećavate li da ćete je zapamtiti?",
+			"submit": "Da, zapamtit ću"
+		},
+		"loginHelp": {
+			"title": "Imate li problema?",
+			"txt1": "U glavnoj se lozinci razlikuju velika i mala slova i ne postoje razmaci. Kopiranje i lijepljenje neće raditi.",
+			"txt2": "Zaboravili ste svoju glavnu lozinku? Radi vaše sigurnosti, ne znamo je ni mi. Morat ćete stvoriti novi račun za True Key™.",
+			"createAccount": "Stvorite novi račun"
+		},
+
+		"login": {
+			"title": "Prijavite se na svoj profil",
+			"submit": "Prijavite se",
+			"working": "Dešifriranje podataka...",
+			"error": "To nije uspjelo"
+		},
+
+		"logout": {
+			"title": "Prije nego što krenete, budite mobilni.",
+			"desc": "Pošaljite si porukom vezu za trgovinu s besplatnim aplikacijama."
+		},
+
+		"onboarding": {
+			"skip": "Preskočite ovaj korak",
+			"skipVideo": "Shvaćam!",
+			"title": "%{firstName}, vaš je profil za True Key™ spreman. Isprobajmo ga.",
+			"desc": "Odaberite jedno od ovih popularnih web-mjesta ili dodajte novo web-mjesto da vidite kako funkcionira.",
+
+			"noWebsiteFlow": {
+				"desc": "Jednostavno možete iskoristiti najviše od aplikacije True Key:",
+				"addManually": "Dodajte svoju prvu prijavu ručno"
+			}
+		},
+
+		"emailTaken": {
+			"title": "Ova adresa e-pošte već ima profil",
+			"desc": "Želite li se prijaviti kao %{emailAddress}?"
+		},
+
+		"signup": {
+			"title": "Stvorite svoj profil za True Key™",
+			"cta": "U redu, dalje",
+			"working": "Provjera valjanosti...",
+			"success": "Izgleda dobro!"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Trenutačna prijava",
+			"desc": "S pomoću trenutačne prijave brže uđite na ovo web-mjesto. Dopustite aplikaciji True Key da ispuni korisničko ime i lozinku za vas."
+		},
+		"passwordReprompt": {
+			"title": "Zatraži glavnu lozinku",
+			"desc": "Samo vi znate svoju glavnu lozinku. Zatražite je svaki put prije prijave."
+		},
+		"subdomainOnly": {
+			"title": "Upotrebljavajte samo za ovu poddomenu",
+			"desc": "Upotrebljavajte za omogućavanje prijave samo na ovoj određenoj poddomeni."
+		},
+		"offlineHelp": {
+			"title": "Izvanmrežni način rada",
+			"desc": "Izgleda da ste izgubili internetsku vezu ili da je vaša internetska veza vrlo spora. U izvanmrežnom načinu rada možete još uvijek vidjeti svoje lozinke, ali ne možete dodavati i spremati promjene ili dijeliti lozinku."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Jezik promijenjen",
+			"desc": "Vaš trenutni jezik sada je %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Favorit dodan",
+			"desc": "Web-mjesto koje ste odabrali uspješno je dodano na Launchpad."
+		},
+		"favoriteRemoved": {
+			"title": "Favorit uklonjen",
+			"desc": "Ovaj je favorit uspješno uklonjen s Launchpada."
+		},
+		"favoriteEdited": {
+			"title": "Favorit uređen",
+			"desc": "Promjene ovog favorita uspješno su spremljene."
+		},
+		"passwordGenerated": {
+			"title": "Lozinka kopirana!",
+			"desc": "Izrađena lozinka kopirana je u međuspremnik."
+		},
+		"noteCreated": {
+			"title": "Bilješka stvorena!",
+			"desc": "Ova je bilješka dodana na vašu aplikaciju True Key."
+		},
+		"passwordSaved": {
+			"title": "Lozinka spremljena!",
+			"desc": "Ova je lozinka dodana na vašu aplikaciju True Key."
+		},
+		"loginShared": {
+			"title": "Lozinka podijeljena",
+			"desc": "Vaša je lozinka uspješno podijeljena s %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Lozinka uklonjena.",
+			"desc": "Ova je lozinka uklonjena s vaše aplikacije True Key."
+		},
+		"loginEdited": {
+			"title": "Prijava uređena.",
+			"desc": "Spremljene su promjene na ovoj prijavi."
+		},
+		"copied": {
+			"title": "Kopirano!",
+			"desc": "Ovo je kopirano u međuspremnik."
+		},
+		"passwordCopied": {
+			"title": "Lozinka kopirana!",
+			"desc": "Vaša je lozinka kopirana u međuspremnik."
+		},
+		"error": {
+			"title": "Došlo je do pogreške",
+			"desc": "Pokušajte ponovo"
+		},
+		"legacyAccepted": {
+			"title": "Poziv prihvaćen",
+			"desc": "Ovaj poziv za nasljeđe uspješno je prihvaćen."
+		},
+		"legacyDeclined": {
+			"title": "Poziv odbijen",
+			"desc": "Ovaj poziv za nasljeđe uspješno je odbijen."
+		},
+		"sharingAccepted": {
+			"title": "Poziv prihvaćen",
+			"desc": "Ovaj poziv za dijeljenje uspješno je prihvaćen."
+		},
+		"sharingDeclined": {
+			"title": "Poziv odbijen",
+			"desc": "Ovaj poziv za dijeljenje uspješno je odbijen."
+		},
+		"invitationResent": {
+			"title": "Poziv ponovo poslan!",
+			"desc": "Poziv je ponovo poslan."
+		},
+		"oobResent": {
+			"title": "Obavijest ponovo poslana!",
+			"desc": "Poslana je nova obavijest na vaš telefon."
+		},
+		"emailResent": {
+			"title": "Poruka e-pošte ponovo poslana!",
+			"desc": "Poslana vam je nova potvrda e-poštom."
+		},
+		"legacyRevoked": {
+			"title": "Opozvana je veza za nasljeđe!",
+			"desc": "Opozvana je ova veza za nasljeđe."
+		},
+		"legacySent": {
+			"title": "Zahtjev za nasljeđe poslan!",
+			"desc": "Poziv je poslan osobi: %{email}."
+		},
+		"legacySendError": {
+			"title": "Pogreška zahtjeva za nasljeđe",
+			"desc": "Poziv nije moguće poslati osobi: %{email}."
+		},
+		"browserNewTab": {
+			"title": "Postavka nove kartice preglednika spremljena!",
+			"desc": "Vaša postavka nove kartice preglednika uspješno je ažurirana."
+		},
+		"changedMP": {
+			"title": "Glavna je lozinka promijenjena!",
+			"desc": "Vaša je glavna lozinka uspješno promijenjena."
+		},
+		"clearAutosave": {
+			"title": "Automatsko spremanje vraćeno",
+			"desc": "True Key sada će automatski spremiti sve lozinke na svim web-mjestima."
+		},
+		"feedbackSent": {
+			"title": "Povratne informacije predane!",
+			"desc": "Hvala vam na povratnim informacijama."
+		},
+		"documentCreated": {
+			"title": "Dokument stvoren!",
+			"desc": "Ovaj je dokument spremljen na vašu aplikaciju True Key."
+		},
+		"documentRemoved": {
+			"title": "Dokument izbrisan",
+			"desc": "Ovaj je dokument uklonjen s vaše aplikacije True Key."
+		},
+		"notesEdit": {
+			"title": "Promjene spremljene",
+			"desc": "Spremljene su promjene na ovoj bilješki."
+		},
+		"notesRemove": {
+			"title": "Bilješka uklonjena",
+			"desc": "Ova je bilješka uklonjena s vaše aplikacije True Key."
+		},
+		"settingsChanged": {
+			"title": "Postavke promijenjene",
+			"desc": "Vaše su postavke zaključavanja ažurirane."
+		},
+		"disabledTrustedDevice": {
+			"title": "Uređaj onemogućen",
+			"desc": "Vaš je uređaj onemogućen."
+		},
+		"deviceTrusted": {
+			"title": "Uređaj pouzdan",
+			"desc": "Vaša je trenutni uređaj sada pouzdan."
+		},
+		"confirmationEmailSent": {
+			"title": "Potvrda e-poštom poslana!",
+			"desc": "Potvrda e-poštom poslana je na %{email}"
+		}
+	},
+
+	"logins": {
+		"title": "Prijave",
+		"editLogin": "Uredi prijavu",
+		"viewLogin": "Prikaži prijavu",
+		"shareLogin": "Dijeli prijavu",
+		"shareSection": {
+			"title": "Sigurno dijelite prijave s prijateljima i obitelji. <strong>Izaberite prijavu koju biste htjeli podijeliti u nastavku.</strong>"
+		},
+		"copyPassword": "Kopiraj lozinku",
+		"loginAs": "Prijavi se kao",
+		"removeLogin": "Ukloni ovu prijavu",
+		"noLoginFound": {
+			"title": "Nije ju moguće pronaći",
+			"desc": "Možda ova prijava još nije spremljena. Želite li je dodati?"
+		},
+		"currentWebsite": "Trenutno web-mjesto",
+		"onboardingPopover": {
+			"title": "Trenutačna prijava",
+			"desc": "Kliknite ovdje da biste se prijavili bez upisivanja"
+		},
+		"searchAssets": "Pretraži moju prijavu za %{smart_count} |||| Pretraži moje prijave za%{smart_count}",
+		"askForMasterPassword": "Glavna lozinka",
+		"askForFaceRecognition": "Otključavanje licem",
+		"instantLogin": "Trenutačna prijava",
+		"useForSubdomainOnly": "Upotrebljavajte samo za poddomenu <span class='primary'>%{domain}</span>",
+		"notShared": "Trenutno ne dijelite lozinku ni sa kime.",
+		"visiblity": {
+			"title": "Učini lozinku:"
+		},
+		"unshare": "Prestani dijeliti",
+		"waitingResponse": "čeka se odgovor"
+	},
+
+	"sharing": {
+		"title": "Podijelite svoju lozinku za <span class='primary'>%{name}</span>",
+		"accessGiven": "Ova se lozinka dijeli s:"
+	},
+
+	"verifyEmail": {
+		"title": "Niste potvrdili svoju adresu e-pošte",
+		"subtitle": "Da biste dijelili lozinke, prvo potvrdite svoju e-poštu.",
+		"desc": "Ne možete pronaći poruku potvrde e-pošte koju smo vam prethodno poslali? Preuzmite novu sada.",
+		"cta": "Ponovo pošalji potvrdu e-poštom"
+	},
+
+	"premiumOnly": {
+		"title": "Dostupno samo premium korisnicima",
+		"txt1": "Potreban je premium račun za dodavanje nove lozinke na aplikaciju True Key",
+		"txt1": "Imate ograničenje od 5 besplatnih lozinki prije nadogradnje. Nadogradite sada za neograničen pristup!"
+	},
+
+	"generator": {
+		"title": "Izradite jaku lozinku odmah.",
+		"subtitle": "Odaberite preferencije, a zatim dodirnite gumb „Izradi i kopiraj“ da biste izradili novu lozinku.",
+		"placeholder": "Kliknite na gumb da biste izradili novu lozinku",
+		"cta": "Izradi i kopiraj",
+		"length": "Duljina lozinke",
+
+		"letters": "Upotrijebi slova",
+		"digits": "Upotrijebi brojeve",
+		"symbols": "Upotrijebi posebne znakove",
+		"capitals": "Upotrijebi velika slova",
+		"showInForms": "Automatski prikažite generator u oblicima",
+
+		"history": {
+			"title": "Izrađene lozinke",
+			"noGeneratedPassword": "Nema izrađenih lozinki."
+		}
+	},
+
+	"legacy": {
+		"title": "Nasljedni ormarić",
+		"countingOnYou": "Osobe koje računaju na vas",
+		"heirs": "Osobe na koje vi računate",
+		"sentTimer": "prije %{time}",
+		"resendInvitation": "Ponovo pošalji poziv",
+		"assignTrustees": "Dodijelite svoje povjerenike",
+
+		"txtFeature": {
+			"txt1": "Zaštitite svoj digitalni identitet, tijekom i nakon života.",
+			"txt2": "Nasljedni ormarić najbolji je način da proslijedite svoj digitalni život onima kojima vjerujete - supružniku, djetetu, prijatelju ili kolegi.",
+			"txt3": "Kada dodijelite povjerenike za svoj True Key, oni neće dobiti pristup vašem računu prije nego što dođe vrijeme za to. %{htmlBefore}Pogledajte videozapis%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "Trebate potvrditi svoju adresu e-pošte",
+		"descLegacy": "Ne možete dodijeliti povjerenike dok vaša adresa e-pošte nije potvrđena",
+		"getNewEmail": "Niste sigurni imate li još uvijek poruku potvrde e-pošte koju smo vam prethodno poslali? Preuzmite novu sada.",
+		"cta": "Pošalji mi novu poruku potvrde e-pošte"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Prijave",
+		"wallet": "Novčanik",
+		"notes": "Zaštićene bilješke",
+		"legacy": "Nasljedni ormarić",
+		"generator": "Generator lozinke",
+		"settings": "Postavke",
+		"preferences": "Preferencije",
+		"support": "Pomoć i podrška",
+		"tkProfile": "Moj profil za True Key",
+		"logout": "Odjava"
+	},
+
+	"browserNewTab": {
+		"title": "Nova kartica preglednika",
+		"txt1": "Postavite s kojim web-mjestom želite da se vaš preglednik otvori:",
+		"startpage": "Moj True Key Launchpad",
+		"default": "Moj zadani preglednik",
+		"custom": "Moje odredište:"
+	},
+
+	"changeMP": {
+		"title": "Promijeni glavnu lozinku",
+		"labels": {
+			"current": "Trenutna glavna lozinka",
+			"new": "Nova glavna lozinka",
+			"confirmNew": "Nova glavna lozinka"
+		},
+		"placeholders": {
+			"current": "Unesite trenutnu glavnu lozinku",
+			"new": "Unesite novu glavnu lozinku",
+			"confirmNew": "Ponovo upišite novu glavnu lozinku"
+		},
+		"cta": "Promijeni lozinku"
+	},
+
+	"lockUnlock": {
+		"title": "Vi imate kontrolu",
+		"desc": "Prilagodite aplikaciju True Key s koliko god faktora želite. Dodavanje više faktora ojačat će vaš profil.",
+
+		"noYap": {
+			"title": "Recite svom računu za True Key koliko bi se često trebao automatski zaključavati.",
+			"desc": "Odaberite željeno vremensko razdoblje s padajućeg izbornika u nastavku."
+		},
+
+		"basic": "Osnovno",
+		"advanced": "Napredno",
+
+		"autolock": {
+			"title": "Automatsko zaključavanje",
+			"desc": "Nakon koliko vremena neaktivnosti biste željeli da se vaš račun za True Key zaključa?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Vidljivost za Launchpad",
+			"desc": "Odaberite želite li da Launchpad aplikacije True Key bude vidljiv kada je zaključan ili ne."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "Uređaj koji upotrebljavate pouzdan je.",
+			"txt2": "Kada uređaj smatrate pouzdanim, možete dodati više faktora zaštite poput Otključavanja licem."
+		}
+	},
+
+	"preferences": {
+		"title": "Preferencije",
+		"modals": {
+			"autologin": {
+				"title": "Trenutačna prijava",
+				"desc": "S pomoću trenutačne prijave brže uđite na web-mjesta. Dopustite aplikaciji True Key da ispuni korisničko ime i lozinku za vas.",
+				"txt1": "Trenutačna prijava omogućava aplikaciji True Key da vas automatski prijavi na web-mjesto koje ste prethodno spremili u svoj račun jednostavnim upisivanjem njegove URL adrese (npr. www.example.com) u preglednik.",
+				"txt2": "Ako je trenutačna prijava uključena, True Key će prepoznati URL adresu web-mjesta i automatski vas prijaviti - nisu potrebni dodatni klikovi mišem.",
+				"txt3": "Ako je trenutačna prijava isključena, True Key će prepoznati URL adresu web-mjesta, popuniti vaše korisničko ime i lozinku, ali morat ćete kliknuti na gumb za prijavu."
+			},
+			"clearAutologin": {
+				"title": "Vraćanje automatskog spremanja na svim web-mjestima",
+				"desc": "Ako na nekim web-mjestima zatražite od aplikacije True Key da ne zapamti vašu lozinku, a zatim se predomislite, kliknite na Vrati da biste automatski spremali lozinke tijekom pregledavanja."
+			}
+		},
+		"import": {
+			"title": "Spremate li trenutno lozinke na drugoj usluzi? Dodajte ih na račun za True Key.",
+			"desc": "Upotrijebite uvoznik lozinke da biste brzo dodali lozinke vašem računu za True Key.",
+			"cta": "Uvezi lozinke"
+		},
+		"newTab": "Početna stranica i nova kartica preglednika",
+		"restoreAutosave": "Vraćanje automatskog spremanja na svim web-mjestima",
+		"restore": "Vrati",
+		"instantLogin": "Trenutačna prijava",
+		"changeLanguage": "Promjena jezika"
+	},
+
+	"shareSocial": {
+		"title": "Proširite glas",
+		"title2": "Dijelite ljubav",
+		"desc": "Uživate li u svom iskustvu s aplikacijom True Key? Dijelite sa svojim prijateljima i osvojite nagrade.",
+		"share": "Dijeli",
+		"tweet": "Pošalji tweet",
+		"rateChrome": "Ocijeni aplikaciju",
+		"twitterMessage": "Budite jedni od prvih bez lozinki. Rezervirajte #TrueKey by @IntelSecurity za rani pristup."
+	},
+
+	"settingsNav": {
+		"profile": "Moj profil za True Key",
+		"lockUnlock": "Preferencije zaključavanja",
+		"windowsLock": "Otključavanje licem za sustav Windows",
+		"preferences": "Preference",
+		"support": "Pomoć i podrška",
+		"shareSocial": "Proširite glas",
+		"trustedDevices": "Pouzdani uređaji"
+	},
+
+	"tkProfile": {
+		"title": "Moji faktori",
+		"hi": "Pozdrav, %{fullname}",
+		"txt1": "Što više faktora dodate, %{htmlBefore}to će vaš profil za True Key biti jači.%{htmlAfter}",
+		"activeFactors": "Aktivni faktori",
+		"active": "Aktivno",
+		"strength": "Jačina profila",
+
+		"accountStatus": {
+			"title": "Status pretplate",
+			"premium": "Premium",
+			"ends": "Istječe"
+		},
+
+		"layerEmail": "Dodajte adresu e-pošte kao pouzdani faktor i povežite je sa svojim profilom za True Key. <strong>Kada se prijavljujete na novim ili nepouzdanim uređajima primit ćete obavijesti u ulazni spremnik.</strong>",
+		"layerSwipe": "<strong>Za dodatnu zaštitu pri prijavi na račune</strong> pošaljite obavijest na svoj mobilni uređaj. Prije nego što vas True Key prijavi trebat ćete prihvatiti obavijest.",
+		"layerFace": {
+			"txt1": "<strong>Prijavite se bez upisivanja lozinke.</strong> Otključavanje licem upotrebljava jedinstvene dimenzije vašeg lica – poput udaljenosti između vaših očiju i nosa – da bi vas prepoznao i propustio.",
+			"txt2": "Otključavanje licem dostupno je za korisnike računala i sustava Android."
+		},
+		"layerPassword": "Zaštitite svoj profil s pomoću snažne glavne lozinke i nemojte je zaboraviti! <strong>Vaša se glavna lozinka ne može ponovo postaviti ako je izgubite, samo je vi znate.</strong> Ako dodate dodatne faktore, vaša će se glavna lozinka upotrebljavati kao rezerva u slučaju da se ne možete prijaviti s pomoću dodatnih faktora.",
+		"layerDevice" : "True Key može prepoznati uređaje koje posjedujete ili koje često upotrebljavate. Dodajte svaki uređaj s pomoću kojeg pristupate profilu za True Key. <strong>To sprečava da druge osobe pristupe vašem računu</strong>, jer zahtijeva dodatne faktore pri pokušaju prijave s nepoznatog uređaja"
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Koliko sigurno želite da bude vaše otključavanje Windowsa?",
+		"desc": "Odaberite željenu razinu sigurnosti.",
+
+		"basic": {
+			"settingName": "Osnovno",
+			"title": "Osnovna postavka omogućuje vam da se najbrže prijavite",
+			"desc": "Ova se postavka preporučuje ako se koristite osobnim računalom u pouzdanom okruženju."
+		},
+		"advanced": {
+			"settingName": "Napredno",
+			"title": "Napredna postavka aktivira sprečavanje zavaravanja",
+			"desc": "Postavka se preporučuje za osobna i javna računala kod kuće ili na poslu."
+		},
+		"boosted": {
+			"settingName": "Pojačano",
+			"title": "Pojačana postavka aktivira sprečavanje zavaravanja i prepoznavanje uživo",
+			"desc": "Pojačana postavka zatražit će od vas da trepnete da biste dokazali da ste to vi. Ova se postavka preporučuje za javna računala u nepouzdanim okruženjima."
+		},
+		"howTo": {
+			"title": "Prijavite se u Windows s pomoću lica",
+			"subtitle": "Umorni ste od upisivanja lozinke za Windows?",
+			"desc": "Otključajte uređaj s pomoću aplikacije True Key. Brzo je i jednostavno.",
+			"cta": "Naučite aktivirati"
+		},
+		"howToModal": {
+			"title": "Prijavite se u Windows s pomoću lica",
+			"desc": "Slijedite ove jednostavne korake da biste omogućili prijavu u Windows s pomoću lica:",
+			"step1": "Zaključajte zaslon (Windows + L)",
+			"step2": "Kliknite gumb za povratak",
+			"step3": "Kliknite na ikonu aplikacije True Key",
+			"tip": "Možete zaključati zaslon s pomoću prečaca na tipkovnici Windows+L"
+		}
+	},
+
+	"videos": {
+		"title": "Videozapisi",
+		"intro": {
+			"title": "Uvod",
+			"desc": "Što je True Key i zašto vam je potreban? Saznajte ovdje!"
+		},
+		"gettingStarted": {
+			"title": "Razgledavanje za početak",
+			"desc": "Jeste li novi korisnik? Iskoristite najviše od usluge True Key s našim brzim razgledavanjem proizvoda."
+		},
+		"security": {
+			"title": "Sigurnost",
+			"desc": "Vaša nam je sigurnost na prvom mjestu. Ovako čuvamo vaše podatke sigurnima i zaštićenima."
+		},
+		"sharing": {
+			"title": "Podijeli lozinku",
+			"desc": "Konačno! Šifrirano dijeljenje kojim se svi mogu koristiti!"
+		},
+		"sharingSecurity": {
+			"title": "Sigurnost dijeljenja",
+			"desc": "Šifrirano dijeljenje - učiniti ga ovako jednostavnim za korištenje kompliciranije je nego što mislite."
+		},
+		"legacy": {
+			"title": "Nasljedstvo",
+			"desc": "Jedini alat za lozinke koji štiti vaše podatke tijekom vašeg života... i nakon toga."
+		}
+	},
+
+	"support": {
+		"title": "Pomoć i podrška",
+		"feedback": {
+			"title": "Budite u kontaktu s nama",
+			"desc": "Kako vam se sviđa usluga True Key?",
+			"needsWork": "Potrebno je poboljšanje",
+			"awesome": "Odlično",
+			"leaveComment": "Ostavite komentar:",
+			"placeholder": "Zahvalni smo na vašim povratnim informacijama. Upišite svoje komentare ovdje. Hvala vam unaprijed!",
+			"thankYou": "Hvala!"
+		},
+		"getMoreSupport": "Dobijte više podrške"
+	},
+
+	"wallet": {
+		"title": "Novčanik",
+		"add": {
+			"subtitle1": "Sigurno pohranite svoje informacije",
+			"subtitle2": "Odaberite kategoriju u nastavku da biste dodali prvu stavku za novčanik"
+		},
+		"search": "Pretražite svoj novčanik",
+		"types": {
+			"identity": "Adresar",
+			"cc": "Kreditna kartica",
+			"drivers": "Vozačka dozvola",
+			"membership": "Članstvo",
+			"passport": "Putovnica",
+			"ssn": "Osobni identifikacijski broj"
+		},
+		"remove": {
+			"title": "Uklanjanje dokumenta",
+			"confirm": "Jeste li sigurni da želite ukloniti ovaj dokument iz usluge True Key?",
+			"permanent": "Ova se radnja ne može poništiti."
+		},
+		"edit": {
+			"title": "Uredi dokument"
+		}
+	},
+
+	"notes": {
+		"title": "Zaštićene bilješke",
+		"add": {
+			"title": "Dodaj bilješku"
+		},
+		"empty": {
+			"title": "Nije pronađeno",
+			"desc": "Možda bilješka koju tražite nije spremljena na True Key.",
+			"cta": "Stvorite bilješku"
+		},
+		"sort": {
+			"alphabetically": "Abecedni red",
+			"dateCreated": "Datum stvaranja"
+		},
+		"search": "Pretraži moju %{smart_count} sigurnu bilješku |||| Pretraži moje %{smart_count} sigurne bilješke",
+		"remove": {
+			"title": "Uklanjanje bilješke",
+			"desc": "Jeste li sigurni da želite ukloniti ovu bilješku iz usluge True Key?",
+			"permanent": "Ova se radnja ne može poništiti."
+		},
+		"edit": {
+			"title": "Zaštićena bilješka"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Prijavite se na standardni način"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) želi vas dodijeliti za svog nasljednika."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) podijelio/la je svoju lozinku za %{htmlBefore}%{title}%{htmlAfter} s vama."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) žali s vama podijeliti lozinku."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Napredak računa:",
+		"pctProgress": "%{percentage} %",
+		"addLogin": {
+			"title": "Dodajte svoju prvu prijavu",
+			"desc": "Spremite prijavu na True Key"
+		},
+		"oneClick": {
+			"title": "Isprobajte trenutačnu prijavu",
+			"desc": "Prijavite se bez dodirivanja tipkovnice"
+		},
+		"addFace": {
+			"title": "Dodaj Otključavanje licem",
+			"desc": "Čini prijavljivanje bržim i jednostavnijim."
+		},
+		"addLogins": {
+			"title": "Dodajte svoje prve četiri prijave",
+			"desc": "Dodajte više prijava na svoj profil za True Key"
+		},
+		"sharing": {
+			"title": "Podijeli lozinku",
+			"desc": "Sigurno dijeli s obitelji, prijateljima i kolegama"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "S pomoću lica prijavite se brže.",
+		"txt1": "Postavite Otključavanje licem za jednostavan, trenutačan pristup aplikaciji True Key™.",
+		"txt2": "Možete je također upariti s glavnom lozinkom kao drugi faktor koji ne stvara probleme.",
+		"txt3": "Ne brinite. Nećemo pohraniti ili dijeliti vašu fotografiju.",
+		"cta": "Postavljanje Otključavanja licem"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Dodajte pouzdani uređaj",
+		"txt1": "Provjerite e-poštu da biste potvrdili.",
+		"txt2": "Provjerite ulaznu poštu da biste nastavili."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Odaberite pouzdani uređaj",
+		"txt": "Aktivirali ste provjeru autentičnosti s pomoću dva faktora. Odaberite pouzdani uređaj da biste primili obavijest."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Onemogućite pouzdani uređaj",
+		"txt": "Odlučili ste onemogućiti sljedeći uređaj: „%{deviceName}”",
+		"confirm": "Onemogući"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "Uređaj koji upotrebljavate pouzdan je.",
+		"txt": "Kada uređaj smatrate pouzdanim, možete dodati više faktora zaštite poput Otključavanja licem."
+	},
+
+	"overlayInstallExe": {
+		"title": "Uskoro ste gotovi, još samo tri koraka",
+		"txt": "Vaš softver True Key sada se preuzima. Ne radi? ",
+		"restartDownload": "Kliknite ovdje da biste ponovo započeli preuzimanje."
+	},
+
+	"overlayOobPending": {
+		"txt": "Upravo smo vam poslali automatsku obavijest za potvrdu vaše prijave. Provjerite svoj pouzdani uređaj.",
+		"btResend": "Ponovo pošalji obavijest"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "Ups, vaša je automatska obavijest istekla.",
+		"txt2": "Pokušajte ponovno s novom obavijesti",
+		"btResend": "Niste primili obavijest? Ponovo pošalji"
+	},
+
+	"overlayInstallFace": {
+		"title": "Prijavite se brže",
+		"txt": "Uštedite vrijeme. Upotrijebite Otključavanje licem umjesto upisivanja glavne lozinke."
+	},
+
+	"overlayTrustDevice": {
+		"title": "Je li ovo pouzdani uređaj?",
+		"txt1": "Čini se da se pokušavate prijaviti na nepouzdani uređaj.",
+		"txt2": "Dodavanje ovog računala na pouzdane uređaje omogućit će vam bržu prijavu s jednim ili više faktora.",
+		"dontTrust": "Ne, ne smatraj pouzdanim",
+		"trustComputer": "Smatraj ovo računalo pouzdanim"
+	},
+
+	"overlayEmailPending": {
+		"title": "Potvrdite svoju adresu e-pošte",
+		"txt": "Provjerite e-poštu da biste potvrdili ovaj uređaj.",
+		"btResend": "Ponovo pošalji e-poštu"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Ups, vaša je obavijest e-poštom istekla.",
+		"txt2": "Pokušajte ponovno s novom obavijesti.",
+		"btResend": "Niste primili obavijest? Ponovo pošalji"
+	},
+
+	"overlayUpdate": {
+		"title": "Ažurirajte svoju aplikaciju True Key",
+		"txt": "Nova je verzija spremna za instalaciju, kliknite na Ažuriranje za instalaciju.",
+		"btUpdate": "Ažuriraj sada"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Unesite svoju glavnu lozinku",
+			"enterMasterPasswordHere": "Ovdje unesite svoju glavnu lozinku",
+			"invalidPassword": "Lozinka nije valjana"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Potrebna je potvrda"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Automatsko zaključavanje",
+		"text": "Kada želite da se vaša aplikacija True Key zaključa?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Vidljivost za Launchpad",
+		"text": "Odlučite hoće li vaša omiljena web-mjesta biti skrivena ili vidljiva kada je Launchpad zaključan.",
+		"visible": "<span class='bold'>Vidljiva:</span> Prikažite Launchpad, čak i dok je zaključan.",
+		"invisible": "<span class='bold'>Skrivena:</span> Sakrijte Launchpad dok je zaključan."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Pouzdan uređaj",
+			"helpText": "Povežite svoj uređaj na profil za True Key za dodatnu razinu sigurnosti.",
+			"enroll": "Uređaj smatraj pouzdanim"
+		},
+		"masterPassword": {
+			"title": "Glavna lozinka",
+			"helpText": "Stvorite snažnu glavnu lozinku za svoj profil za True Key. Mi je nećemo zapamtiti, pa je obavezno zapamtite vi."
+		},
+		"email": {
+			"title": "Pouzdana adresa e-pošte",
+			"helpText": "Potvrdite svoju e-poštu da biste omogućili sve značajke. Možete se koristiti svojom e-poštom kao drugim faktorom za dodatnu sigurnost.",
+			"enroll": "Pošalji poruku potvrde e-pošte"
+		},
+		"face": {
+			"title": "Otključavanje licem",
+			"helpText": "Otključavanje licem aplikacije True Key koristi se jedinstvenom matematikom lica ne bi li se potvrdilo da ste to zaista vi. Koristite se Otključavanjem lica kao primarnom metodom prijave ili kao dodatnim sigurnosnim faktorom.",
+			"enroll": "Dodaj sada"
+		},
+		"mobile": {
+			"title": "Otključavanje prelaskom prsta (samo za Android)",
+			"helpText": "S pomoću otključavanja prelaskom prsta poslat ćete automatsku obavijest na svoj mobilni telefon kao drugi faktor - samo prijeđite prstom po obavijesti da biste je otključali na svom profilu na računalu. Ovo se može upotrebljavati umjesto glavne lozinke ili zajedno s njom za dodatnu sigurnost.",
+			"enroll": "Dodaj telefon"
+		},
+		"fingerprint": {
+			"title": "Otključavanje dodirom",
+			"helpText": "S pomoću svojeg jedinstvenog otiska prsta sigurno pristupite usluzi True Key za dodatnu razinu sigurnosti. Ova značajka dolazi uskoro."
+		}
+	},
+
+	"killswitch": {
+		"title": "Obavezno ažuriranje",
+		"chrome": {
+			"txt1": "Ova verzija proširenja usluge True Key više nije podržana.  Chrome vas je automatski ažurirao na najnoviju verziju.",
+			"txt2": "Ponovno pokrenite preglednik."
+		},
+		"ie": {
+			"txt1": "Ova verzija usluge True Key više nije podržana. Kliknite na gumb u nastavku da biste ažurirali na najnoviju verziju",
+			"cta": "Ažuriraj sada"
+		},
+		"downloading": "Ova verzija usluge True Key više nije podržana. Trenutno se preuzima ažurirana verzija i bit će spremna za nekoliko minuta…"
+	},
+
+	"downloadExe": {
+		"title": "Dobar izbor",
+		"txt1": "Ako upotrebljavate Otključavanje licem ne trebate upisivati glavnu lozinku. Kliknite u nastavku da biste preuzeli program za instalaciju."
+	},
+
+	"enableIE": {
+		"appInstalled": "Instalirana aplikacija",
+		"enableIt": "Omogućite je sada u svom pregledniku",
+		"cta": "Kliknite nakon uključivanja",
+		"title": "Posljednji korak",
+		"txt1": "Kliknite „Omogući\" u nastavku da biste započeli s upotrebom aplikacije True Key. Ovo ćete morati napraviti samo jednom.",
+		"txt2": "Kada to napravite, %{htmlBefore}kliknite ovdje%{htmlAfter}.",
+		"appInstalled" : "Aplikacija je instalirana.",
+		"enableIt" : "Omogućite je sada u svom pregledniku.",
+		"havingTrouble" : "Imate problema? Osvježite ovu stranicu."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "Već ste zaštićeni zbog toga što se nalazite na pouzdanom uređaju:",
+		"trustedDevice": "Ovaj pouzdani uređaj („%{deviceName}”)",
+		"chooseFactors": "Odaberite koji dodatni faktor želite otključati na svojoj aplikaciji:",
+		"simple": "Jednostavan",
+		"complex": "Složen",
+		"faceUnlock": "Otključavanje licem",
+		"addFace": "Dodaj lice",
+		"addSwipe": "Dodaj otključavanje prelaskom prsta",
+		"masterPassword": "Glavna lozinka",
+		"theseFactorsAreRequired": "Ovi su faktori također potrebni za pristup aplikaciji:",
+
+		"confirmAdvanced": {
+			"title": "Samo da znate",
+			"content": "Kada se prijavljujete s pomoću „naprednih” postavki, vaš uređaj mora biti povezan na internet. Ako se ne možete povezati, nećete moći pristupiti svom profilu za True Key.",
+			"confirm": "Shvaćam"
+		}
+	},
+
+	"faq": {
+		"title": "Često postavljana pitanja",
+
+		"Q1": "Što je True Key™?",
+		"A1": "True Key™ by Intel Security mijenja način na koji se cijeli svijet prijavljuje.  True Key uklanja probleme pamćenja više lozinki i trenutačno vas prijavljuje na vaše aplikacije, web-mjesta i uređaje s pomoću faktora koji su jedinstveni vama, poput značajki lica i identifikatora s uređaja koje posjedujete.  Što više faktora upotrebljavate, to će vaš True Key biti jači i bit će još jednostavnije potvrditi da ste to zaista vi. S uslugom True Key vi ste lozinka.  Imat ćete više kontrole nad svojim digitalnim identitetom i moći ćete se kretati svojim digitalnim svijetom brže, jednostavnije i sigurnije.",
+
+		"Q2": "Kako to funkcionira?",
+		"A2": "Otvorite svoj račun za True Key na pametnom telefonu, tabletu ili računalu i stvorite svoj profil tako da True Key zna da ste to vi. Web-mjesta koja podržavaju uslugu True Key automatski će znati da ste to vi, tako da nećete morati upisivati - pa čak ni pamtiti - lozinku. Web-mjesta koja još ne podržavaju uslugu True Key upotrebljavaju isporučeni upravitelj lozinkama da bi saznali i automatski unijeli vaše korisničko ime i lozinku za vas. S uslugom True Key vi ste lozinka.  Imat ćete više kontrole nad svojim digitalnim identitetom i moći ćete se kretati svojim digitalnim svijetom brže, jednostavnije i sigurnije.",
+
+		"Q3": "Zašto se prijaviti s pomoću usluge True Key?",
+		"A3": "True Key vam pojednostavljuje život i obavještava digitalni svijet da ste to zaista vi. Prijavom na True Key s pomoću jedinstvenih značajki poput matematike lica ili otiska prsta, trenutačno možete doći gdje god želite.",
+
+		"Q4": "Može li nekoliko ljudi upotrebljavati svoj račun za True Key na zajedničkom računalu?",
+		"A4": "Da, True Key će prepoznati da ste to vi i prijaviti vas na vaš račun/račune. Jednostavno je poput prijave i odjave.",
+
+		"Q5": "Koliko je siguran True Key?",
+		"A5": "True Key je sigurnosni proizvod kojim se svatko može koristiti. Vaši su podaci šifrirani s pomoću AES-256, što je jedna od najsnažnijih dostupnih razina šifriranja. Također možete pojačati svoj True Key dodavanjem dodatnih značajki ili „faktora” - poput matematike lica ili otiska prsta.",
+
+		"Q6": "Kako su moji podaci šifrirani i dešifrirani?",
+		"A6": "True Key čuva vaše podatke lokalno na uređaju s pomoću šifriranja AES-256, što je jedna od najsnažnijih dostupnih razina šifriranja.  Vaši osjetljivi podaci nikada ne napuštaju računalo, a da prije toga nisu šifrirani i samo vi (i oni koje vi ovlastite) imaju pristup tim podacima.",
+
+		"Q7": "Može li zaposlenik True Keya dobiti pristup podacima pohranjenima na mom računu ili drugim osjetljivim informacijama?",
+		"A7": "Ne, s uslugom True Key vi ste lozinka.  Vaši se podaci šifriraju i dešifriraju na vašem uređaju i vi upravljate njima cijelo vrijeme. True Key upotrebljava faktore koji su jedinstveni vama - uključujući vašu matematiku lica, otiske prsta ili glavnu lozinku da bi šifrirao i dešifrirao samo onda kada vam je to potrebno.",
+
+		"Q8": "Gdje se obavlja šifriranje i dešifriranje mojih podataka?",
+		"A8": "Vaši se podaci šifriraju i dešifriraju lokalno, na vašem uređaju. Samo se šifrirani podaci pohranjuju na poslužiteljima True Key.",
+
+		"Q9": "Jesu li moji podaci pohranjeni na poslužiteljima True Key?",
+		"A9": "Da, vaši šifrirani podaci za True Key pohranjeni su na sigurnom poslužitelju True Key. Jedini način na koji se može pristupiti ovim informacijama jest pomoću faktora koji su jedinstveni vama - uključujući vašu matematiku lica ili glavnu lozinku.",
+
+		"Q10": "Mogu li upotrebljavati Otključavanje licem aplikacije True Key za uređaje sa sustavom Windows?",
+		"A10": "Otključavanje licem aplikacije True Key bit će dostupno za uređaje sa sustavom Windows početkom 2015.",
+
+		"Q11": "Trebam li posebnu web-kameru?",
+		"A11": "True Key radi s prednjom kamerom vašeg uređaja i kamerama spojenim putem USB-a.",
+
+		"Q12": "Može li se netko prijaviti s pomoću moje fotografije?",
+		"A12": "Ne, True Key razvijen je s pomoću sofisticirane tehnologije protiv zavaravanja da bi spriječio takve pokušaje prijave. U dobrim ste rukama uz tvrtku Intel Security.",
+
+		"Q13": "Kako ste sigurni da se baš ja prijavljujem?",
+		"A13": "U dobrim ste rukama uz tvrtku Intel Security. True Key upotrebljava sofisticirane algoritme da bi potvrdio da ste to vi, uključujući biometrijske značajke, sliku lica, otisak prsta i ostale atribute koje ste postavili i koji su jedinstveni vama.",
+
+		"Q14": "Gdje mogu upotrebljavati Otključavanje licem aplikacije True Key i na kojim platformama?",
+		"A14": "Možete preuzeti True Key na svim popularnim uređajima, međutim prijava licem trenutno je dostupna samo na sustavu Windows 8, 8.1, Internet Exploreru 10 + 11 i pregledniku Google Chrome.  U sljedećim ćemo mjesecima izdavati više platformi i načina za provjeru autentičnosti."
+	},
+
+	"privacy": {
+		"title": "Vi, vaši podaci i True Key",
+
+		"Q1": "Prvo, vaša privatnost",
+		"A1": "Intel Security poštuje vašu privatnost. Pročitajte našu %{privacyBefore}Obavijest o privatnosti%{linkAfter} i saznajte više o tome kako Intel Security upravlja svim osobnim podacima.",
+
+		"Q2": "Koje podatke prikuplja aplikacija True Key?",
+		"A2": "<p>Uz vaše dopuštenje aplikacija True Key prikupit će vašu sliku i pretvoriti je u mjere, koje se nazivaju „matematikom lica”.</p><p>Nakon što se izračuna vaša matematika lica, slika se briše. Vaša je matematika lica šifrirana i pohranjena lokalno, na vašem uređaju.  Zatim se šifrirani podaci sigurno pohranjuju u podatkovnom centru tvrtke Intel Security kako biste mogli jednostavno i sigurno pristupiti svojim uređajima i web-mjestima.</p><p>Intel Security nema pristup vašim osjetljivim podacima pohranjenima u aplikaciji True Key jer se šifriraju prije slanja tvrtki Intel Security te ih štiti glavna lozinka koju samo vi znate.</p><p>Uz to:</p><p>Aplikacija True Key također će pohraniti podatke o lozinkama, korisničkim imenima i novčaniku koje pružite.  Te će se stavke šifrirati na vašem uređaju i mogu se sinkronizirati s vašim drugim uređajima nakon što se šifrirani podaci pošalju na sigurne poslužitelje aplikacije True Key kako bi se komuniciralo s vama.</p>",
+
+		"Q3": "Što je matematika lica?",
+		"A3": "Pod matematikom lica mislimo na izračun mjera lica kojim se omogućuje da vas tehnologija Otključavanja licem identificira.",
+
+		"Q4": "Kako se upotrebljava moja matematika lica?",
+		"A4": "Intel Security upotrebljava vašu matematiku lica s tehnologijom Otključavanja licem da bi se znalo da ste to vi i da vas se prijavi u vaš uređaj ili web-mjesto omogućeno aplikacijom True Key.",
+
+		"Q5": "Gdje je sve pohranjeno?",
+		"A5": "Predložak matematike lica šifrirat će se i spremiti na vaše uređaje. Šifrirani podaci također će se pohraniti u podatkovnom centru tvrtke Intel Security kako biste mogli sinkronizirati između svojih uređaja.",
+
+		"Q6": "Kako mogu ukloniti Otključavanje licem s uređaja?",
+		"A6": "Da biste uklonili ili onemogućili značajku, onemogućite svoj račun ili deinstalirajte program s pomoću mogućnosti deinstalacije svojeg uređaja ili sustava.",
+
+		"Q7": "Kako mogu izbrisati matematiku lica iz podatkovnog centra tvrtke Intel Security?",
+		"A7": "Možete zatražiti brisanje matematike tako da se obratite %{customerSupportBefore}Službi za korisnike%{linkAfter} aplikacije True Key. Nakon što potvrdite svoju autentičnost, možete tražiti da se vaša matematika lica izbriše.",
+
+		"Q8": "Hoće li moja aplikacija True Key pratiti web-mjesta kojima pristupam?",
+		"A8": "Kada pohranjujete web-mjesta i prijave u svoj profil za True Key, možete vidjeti te podatke na Launchpadu aplikacije True Key.",
+
+		"Q9": "Hoće li se usluga True Key koristiti mojim podacima za bilo koju drugu svrhu?",
+		"A9": "Ne, usluga True Key nema pristup vašim dešifriranim podacima.",
+
+		"Q10": "Gdje mogu pronaći više informacija o aplikaciji True Key?",
+		"A10": "Pronađite više informacija o Otključavanju licem i aplikaciji True Key na web-mjestu usluge True Key, %{websiteBefore}truekey.com%{linkAfter} ili se obratite %{customerSupportBefore}Službi za korisnike%{linkAfter} aplikacije True Key."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Dodajte pouzdani uređaj",
+		"lastUsed": "Zadnja upotreba:",
+		"twoFactor": "Provjera autentičnosti s pomoću dva faktora:",
+		"title": "Odaberite i upravljajte pouzdanim uređajima za vaš profil za True Key.",
+		"txt1": "Vi odlučujete kojim uređajima vaš profil za True Key može vjerovati. Koristite se ovim uređajima za provjeru autentičnosti drugog faktora i upravljanje s time gdje možete pristupiti svojim web-mjestima i aplikacijama. Zapamtite, možete dodati ili ukloniti uređaj u bilo kojem trenutku."
+	},
+
+	"startpage": {
+		"searchNoResults": "Nema pronađenih rezultata.",
+
+		"addFavorite": {
+			"title": "Dodaj favorit",
+			"placeholder": "Upišite naziv web-mjesta ili URL",
+			"titleSuggestions": "Evo nekoliko prijedloga:",
+			"moreSuggestions": "Još prijedloga"
+		},
+
+		"addManually": {
+			"title": "Ručno dodajte favorit",
+			"label": {
+				"websiteName": "Naziv web-mjesta",
+				"url": "URL"
+			},
+			"placeholders": {
+				"websiteName": "npr.: Facebook",
+				"url": "npr.: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Uredi favorit"
+		},
+
+		"ctaEdit": "Uredi ovaj favorit",
+
+		"search": {
+			"onTheWeb": "Traži „%{filter}” na web-mjestu",
+			"logins": "Vaše spremljene prijave",
+			"placeholder": "Pretražite web na usluzi True Key Launchpad"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Favoriti",
+			"description": "Slični su knjižnim oznakama. Dodajte ih i organizirajte ih kako god želite. Koristite se favoritima za brzi pristup web-mjestima koje najčešće posjećujete, čak i onima za koje nemate spremljene prijave."
+		},
+		"logins": {
+			"title": "Prijave",
+			"description": "Ovdje ćete naći prijave spremljene na vašem profilu. Dodajte, pregledajte ili uredite detalje i upravljajte postavkama sigurnosti za svaku prijavu."
+		},
+		"menu": {
+			"title": "Vaš izbornik",
+			"description": "Pristupite svojim preferencijama, postavkama sigurnosti, podršci i ostalome u izborniku."
+		},
+		"search": {
+			"title": "Pretraži",
+			"description": "Brzo pretražite web na svojem profilu za True Key da biste brzo dobili potrebne informacije."
+		},
+		"profile": {
+			"title": "Profil",
+			"description": "Pogledajte i ažurirajte postavke profila. Kliknite na ikonu za obavijesti kada vas čeka poruka."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Još malo",
+		"description": "Sada morate omogućiti proširenje za True Key™. Odaberite jedan ili sve preglednike.",
+		"activated": "True Key™ već je omogućen na <em>%{activatedBrowser}</em>,<br> dodajte ga i na <em>%{availableBrowser}</em>.",
+
+		"overlayTitle": "Omogućeni True Key™",
+		"overlayText": "Da biste se odmah prijavili u svoja omiljena web-mjesta bez upisivanja lozinki, <strong>omogućite True Key</strong>.",
+		"errorNoBrowserSelected": "Odaberite najmanje jedan preglednik da biste omogućili True Key"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "Upoznajte se s aplikacijom True Key™ by Intel Security",
+			"subtitle": "Otključajte svoj digitalni svijet bez problema s više lozinki",
+			"description": "Aplikacija True Key s pomoću faktora koji su jedinstveni vama mijenja način na koji se svijet prijavljuje za siguran i brz pristup vašim omiljenim web-mjestima, aplikacijama i uređajima."
+		},
+		"sync": {
+			"subtitle": "Slobodno pretražujte s automatskom sinkronizacijom na vaš telefon, tablet i računalo",
+			"description": "Aplikacija True Key sigurno sinkronizira na vaš telefon, tablet i računalo i time čuva vaše podatke nadohvat ruke."
+		},
+		"encrypted": {
+			"subtitle": "Neka vaši podaci budu sigurni i šifrirani, a vaša privatnost zaštićena",
+			"description": "Vaši su podaci pohranjeni lokalno na vašem uređaju i nikad se ne premještaju nešifrirani. Samo im vi imate pristup."
+		},
+		"unique": {
+			"subtitle": "Neka vaš profil bude jedinstven, kao i vi",
+			"description": "S aplikacijom True Key vi ste lozinka. Što više faktora upotrebljavate, to će vaš profil za True Key biti jači - kako bi digitalni svijet znao da ste to stvarno vi."
+		},
+		"skipTour": "Preskoči razgledavanje",
+		"iGetIt": "Shvatio/la sam.",
+		"getStarted": "Počnimo"
+	},
+
+	"slideshow2": {
+		"meetTK": "Upoznajte se s aplikacijom True Key by Intel Security",
+		"multiple_passwords": {
+			"title": "Uklonite probleme upotrebe više lozinki",
+			"desc": "Aplikacija True Key pamti vaše lozinke umjesto vas."
+		},
+		"sync": {
+			"title": "Sinkronizirajte lozinke na svim svojim uređajima",
+			"desc": "Instalirajte aplikaciju True Key na svim uređajima da biste svoje lozinke imali pri ruci."
+		},
+		"encrypted": {
+			"title": "Čuvajte svoje lozinke sigurnima i šifriranima",
+			"desc": "Aplikacija True Key šifrira lozinke na vašem uređaju kako biste im samo vi imali pristup."
+		}
+	},
+
+	"enable": {
+		"lastStep": "Posljednji korak",
+		"clickEnable": "Kliknite „Omogući\" u nastavku da biste započeli s upotrebom aplikacije True Key. Ovo ćete morati napraviti samo jednom.",
+		"clickDone": "Kada to napravite, %{htmlBefore}kliknite ovdje%{htmlAfter}"
+	},
+
+	"activation": {
+		"title": "Omogući True Key™",
+		"txtEnable": "Da biste se odmah prijavili u svoja omiljena web-mjesta bez upisivanja<br>lozinki, <strong>omogućite proširenje za True Key</strong>.",
+		"txtInstall": "Da biste se odmah prijavili u svoja omiljena web-mjesta bez upisivanja<br>lozinki, <strong>instalirajte proširenje za True Key</strong>.",
+		"txtRestart": "Morate ponovno pokrenuti preglednik da biste instalirali proširenje za True Key<br>."
+	},
+
+	"loginSuccess": {
+		"title": "Dobro došli natrag",
+		"text": "Potražite ikonu True Key sljedeći put kada pokrenete preglednik."
+	},
+
+	"signupSuccess": {
+		"text": "Vaš je profil stvoren. <br>Potražite ikonu True Key sljedeći put kada pokrenete preglednik."
+	}
+}

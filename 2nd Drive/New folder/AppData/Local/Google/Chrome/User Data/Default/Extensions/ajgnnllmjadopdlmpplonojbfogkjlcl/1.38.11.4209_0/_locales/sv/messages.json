@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension.",
+      "message": "Gratis lösenordshanterare till Google Chrome – Du kommer aldrig någonsin att glömma ett lösenord igen"
+   },
+   "appName": {
+      "description": "Name of the extension.",
+      "message": "PasswordBox.com"
+   }
+}

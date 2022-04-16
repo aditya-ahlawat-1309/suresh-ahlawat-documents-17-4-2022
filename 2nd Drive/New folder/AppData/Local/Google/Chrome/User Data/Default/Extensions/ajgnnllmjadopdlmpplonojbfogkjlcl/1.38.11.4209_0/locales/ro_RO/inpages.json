@@ -1,0 +1,103 @@
+{
+  "common" : {
+    "txtClose" : "Închidere",
+    "done" : "Efectuat",
+    "dontSave" : "Nu salvaţi",
+    "neverSave" : "Nu salvaţi niciodată",
+    "saveNow" : "Salvaţi acum",
+    "yes" : "Da",
+    "no" : "Nu",
+    "remove" : "Eliminare",
+    "dontUpdate" : "Nu actualizaţi",
+    "updateNow" : "Actualizaţi acum",
+    "dontAskAgain" : "Nu mă mai întreba",
+    "dontSaveNow" : "Nu salvaţi acum",
+    "dontSaveItNow" : "Nu salvaţi acum",
+    "neverSaveIt" : "Nu salva niciodată",
+    "neverForThisSite" : "Niciodată pentru acest site",
+    "savePassword" : "Salvare parolă",
+    "saveThisPassword" : "Salvaţi această parolă",
+    "dontShowAgain" : "Nu mai arăta",
+    "masterPassword" : "Parolă master",
+    "continue" : "Continuare",
+    "typeMasterPassword" : "Introduceţi parola master",
+    "settings" : "Setări",
+    "copyClipboard" : "Copiați în clipboard"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> a salvat o nouă parolă pentru <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> a detectat o nouă parolă pentru <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> vă conectează instantaneu"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Parola dvs. pentru <span class='green'>%{siteName}</span> nu este suficient de puternică"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Aveţi <span id='shareCount' class='green'>1 nouă</span> invitaţie de partajare a parolelor."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Aţi reuşit să vă conectaţi cu succes în contul dvs. <span class='green'>%{username}</span> ?",
+    "deleteConfirm" : "Doriţi să eliminaţi <span class='green'>%{username}</span> din contul dvs. PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Din nefericire, acest site încă nu este acceptat - Echipa noastră lucrează din greu pentru a permite acceptarea acestuia, iar acest lucru se va întâmpla în curând"
+  },
+  "connectWith" : {
+    "mainText" : "Selectaţi contul cu care doriţi să vă conectaţi",
+    "login" : "Conectare"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Introduceţi parola master",
+    "mainTxtHasUsers" : "Introduceţi parola dvs. master pentru a vă conecta instantaneu",
+    "mainTxtNoUsers" : "Introduceţi parola dvs. master pentru a salva această parolă",
+    "error" : "Parolă incorectă",
+    "decrypting" : "Decriptare"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Salvaţi această parolă acum.",
+    "signup" : "Înscrieţi-vă la PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Selectaţi cardul pentru validare",
+    "use" : "Utilizaţi"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Nu mai uitaţi niciodată nicio parolă:",
+    "createAccount" : "Creaţi-vă un cont",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> a fost adăugată la bara dvs. de unelte %{partner}"
+  },
+  "autosaveTutorial" : {
+    "labelTxt1" : "Acum conectaţi-vă la contul dvs. <span id='siteName'>[SITENAME]</span> ...",
+    "labelTxt2" : "PasswordBox îl va salva în mod automat pentru dvs.!",
+  
+    "thatsIt" : "... Şi asta e tot!",
+    "completeMainText" : "Parola dvs. <span id='siteName'>[SITENAME]</span> este acum salvată în condiţii de siguranţă în contul dvs. PasswordBox!",
+    "completeMainText2" : "Parola dvs. <span id='siteName'>[SITENAME]</span> este acum salvată în<br>condiţii de siguranţă în contul dvs. PasswordBox!"
+
+    },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Acum conectaţi-vă la contul dvs. <span class='green'>%{siteName}</span> ...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> îl va salva în mod automat pentru dvs.!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... Şi asta e tot!",
+    "mainText" : "Parola dvs. <span class='green'>%{siteName}</span> este acum salvată în condiţii de siguranţă în contul dvs. PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Felicitări",
+    "mainText" : "Acum vă puteţi accesa parolele în orice moment, făcând clic pe <strong class='green'>pictograma cu caseta verde</strong> din browser-ul dvs.! Să încercăm asta acum!"
+  },
+  "passgen" : {
+    "generate" : "Generaţi parolă puternică",
+    "regenerate" : "Generaţi parolă nouă",
+    "noPassGenerated" : "Nicio parolă generată",
+    "letters" : "Litere",
+    "digits" : "Cifre",
+    "symbols" : "Simboluri",
+    "capitals" : "Majuscule"
+  }
+}

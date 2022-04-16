@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Ako povoliť súbory cookie vo Firefox",
+    "onMac" : "Na Mac",
+    "onPC" : "Na PC",
+    "step1" : "<strong> 1: Prejdite na Firefox&gt; Predvoľby&gt; Súkromie.</strong><br/> V časti História zvoľte<br/><strong>„Firefox: vykoná vlastné nastavenia histórie“</strong>",
+    "step2" : "<strong>2: V časti História, zvoľte „Prijať súbory cookies zo stránok“ </strong><br> Potom v ponuke vyberte: <br><strong> „Prijať súbory cookies tretích strán“&gt; „Vždy“ </strong>"
+  },
+  "import" : {
+    "title" : "Importovať heslá do PasswordBoxu",
+    "selectSoure" : "Vyberte zdroj",
+    "export" : "Exportovať heslá",
+    "import" : "Importovať súbor s heslami to PasswordBoxu",
+    "dashlane1" : "Ak chcete exportovať Vaše heslá z Dashlane, otvorte Dashlane a kliknite na:",
+    "dashlane2" : "Súbor > Exportovať údaje",
+    "dashlane3" : "Zvoľte <strong class=\"green\">formát</strong> Nezabezpečené CVS Archívy.",
+    "dashlane4" : "Uložte súbor na mieste podľa Vášho výberu.",
+    "dashlane5" : "Je podporovaná iba najnovšia verzia Dashlane.",
+    "lastpass1" : "Ak chcete exportovať Vaše heslá z LastPass, kliknite na ikonu plug-inu LastPass na Vašom prehliadači a vyberte možnosť:",
+    "lastpass2" : "<strong>Nástroje&gt; Export</strong><br>A vyberte súbor <strong class=\"green\">LastPass CSV</strong> v ponuke. Pri výzve zadajte svoje heslo.",
+    "lastpass3" : "Kliknite OK a súbor uložte na mieste podľa Vášho výberu.",
+    "lastpass4" : "Je podporovaná iba najnovšia verzia LastPass.",
+    "roboform1" : "Export z RoboForm je v súčasnej dobe k dispozícii len na operačných systémoch Mac.",
+    "roboform2" : "Podpora systému Windows sa blíži.",
+    "roboform3" : "Ak chcete exportovať vaše heslá z RoboForm, otvorte rozšírenie prehliadača RoboForm a kliknite na <strong>Možnosti: </strong>",
+    "roboform4" : "Na paneli možností zvoľte „Údaje o užívateľovi“ a kliknite na <strong>„Exportovať do“</strong>",
+    "roboform5" : "<strong>Uložiť súbor ako .html</strong>na mieste podľa Vášho výberu.",
+    "roboform6" : "Je podporovaná iba najnovšia verzia RoboForm.",
+    "onepassword1" : "Ak chcete exportovať svoje heslá z 1Password, otvorte:",
+    "onepassword2" : "<strong>- Súbor&gt; Export: </strong><br> vyberte <strong class=\"green\">Záložku-Formát</strong> textu a <strong>možnosť</strong> Všetky prihlásenia.",
+    "onepassword3" : "Kliknite OK a súbor uložte na mieste podľa Vášho výberu.",
+    "onepassword4" : "Je podporovaná iba najnovšia verzia 1Password.",
+    "onepasswordClick" : "<u>Kliknite sem,</u> ak chcete načítať <span class=\"serviceName green\">Váš súbor</span> 1Password",
+    "keepass1" : "Ak chcete exportovať Vaše heslá z KeePass, otvorte KeePass a kliknite na:<",
+    "keepass2" : "<strong>File &gt; Exportovať</strong><br> Zvoľte <strong>možnosť</strong> formát KeePass CSV 1.x.",
+    "keepass3" : "Uložte súbor na mieste podľa Vášho výberu.",
+    "keepass4" : "Je podporovaná iba najnovšia verzia KeePass."
+  }
+}

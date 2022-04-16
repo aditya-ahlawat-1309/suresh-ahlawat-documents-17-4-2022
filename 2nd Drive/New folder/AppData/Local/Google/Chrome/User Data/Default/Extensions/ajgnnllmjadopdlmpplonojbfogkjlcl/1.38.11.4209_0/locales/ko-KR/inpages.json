@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "닫기",
+		"done": "완료",
+		"dontSave" : "저장하지 않음",
+		"neverSave" : "계속 저장하지 않음",
+		"saveNow" : "지금 저장",
+		"yes" : "예",
+		"no" : "아니요",
+		"remove": "제거",
+		"dontUpdate" : "업데이트하지 않음",
+		"updateNow" : "지금 업데이트",
+		"dontAskAgain" : "다시 묻지 않음",
+
+		"dontSaveNow" : "이번에는 저장하지 않음",
+		"dontSaveItNow" : "지금 저장하지 않음",
+		"neverSaveIt" : "계속 저장하지 않음",
+		"neverForThisSite" : "계속 저장하지 않음",
+		"savePassword" : "암호 저장",
+		"saveThisPassword" : "이 암호 저장",
+		"dontShowAgain" : "다시 표시하지 않음",
+		"masterPassword" : "마스터 암호",
+		"continue" : "계속",
+		"ok": "확인",
+		"typeMasterPassword" : "마스터 암호 입력",
+		"settings": "설정",
+		"copyClipboard": "클립보드로 복사",
+		"youreIn" : "로그인되었습니다.",
+		"success": "성공"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key가 <span class='secondary'>%{siteName}</span> 암호를 저장했습니다."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key가 <span class='secondary'>%{siteName}</span>의 새 암호를 탐지했습니다"
+	},
+	"bannerConnecting": {
+		"mainText" : "잠시만 기다려 주십시오"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "<span class='primary'>%{siteName}</span>의 암호는 강력하지 않습니다"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "새 공유 암호가 있습니다."
+	},
+	"bannerLoginFailure": {
+		"mainText": "True Key로 로그인하셨습니까?",
+		"deleteConfirm": "True Key 프로파일에서 <span class='secondary'>%{username}</span>을(를) 제거하시겠습니까?"
+	},
+	"topbarDisabled": {
+		"mainText" : "이런. True Key는 아직 이 사이트를 지원하지 않습니다."
+	},
+	"connectWith" : {
+		"mainText" : "프로파일 선택",
+		"login": "로그인"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "프로파일이 잠겨 있음",
+		"ctaUnlock": "로그인하여 잠금 해제",
+		"placeholder" : "마스터 암호 입력",
+		"mainTxtHasUsers" : "True Key 프로파일을 통해 로그인",
+		"mainTxtNoUsers" : "마스터 암호를 입력하여 이 암호 저장",
+		"error" : "잘못된 암호",
+		"decrypting" : "암호 해독",
+		"profileLocked" : "프로파일이 잠겨 있음",
+		"unlockedLogIn" : "잠금 해제 및 로그인"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "여러 암호를 관리하느라 힘드신가요? True Key 앱을 사용하여 즉시 로그인하십시오",
+		"signup" : "예, 어떻게 하는지 알려주세요"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "암호 때문에 골치 아프다구요? True Key로 보다 간편하고 빠르게 액세스하십시오.",
+		"signup" : "예, 어떻게 하는지 알려주세요"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "<span class='secondary'>%{siteName}</span>에 로그인하면",
+		"txt2" : "True Key 앱이 귀하의 암호를 대신 기억합니다."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "다음부터 True Key를 통해 안전하게 로그인할 수 있습니다."
+	},
+	"welcomeComplete" : {
+		"mainText" : "이제 True Key Launchpad에서 빠르게, 간편하게, 안전하게 로그인하십시오."
+	},
+	"passgen" : {
+		"generate": "암호 생성",
+		"regenerate" : "암호 생성",
+		"noPassGenerated": "생성된 암호 없음",
+		"letters" : "문자",
+		"digits" : "숫자",
+		"symbols" : "기호",
+		"capitals" : "대문자"
+	}
+}

@@ -1,0 +1,150 @@
+{
+  "common" : {
+    "txtClose" : "إغلاق",
+    "dontSave" : "عدم الحفظ",
+    "neverSave" : "لا تحفظ أبدًا",
+    "saveNow" : "حفظ الآن",
+    "yes" : "نعم",
+    "no" : "لا",
+    "remove" : "إزالة",
+    "dontUpdate" : "لا تحدث",
+    "updateNow" : "تحديث الآن",
+    "dontAskAgain" : "عدم السؤال مجددًا",
+    "dontSaveNow" : "لا تحفظ الآن",
+    "dontSaveItNow" : "لا تحفظ الآن",
+    "neverSaveIt" : "لا تحفظ أبدًا",
+    "neverForThisSite" : "مطلقًا لهذا الموقع",
+    "savePassword" : "حفظ كلمة المرور",
+    "saveThisPassword" : "حفظ كلمة المرور هذه",
+    "dontShowAgain" : "عدم الإظهار مرة أخرى",
+    "masterPassword" : "كلمة المرور الرئيسية",
+    "continue" : "المتابعة",
+    "typeMasterPassword" : "اكتب كلمة المرور الرئيسية",
+    "settings" : "الإعدادات",
+    "copyClipboard" : "نسخ إلى الحافظة"
+  },
+  "topbarQualityCheck" : {
+    "mainText" : "هل استطعت تسجيل الدخول باستخدام PasswordBox فورًا؟",
+    "moreDetails" : "(تحتاج تفاصيل أكثر؟)",
+    "yes" : "نعم",
+    "no" : "لا",
+    "thanks" : "شكرًا! سندرس هذا الأمر.",
+    "details" : "<p>نحن نعمل جاهدين على جعل PasswordBox أفضل شريك رقمي، ونعمل على توخي المزيد من الحرص في خاصية التسجيل الفوري الخاصة بنا.</p><p>تعمل مشاركة ملاحظاتك على منح فريق الهندسة توقعات لمواقع الويب التي يجب التركيز عليها. وبهذه الطريقة، يمكننا حل المشكلة في أسرع وقت ممكن.</p><p><em>شكرًا على مساعدتنا في تصميم تطبيق PasswordBox بأفضل شكل نستطيعه.</em></p>"
+  },
+  "topbarAutoSave" : {
+    "mainText" : "قام PasswordBox للتو بحفظ <span id='siteName' class='green'>كلمة مرور الخاص بـ </span> [SITENAME]."
+  },
+  "topbarManualsave" : {
+    "mainText" : "كشف PasswordBox عن كلمة مرور جديدة <span id='siteName' class='green'>لـ [SITEURL]</span>."
+  },
+  "topbarUpdate" : {
+    "mainText" : "كشف PasswordBox عن كلمة مرور جديدة  <span id='siteName' class='green'>لـ [SITENAME]</span>."
+  },
+  "topbarConnecting" : {
+    "mainText" : "يتم الآن PasswordBox بتوصيلك تلقائيًا...."
+  },
+  "topbarNeverSignedUp" : {
+    "mainText" : "كشف PasswordBox عن كلمة مرور جديدة  <span id='siteName' class='green'>لـ [SITENAME]</span>.",
+    "mainTextV2" : "تم الكشف عن <span id='siteName' class='green'>كلمة مرور</span> جديدة لـ [SITENAME]",
+    "neverForget" : "لن تنسى كلمة مرور <span class='siteName'>[SITENAME]</span> مرة أخرى"
+  },
+  "tabNeverSignedUp" : {
+    "mainText" : "<br>جديدة  <span class='siteName'>لـ [SITENAME]</span>",
+    "neverForget" : "لن تنسى كلمة المرور هذه مرة أخرى أبدًا"
+  },
+  "topbarLoggedOff" : {
+    "mainText" : "كشف PasswordBox عن كلمة مرور جديدة  <span id='siteName' class='green'>لـ [SITENAME]</span>.",
+    "decrypting" : "جاري إلغاء تشفير بياناتك...",
+    "onSuccess" : "تم حفظ كلمة المرور بنجاح!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "تهانينا",
+    "mainText" : "يمكنك الآن الوصول إلى كلمات المرور الخاصة بك في أي وقت عن طريق النقر فوق <br>رمز المربع الأخضر في مستعرضك! لنجربه الآن!"
+  },
+  "autosaveTutorial" : {
+    "labelTxt1" : "قم بتسجيل الدخول الآن <span id='siteName'>إلى حساب</span> [SITENAME] الخاص بك...</span>",
+    "labelTxt2" : "سيتم حفظها PasswordBox تلقائيًا لك!",
+    "thatsIt" : ".... وها هي!",
+    "completeMainText" : "تم حفظ حساب [SITENAME] <span id='siteName'>الخاصة بك بأمان الآن<br> في </span> PasswordBox الخاص بك",
+    "completeMainText2" : "تم حفظ حساب [SITENAME] <span id='siteName'>الخاصة بك بأمان الآن<br> في </span> PasswordBox الخاص بك...",
+    "bulkTxt1" : "هل تستخدم تركيب اسم المستخدم / كلمة المرور هذا  <span class='break'>لأي من مواقع الويب؟</span>",
+    "bulkTxt2" : "<strong>إذا كان نعم، </strong>حدد المواقع التي تستخدمها لتسجيل الدخول به وسنحفظها على PasswordBox الخاص بك.",
+    "checkAll" : "تحديد الكل",
+    "uncheckAll" : "إلغاء تحديد الكل",
+    "skipThisStep" : "تخطي هذه الخطوة",
+    "savingPasswords" : "يتم حفظ كلمات المرور الآن..."
+  },
+  "avgAdded" : {
+    "txt1" : "لن تنسى كلمة مرور مرة أخرى:",
+    "createAccount" : "إنشاء حساب",
+    "passwordboxAdded" : "تم إضافة PasswordBox إلى شريط أدوات AVG الخاص بك"
+  },
+  "successfulLogin" : {
+    "mainText" : "يقوم PasswordBox بتسجيل دخولك تلقائيًا!"
+  },
+  "topbarNewMessage" : {
+    "mainText" : "تمتلك  <span id='messageCount' class='green'>رسالة واحدة جديدة</span> من PasswordBox."
+  },
+  "passgen" : {
+    "generate" : "إنشاء كلمة مرور قوية",
+    "regenerate" : "إنشاء كلمة مرور جديدة",
+    "noPassGenerated" : "لم يتم إنشاء كلمة مرور",
+    "letters" : "الأحرف",
+    "digits" : "الأرقام",
+    "symbols" : "الرموز",
+    "capitals" : "الحروف الاستهلالية"
+  },
+  "addNewFlowDone" : {
+    "clickIcon" : "انقر فوق الرمز الأخضر لفتح PasswordBox الخاص بك وجرب تسجيل دخول 1-Click"
+  },
+  "tab_logged_off" : {
+    "passwordDetected" : "كشف PasswordBox كلمة مرور جديدة لـ",
+    "enterMaster" : "إدخال كلمة المرور الرئيسية هنا",
+    "unlocking" : "تحرير PasswordBox الخاص بك...",
+    "enterMasterSave" : "إدخال كلمة المرور الرئيسية لحفظ كلمة المرور هذه"
+  },
+  "overlayManualSave" : {
+    "mainText" : "تسجيل الدخول بسهولة إلى جميع مواقع الويب المفضلة لديك باستخدام PasswordBox"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> قام بحفظ كلمة مرور جديدة لـ <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> اكتشف كلمة مرور جديدة لـ <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> يقوم بتسجيل دخولك في الحال"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "كلمة مرور <span class='green'>%{siteName}</span> غير قوية بدرجة كافية"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "تمتلك <span id='shareCount' class='green'>دعوة لمشاركة</span> كلمة مرور واحدة جديدة."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "هل استطعت تسجيل الدخول بنجاح إلى حساب <span class='green'>%{username}</span> الخاص بك؟",
+    "deleteConfirm" : "هل ترغب في إزالة <span class='green'>%{username}</span> من PasswordBox؟"
+  },
+  "topbarDisabled" : {
+    "mainText" : "لسوء الحظ، لم يتم دعم هذا الموقع بعد - يعمل فريقنا بدأب لدعمه، وسيتوفر قريبًا"
+  },
+  "connectWith" : {
+    "mainText" : "حدد الحساب الذي تريد تسجيل الدخول به",
+    "login" : "تسجيل الدخول"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "اكتب كلمة المرور الرئيسية",
+    "mainTxtHasUsers" : "أدخل كلمة مرورك الرئيسية لتسجيل الدخول فورًا",
+    "mainTxtNoUsers" : "إدخال كلمة المرور الرئيسية الخاصة بك لحفظ كلمة المرور هذه",
+    "error" : "كلمة مرور خاطئة",
+    "decrypting" : "إلغاء تشفير"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "احفظ كلمة المرور هذه الآن.",
+    "signup" : "التسجيل لـ PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "حدد بطاقة لمراجعتها",
+    "use" : "استخدام"
+  }
+}

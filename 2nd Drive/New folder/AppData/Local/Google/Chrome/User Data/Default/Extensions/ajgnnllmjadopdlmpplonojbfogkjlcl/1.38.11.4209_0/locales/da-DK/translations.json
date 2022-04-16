@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Angiv",
+		"add": "Tilføj",
+		"addNew": "Tilføj ny",
+		"addManually": "Tilføj manuelt",
+		"cancel": "Annuller",
+		"back": "Tilbage",
+		"save": "Gem",
+		"saving": "Gemmer...",
+		"saved": "Gemt!",
+		"upgrade": "Opgrader",
+		"noThanks": "Nej tak",
+		"from": "Fra %{name}",
+		"remove": "Fjern",
+		"removing": "Fjerner...",
+		"disabling": "Deaktiverer...",
+		"delete": "Slet",
+		"warningPermanent": "Denne handling kan ikke fortrydes.",
+		"confirmProceed": "Er du sikker på, at du vil fortsætte?",
+		"parameters": "Parametre",
+		"details": "Oplysninger",
+		"sharing": "Deling",
+		"advancedSettings": "Avanceret",
+		"validating": "Kontrollerer...",
+		"tryAgain": "Prøv igen",
+		"sending": "Sender...",
+		"send": "Send",
+		"sent": "Sendt!",
+		"waitingResponse": "Venter på reaktion",
+		"revoke": "Tilbagekald",
+		"updating": "Opdaterer ...",
+		"change": "Rediger",
+		"changed": "Ændret!",
+		"copy": "Kopiér til udklipsholder",
+		"accept": "Acceptér",
+		"decline": "Afvis",
+		"privacyNotice": "Meddelelse om beskyttelse af personlige oplysninger",
+		"dontAskAgain": "Spørg ikke igen",
+		"notNow": "Ikke nu",
+		"sendNotification": "Send meddelelse",
+		"justAMoment": "Et øjeblik ...",
+		"learnMore": "Flere oplysninger",
+		"notYou": "Er det ikke dig?",
+		"changeUser": "Skift bruger",
+		"confirm": "Bekræft",
+		"launchSite": "Åbn websted",
+		"unlockMyTrueKey": "Lås True Key-appen op",
+		"next": "Næste",
+		"previous": "Forrige",
+		"visible": "Synlig",
+		"hidden": "Skjult",
+		"vistHelpDesk": "Gå ind på vores %{htmlBefore}supportsider%{htmlAfter}, hvis du vil have flere oplysninger.",
+		"addFacialRecognition": "Tilføj funktionen Lås op med dit ansigt",
+		"comingSoon": "Kommer snart",
+		"offline": "Offline",
+		"or": "eller",
+		"and": "og",
+		"activate": "Aktivér",
+		"logOut": "Log af",
+		"logins": "Loginoplysninger",
+		"favorites": "Favoritter",
+		"other": "Andet",
+		"locked": "Låst",
+		"unlocked": "Låst op",
+		"login": "Log på",
+		"close": "Luk",
+		"closing": "Lukker ...",
+		"dismiss": "Afvis",
+		"signin": "Log på",
+		"signOut": "Log af",
+		"manageProfile": "Administrer profil",
+		"profile": "Profil",
+		"menu": "Menu",
+		"DD": "DD",
+		"MM": "MM",
+		"YYYY": "ÅÅÅÅ",
+		"visible": "Synlig",
+		"hidden": "Skjult",
+		"enable": "Aktivér",
+		"doNotShowAgain": "Vis ikke igen",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Senere",
+		"restart": "Genstart",
+		"install": "Installer",
+		"feedback": "Feedback",
+		"done": "Færdig",
+		"success": "Gennemført",
+		"youreIn": "Så er du inde!",
+		"recommended": "anbefalet"
+	},
+
+	"validation": {
+		"required": "Feltet skal udfyldes",
+		"min": "{0} skal være på mindst {1} tegn"
+	},
+
+	"offline": {
+		"title": "Hovsa, der er ingen internetforbindelse.",
+		"desc": "Du er ikke online. Genopret forbindelsen til internettet, og prøv igen."
+	},
+
+	"locked": {
+		"notYou": "Er det ikke dig?",
+		"changeUser": "skift bruger",
+		"cancelAuth": "Annuller godkendelse",
+		"signIn": "Log på, og nyd godt af Hurtigt login",
+		"alternativeEmail": "Brug mailgodkendelse i stedet",
+		"alternativeDevice": "Brug i stedet en enhed, som du har tillid til"
+	},
+
+	"time": {
+		"never": "Aldrig",
+		"minutes": "%{smart_count} minut |||| %{smart_count} minutter",
+		"hours": "%{smart_count} time |||| %{smart_count} timer",
+		"days": "%{smart_count} dag |||| %{smart_count} dage"
+	},
+
+	"labels": {
+		"email": "E-mailadresse",
+		"masterPassword": "Hovedadgangskode",
+		"confirmMasterPassword": "Bekræft hovedadgangskoden",
+		"rememberMe": "Lad mig fortsætte med at være logget på",
+		"websiteURL": "URL-adresse på websted",
+		"username": "Brugernavn",
+		"password": "Adgangskode",
+		"mobile": "Mobilnummer",
+		"name": "Navn",
+		"title": "Titel",
+		"details": "Oplysninger",
+		"masterPassword": "Hovedadgangskode",
+		"websiteName": "Navn på websted",
+		"notes": "Noter",
+		"ccType": "Kreditkorttype",
+		"cardholderName": "Kortindehavers navn",
+		"ccNumber": "Kreditkortnummer",
+		"expiryDate": "Udløbsdato",
+		"issueDate": "Udstedelsesdato",
+		"colorpicker": "Hold styr på dine kort vha. farver",
+		"driversLicenseNumber": "Kørekortnummer",
+		"firstName": "Fornavn",
+		"lastName": "Efternavn",
+		"gender": "Køn",
+		"stateProvince": "Stat/provins",
+		"birthdate": "Fødselsdato",
+		"company": "Firma",
+		"telephone": "Telefon",
+		"streetName": "Gade/vej",
+		"streetNumber": "Husnummer",
+		"city": "By",
+		"zipcode": "Postnummer",
+		"memberID": "Medlemsnummer",
+		"memberSince": "Medlem siden",
+		"country": "Land",
+		"passportNumber": "Pasnummer",
+		"issuingCountry": "Udstedelsesland",
+		"placeOfBirth": "Fødested",
+		"number": "Nummer",
+		"male": "Mand",
+		"female": "Kvinde"
+	},
+
+	"placeholders": {
+		"email": "Indtast din mailadresse",
+		"masterPassword": "Indtast din hovedadgangskode",
+		"phone": "12 34 56 78",
+		"name": "Indtast dit navn",
+		"title": "Indtast en titel her",
+		"websiteURL": "Indtast URL-adressen her",
+		"websiteName": "Indtast navnet på webstedet her",
+		"username": "Indtast brugernavnet her",
+		"password": "Indtast adgangskoden her",
+		"notes": "Indtast noter her",
+		"cardholderName": "Indtast kortindehaverens navn",
+		"ccNumber": "Indtast kreditkortnummeret her",
+		"driversLicenseNumber": "Indtast kørekortnummeret her",
+		"firstName": "Indtast fornavnet her",
+		"lastName": "Indtast efternavnet her",
+		"stateProvince": "Indtast staten eller provinsen her",
+		"company": "Indtast firmanavnet her",
+		"telephone": "Indtast telefonnummeret her",
+		"streetName": "Indtast gade-/vejnavnet her",
+		"streetNumber": "Indtast husnummeret her",
+		"city": "Indtast byen her",
+		"zipcode": "Indtast postnummeret her",
+		"memberID": "Indtast medlemsnummeret her",
+		"notesDetails": "Notér det, du skal huske. Låsekombinationer. Produkt- og softwarekoder. Påmindelser og hemmelige opskrifter.",
+		"country": "Vælg land",
+		"passportNumber": "Indtast pasnummeret her",
+		"issuingCountry": "Vælg land",
+		"placeOfBirth": "Vælg land",
+		"number": "Indtast nummeret her"
+	},
+
+	"errors": {
+		"generic": "Der er noget galt",
+		"passwordsMatch": "Adgangskoderne skal stemme overens",
+		"nameRequired": "Indtast dit navn",
+		"emailInvalid": "Indtast en gyldig mailadresse",
+		"passwordTooShort": "Adgangskoden skal være på mindst %{nbCharacters} tegn",
+		"usernameRequired": "Brugernavnet skal angives"
+	},
+
+	"form": {
+		"launch": "Åbn dette websted",
+		"passwordStrength": {
+			"veryWeak": "Meget svag",
+			"weak": "Svag",
+			"acceptable": "Acceptabel",
+			"strong": "Stærk",
+			"veryStrong": "Meget stærk"
+		},
+		"copyPassword": "Kopiér adgangskode",
+		"viewPassword": "Vis adgangskode"
+	},
+
+	"headerMessages": {
+		"txt1": "Hej %{firstName} – velkommen til True Key Launchpad"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "Lad os komme i gang! Føj det første login til True Key",
+		"addNewLogin": "Tilføj nyt login",
+		"success": "Velkommen."
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Har du ikke nogen True Key-profil?",
+			"signup": "Du kan få en her",
+			"haveAccount": "Har du allerede en True Key-profil?",
+			"login": "Log på",
+			"help": "Hjælp"
+		},
+
+		"intro": {
+			"hi": "Hej.",
+			"meetTK": "Vi præsenterer True Key™. En nemmere og mere sikker måde at låse din digitale verden op på. Først skal du oprette en profil.",
+			"watchVideo": "Se video",
+			"createProfile": "Kom i gang ved at oprette din True Key-profil.",
+			"cta": "Lad os komme i gang",
+			"eulaPrivacy": "Når du klikker på nedenstående knap, accepterer du vores <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>slutbrugerlicensaftale</a> og <a class='txt bold secondary btPrivacy'>meddelelse om beskyttelse&nbsp;af personlige oplysninger</a>."
+		},
+
+		"confirm": {
+			"title": "VIGTIGT: Bekræft hovedadgangskoden",
+			"enterAgain": "Indtast hovedadgangskoden igen.",
+			"wontRemember": "Hovedadgangskoden gemmes aldrig, så dine personlige oplysninger og din adgangskode er altid beskyttet. Det er kun dig, der kender den, så du skal huske den.",
+			"promise": "Lover du at huske den?",
+			"submit": "Ja, jeg husker den"
+		},
+		"loginHelp": {
+			"title": "Er der noget galt?",
+			"txt1": "I hovedadgangskoden skelnes der mellem små og store bogstaver, og der er ingen mellemrum. Og du kan ikke kopiere og indsætte den.",
+			"txt2": "Har du glemt hovedadgangskoden? Af hensyn til din sikkerhed har vi ikke registreret den. Du bliver nødt til at oprette en ny True Key™-konto.",
+			"createAccount": "Opret en ny konto"
+		},
+
+		"login": {
+			"title": "Log på din profil",
+			"submit": "Log på",
+			"working": "Dekrypterer data...",
+			"error": "Det virkede ikke"
+		},
+
+		"logout": {
+			"title": "Brug mobilen, inden du går i gang.",
+			"desc": "Send en sms til dig selv med et link til butikken med den gratis app."
+		},
+
+		"onboarding": {
+			"skip": "Spring dette trin over",
+			"skipVideo": "Forstået!",
+			"title": "%{firstName}, din True Key™-profil er oprettet. Lad os prøve den.",
+			"desc": "Vælg et af disse populære websteder, eller tilføj et nyt, så du kan se, hvordan det virker.",
+
+			"noWebsiteFlow": {
+				"desc": "Det er nemt at få glæde af True Key-appen:",
+				"addManually": "Tilføj det første login manuelt"
+			}
+		},
+
+		"emailTaken": {
+			"title": "Der er allerede knyttet en profil til denne mailadresse",
+			"desc": "Vil du logge på som %{emailAddress}?"
+		},
+
+		"signup": {
+			"title": "Opret en True Key™-profil",
+			"cta": "Ok, næste",
+			"working": "Kontrollerer...",
+			"success": "Det ser godt ud!"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Hurtigt login",
+			"desc": "Med Hurtigt login kommer du hurtigere ind på webstedet. Lad True Key-appen angive brugernavnet og adgangskoden."
+		},
+		"passwordReprompt": {
+			"title": "Bed om min hovedadgangskode",
+			"desc": "Det er kun dig, der kender din hovedadgangskode. Bed om den hver gang, før du bliver logget på."
+		},
+		"subdomainOnly": {
+			"title": "Brug den kun til dette underdomæne",
+			"desc": "Brug den til kun at tillade login på dette bestemte underdomæne."
+		},
+		"offlineHelp": {
+			"title": "Offlinefunktion",
+			"desc": "Det ser ud til, at internetforbindelsen er afbrudt eller meget langsom. Du kan stadig se dine adgangskoder, når du er offline, men du kan ikke tilføje og gemme ændringer eller dele en adgangskode."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Sproget er ændret",
+			"desc": "Dit sprog er nu %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Favorit tilføjet",
+			"desc": "Det valgte websted er føjet til Launchpad."
+		},
+		"favoriteRemoved": {
+			"title": "Favorit fjernet",
+			"desc": "Denne favorit er fjernet fra Launchpad."
+		},
+		"favoriteEdited": {
+			"title": "Favorit ændret",
+			"desc": "Ændringerne i denne favorit er gemt."
+		},
+		"passwordGenerated": {
+			"title": "Adgangskoden er kopieret!",
+			"desc": "Den genererede adgangskode er kopieret til udklipsholderen."
+		},
+		"noteCreated": {
+			"title": "Note oprettet!",
+			"desc": "Denne note er føjet til True Key."
+		},
+		"passwordSaved": {
+			"title": "Adgangskoden er gemt!",
+			"desc": "Adgangskoden er føjet til True Key."
+		},
+		"loginShared": {
+			"title": "Adgangskoden er delt",
+			"desc": "Adgangskoden er delt med %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Adgangskoden er fjernet.",
+			"desc": "Denne adgangskode er fjernet fra True Key."
+		},
+		"loginEdited": {
+			"title": "Loginoplysningerne er ændret.",
+			"desc": "Ændringerne i dette login er gemt."
+		},
+		"copied": {
+			"title": "Kopieret!",
+			"desc": "Det er kopieret til udklipsholderen."
+		},
+		"passwordCopied": {
+			"title": "Adgangskoden er kopieret!",
+			"desc": "Adgangskoden er kopieret til udklipsholderen."
+		},
+		"error": {
+			"title": "Der er noget galt",
+			"desc": "Prøv igen"
+		},
+		"legacyAccepted": {
+			"title": "Invitationen er accepteret",
+			"desc": "Denne nedarvede invitation er accepteret."
+		},
+		"legacyDeclined": {
+			"title": "Invitationen er afvist",
+			"desc": "Denne nedarvede invitation er blevet afvist."
+		},
+		"sharingAccepted": {
+			"title": "Invitationen er accepteret",
+			"desc": "Denne invitation til deling er accepteret."
+		},
+		"sharingDeclined": {
+			"title": "Invitationen er afvist",
+			"desc": "Denne invitation til deling er blevet afvist."
+		},
+		"invitationResent": {
+			"title": "Invitationen er sendt igen!",
+			"desc": "Denne invitation er blevet sendt igen."
+		},
+		"oobResent": {
+			"title": "Meddelelsen er sendt igen!",
+			"desc": "Der er sendt en ny meddelelse til din telefon."
+		},
+		"emailResent": {
+			"title": "Mailen er sendt igen!",
+			"desc": "Der er sendt en ny mailbekræftelse til dig."
+		},
+		"legacyRevoked": {
+			"title": "Det nedarvede link er tilbagekaldt.",
+			"desc": "Dette nedarvede link er tilbagekaldt."
+		},
+		"legacySent": {
+			"title": "Der er sendt en anmodning vedrørende det nedarvede sikkerhedsskab.",
+			"desc": "Der er sendt en invitation til %{email}."
+		},
+		"legacySendError": {
+			"title": "Fejl ved nedarvet anmodning",
+			"desc": "Invitationen kunne ikke sendes til %{email}."
+		},
+		"browserNewTab": {
+			"title": "Indstillingen af ny fane i browseren er gemt!",
+			"desc": "Indstillingen for ny fane i browseren er opdateret."
+		},
+		"changedMP": {
+			"title": "Hovedadgangskoden er ændret.",
+			"desc": "Din hovedadgangskode er blevet ændret."
+		},
+		"clearAutosave": {
+			"title": "Automatisk lagring gendannet",
+			"desc": "True Key gemmer nu automatisk adgangskoder på alle websteder."
+		},
+		"feedbackSent": {
+			"title": "Feedback sendt.",
+			"desc": "Tak for din feedback."
+		},
+		"documentCreated": {
+			"title": "Dokumentet er oprettet!",
+			"desc": "Dette dokument er gemt i True Key."
+		},
+		"documentRemoved": {
+			"title": "Dokumentet er slettet",
+			"desc": "Dette dokument er fjernet fra True Key."
+		},
+		"notesEdit": {
+			"title": "Ændringerne er gemt",
+			"desc": "Ændringerne i denne note er gemt."
+		},
+		"notesRemove": {
+			"title": "Noten er fjernet",
+			"desc": "Denne note er fjernet fra True Key."
+		},
+		"settingsChanged": {
+			"title": "Indstillingerne er ændret",
+			"desc": "Dine låseindstillinger er blevet opdateret."
+		},
+		"disabledTrustedDevice": {
+			"title": "Enheden er deaktiveret",
+			"desc": "Din enhed er blevet deaktiveret."
+		},
+		"deviceTrusted": {
+			"title": "Tillid til enheden",
+			"desc": "Der er nu udtrykt tillid til den aktuelle enhed."
+		},
+		"confirmationEmailSent": {
+			"title": "Mailbekræftelse er sendt!",
+			"desc": "Der blev sendt en mailbekræftelse til %{email}"
+		}
+	},
+
+	"logins": {
+		"title": "Loginoplysninger",
+		"editLogin": "Rediger login",
+		"viewLogin": "Vis login",
+		"shareLogin": "Del login",
+		"shareSection": {
+			"title": "Det er sikkert at dele loginoplysninger med familie og venner. <strong>Vælg herunder det login, du vil dele.</strong>"
+		},
+		"copyPassword": "Kopiér adgangskode",
+		"loginAs": "Log på som",
+		"removeLogin": "Fjern dette login",
+		"noLoginFound": {
+			"title": "Kan ikke finde det",
+			"desc": "Måske er dette login ikke gemt endnu. Vil du tilføje det?"
+		},
+		"currentWebsite": "Aktuelt websted",
+		"onboardingPopover": {
+			"title": "Hurtigt login",
+			"desc": "Klik her for at logge på uden at skrive"
+		},
+		"searchAssets": "Søg i %{smart_count} login |||| Søg i %{smart_count} logins",
+		"askForMasterPassword": "Hovedadgangskode",
+		"askForFaceRecognition": "Lås op med dit ansigt",
+		"instantLogin": "Hurtigt login",
+		"useForSubdomainOnly": "Brug kun til underdomænet <span class='primary'>%{domain}</span>",
+		"notShared": "Du deler ikke denne adgangskode med nogen i øjeblikket.",
+		"visiblity": {
+			"title": "Gør adgangskoden:"
+		},
+		"unshare": "ikke delt",
+		"waitingResponse": "venter på reaktion"
+	},
+
+	"sharing": {
+		"title": "Del din <span class='primary'>%{name}</span>-adgangskode",
+		"accessGiven": "Denne adgangskode deles med:"
+	},
+
+	"verifyEmail": {
+		"title": "Du har ikke bekræftet din mailadresse",
+		"subtitle": "Hvis du vil dele adgangskoder, skal du først bekræfte din mailadresse.",
+		"desc": "Kan du ikke finde den mailbekræftelse, vi har sendt til dig? Du kan få en ny nu.",
+		"cta": "Send mailbekræftelse igen"
+	},
+
+	"premiumOnly": {
+		"title": "Kan kun benyttes af premium-brugere",
+		"txt1": "Du kan kun føje en ny adgangskode til True Key, hvis du har en premium-konto",
+		"txt1": "Der er en grænse på 5 gratis adgangskoder, før du skal opgradere. Opgrader nu, og slip for begrænsningerne!"
+	},
+
+	"generator": {
+		"title": "Generér en stærk adgangskode på farten.",
+		"subtitle": "Angiv dine indstillinger, og tryk på knappen \"Generér og kopiér\" for at oprette en ny adgangskode.",
+		"placeholder": "Klik på knappen for at generere en adgangskode",
+		"cta": "Generér og kopiér",
+		"length": "Længde på adgangskode",
+
+		"letters": "Brug bogstaver",
+		"digits": "Brug tal",
+		"symbols": "Brug specialtegn",
+		"capitals": "Brug store bogstaver",
+		"showInForms": "Vis automatisk generatoren i formularer",
+
+		"history": {
+			"title": "Genererede adgangskoder",
+			"noGeneratedPassword": "Der er ikke genereret nogen adgangskoder."
+		}
+	},
+
+	"legacy": {
+		"title": "Nedarvet sikkerhedsskab",
+		"countingOnYou": "Personer, der stoler på dig",
+		"heirs": "Personer, som du stoler på",
+		"sentTimer": "for %{time} siden",
+		"resendInvitation": "Send invitation igen",
+		"assignTrustees": "Angiv, hvem du har tillid til",
+
+		"txtFeature": {
+			"txt1": "Beskyt din digitale identitet hele livet – og bagefter.",
+			"txt2": "Funktionen Nedarvet sikkerhedsskab er den bedste måde at give dit digitale liv videre til dem, du stoler på – hvad enten det er din partner, dit barn, en ven eller en kollega.",
+			"txt3": "Den person, du angiver tillid til i True Key, får ikke adgang til din konto, før tiden er inde. %{htmlBefore}Se video%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "Du skal bekræfte din mailadresse",
+		"descLegacy": "Du kan ikke angive, hvem du har tillid til, før mailadressen er bekræftet",
+		"getNewEmail": "Er du ikke sikker på, at du stadig har den mailbekræftelse, vi sendte til dig tidligere? Du kan få en ny nu.",
+		"cta": "Send mig en ny mailbekræftelse"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Loginoplysninger",
+		"wallet": "Tegnebog",
+		"notes": "Sikre noter",
+		"legacy": "Nedarvet sikkerhedsskab",
+		"generator": "Adgangskodegenerator",
+		"settings": "Indstillinger",
+		"preferences": "Præferencer",
+		"support": "Hjælp og support",
+		"tkProfile": "Min True Key-profil",
+		"logout": "Log af"
+	},
+
+	"browserNewTab": {
+		"title": "Ny fane i browser",
+		"txt1": "Angiv, hvilken webside browseren skal vise, når den åbnes:",
+		"startpage": "Min True Key Launchpad",
+		"default": "Min standardindstilling i browseren",
+		"custom": "Min egen destination:"
+	},
+
+	"changeMP": {
+		"title": "Skift hovedadgangskode",
+		"labels": {
+			"current": "Aktuel hovedadgangskode",
+			"new": "Ny hovedadgangskode",
+			"confirmNew": "Ny hovedadgangskode"
+		},
+		"placeholders": {
+			"current": "Indtast den aktuelle hovedadgangskode",
+			"new": "Indtast den nye hovedadgangskode",
+			"confirmNew": "Indtast den nye hovedadgangskode igen"
+		},
+		"cta": "Skift adgangskode"
+	},
+
+	"lockUnlock": {
+		"title": "Det er dig, der bestemmer",
+		"desc": "Tilpas True Key-appen med lige så mange faktorer, som du vil. Profilen bliver stærkere, hvis du tilføjer flere faktorer.",
+
+		"noYap": {
+			"title": "Fortæl True Key-kontoen, hvornår den skal låse automatisk.",
+			"desc": "Du skal vælge den ønskede tid på nedenstående rullemenu."
+		},
+
+		"basic": "Grundlæggende",
+		"advanced": "Avanceret",
+
+		"autolock": {
+			"title": "Automatisk låsning",
+			"desc": "Efter hvor lang tids passivitet skal True Key-kontoen låses?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Launchpads synlighed",
+			"desc": "Vælg, om True Key Launchpad skal være synligt, når det er låst."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "Du har tillid til den enhed, du bruger.",
+			"txt2": "Når du har tillid til en enhed, kan du tilføje flere sikkerhedsfaktorer, f.eks. Lås op med dit ansigt."
+		}
+	},
+
+	"preferences": {
+		"title": "Præferencer",
+		"modals": {
+			"autologin": {
+				"title": "Hurtigt login",
+				"desc": "Med Hurtigt login kommer du hurtigere ind på websteder. Lad True Key-appen angive brugernavnet og adgangskoden.",
+				"txt1": "Med Hurtigt login kan True Key automatisk logge dig på et websted, som du tidligere har gemt på kontoen, hvis du bare skriver URL-adressen (f.eks. www.eksempel.com) i browseren.",
+				"txt2": "Hvis Hurtigt login er slået TIL, registrerer True Key webstedets URL-adresse, og du bliver automatisk logget på – uden at du behøver klikke flere gange med musen.",
+				"txt3": "Hvis Hurtigt login er slået FRA, registrerer True Key webstedets URL-adresse og angiver dit brugernavn og din adgangskode, men du skal selv klikke på knappen Log på."
+			},
+			"clearAutologin": {
+				"title": "Gendan automatisk lagring på alle websteder",
+				"desc": "Hvis du beder True Key om ikke at huske din adgangskode på visse websteder og senere ændrer mening, skal du klikke på Gendan, så True Key automatisk kan gemme adgangskoder, når du surfer på nettet."
+			}
+		},
+		"import": {
+			"title": "Gemmer du i øjeblikket dine adgangskoder på en anden tjeneste? Føj dem til din True Key-konto.",
+			"desc": "Med importfunktionen kan du nemt føje adgangskoder til din True Key-konto.",
+			"cta": "Importér adgangskoder"
+		},
+		"newTab": "Startside og ny fane i browseren",
+		"restoreAutosave": "Gendan automatisk lagring på alle websteder",
+		"restore": "Gendan",
+		"instantLogin": "Hurtigt login",
+		"changeLanguage": "Skift sprog"
+	},
+
+	"shareSocial": {
+		"title": "Spred budskabet",
+		"title2": "Del kærligheden",
+		"desc": "Er du glad for at bruge True Key-appen? Del med dine venner, og få belønninger.",
+		"share": "Del",
+		"tweet": "Tweet",
+		"rateChrome": "Bedøm app",
+		"twitterMessage": "Du kan blive blandt de første, der slipper for adgangskoder. Reservér #TrueKey by @IntelSecurity, så du får adgang til det tidligt."
+	},
+
+	"settingsNav": {
+		"profile": "Min True Key-profil",
+		"lockUnlock": "Låseindstillinger",
+		"windowsLock": "Lås op med dit ansigt i Windows",
+		"preferences": "Præferencer",
+		"support": "Hjælp og support",
+		"shareSocial": "Spred budskabet",
+		"trustedDevices": "Enheder, du har tillid til"
+	},
+
+	"tkProfile": {
+		"title": "Mine faktorer",
+		"hi": "Hej %{fullname}",
+		"txt1": "Jo flere faktorer du tilføjer, %{htmlBefore}jo stærkere bliver din True Key-profil.%{htmlAfter}",
+		"activeFactors": "Aktive faktorer",
+		"active": "Aktivt",
+		"strength": "Profilstyrke",
+
+		"accountStatus": {
+			"title": "Abonnementsstatus",
+			"premium": "Premium",
+			"ends": "Udløber"
+		},
+
+		"layerEmail": "Tilføj din mailadresse som en tillidsfaktor, og knyt den til True Key-profilen. <strong>Du får en meddelelse i indbakken, når du logger på en ny enhed eller én, du ikke har tillid til.</strong>",
+		"layerSwipe": "Hvis du vælger, at der skal sendes en meddelelse til mobilenheden, <strong>giver det ekstra beskyttelse, når du logger ind på dine konti</strong>. Du skal acceptere meddelelsen, inden True Key vil lade dig logge på.",
+		"layerFace": {
+			"txt1": "<strong>Log på uden at angive en adgangskode.</strong> Lås op med dit ansigt bruger dit ansigts entydige dimensioner – såsom afstanden mellem øjne og næse – til at genkende dig og give dig adgang.",
+			"txt2": "Lås op med dit ansigt fås til pc'er og Android-enheder."
+		},
+		"layerPassword": "Beskyt din profil med en stærk hovedadgangskode – og husk den for alt i verden! <strong>Hovedadgangskoden kan ikke nulstilles, hvis du glemmer den. Du er den eneste, som kender den.</strong> Hvis du tilføjer flere faktorer, bruges hovedadgangskoden som backup, hvis du ikke kan logge på med dem.",
+		"layerDevice" : "True Key kan genkende de enheder, du ejer eller bruger ofte. Tilføj alle de enheder, som du åbner True Key-profilen på. <strong>Ingen andre kan logge på din konto,</strong> fordi der kræves ekstra faktorer, når nogen forsøger at logge på fra en ukendt enhed"
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Hvor sikker skal funktionen Windows – Lås op være?",
+		"desc": "Vælg det ønskede sikkerhedsniveau.",
+
+		"basic": {
+			"settingName": "Grundlæggende",
+			"title": "Med indstillingen Grundlæggende kan du logge på meget hurtigt",
+			"desc": "Denne indstilling anbefales, hvis du bruger en personlig computer i et miljø, som du har tillid til."
+		},
+		"advanced": {
+			"settingName": "Avanceret",
+			"title": "Med indstillingen Avanceret aktiveres beskyttelsen mod spoofing",
+			"desc": "Denne indstilling anbefales til personlige og offentlige computere på arbejdet og i hjemmet."
+		},
+		"boosted": {
+			"settingName": "Superstærk",
+			"title": "Med indstillingen Superstærk aktiveres beskyttelsen mod spoofing samt direkte registrering",
+			"desc": "Hvis du vælger indstillingen Superstærk, skal du blinke med øjnene for at bevise, at det er dig. Denne indstilling anbefales til offentlige computere i miljøer, som du ikke har tillid til."
+		},
+		"howTo": {
+			"title": "Du kan logge på Windows med dit ansigt",
+			"subtitle": "Er du træt af at skrive adgangskoden til Windows?",
+			"desc": "Brug True Key til at låse enheden op. Det er hurtigt og enkelt.",
+			"cta": "Find ud af, hvordan du aktiverer"
+		},
+		"howToModal": {
+			"title": "Du kan logge på Windows med dit ansigt",
+			"desc": "Følg disse enkle anvisninger, så du kan logge på Windows med dit ansigt:",
+			"step1": "Lås skærmen (Windows + L)",
+			"step2": "Klik på knappen Tilbage",
+			"step3": "Klik på True Key-ikonet",
+			"tip": "Du kan låse skærmen vha. tastaturgenvejen Windows + L"
+		}
+	},
+
+	"videos": {
+		"title": "Videoer",
+		"intro": {
+			"title": "Indledningen",
+			"desc": "Hvad er True Key, og hvorfor har du brug for det? Det kan du finde ud af her!"
+		},
+		"gettingStarted": {
+			"title": "Rundvisning, som kan hjælpe dig i gang",
+			"desc": "Er du ny bruger? I denne hurtige produktrundvisning kan du se, hvordan du får størst udbytte af True Key."
+		},
+		"security": {
+			"title": "Sikkerhed",
+			"desc": "Vi prioriterer din sikkerhed højt. Her kan du se, hvordan vi beskytter dine data."
+		},
+		"sharing": {
+			"title": "Del en adgangskode",
+			"desc": "Endelig! Krypteret deling, som alle kan finde ud af at bruge!"
+		},
+		"sharingSecurity": {
+			"title": "Sikkerhed ved deling",
+			"desc": "Krypteret deling – det er mere kompliceret, end man skulle tro, at gøre det så nemt at bruge."
+		},
+		"legacy": {
+			"title": "Eftermælet",
+			"desc": "Det eneste adgangskodeværktøj, der beskytter dine data hele livet – og bagefter."
+		}
+	},
+
+	"support": {
+		"title": "Hjælp og support",
+		"feedback": {
+			"title": "Kontakt os",
+			"desc": "Hvad synes du om True Key-tjenesten?",
+			"needsWork": "Skal forbedres",
+			"awesome": "Fantastisk",
+			"leaveComment": "Skriv en kommentar:",
+			"placeholder": "Vi sætter stor pris på din feedback. Skriv dine kommentarer her. På forhånd tak!",
+			"thankYou": "Mange tak!"
+		},
+		"getMoreSupport": "Mere support"
+	},
+
+	"wallet": {
+		"title": "Tegnebog",
+		"add": {
+			"subtitle1": "Opbevar dine data i sikkerhed",
+			"subtitle2": "Vælg en af nedenstående kategorier for at føje det første element til tegnebogen"
+		},
+		"search": "Søg i tegnebogen",
+		"types": {
+			"identity": "Adressebog",
+			"cc": "Kreditkort",
+			"drivers": "Kørekort",
+			"membership": "Medlemskort",
+			"passport": "Pas",
+			"ssn": "CPR-nummer"
+		},
+		"remove": {
+			"title": "Fjernelse af et dokument",
+			"confirm": "Er du sikker på, at du vil fjerne dette dokument fra True Key?",
+			"permanent": "Denne handling kan ikke fortrydes."
+		},
+		"edit": {
+			"title": "Rediger dokument"
+		}
+	},
+
+	"notes": {
+		"title": "Sikre noter",
+		"add": {
+			"title": "Tilføj note"
+		},
+		"empty": {
+			"title": "Findes ikke",
+			"desc": "Måske er den note, du leder efter, ikke gemt i True Key.",
+			"cta": "Opret note"
+		},
+		"sort": {
+			"alphabetically": "Alfabetisk",
+			"dateCreated": "Oprettelsesdato"
+		},
+		"search": "Søg i %{smart_count} sikker note |||| Søg i %{smart_count} sikre noter",
+		"remove": {
+			"title": "Fjernelse af en note",
+			"desc": "Er du sikker på, at du vil fjerne denne note fra True Key?",
+			"permanent": "Denne handling kan ikke fortrydes."
+		},
+		"edit": {
+			"title": "Sikker note"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Brug standardlogin"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) vil tilføje dig som sin arving."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) har delt sin %{htmlBefore}%{title}%{htmlAfter}-adgangskode med dig."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) vil dele en adgangskode med dig."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Status for konto:",
+		"pctProgress": "%{percentage} %",
+		"addLogin": {
+			"title": "Tilføj dit første login",
+			"desc": "Gem et login i True Key"
+		},
+		"oneClick": {
+			"title": "Prøv Hurtigt login",
+			"desc": "Log på uden så meget som at røre tastaturet"
+		},
+		"addFace": {
+			"title": "Tilføj funktionen Lås op med dit ansigt",
+			"desc": "Den gør det meget hurtigere og nemmere at logge på."
+		},
+		"addLogins": {
+			"title": "Tilføj dine første fire logins",
+			"desc": "Føj flere logins til din True Key-profil"
+		},
+		"sharing": {
+			"title": "Del en adgangskode",
+			"desc": "Det er sikkert at dele med familie, venner og kolleger"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "Med ansigtet kan du logge på hurtigere.",
+		"txt1": "Konfigurer funktionen Lås op med dit ansigt, så du hurtigt og nemt får adgang til True Key™-appen.",
+		"txt2": "Du kan også kombinere funktionen med din hovedadgangskode, så den fungerer som en anden faktor, der er nem at bruge.",
+		"txt3": "Der er ingen grund til bekymring. Vi gemmer og deler ikke dit billede.",
+		"cta": "Konfigurer funktionen Lås op med dit ansigt"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Tilføj en enhed, du har tillid til",
+		"txt1": "Se i din mail for at bekræfte.",
+		"txt2": "Se i din indbakke, før du fortsætter."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Vælg en enhed, du har tillid til",
+		"txt": "Du har aktiveret godkendelse med to faktorer. Vælg en enhed, du har tillid til, og som skal modtage denne meddelelse."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Deaktiver en enhed, du har tillid til",
+		"txt": "Du har valgt at deaktivere følgende enhed: \"%{deviceName}\"",
+		"confirm": "Deaktiver"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "Du har tillid til den enhed, du bruger.",
+		"txt": "Når du har tillid til en enhed, kan du tilføje flere sikkerhedsfaktorer, f.eks. Lås op med dit ansigt."
+	},
+
+	"overlayInstallExe": {
+		"title": "Du er næsten færdig – der er tre trin endnu",
+		"txt": "True Key-softwaren hentes. Virker det ikke? ",
+		"restartDownload": "Klik her for at begynde overførslen igen."
+	},
+
+	"overlayOobPending": {
+		"txt": "Vi har lige sendt dig en meddelelse om, at du skal bekræfte dit login. Kontrollér den enhed, du har tillid til.",
+		"btResend": "Send meddelelsen igen"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "Hovsa, push-meddelelsen er udløbet.",
+		"txt2": "Prøv igen med en ny meddelelse",
+		"btResend": "Har du ikke modtaget meddelelsen? Send igen"
+	},
+
+	"overlayInstallFace": {
+		"title": "Log på hurtigere",
+		"txt": "Spar tid. Brug Lås op med dit ansigt i stedet for at skrive hovedadgangskoden."
+	},
+
+	"overlayTrustDevice": {
+		"title": "Har du tillid til denne enhed?",
+		"txt1": "Det ser ud til, at du prøver at logge på en enhed, som du ikke har tillid til.",
+		"txt2": "Hvis du føjer denne computer til listen over enheder, som du har tillid til, kan du logge hurtigere på med én eller flere faktorer.",
+		"dontTrust": "Nej, har ikke tillid",
+		"trustComputer": "Har tillid til denne computer"
+	},
+
+	"overlayEmailPending": {
+		"title": "Bekræft din mailadresse",
+		"txt": "Se i din mail for at bekræfte denne enhed.",
+		"btResend": "Send mail igen"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Hovsa, mailmeddelelsen er udløbet.",
+		"txt2": "Prøv igen med en ny meddelelse.",
+		"btResend": "Har du ikke modtaget meddelelsen? Send igen"
+	},
+
+	"overlayUpdate": {
+		"title": "Opdater True Key-appen",
+		"txt": "Der er en ny version klar til installation; klik på Opdater for at installere.",
+		"btUpdate": "Opdater nu"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Indtast din hovedadgangskode",
+			"enterMasterPasswordHere": "Indtast din hovedadgangskode her",
+			"invalidPassword": "Ugyldig adgangskode"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Kræver bekræftelse"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Automatisk låsning",
+		"text": "Hvornår skal True Key-appen låses?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Launchpads synlighed",
+		"text": "Vælg, om dine foretrukne websteder skal være skjulte eller synlige, når Launchpad er låst.",
+		"visible": "<span class='bold'>Synlig:</span> Se Launchpad, selvom den er låst.",
+		"invisible": "<span class='bold'>Skjult:</span> Skjul Launchpad, når den er låst."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Enhed, du har tillid til",
+			"helpText": "Knyt enheden til din True Key-profil, så du får et ekstra sikkerhedslag.",
+			"enroll": "Har tillid til enhed"
+		},
+		"masterPassword": {
+			"title": "Hovedadgangskode",
+			"helpText": "Opret en stærk hovedadgangskode til din True Key-profil. Vi husker den ikke, så det skal du selv gøre."
+		},
+		"email": {
+			"title": "Mail, du har tillid til",
+			"helpText": "Bekræft din mailadresse for at aktivere alle funktionerne. Du kan også bruge din mailadresse som 2. faktor, så sikkerheden forbedres.",
+			"enroll": "Send mailbekræftelse"
+		},
+		"face": {
+			"title": "Lås op med dit ansigt",
+			"helpText": "Med True Key-funktionen Lås op med dit ansigt bruges din unikke ansigtsmatematik til at bekræfte, at det er dig. Du kan bruge Lås op med dit ansigt som primær loginmetode eller som en ekstra sikkerhedsfaktor.",
+			"enroll": "Tilføj nu"
+		},
+		"mobile": {
+			"title": "Lås op med strygebevægelse (kun Android)",
+			"helpText": "Med funktionen Lås op med strygebevægelse sender du en push-meddelelse til din mobiltelefon som 2. faktor – du skal bare stryge hen over meddelelsen for at låse din computerprofil op. Denne funktion kan bruges i stedet for hovedadgangskoden eller sammen med den, så sikkerheden øges.",
+			"enroll": "Tilføj telefon"
+		},
+		"fingerprint": {
+			"title": "Lås op med et tryk",
+			"helpText": "Med dit fingeraftryk opnår du sikker adgang til True Key med et ekstra sikkerhedslag. Denne funktion kommer snart."
+		}
+	},
+
+	"killswitch": {
+		"title": "Obligatorisk opdatering",
+		"chrome": {
+			"txt1": "Denne version af True Key-udvidelsen understøttes ikke mere.  Chrome har automatisk opdateret til den nyeste version.",
+			"txt2": "Genstart browseren."
+		},
+		"ie": {
+			"txt1": "Denne version af True Key understøttes ikke mere. Klik på knappen herunder for at opdatere til den nyeste version",
+			"cta": "Opdater nu"
+		},
+		"downloading": "Denne version af True Key understøttes ikke mere. En opdateret version downloades nu. Den er klar om få minutter ..."
+	},
+
+	"downloadExe": {
+		"title": "Godt valg",
+		"txt1": "Med Lås op med dit ansigt er det ikke nødvendigt at skrive hovedadgangskoden. Klik herunder for at hente installationsprogrammet."
+	},
+
+	"enableIE": {
+		"appInstalled": "App installeret",
+		"enableIt": "Aktivér den nu i browseren",
+		"cta": "Klik herunder efter aktivering",
+		"title": "Det sidste trin",
+		"txt1": "Klik på \"Aktivér\" herunder for at begynde at bruge True Key-appen. Det skal du kun gøre én gang.",
+		"txt2": "%{htmlBefore}Klik her%{htmlAfter}, når du har gjort det.",
+		"appInstalled" : "App installeret.",
+		"enableIt" : "Aktivér den nu i browseren.",
+		"havingTrouble" : "Er der problemer? Opdater siden."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "Du er allerede beskyttet, fordi du bruger en enhed, du har tillid til:",
+		"trustedDevice": "Du har tillid til denne enhed (\"%{deviceName}\")",
+		"chooseFactors": "Vælg, hvilken ekstra faktor der skal låse appen op:",
+		"simple": "Enkel",
+		"complex": "Kompleks",
+		"faceUnlock": "Lås op med dit ansigt",
+		"addFace": "Tilføj ansigt",
+		"addSwipe": "Tilføj funktionen Lås op med strygebevægelse",
+		"masterPassword": "Hovedadgangskode",
+		"theseFactorsAreRequired": "Disse faktorer kræves også, hvis du vil have adgang til appen:",
+
+		"confirmAdvanced": {
+			"title": "Bare så du ved det",
+			"content": "Når du logger på med indstillingen \"Avanceret\", skal enheden have forbindelse til internettet. Hvis du ikke kan oprette forbindelse, kan du ikke få adgang til din True Key-profil.",
+			"confirm": "Forstået"
+		}
+	},
+
+	"faq": {
+		"title": "Ofte stillede spørgsmål",
+
+		"Q1": "Hvad er True Key™?",
+		"A1": "True Key™ by Intel Security har givet verden et nyt og banebrydende redskab til at logge på med.  Med True Key slipper du for at skulle huske flere adgangskoder, og du kan hurtigt logge på apps, websteder og enheder vha. entydige faktorer som f.eks. dine ansigtstræk og id'er til de enheder, du ejer.  Jo flere faktorer du bruger, jo stærkere bliver True Key, og på den måde bliver det endnu nemmere at bekræfte, at det virkelig er dig. Med True Key er det dig, der er adgangskoden.  Du får større kontrol over din digitale identitet og vil kunne færdes hurtigere, nemmere og mere sikkert i den digitale verden.",
+
+		"Q2": "Hvordan fungerer det?",
+		"A2": "Åbn din True Key-konto på en smartphone, tablet-pc eller pc, og opret en profil, så True Key ved, at det er dig. De websteder, der understøtter True Key, ved automatisk, at det er dig, så du behøver ikke at skrive – eller huske – adgangskoden. På de websteder, som endnu ikke understøttes af True Key, anvendes den indbyggede adgangskodestyring til at registrere og automatisk indtaste dine brugernavne og adgangskoder. Med True Key er det dig, der er adgangskoden.  Du får større kontrol over din digitale identitet og vil kunne færdes hurtigere, nemmere og mere sikkert i den digitale verden.",
+
+		"Q3": "Hvorfor skal jeg logge på med True Key?",
+		"A3": "True Key gør dit liv nemmere og fortæller den digitale verden, at det virkelig er dig. Når du har logget på True Key én gang vha. entydige attributter som din ansigtsmatematik eller et fingeraftryk, kan du straks komme ind på alle de websteder, du vil.",
+
+		"Q4": "Kan flere personer bruge deres True Key-konto på en fælles computer?",
+		"A4": "Ja, True Key genkender dig og sørger for, at du kun kan logge på dine egne konti. Du skal bare logge af og logge på igen.",
+
+		"Q5": "Hvor sikkert er True Key?",
+		"A5": "True Key er et sikkerhedsprodukt, som alle kan finde ud af at bruge. Dine data krypteres med AES-256, som er en af de stærkeste krypteringsmetoder, der findes. Du kan også forstærke True Key ved at tilføje flere attributter – eller \"faktorer\" – som f.eks. din ansigtsmatematik eller et fingeraftryk.",
+
+		"Q6": "Hvordan krypteres og dekrypteres mine data?",
+		"A6": "True Key lagrer dine data lokalt på din enhed vha. AES-256-kryptering, som er en af de stærkeste krypteringsmetoder, der findes.  Dine fortrolige data forlader aldrig enheden, medmindre de krypteres først, og det er kun dig (og dem, du giver tilladelse til det), der har adgang til dem.",
+
+		"Q7": "Kan en True Key-medarbejder få adgang til data på min konto eller andre fortrolige oplysninger?",
+		"A7": "Nej, med True Key er det dig, der er adgangskoden.  Dataene krypteres og dekrypteres på enheden, og du har altid kontrol over dem. True Key anvender faktorer, som er entydige for dig – herunder din ansigtsmatematik, et fingeraftryk eller din hovedadgangskode – til kun at kryptere og dekryptere data, når du har brug for det.",
+
+		"Q8": "Hvor foretages krypteringen og dekrypteringen af mine data?",
+		"A8": "Dataene krypteres og dekrypteres lokalt på din enhed. Det er kun krypterede data, der gemmes på True Key-serverne.",
+
+		"Q9": "Gemmes mine data på True Key-serverne?",
+		"A9": "Ja, dine krypterede True Key-data gemmes på en sikker True Key-server. Du kan kun få adgang til disse oplysninger vha. faktorer, der er entydige for dig – herunder din ansigtsmatematik eller hovedadgangskode.",
+
+		"Q10": "Kan jeg bruge True Key-funktionen Lås op med dit ansigt på Windows-enheder?",
+		"A10": "True Key-funktionen Lås op med dit ansigt lanceres til Windows-enheder i starten af 2015.",
+
+		"Q11": "Skal jeg have et bestemt webkamera?",
+		"A11": "True Key virker med kameraet på enhedens forside og med kameraer, der er tilsluttet via USB.",
+
+		"Q12": "Kan andre logge på vha. et billede af mig?",
+		"A12": "Nej, True Key indeholder avanceret beskyttelse mod \"spoofing\" for at forhindre den slags loginforsøg. Du er i gode hænder med Intel Security.",
+
+		"Q13": "Hvordan kan I vide, at det er mig, der logger på?",
+		"A13": "Du er i gode hænder med Intel Security. True Key anvender nogle meget komplicerede algoritmer til at bekræfte, at det er dig, herunder biometriske data, et billede af dit ansigt, et fingeraftryk og andre attributter, som du indstiller, og som er entydige for dig.",
+
+		"Q14": "Hvor kan jeg bruge True Key-funktionen Lås op med dit ansigt, og på hvilke platforme?",
+		"A14": "Du kan hente True Key på alle populære enheder, men ansigtslogin findes i øjeblikket kun til Windows 8 og 8.1, Internet Explorer 10 + 11 samt Google Chrome.  I løbet af de kommende måneder vil vi udgive funktionen til flere platforme og åbne flere muligheder for godkendelse."
+	},
+
+	"privacy": {
+		"title": "Dig selv, dine data og True Key",
+
+		"Q1": "Først dine personlige oplysninger",
+		"A1": "Intel Security respekterer dine personlige oplysninger. Læs vores %{privacyBefore}meddelelse om beskyttelse af personlige oplysninger%{linkAfter} for at få flere oplysninger om, hvordan Intel Security håndterer personlige oplysninger.",
+
+		"Q2": "Hvilke oplysninger registrerer True Key-appen?",
+		"A2": "<p>Hvis du giver din tilladelse, registrerer True Key-appen dit billede og konverterer det til en række mål, som kaldes ”ansigtsmatematik.”</p><p>Når ansigtsmatematikken er beregnet, slettes billedet. Ansigtsmatematikken krypteres og gemmes lokalt på din enhed.  Derefter gemmes de krypterede oplysninger i et sikkert Intel Security-datacenter, så du nemt og sikkert kan få adgang til dine enheder og websteder.</p><p>Intel Security har ikke adgang til dine fortrolige oplysninger, der er gemt i True Key-appen, fordi de krypteres, før de sendes til Intel Security, og beskyttes af en hovedadgangskode, som kun du selv kender.</p><p>Desuden:</p><p>True Key-appen gemmer også de adgangskoder, brugernavne og tegnebogsoplysninger, som du angiver.  Disse oplysninger krypteres på enheden og kan synkroniseres med andre enheder, når de krypterede oplysninger er sendt til de sikre True Key-servere, som skal kommunikere med dig.</p>",
+
+		"Q3": "Hvad er ansigtsmatematik?",
+		"A3": "Ansigtsmatematik er en beregning af dine ansigtsmål, som gør det muligt for funktionen Lås op med dit ansigt at identificere dig.",
+
+		"Q4": "Hvordan bruges min ansigtsmatematik?",
+		"A4": "Intel Security bruger ansigtsmatematikken sammen med funktionen Lås op med dit ansigt til at genkende dig og logge dig på en enhed eller et websted, hvor True Key er aktiveret.",
+
+		"Q5": "Hvor gemmes alle oplysningerne?",
+		"A5": "Skabelonen til ansigtsmatematik krypteres og gemmes på dine enheder. De krypterede oplysninger gemmes også i et Intel Security-datacenter, så du kan synkronisere oplysningerne på dine enheder.",
+
+		"Q6": "Hvordan fjernes funktionen Lås op med dit ansigt fra min enhed?",
+		"A6": "Du kan fjerne eller deaktivere funktionen ved at deaktivere din konto eller afinstallere programmet vha. enhedens eller systemets muligheder for afinstallation.",
+
+		"Q7": "Hvordan sletter jeg min ansigtsmatematik i Intel Securitys datacenter?",
+		"A7": "Du kan anmode om at få slettet din ansigtsmatematik ved at henvende dig til True Key-%{customerSupportBefore}kundeservicen%{linkAfter}. Når du har identificeret dig, kan du anmode om at få slettet din ansigtsmatematik.",
+
+		"Q8": "Husker True Key-appen de websteder, jeg bruger?",
+		"A8": "Når du gemmer websteder og loginoplysninger i din True Key-profil, kan du se oplysningerne i True Key Launchpad.",
+
+		"Q9": "Vil True Key-tjenesten bruge mine oplysninger til andre formål?",
+		"A9": "Nej, True Key-tjenesten har ikke adgang til dine dekrypterede oplysninger.",
+
+		"Q10": "Hvor kan jeg få flere oplysninger om True Key-appen?",
+		"A10": "Du kan få flere oplysninger om Lås op med dit ansigt og True Key-appen på True Key-webstedet, %{websiteBefore}truekey.com%{linkAfter}, og hos True Key-%{customerSupportBefore}kundeservicen%{linkAfter}."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Tilføj en enhed, du har tillid til",
+		"lastUsed": "Sidst anvendt:",
+		"twoFactor": "Bekræftelse med to faktorer:",
+		"title": "Vælg og administrer enheder, som du har tillid til, til din True Key-profil.",
+		"txt1": "Du bestemmer, hvilke enheder True Key-profilen skal have tillid til. Brug disse enheder til godkendelse med en anden faktor, så du kan bestemme, hvor du vil have adgang til dine websteder og apps. Husk, at du når som helst kan tilføje eller fjerne en enhed."
+	},
+
+	"startpage": {
+		"searchNoResults": "Der blev ikke fundet nogen resultater.",
+
+		"addFavorite": {
+			"title": "Tilføj en favorit",
+			"placeholder": "Skriv et websteds navn eller URL-adresse",
+			"titleSuggestions": "Her er nogle få forslag:",
+			"moreSuggestions": "Flere forslag"
+		},
+
+		"addManually": {
+			"title": "Tilføj en favorit manuelt",
+			"label": {
+				"websiteName": "Navn på websted",
+				"url": "URL-adresse"
+			},
+			"placeholders": {
+				"websiteName": "f.eks.: Facebook-",
+				"url": "f.eks.: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Rediger favorit"
+		},
+
+		"ctaEdit": "Rediger denne favorit",
+
+		"search": {
+			"onTheWeb": "Søg efter \"%{filter}\" på internettet",
+			"logins": "Dine gemte loginoplysninger",
+			"placeholder": "Søg på internettet eller i True Key Launchpad"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Favoritter",
+			"description": "De svarer til bogmærker. Du kan tilføje, fjerne og organisere dem, som du vil. Med favoritter får du hurtig adgang til de websteder, du bruger mest – også til dem, hvor du ikke har gemt loginoplysninger."
+		},
+		"logins": {
+			"title": "Loginoplysninger",
+			"description": "Her finder du de loginoplysninger, du har gemt i din profil. Du kan tilføje, vise og redigere oplysningerne og administrere sikkerhedsindstillinger for loginoplysningerne til de enkelte websteder."
+		},
+		"menu": {
+			"title": "Din menu",
+			"description": "Under Menu har du adgang til indstillinger, sikkerhedsindstillinger, support m.m."
+		},
+		"search": {
+			"title": "Søg",
+			"description": "Hurtig søgning på internettet eller i din True Key-profil efter de oplysninger, du skal bruge i en fart."
+		},
+		"profile": {
+			"title": "Profil",
+			"description": "Vis og opdater dine profilindstillinger. Klik på meddelelsesikonet, når der er en besked til dig."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Du er næsten færdig",
+		"description": "Nu skal du aktivere True Key™-udvidelsen. Vælg en af eller alle dine browsere.",
+		"activated": "True Key™ er allerede aktiveret på <em>%{activatedBrowser}</em>;<br> føj det også til <em>%{availableBrowser}</em>.",
+
+		"overlayTitle": "True Key™ er aktiveret",
+		"overlayText": "Du kan hurtigt logge på alle dine foretrukne websteder uden at skulle skrive adgangskoder, hvis du <strong>aktiverer True Key</strong>.",
+		"errorNoBrowserSelected": "Vælg mindst en browser for at aktivere True Key"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "Vi præsenterer True Key™ by Intel Security",
+			"subtitle": "Lås den digitale verden op, og slip for besværet med mange adgangskoder",
+			"description": "True Key-appen gør det muligt at logge på vha. entydige sikkerhedsfaktorer, som giver dig sikker og hurtig adgang til dine foretrukne websteder, apps og enheder."
+		},
+		"sync": {
+			"subtitle": "Nyd den bevægelsesfrihed, du får med automatisk synkronisering til både din telefon, tablet-pc og computer",
+			"description": "True Key-appen sørger for sikker synkronisering til din telefon, tablet-pc og computer – så du altid har oplysningerne ved hånden."
+		},
+		"encrypted": {
+			"subtitle": "Beskyt og kryptér dine personlige oplysninger, og sørg for, at de opbevares i sikkerhed",
+			"description": "Dataene gemmes lokalt på din enhed og forlader den kun, hvis de er krypteret. Det er kun dig, der har adgang til dem."
+		},
+		"unique": {
+			"subtitle": "Gør din profil unik – ligesom du selv er",
+			"description": "Med True Key-appen er det dig, der er adgangskoden. Jo flere faktorer du bruger, jo stærkere bliver din True Key-profil – så den digitale verden ved, at det virkelig er dig."
+		},
+		"skipTour": "Spring rundvisning over",
+		"iGetIt": "Jeg er med.",
+		"getStarted": "Lad os komme i gang"
+	},
+
+	"slideshow2": {
+		"meetTK": "Vi præsenterer True Key by Intel Security",
+		"multiple_passwords": {
+			"title": "Slip for besværet med mange adgangskoder",
+			"desc": "True Key-appen husker adgangskoderne, så du ikke behøver at gøre det."
+		},
+		"sync": {
+			"title": "Synkroniser adgangskoderne på alle dine enheder",
+			"desc": "Installer True Key-appen på alle dine enheder, så du altid har adgangskoderne ved hånden."
+		},
+		"encrypted": {
+			"title": "Beskyt og kryptér dine adgangskoder",
+			"desc": "Med True Key-appen krypteres adgangskoderne på enheden, så det kun er dig, der har adgang til dem."
+		}
+	},
+
+	"enable": {
+		"lastStep": "Det sidste trin",
+		"clickEnable": "Klik på \"Aktivér\" herunder for at begynde at bruge True Key-appen. Det skal du kun gøre én gang.",
+		"clickDone": "%{htmlBefore}Klik her%{htmlAfter}, når du har gjort det"
+	},
+
+	"activation": {
+		"title": "Aktivér True Key™",
+		"txtEnable": "Du kan hurtigt logge på alle dine foretrukne websteder uden at skulle skrive <br>adgangskoder, hvis du <strong>aktiverer True Key-udvidelsen</strong>.",
+		"txtInstall": "Du kan hurtigt logge på alle dine foretrukne websteder uden at skulle skrive <br>adgangskoder, hvis du <strong>installerer True Key-udvidelsen</strong>.",
+		"txtRestart": "Browseren skal genstartes, hvis du vil installere True Key<br>-udvidelsen."
+	},
+
+	"loginSuccess": {
+		"title": "Velkommen tilbage",
+		"text": "Se efter True Key-ikonet næste gang du starter browseren."
+	},
+
+	"signupSuccess": {
+		"text": "Din profil er blevet oprettet.<br>Se efter True Key-ikonet, næste gang du starter browseren."
+	}
+}

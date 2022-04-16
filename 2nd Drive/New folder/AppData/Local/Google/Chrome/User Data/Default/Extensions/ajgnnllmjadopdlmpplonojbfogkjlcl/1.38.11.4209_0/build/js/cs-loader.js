@@ -1,0 +1,1 @@
+if(window.top!==window.self&&document.querySelectorAll("input").length>1){var ua=navigator.userAgent.toLowerCase();~ua.indexOf("firefox")?(self.port.on("eval-cs",window.eval),self.port.emit("load-cs",{message:"loadContentScript"})):chrome.extension.sendMessage({faTrigger:"fetchContentScript"},eval)}

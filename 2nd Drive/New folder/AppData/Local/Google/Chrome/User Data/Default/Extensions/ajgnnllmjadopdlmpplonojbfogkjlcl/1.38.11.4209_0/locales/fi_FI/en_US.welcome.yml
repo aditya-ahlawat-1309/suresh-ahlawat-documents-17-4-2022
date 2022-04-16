@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Suomi"
+    common: 
+        privacy: "Tietosuoja"
+        privacy_full: "Tietosuojakäytäntö"
+        terms: "Palveluehdot"
+        terms_full: "Käyttöehdot"
+        alert: "Varoitus!"
+        warning: "Varoitus!"
+        or: "tai"
+        copyright: "© %{date}. Kaikki oikeudet pidätetään."
+        change_language: "Vaihda kieli"
+    shared: 
+        member_menu: 
+            upgrade: "Päivitä tili"
+            refer_friends: "Suosittele ystäville"
+            help: "Tuki ja ohjeet"
+            logout: "Kirjaudu ulos"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox huolehtii salasanoista puolestasi. Sinun ei tarvitse enää muistaa useita käyttäjänimiä ja salasanoja. Tarvitset vain PasswordBoxin pääsalasanan!"
+                mobile: "PasswordBox on ilmainen salasanojen hallinnointipalvelu, jonka avulla voi tallentaa, hakea ja jakaa salasanoja millä tahansa laitteella. Kokeile PasswordBoxin Android-, iPhone- tai iPad-sovellusta."
+        title: 
+            default: "Ilmainen salasanojen hallinnointipalvelu"
+            welcome: "Tervetuloa"
+    download: 
+        download: "Lataa ILMAISEKSI"
+        login: "Kirjaudu"
+        mobile: "mobiili"
+        platforms: "Ilmainen seuraaville alustoille:"
+        watch_video: "Katso video"
+        available_for: "Saatavana myös alustoille %{os} ja %{platform}"
+        free_for: "Ilmainen alustoille %{windows}, %{mac} ja %{mobile}."
+        guides: 
+            click_add: "Asenna PasswordBox napsauttamalla lisäämispainiketta"
+            click_allow: "Asenna PasswordBox napsauttamalla sallimispainiketta."
+            click_install: "Napsauta Asenna."
+            click_install_now: "Napsauta Asenna nyt."
+            click_run: "Asenna napsauttamalla Suorita."
+            click_yes: "Hyväksy asetukset napsauttamalla Kyllä."
+            click_here: "Napsauta tätä"
+            run_and_open: "Suorita ja avaa asennusohjelma."
+            install_pbox: "Asenna PasswordBox"
+            close_window: "Sulje ikkuna"
+            download_pbox: "Lataa PasswordBox"
+        alerts: 
+            mobile: "Lataa ILMAINEN %{app_name}-sovellus, niin voit nauttia 1-Tap Login -kirjautumisesta liikkellä ollessasi!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox on käytettävissä vain selaimen %{browser} versiossa %{min_version} tai uudemmissa. Päivitä selaimesi ja yritä uudelleen."
+                single_version: "PasswordBox on käytettävissä vain selaimessa %{browser}. Päivitä selaimesi ja yritä uudelleen."
+                unavailable: "PasswordBox ei ole käytettävissä käyttämäsi selaimen %{browser} nykyisessä versiossa. Yritä uudelleen versiolla %{suggestion}."
+                safari_windows: "PasswordBoxin Safari-versio on tällä hetkellä käytettävissä vain Mac OS X:ssä."
+                safari: 
+                    unsupported: "Valitettavasti emme enää tue Safaria. Yritä uudelleen Chromella, Firefoxilla tai Internet Explorerilla."
+                    read_more: "Lue lisää täältä"
+                unsupported: 
+                    problems: "Emme tue virallisesti tätä selaimen %{browser} versiota. Voit silti asentaa PasswordBoxin, mutta saatat kohdata joitain ongelmia."
+                    upgrade_suggestion: "Suosittelemme päivittämään selaimesi uusimpaan versioon, jotta saat parhaan mahdollisen käyttökokemuksen."
+                    install_anyway: "Asenna silti"
+            mobile: 
+                min_version: "PasswordBox ei ole käytettävissä kohteen %{os} tässä versiossa. Yritä uudelleen laitteella, jossa on käytössä versio %{min_version} tai uudempi."
+                generic: "PasswordBox ei ole käytettävissä tällä laitteella. Yritä uudelleen iPhonella, iPadilla tai Android-laitteella tai asenna selainlaajennus avaamalla tämä sivu työpöydällä."
+        onboard: 
+            welcome: "Tervetuloa PasswordBoxin asennukseen."
+            failed_install: "PasswordBoxin asennus epäonnistui."
+            never_forget: "Et enää koskaan unohda salasanoja!"
+            click_to_retry: "Yritä uudelleen napsauttamalla Yritä uudelleen."
+            retry: "Yritä uudelleen"
+            free_vault: "Ilmainen salasanaholvi Google Chromelle."
+            add_to_chrome: "Lisää Chromeen"
+        guide: 
+            almost_done: "Melkein valmista! "
+            greeting: "Hei %{member_name}!"
+            welcome: "Tervetuloa PasswordBoxiin. Suorita asennus loppuun noudattamalla alla olevia ohjeita."
+            downloading: "Password aloittaa lataamisen automaattisesti. Jos näin ei tapahdu, %{restart_link}."
+            restart: "käynnistä lataus uudelleen napsauttamalla tätä"
+    address_book: 
+        import: 
+            address: "Osoite"
+            email_password: "Sähköpostin salasana"
+            fetching_contacts: "Noudetaan yhteyshenkilöitä..."
+            gmail: 
+                connect_button: "Muodosta yhteys Gmailiin"
+                instructions: "Napsauta ja muodosta yhteys Gmail-osoitekirjaasi"
+            open_address_book: "Avaa osoitekirja"
+            sending_promise: "Emme koskaan lähetä sähköpostia yhteyshenkilöillesi ilman lupaa."
+            connect: 
+                title: "Yhdistä osoitekirjaasi"
+                button: "Yhdistä palveluun %{provider}"
+                instructions: "Yhdistä palvelun %{provider} osoitekirjaan napsauttamalla."
+        select: 
+            contacts: "Yhteyshenkilöt"
+            deselect_all: "Poista kaikki valinnat"
+            search_contact: "Hae yhteyshenkilö"
+            select_all: "Valitse kaikki"
+            select_title: "Valitse osoitekirjasta"
+            send_success: "Sähköinen testamenttipyyntösi on lähetetty!"
+            to: "Vastaanottaja"
+    forms: 
+        buttons: 
+            back: "Takaisin"
+            cancel: "Peruuta"
+            ok: "OK"
+            save: "Tallenna"
+            submit: "Lähetä"
+            send: "Lähetä"
+        errors: 
+            digits: 
+                only: "Anna vain numeroja."
+            email: 
+                exists: "Sähköpostiosoite on jo käytössä."
+                invalid: "Sähköpostiosoite ei kelpaa."
+                invalid_please: "Anna kelvollinen sähköpostiosoite."
+                required: "Sähköpostikenttä on täytettävä."
+            fullname: 
+                required: "Anna koko nimesi."
+                too_long: "Anna lyhyempi nimi."
+                too_short: "Nimessä on oltava vähintään %{length} merkkiä."
+            password: 
+                required: "Valitse salasana."
+                too_short: "Varmista, että salasanassa on vähintään %{length} merkkiä."
+                confirm: "Vahvista salasanasi"
+                match: "Varmista, että salasanat täsmäävät"
+                different: "Salasana ei saa olla sama kuin sähköpostiosoitteesi tai nimesi"
+            required: 
+                generic: "Tämä kenttä on pakollinen."
+            generic: "Hups! Jotain meni pieleen. Yritä lähettää lomake uudelleen."
+            length: 
+                between: "Anna {0}–{1} merkin pituinen arvo."
+        labels: 
+            email: "Sähköposti"
+            fullname: "Koko nimi"
+            first_name: "Etunimi"
+            last_name: "Sukunimi"
+            master_password: "Pääsalasana"
+            password: "Salasana"
+            title: "Nimike"
+            username: "Käyttäjätunnus"
+            email_full: "Sähköpostiosoitteesi"
+            phone_full: "Puhelinnumerosi"
+            date: "Päivämäärä"
+        success: 
+            thank_you: "Kiitos"
+        info: 
+            password: 
+                very_weak: "Hyvin heikko"
+                weak: "Heikko"
+                average: "Keskinkertainen"
+                good: "Hyvä"
+                strong: "Vahva"
+    premium: 
+        limit_reached: "Olet saavuttanut enimmäismäärän %{limit}. Päivitä nyt, niin saat rajoittamattoman määrän salasanojen tallennustilaa."
+        billing: 
+            details: "Tililtäsi veloitetaan %{price} $ vuodessa PasswordBox Premium -palvelusta. Mikäli et ole tyytyväinen palveluun tilauksen ensimmäisen 30 päivän aikana, saat maksamasi rahat takaisin ilman mitään kysymyksiä."
+            renewal: "Tilisi uudistetaan automaattisesti vuosittain, ellet peruuta sitä lähettämällä sähköpostia osoitteeseen %{support_link} ennen seuraavan maksun eräpäivää."
+        enter_cc_info: "Anna luottokortin tiedot"
+        form: 
+            errors: 
+                credit_card_invalid: "Syötä kelvollinen luottokortin numero."
+                generic_processing: "Maksun käsittelyssä ilmeni ongelma."
+                unable_to_process: "Luottokorttisi käsittely epäonnistui. Tarkista, että syöttämäsi tiedot ovat oikein ja yritä uudelleen."
+            labels: 
+                as_on_card: "kortissa näkyvässä muodossa"
+                credit_card: "Luottokortin numero"
+                expiry: "Voimassaolo päättyy"
+                secure: "Turvatunnus"
+                verification: "4-numeroinen kortin tarkistusnumero"
+                what: "Mikä tämä on?"
+                country: "Maa"
+                postal_code: "Postinumero"
+                street_address: "Katuosoite"
+                city: "Kaupunki"
+                region: "Alue"
+            submit: "Aktivoi Premium"
+            processing: "Käsitellään…Odota hetki."
+        main_title: "Saat käyttöösi PasswordBox-palvelun koko version %{price} kuukausihintaan!"
+        premium: "Premium"
+        quote: "Minulla on enemmän käyttäjätunnuksia ja salasanoja kuin jaksan muistaa. Onneksi PasswordBox muistaa ne kaikki puolestani. Palvelunne antaa minulle myös mielenrauhan, sillä tiedän, että vaikka kuolisin onnettomuudessa, läheiseni saavat käyttöoikeuden verkkotileihini ohjeideni mukaisesti. On suuri helpotus tietää, että mieheni saa käyttöoikeuden Paypal-tiliini ja perhevalokuviin, jotka olen tallentanut Flickr-palveluun."
+        satisfaction_guarantee: "Mikäli et ole täysin tyytyväinen palveluun tilauksen ensimmäisen 30 päivän aikana, saat maksamasi rahat takaisin täysimääräisesti. Ilman kysymyksiä ja ylimääräistä vaivaa."
+        success: 
+            already_premium: "Olet jo Premium-jäsen! Tilauksesi on voimassa %{date} saakka."
+            free_for_life_notice: "Kiitos beetatestiin osallistumisesta. Sinulla on nyt tiliisi elinikäinen, ilmainen käyttöoikeus."
+            payment_success: "Kiitos! Olemme vastaanottaneet maksusi."
+            return_to_public: "Takaisin julkiseen sivustoon"
+            to_passwordbox: "Haluan siirtyä PasswordBox-palveluun"
+            upgrade_success: "Tilisi päivitys onnistui."
+        testimonial: "Asiakkaiden mielipiteitä"
+        unconfirmed: 
+            title: "Tiliäsi ei ole vahvistettu vielä."
+            check_spam: "Jos sähköpostiviestiä ei näy postilaatikossasi, muista tarkistaa <strong>roskapostikansio</strong> ."
+            no_email: "Etkö saanut sähköpostiviestiä?"
+            explanation: "Tilin vahvistaminen vahvistaa osoitteesi meille ja poistaa jakamis- ja Legacy Locker -ominaisuuksien lukituksen."
+            resend_email: "Lähetä vahvistussähköposti uudelleen"
+            steps: 
+                send_email: "Lähetä vahvistussähköposti"
+                click_link: "Napsauta sähköpostissa ehdotettua linkkiä"
+                done: "Valmista!"
+            continue: 
+                instructions: "Kun olet vahvistanut tilisi, napsauta <strong>Jatka</strong> ja täydennä maksutiedot."
+                action: "Jatka"
+            messages: 
+                email_sent: "Tarkista postilaatikkosi. Lähetimme sinulle vahvistussähköpostin."
+                not_confirmed: "Et ole vielä vahvistanut tiliäsi."
+                general_error: "Jotain meni pieleen. Yritä uudelleen."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Kutsu ystäviä"
+                invite_new: "Lähetä uusi kutsu"
+                invites_accepted: "Kutsua hyväksytty"
+                invites_sent: "Kutsua lähetetty"
+                manage_invites: "Lähettämiesi kutsujen hallinta"
+                manage_title: "Saamiesi kutsujen hallinta"
+                no_invites_sent: "Et ole lähettänyt yhtään kutsua vielä. Nyt lähettämään kutsuja!"
+                referrals_needed: "Tarvitset %{count} hyväksyttyä kutsua saadaksesi ilmaisen rajattoman tallennustilan tilin."
+                referrals_needed_single: "Tarvitset 1 hyväksytyn kutsun lisää saadaksesi ilmaisen rajattoman tallennustilan tilin."
+                resend: "Lähetä uudelleen"
+                reward: "Kun saat %{count} ystävääsi rekisteröitymään palveluun, saat ilmaisen, elinikäisen Pro Account -tilin."
+                sent: "Lähetetty"
+                status: "Tila"
+                subheader: "Seuraavassa ovat lähettämäsi kutsut. Voit tarvittaessa lähettää ne uudelleen."
+            reward: "Jos saat %{count} ystävääsi rekisteröitymään PasswordBox-palveluun, saat ilmaisen, elinikäisen Pro Account -tilin ja rajattomasti tallennustilaa salasanoillesi."
+            title: "Suosittele %{count} ystävälle palvelua"
+        import_contacts: 
+            manual_option: "Anna ystäviesi sähköpostiosoitteet manuaalisesti"
+        important: "Tärkeää"
+        installed_header: "PasswordBox on valmis käyttöön!"
+        invite_header: "Kerro ystävillesi PasswordBoxista"
+        manual_invite: 
+            email_instructions: "Anna ystäviesi sähköpostiosoitteet"
+            import_option: "Kutsu ystäviä osoitekirjastasi"
+            required_error: "Anna kutsun saajan sähköpostiosoite"
+            send_action: "Lähetä VIP-käyttölupia"
+            send_instructions: "Lähetä kutsuja ystävillesi"
+            send_success: "VIP-käyttöluvat on lähetetty!"
+        resale_disclaimer: "Huomautus: PasswordBox ei hyväksy VIP-käyttölupien myymistä eBay-sivustossa tai muissa sivustoissa. Se on tarkoitettu vain henkilökohtaiseen käyttöön."
+        sent_after_welcome: 
+            title: "Rekisteröintisi on nyt valmis."
+            video_instructions: "Lisätietoja PasswordBoxista saat katsomalla tämän videon"
+        vip: 
+            reward: "Saat ilmaisen elinikäisen jäsenyyden"
+            title: "Anna ystävillesi VIP-käyttölupa PasswordBox-palveluun"
+    welcome: 
+        headers: 
+            running: "%{logo} on nyt valmis käyttöön!"
+        bulk_password: 
+            check_all: "Valitse kaikki"
+            did_you_know_title: "Tiesitkö, että 92 prosenttia ihmisistä käyttää samaa käyttäjätunnuksen ja salasanan yhdistelmää useimmissa verkkotileissään?"
+            instructions: "Jos tämä pätee sinuun, anna yhteinen käyttäjätunnuksesi alla ja valitse sivustot, joissa käytät sitä. Tallennamme tilisi PasswordBox-palveluun kerta heitolla."
+            save_passwords: "Tallenna salasanat"
+            success_message: "Tallennetaan salasanoja..."
+            uncheck_all: "Poista valinta kaikista"
+            username_label: "Sähköpostiosoitteen käyttäjätunnus"
+            website_error: "Valitse ainakin yksi sivusto."
+        legacy: 
+            address_book: "Muodosta yhteys verkkosähköpostisi osoitekirjaan"
+            email_label: "Luottohenkilösi sähköposti"
+            instructions: "Nimeä luottohenkilösi ja lähetämme hänelle pyynnön sähköpostissa."
+            name_label: "Luottohenkilösi nimi"
+            transfer_info: "Älä huolehdi, salasanojasi ei siirretä, ennen kuin se on tarpeellista."
+            trust_title: "Onko sinulla luotettava ihminen, joka voi hoitaa verkkotiliäsi, jos sinulle sattuu jotakin?"
+            watch_video: "Lisätietoja saat katsomalla videon"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Vahvista pääsalasana"
+                never_store_password: "Asiakkaiden turvallisuuden varmistamiseksi PasswordBox ei koskaan näe tai tallenna asiakkaan pääsalasanaa."
+                no_recovery: "Asiakkaan tiliä ei voi palauttaa, jos asiakas unohtaa pääsalasanansa."
+                repeat_title: "Anna salasana uudelleen"
+            creating_account: "Luodaan tiliäsi..."
+            form: 
+                create_account_action: "Luo ilmainen tili"
+                create_account_title: "Luo ilmainen tilisi"
+                create_password: "Luo salasana"
+                existing_account: "Onko sinulla jo tili?"
+                facebook_promise: "Älä huolehdi, emme julkaise mitään seinälläsi."
+                facebook_signup: "Rekisteröidy Facebookilla"
+                login: "Käyttäjätunnus"
+                terms_disclaimer: "Napsauttamalla yllä hyväksyt palveluehtomme."
+                terms_full: "Emme koskaan jaa sähköpostiosoitettasi tai henkilökohtaisia tietojasi kolmansien osapuolien kanssa ja lähetämme sinulle vain PasswordBox-tilisi tapahtumiin liittyviä sähköposteja. Lisätietoja on kohteessa %{privacy_link}"
+                terms_agree: "Napsauttamalla yllä olevaa hyväksyt kohteen %{terms_link}."
+            installed_title: "Asennus on valmis. Viimeinen vaihe..."
+            never_forget: "Ei enää unohdettuja salasanoja! Aktivoi ILMAINEN tilisi"
+            recently_installed: "PasswordBox lisättiin hiljattain selaimeesi..."
+            testimonial: "Tämä on kuin Dropbox-palvelu salasanoille. Se toimii kaikissa laitteissani missä tahansa olenkin ja jakaminen on helppoa."
+            login_link: "Jos sinulla on jo PasswordBox-tili, <a href=\"%{path}\" target=\"_blank\">etsi vihreä ruutu</a> selaimestasi."
+            validating: "Tietojasi vahvistetaan…"
+            almost_done: "Melkein valmista! Luo vain salasanasi."
+            delayed: 
+                never_forget: 
+                    generic: "Et enää koskaan unohda salasanoja!"
+                    domain: "Et enää koskaan unohda sivuston <strong>%{website}</strong> salasanaa!"
+                signup_free: "Rekisteröidy ILMAISEKSI nyt!"
+                secure: "Jos haluat suojata tallennetut salasanasi, <strong>rekisteröidy ILMAISEKSI ja nauti automaattisesta kirjautumisesta lempisivustoillesi!</strong>"
+                watch_video: "Katso video"
+                how_pbox_works: "Kuinka PasswordBox toimii"
+            crypto: 
+                creating: "Tiliä luodaan…"
+                encrypting: "Takaamme turvallisuuden salaamalla salasanasi. Jos tietokoneesi on vanha, tämä voi kestää hetken (korkeintaan minuutin). Se on normaalia. Odota, kunnes prosessi on valmis."
+        video: 
+            typing_passwords: "Salasanojen kirjoittaminen on tylsää ja turhauttavaa. PasswordBox tallentaa automaattisesti kirjautumistietosi kirjautuessasi sivustolle."
+            next_step: "Ymmärrän. Kiitos!"
+        guides: 
+            extension: 
+                congratulations: "Onnittelut!"
+                save_success: "Salasanasi on nyt tallennettu PasswordBoxiin!"
+                green_box: "Pääset käyttämään sitä napsauttamalla selaimesi vihreää ruutukuvaketta."
+        tutorial: 
+            create_password: 
+                click_instructions: "Lisää ensimmäinen salasanasi napsauttamalla alla olevaa painiketta"
+                form_instructions: "Anna käyttäjätunnus ja salasana"
+            one_click_login: "Hienoa! Kokeillaanpa seuraavaksi pikakirjautumista"
+            tour_video: 
+                extension_guide: "Avaa PasswordBox napsauttamalla vihreää kenttää"
+                instructions: "Tutustu PasswordBox-palveluun tässä tuote-esittelyssä."
+                title: "Palvelun käytön aloittaminen"
+    features: 
+        seamless_login: 
+            title: "Hyvästi salasanat. Kirjautuminen hetkessä mille tahansa laitteelle tai verkkosivustoon tai mihin tahansa mobiilisovellukseen."
+            subtitle: "Kyllästyttääkö kirjautumisruutujen aiheuttama hidastelu? Pääset tileihisi nopeammin 1-Click Login- ja 1-Tap Login -kirjautumisella."
+            item_1: "Tämä onnistuu vain PasswordBoxilla: %{link}, niin sinun ei tarvitse koskaan kirjoittaa käyttäjänimeä tai salasanaa."
+            item_2: "Käytätpä mitä verkkosivustoa tahansa, PasswordBox täyttää tietosi automaattisesti ja kirjaa sinut sisään. Sinun ei tarvitse kirjoittaa mitään käyttäessäsi Chromea tai Safaria pöytäkoneella tai mobiililaitteella."
+            item_3: "Kirjautuminen on nopeaa, vaikka sinulla olisi useita tilejä samalla sivustolla."
+            item_4: "Olet turvassa näppäilyt tallentavilta haittaohjelmilta – mitä et kirjoita, sitä ei voida varastaa."
+            one_tap_link: "kirjaudu sisään mieleisiisi Android-mobiilisovelluksiin 1-Tap Login -kirjautumisella"
+        device_syncing: 
+            title: "Omat salasanasi mukana kaikkialla"
+            subtitle: "Kun tallennat salasanan PasswordBoxiin, se tallennetaan saman tien kaikkiin selaimiisi, tietokoneisiisi ja mobiililaitteisiisi."
+            item_1: "Se synkronoituu automaattisesti, joten kirjautumistunnuksesi ovat aina lähellä."
+            item_2: "Toimii lähes kaikilla tietokoneilla, selaimilla ja mobiililaitteilla."
+            item_3: "Ilmainen laajennus kaikille suurimmille selaimille, kuten Chromelle, Firefoxille ja Internet Explorerille."
+            item_4: "Tietojesi salaus ja salauksen purku tapahtuu paikallisesti laitteellasi AES-256:n avulla."
+    install: 
+        mobile: 
+            title: "PasswordBox mobiililaitteille"
+            widget: 
+                title: "Ilmaiset mobiilisovellukset"
+                subtitle: "Omat salasanasi mukana kaikkialla"
+            notify: 
+                sms: "Tekstiviesti puhelimeeni"
+                email: "Sähköposti laitteeseeni"
+                sending: "Lähetetään asennuslinkkiä"
+            email: 
+                success: "Sähköposti lähetetty! Tarkista latauslinkki sähköpostistasi."
+                errors: 
+                    invalid: "Sähköpostiosoite puuttuu tai ei kelpaa."
+                    failed: "Sähköpostin lähetys epäonnistui."
+            sms: 
+                body: "Asenna PasswordBox napsauttamalla mobiililaitteella tätä: %{link}."
+                success: "Tekstiviesti lähetetty! Tarkista latauslinkki puhelimestasi."
+                errors: 
+                    phone: 
+                        missing: "Puhelinnumero puuttuu."
+                        invalid: "Viestin lähetys tähän puhelinnumeroon epäonnistui. Jos kyseessä on ulkomaannumero, varmista että siihen on lisätty maakoodi."
+                    service: 
+                        unavailable: "Tekstiviestipalvelu ei ole käytössä tällä hetkellä."
+            apps: 
+                app_store: "Saatavana <span>App Storesta</span>"
+                google_play: "Hanki se ilmaiseksi <span>Google Playsta</span>"
+            ces_award: "Paras mobiilisovellus <span>CES 2014</span>"
+        desktop: 
+            title: "Lataa PasswordBox ILMAISEKSI"
+            warnings: 
+                windows_only: "Vain Windows"
+                mac_only: "Vain Mac OS"
+            button: 
+                get: "Hanki PasswordBox"
+                for: "kohteelle"
+        instructions: "Kopioi seuraava linkki ja liitä se %{browser}:n osoitepalkkiin:"
+        copy: 
+            button: "Kopioi"
+            tooltip: "Kopioi leikepöydälle"
+            success: "Kopioitu!"
+    login: 
+        title: "Jos olet jo asentanut PasswordBoxin, kirjaudu sisään napsauttamalla vihreää ruutua."
+        reinstall: "Jos sinun on asennettava PasswordBox uudelleen, napsauta alla olevaa painiketta:"
+    member: 
+        errors: 
+            email: 
+                exists: "Tällä sähköpostiosoitteella on jo rekisteröidytty. Kokeile toista osoitetta."
+                invalid: "Syötä kelvollinen sähköpostiosoite."
+    emails: 
+        common: 
+            greeting: "Hei %{full_name}!"
+            hey: "Hei!"
+            pbox_team: "PasswordBox-tiimi"
+        layout: 
+            tagline: "PasswordBox tarjoaa nopean ja turvallisen pääsyn verkkotileihisi, turvallisen salasanojen jakamisen ja Legacy Locker -ominaisuuden kaikilla laittella. Et enää koskaan unohda salasanaa."
+            unsubscribe: 
+                link: "Lopeta"
+                from_all: "%{unsubscribe} PasswordBox-sähköpostien tilaus"
+        welcome: 
+            subject: "Tervetula PasswordBoxiin, %{full_name}!"
+            title: "Tervetuloa"
+            avg_notice: "PasswordBox AVG-työkalupalkissa tarjoaa kaikilla laitteilla nopean pääsyn verkkotileihisi, turvallisen salasanojen jakamisen ja digitaalisen testamenttitoiminnon."
+            account_ready: "Tilisi on melkein valmis!"
+            login_info: "Käyttäjänimesi on %{email}. Salasanasi on rekisteröinnin yhteydessä luomasi pääsalasana."
+            say_goodbye: "Heitä hyvästit useille käyttäjänimille ja salasanoille. Tästä eteenpäin et tarvitse mitään muuta kuin pääsalasanan. PasswordBox tarjoaa helpon 1-Click-kirjautumisen, turvallisen salasanojen jakamisen ja digitaalisen elämän hallinnan kaikilla laitteilla."
+            finally: "Vihdoinkin voit lopettaa salasanoista huolehtimisen!"
+            confirm: "Vahvista tilisi nyt"
+            click_below: "Vahvista tilisi napsauttamalla alla olevaa linkkiä:"
+            welcome: "Tervetuloa PasswordBoxiin!"
+        sync: 
+            subject: "Lataa PasswordBox mobiililaitteeseen!"
+            instructions: "Jos haluat ladata PasswordBoxin, avaa tämä sähköpostiviesti mobiililaitteellasi ja siirry alla olevaan linkkiin:"

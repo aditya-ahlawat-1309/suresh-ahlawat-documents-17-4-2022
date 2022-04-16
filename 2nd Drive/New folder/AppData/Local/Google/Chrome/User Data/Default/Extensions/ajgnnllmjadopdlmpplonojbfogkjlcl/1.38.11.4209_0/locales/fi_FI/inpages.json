@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Sulje",
+    "done" : "Valmis",
+    "dontSave" : "Älä tallenna",
+    "neverSave" : "Älä tallenna koskaan",
+    "saveNow" : "Tallenna",
+    "yes" : "Kyllä",
+    "no" : "Ei",
+    "remove" : "Poista",
+    "dontUpdate" : "Älä päivitä",
+    "updateNow" : "Päivitä nyt",
+    "dontAskAgain" : "Älä kysy uudelleen",
+    "dontSaveNow" : "Älä tallenna nyt",
+    "dontSaveItNow" : "Älä tallenna tätä nyt",
+    "neverSaveIt" : "Älä tallenna tätä koskaan",
+    "neverForThisSite" : "Ei koskaan tälle sivustolle",
+    "savePassword" : "Tallenna salasana",
+    "saveThisPassword" : "Tallenna tämä salasana",
+    "dontShowAgain" : "Älä näytä uudelleen",
+    "masterPassword" : "Pääsalasana",
+    "continue" : "Jatka",
+    "typeMasterPassword" : "Syötä pääsalasana",
+    "settings" : "Asetukset",
+    "copyClipboard" : "Kopioi leikepöydälle"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> tallensi uuden salasanan sivustolle <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> on havainnut uuden salasanan sivustolle <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> kirjaa sinut sisään heti"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Salasanasi sivustolle <span class='green'>%{siteName}</span> ei ole tarpeeksi vahva"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Sinulla on <span id='shareCount' class='green'>1 uusi</span> salasanan jakamiskutsu."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Onnistuitko kirjautumaan <span class='green'>%{username}</span> -tiliisi?",
+    "deleteConfirm" : "Haluatko poistaa kohteen <span class='green'>%{username}</span> PasswordBoxistasi?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Valitettavasti tätä sivustoa ei tueta vielä. Tiimimme työskentelee asian eteen ja tuki on saatavilla myöhemmin."
+  },
+  "connectWith" : {
+    "mainText" : "Valitse tili, jolla haluat kirjautua",
+    "login" : "Käyttäjätunnus"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Syötä pääsalasana",
+    "mainTxtHasUsers" : "Kirjaudu sisään heti antamalla pääsalasana",
+    "mainTxtNoUsers" : "Tallenna tämä salasana antamalla pääsalasana",
+    "error" : "Väärä salasana",
+    "decrypting" : "Salauksen purku"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Tallenna tämä salasana nyt.",
+    "signup" : "Rekisteröidy PasswordBoxiin"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Valitse kortti, jolla tehdään ostokset ",
+    "use" : "Käytä"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Et enää koskaan unohda salasanaa:",
+    "createAccount" : "Luo tili",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> on lisätty %{partner}-työkalupalkkiisi"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Kirjaudu nyt sisään <span class='green'>%{siteName}</span> -tilillesi…",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> tallentaa sen automaattisesti puolestasi!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... Ja siinä kaikki!",
+    "mainText" : "Sivuston <span class='green'>%{siteName}</span> salasanasi on nyt tallennettu turvallisesti PasswordBoxiisi!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Onnittelut",
+    "mainText" : "Nyt pääset käyttämään salasanojasi milloin tahansa napsauttamalla <strong class='green'>selaimesi vihreää</strong> ruutukuvaketta. Kokeile sitä heti!"
+  },
+  "passgen" : {
+    "generate" : "Luo vahva salasana",
+    "regenerate" : "Luo uusi salasana",
+    "noPassGenerated" : "Salasanaa ei ole luotu",
+    "letters" : "Kirjaimet",
+    "digits" : "Numerot",
+    "symbols" : "Merkit",
+    "capitals" : "Isot kirjaimet"
+  }
+}

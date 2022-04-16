@@ -1,0 +1,11 @@
+{
+	"name": "PBCI",
+	"private": true,
+	"version": "0.0.1",
+	"description": "integration tests for form detection, one-click login, etc. on live websites",
+	"scripts": [ "index.js" ],
+	"paths":   [ "lib" ],
+	"local":   [ "minitest", "tests", "pb"],
+	"dependencies": {
+	}
+}

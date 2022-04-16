@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "İngilizce"
+    common: 
+        privacy: "Gizlilik"
+        privacy_full: "Gizlilik Politikası"
+        terms: "Şartlar"
+        terms_full: "Hizmet Şartları"
+        alert: "Uyarı!"
+        warning: "Uyarı!"
+        or: "veya"
+        copyright: "© %{date}. Tüm hakları saklıdır."
+        change_language: "Dili değiştir"
+    shared: 
+        member_menu: 
+            upgrade: "Hesabı yükseltin"
+            refer_friends: "Arkadaşlarınıza tavsiye edin"
+            help: "Yardım ve Destek"
+            logout: "Çıkış yap"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox ile şifreleri unutun. Kullanıcı adlarına ve şifrelerine elveda deyin. İhtiyacınız olacak tek şey PasswordBox ana şifreniz!"
+                mobile: "PasswordBox, herhangi bir cihazda şifrenizi kaydetmenize, yeniden düzenlemenize ve paylaşmanıza yardımcı olan, ücretsiz bir şifre yöneticisidir. PasswordBox Android, iPhone ya da iPad uygulamalarını deneyin."
+        title: 
+            default: "Ücretsiz Şifre Yöneticisi"
+            welcome: "Hoşgeldiniz"
+    download: 
+        download: "ÜCRETSİZ indirin"
+        login: "Oturm aç"
+        mobile: "Mobil"
+        platforms: "Ücretsiz"
+        watch_video: "Videoyu izleyin"
+        available_for: "%{os} ve %{platform} için de hazırdır"
+        free_for: "%{windows}, %{mac} ve %{mobile} için ücretsiz."
+        guides: 
+            click_add: "PasswordBox kurulumu için ‘ekle’ye tıklayın"
+            click_allow: "PasswordBox'un kurulmasına izin vermek için tıklayın"
+            click_install: "\"Kur\"a tıklayın"
+            click_install_now: "\"Şimdi Kur\"a tıklayın"
+            click_run: "Kurmak için \"Çalıştır\"a tıklayın"
+            click_yes: "Ayarları kabul etmek için \"Evet\"e tıklayın"
+            click_here: "Buraya tıklayın"
+            run_and_open: "Kurucuyu çalıştırın ve açın"
+            install_pbox: "PasswordBox'ı kurun"
+            close_window: "Pencereyi kapat"
+            download_pbox: "PasswordBox'ı indir"
+        alerts: 
+            mobile: "Faal olarak 1-Tap Login keyfini çıkarmak için ÜCRETSİZ %{app_name} uygulamasını indirin!"
+        errors: 
+            browser: 
+                min_version: "Password sadece %{browser} versiyon %{min_version} ve üstü için geçerlidir. Lütfen tarayıcınızı güncelleyin ve tekrar deneyin."
+                single_version: "Password sadece %{browser} için geçerlidir. Lütfen tarayıcınızı güncelleyin ve tekrar deneyin."
+                unavailable: "PasswordBox %{browser} versiyonunda kullanılamaz. Lütfen %{suggestion} versiyonu ile tekrar deneyin."
+                safari_windows: "Safari için PasswordBox şuan sadece Mac OS X’de kullanılmaktadır."
+                safari: 
+                    unsupported: "Maalesef artık Safari'yi desteklemiyoruz. Lütfen tekrar Chrome, Firefox veya Internet Explorer ile deneyin."
+                    read_more: "Daha fazlasını burada okuyun"
+                unsupported: 
+                    problems: "%{browser}'nın bu sürümünü resmi olarak desteklememekteyiz. Yine de PasswordBox'u kurabilirsiniz, ancak bazı sorunlarla karşılaşabilirsiniz."
+                    upgrade_suggestion: "En iyi deneyimi sağlamak için, tarayıcınızı son sürüme yükseltmenizi öneririz."
+                    install_anyway: "Yine de kur"
+            mobile: 
+                min_version: "PasswordBox, %{os}’ın bu versiyonunda kullanılamaz. Lütfen herhangi bir cihazda %{min_version}’i veya daha yüksek bir versiyon kullanarak tekrar deneyin."
+                generic: "PasswordBox bu cihazda kullanılamaz. Lütfen iPhone, iPad veya Android’de tekrar deneyin ya da tarayıcı uzantımızı kurmak için masaüstünüzdeki bu sayfayı açın."
+        onboard: 
+            welcome: "PasswordBox Kurulumuna Hoşgeldiniz"
+            failed_install: "PasswordBox'ı Kuramadı"
+            never_forget: "Bir Daha Asla Şifre Unutmayın! "
+            click_to_retry: "Yeniden denemek için \"Yeniden Dene\"ye tıklayın"
+            retry: "Yeniden Dene"
+            free_vault: "Google Chrome için Ücretsiz Şifre Mahzeni"
+            add_to_chrome: "Chrome'a Ekle"
+        guide: 
+            almost_done: "Neredeyse bitti! "
+            greeting: "Merhaba %{member_name}!"
+            welcome: "PasswordBox'a Hoşgeldiniz. Kurulumunuzu tamamlamak için aşağıdaki adımları izleyin."
+            downloading: "PasswordBox otomatik olarak indirilmeye başlayacaktır. Başlamazsa, %{restart_link}."
+            restart: "indirmeyi yeniden başlatmak için buraya tıklayın"
+    address_book: 
+        import: 
+            address: "Adres"
+            email_password: "E-posta şifresi"
+            fetching_contacts: "Kişiler getiriliyor…"
+            gmail: 
+                connect_button: "Gmail’e bağlanın"
+                instructions: "Gmail adres defterinize bağlanmak için tıklayın"
+            open_address_book: "Adres defterini açın"
+            sending_promise: "İzniniz olmadan asla e-postalarınızı kişilerinize göndermeyeceğiz."
+            connect: 
+                title: "Adres defterinize bağlanın"
+                button: "%{provider}'ya bağlanın"
+                instructions: "%{provider} adres defterinize bağlanmak için tıklayın"
+        select: 
+            contacts: "Kişiler"
+            deselect_all: "Tüm seçimleri kaldır"
+            search_contact: "Kişilerde ara"
+            select_all: "Tümünü seç"
+            select_title: "Adres Defterinden seç"
+            send_success: "Dijital miras isteğiniz başarıyla gönderildi!"
+            to: "Kime"
+    forms: 
+        buttons: 
+            back: "Geri"
+            cancel: "İptal"
+            ok: "TAMAM"
+            save: "Kaydet"
+            submit: "Yolla"
+            send: "Gönder"
+        errors: 
+            digits: 
+                only: "Lütfen sadece rakam girin."
+            email: 
+                exists: "Bu e-posta zaten kullanılıyor."
+                invalid: "Bu e-posta geçersiz."
+                invalid_please: "Lütfen geçerli bir e-posta adresi girin."
+                required: "E-posta alanı zorunludur."
+            fullname: 
+                required: "Lütfen adınızı ve soyadınızı yazın."
+                too_long: "Lütfen daha kısa bir ad yazın."
+                too_short: "Adınız en az %{length} karakterden oluşmalıdır."
+            password: 
+                required: "Lütfen bir şifre seçin."
+                too_short: "Lütfen şifrenizin en az %{length} karakterden oluştuğundan emin olun."
+                confirm: "Lütfen şifrenizi doğrulayın."
+                match: "Şifrelerinizin eşleştiğinden emin olun."
+                different: "Şifreniz e-posta veya isminizle aynı olamaz"
+            required: 
+                generic: "Bu alan zorunludur."
+            generic: "Hay aksi! Bir şeyler yanlış gitti. Forum yeniden göndermeyi deneyin."
+            length: 
+                between: "Lütfen {0} ila {1} karakter uzunluğunda bir değer girin."
+        labels: 
+            email: "E-posta"
+            fullname: "Ad ve soyad"
+            first_name: "Adı"
+            last_name: "Soyadı"
+            master_password: "Ana Şifre"
+            password: "Şifre"
+            title: "Unvan"
+            username: "Kullanıcı adı"
+            email_full: "E-posta adresiniz"
+            phone_full: "Telefon numaranız"
+            date: "Tarih"
+        success: 
+            thank_you: "Teşekkür ederiz!"
+        info: 
+            password: 
+                very_weak: "Çok zayıf"
+                weak: "Zayıf"
+                average: "Orta derece"
+                good: "İyi"
+                strong: "Güçlü"
+    premium: 
+        limit_reached: "%{limit} limitinize ulaştınız Şimdi yükseltin ve sınırsız şifre depolama edinin."
+        billing: 
+            details: "Bir yıllık PasswordBox Premium için %{price} US tutarında fatura kesilecektir. Aboneliğinizin ilk 30 günü içerisinde memnun kalmazsanız, yaptığınız ödemenin %100’ü sorgusuz sualsiz iade edilecektir."
+            renewal: "Sonraki ödemenizin gününden önce %{support_link} adresine eposta göndererek iptal etmediğiniz takdirde hesabınız otomatik olarak yenilenecektir."
+        enter_cc_info: "Kredi Kartı Bilgilerinizi Girin"
+        form: 
+            errors: 
+                credit_card_invalid: "Lütfen geçerli bir kredi kartı numarası girin."
+                generic_processing: "Ödemenizle ilgili bir sorun oluştu."
+                unable_to_process: "Kredi kartınızla işlem yapamıyoruz. Lütfen doğru bilgilere sahip olduğunuzu bir kez daha kontrol edin ve tekrar deneyin."
+            labels: 
+                as_on_card: "kartınızda göründüğü gibi"
+                credit_card: "Kredi Kartı Numarası"
+                expiry: "Son Kullanma Tarihi"
+                secure: "Güvenlik Numarası"
+                verification: "4 haneli kart doğrulama numarası"
+                what: "Bu nedir?"
+                country: "Ülke"
+                postal_code: "Posta kodu"
+                street_address: "Cadde Adresi"
+                city: "Şehir"
+                region: "Bölge"
+            submit: "Premium’u etkinleştirin"
+            processing: "Devam ediyor... Lütfen bekleyin."
+        main_title: "%{price}/ay karşılığında PasswordBox’ın sınırsız özellikli versiyonu erişin!"
+        premium: "Premium"
+        quote: "Hatırlayamayacağım kadar çok kullanıcı adım ve şifrem var. Neyse ki PasswordBox bana hepsini hatırlatıyor. Hizmetiniz sayesinde kafam da rahat çünkü bugün ölümcül bir araba kazası geçirsem, sevdiklerimin talimatımla bütün farklı online hesaplarıma ulaşabileceklerini biliyorum. Eşimin Paypal hesabıma ve Flickr’deki tüm aile fotoğraflarına erişebileceğini bilmek beni rahatlatıyor."
+        satisfaction_guarantee: "İlk 30 gün içerisinde memnun kalmazsanız, ödediğiniz her bir kuruşu iade ediyoruz. <strong>Sorgusuz, sualsiz, sorunsuz..</strong>"
+        success: 
+            already_premium: "Artık bir Premium üyesisiniz! Aboneliğiniz %{date} tarihine kadar sürecektir."
+            free_for_life_notice: "Beta testimize katıldığınız için teşekkür ederiz. Hesabınız sonsuza dek ücretsiz olacak."
+            payment_success: "Teşekkür ederiz! Ödemeniz elimize geçti."
+            return_to_public: "Ana sayfaya dönün"
+            to_passwordbox: "Beni PasswordBox’ıma yönlendirin"
+            upgrade_success: "Hesabınız başarılı bir şekilde yükseltildi."
+        testimonial: "Şükran sözleri"
+        unconfirmed: 
+            title: "Hesabınız henüz onaylanmadı"
+            check_spam: "Gelen kutunuzda e-postayı görmüyorsanız <strong>Gereksiz</strong> kutunuzu kontrol edin."
+            no_email: "E-postayı almadınız mı?"
+            explanation: "Hesabınızı doğrulayarak adresinizi geçerli kılmış, paylaşım ve Legacy Locker özelliklerini de size sunmuş olacağız."
+            resend_email: "Doğrulama e-postasını tekrar gönder"
+            steps: 
+                send_email: "E-posta adresinize bir doğrulama e-postası gönderdik"
+                click_link: "Bu e-postada önerilen bağlantıya tıklayın"
+                done: "Tamamladınız!"
+            continue: 
+                instructions: "Hesabınızı doğruladıktan sonra ödeme bilgilerinizi tamamlamak için <strong>Devam</strong> 'a tıklayın."
+                action: "Devam et"
+            messages: 
+                email_sent: "Gelen kutunuzu kontrol edin. Size bir doğrulama e-postası yolladık."
+                not_confirmed: "Hesabınızı henüz doğrulamadınız."
+                general_error: "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Arkadaşlarınızı davet edin"
+                invite_new: "Yeni kişiler davet edin"
+                invites_accepted: "Davetler kabul edildi"
+                invites_sent: "Davetler gönderildi"
+                manage_invites: "Davetlerimi yönet"
+                manage_title: "Davetlerinizi yönetin"
+                no_invites_sent: "Henüz herhangi bir davet göndermediniz. Oraya çıkın ve birkaç davet gönderin!"
+                referrals_needed: "Ücretsiz Sınırsız Depolama hesabı açtırmak için %{count} davetinizin kabul edilmesi gerekmektedir."
+                referrals_needed_single: "Ücretsiz Sınırsız Depolama hesabı açtırmak için 1 davetinizin daha kabul edilmesi gerekmektedir."
+                resend: "Yeniden gönder"
+                reward: "%{count} arkadaşınızın kaydolmasını sağlarsanız, ömür boyu ücretsiz Pro Account’unuz olacak."
+                sent: "Gönderildi"
+                status: "Durum"
+                subheader: "İşte gönderdiğiniz davetler. Gerekirse bu davetleri tekrar gönderebilirsiniz."
+            reward: "%{count} arkadaşınızın PasswordBox’a kaydolmasını sağlarsanız, ücretsiz Pro Account’unuz olacak ve sonsuza dek sınırsız şifre hafızasını kullanacaksınız."
+            title: "%{count} arkadaşınıza gönderin"
+        import_contacts: 
+            manual_option: "Arkadaşlarınız e-postasını manuel olarak girin"
+        important: "Önemli"
+        installed_header: "PasswordBox artık hazır ve kullanılıyor!"
+        invite_header: "Arkadaşlarınıza PasswordBox’dan bahsedin"
+        manual_invite: 
+            email_instructions: "E-posta adreslerini girin"
+            import_option: "Adres defterinizdeki arkadaşlarınızı davet edin"
+            required_error: "Davet için lütfen bir e-posta adresi girin"
+            send_action: "VIP geçişleri gönderin"
+            send_instructions: "Arkadaşlarınıza davet gönderin"
+            send_success: "VIP geçişleriniz gönderildi!"
+        resale_disclaimer: "PasswordBox, VIP geçişinizi eBay ya da herhangi bir diğer sitede satmanıza izin vermemektedir. <strong>Geçiş sadece kişisel kullanım içindir.</strong>"
+        sent_after_welcome: 
+            title: "Kaydınız tamamlanmıştır!"
+            video_instructions: "PasswordBox hakkında daha fazla bilgi edinmek için, bu Videoyu izleyin"
+        vip: 
+            reward: "Ömür boyu ücretsiz üyelik elde edeceksiniz"
+            title: "Arkadaşlarınıza VIP erişimi verin"
+    welcome: 
+        headers: 
+            running: "%{logo} artık hazır ve kullanılıyor!"
+        bulk_password: 
+            check_all: "Tümünü işaretle"
+            did_you_know_title: "İnsanların %92’sinin online hesaplarının çoğu için aynı kullanıcı adı/şifre kombinasyonunu kullandığını biliyor muydunuz?"
+            instructions: "Siz de bunlardan biriyseniz, daima kullandığınız kombinasyonu aşağıya girin ve bu kombinasyonu kullandığınız siteleri seçin. Bu hesapları PasswordBox’ınıza anında kaydedeceğiz."
+            save_passwords: "Şifreleri kaydet"
+            success_message: "Şifreleriniz kaydediliyor…"
+            uncheck_all: "Tüm işaretlileri kaldır"
+            username_label: "E-posta adresinin kullanıcı adı"
+            website_error: "Lütfen en az bir web sitesi seçin."
+        legacy: 
+            address_book: "Webmail adres defterinize bağlanın"
+            email_label: "Güvendiğiniz kişinin e-postası"
+            instructions: "Güvendiğiniz kişinin ismini aşağı yazın, talebiniz üzerine kendisine bir e-posta göndereceğiz."
+            name_label: "Güvendiğiniz kişinin ismi"
+            transfer_info: "Endişelenmeyin, gerekli olmadığı sürece şifreleriniz bu kişiye gönderilmeyecektir."
+            trust_title: "Eğer size bir şey olursa online hesaplarınızla ilgilenmesi konusunda kime güveniyorsunuz?"
+            watch_video: "Daha fazla bilgi için videomuzu izleyin"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Ana Şifreyi doğrulayın"
+                never_store_password: "Güvenliğinizi garanti altına almak için, PasswordBox Ana Şifrenizi asla görmez ve kaydetmez"
+                no_recovery: "Ana Şifrenizi unutmanız durumunda hesabınıza giriş yapmanız imkansızdır"
+                repeat_title: "Şifrenizi birden çok defa girin"
+            creating_account: "Hesabınız oluşturuluyor…"
+            form: 
+                create_account_action: "Ücretsiz bir hesap oluşturun"
+                create_account_title: "Ücretsiz hesabınızı oluşturun"
+                create_password: "Şifre oluştur"
+                existing_account: "Zaten hesabınız var mı?"
+                facebook_promise: "Endişelenmeyin, duvarınıza asla gönderi yollamayacağız."
+                facebook_signup: "Facebook ile giriş yapın"
+                login: "Giriş"
+                terms_disclaimer: "Yukarıya tıklayarak, Hizmet Koşullarımızı kabul etmiş olursunuz."
+                terms_full: "E-postanızı ya da herhangi bir kişisel bilginizi üçüncü kişilerle asla paylaşmayacağız ve size sadece PasswordBox hesabınızla ilgili işlemsel e-postalar göndereceğiz. Daha fazla detay için, %{privacy_link}’ımızı okuyun."
+                terms_agree: "Yukarıya tıklayarak %{terms_link}’ımızı kabul etmiş olursunuz."
+            installed_title: "Kurulum tamamlandı! Son adım…"
+            never_forget: "Bir Daha Asla Şifre Unutmayın! ÜCRETSİZ hesabınızı etkinleştirin"
+            recently_installed: "PasswordBox yakın bir zamanda tarayıcınıza eklenmiştir…"
+            testimonial: "PasswordBox, şifrelerin Dropbox’ı gibidir. Nerede olursam olayım tüm cihazlarımda çalışır ve paylaşım oldukça kolay."
+            login_link: "PasswordBox hesabınız varsa tarayıcınızdaki<a href=\"%{path}\" target=\"_blank\">yeşil kutuyu bulun</a>"
+            validating: "Bilgileriniz doğrulanıyor…"
+            almost_done: "Neredeyse bitti! Sadece şifrenizi oluşturun"
+            delayed: 
+                never_forget: 
+                    generic: "Bir kez daha şifre unutmayın!"
+                    domain: "Asla bir kez daha <strong>%{website}</strong> şifre unutmayın!"
+                signup_free: "Şimdi ÜCRETSİZ kayıt ol!"
+                secure: "Kayıtlı şifrelerinizi güvence altına almak için, <strong>ÜCRETSİZ kaydolun ve favori sitelerinize otomatik girişin keyfini çıkarın!</strong>"
+                watch_video: "Videomuzu izleyin"
+                how_pbox_works: "PasswordBox Nasıl Çalışır"
+            crypto: 
+                creating: "Hesabınız oluşturuluyor…"
+                encrypting: "Maksimum güvenlik için şifrenizi oluşturuyoruz. Bu işlem eski bilgisayarlarda daha uzun (bir dakikaya kadar) bir süre alabilir. Bu normaldir. Lütfen işlem tamamlanana kadar bekleyin."
+        video: 
+            typing_passwords: "Şifreleri manuel olarak girmek usandırıcı ve sinir bozucu bir işlemdir. PasswordBox, bir siteye girdiğinizde izinlerinizi otomatik olarak kaydederek size yardımcı olur."
+            next_step: "Anlıyorum. Teşekkürler!"
+        guides: 
+            extension: 
+                congratulations: "Tebrikler!"
+                save_success: "Şifrenizi başarılı bir şekilde PasswordBox’a kaydettik!"
+                green_box: "Ne zaman ihtiyacınız olursa olsun, şifrenize erişmek için yeşil kutu ikonuna tıklayın!"
+        tutorial: 
+            create_password: 
+                click_instructions: "İlk şifrenizi eklemek için aşağıdaki butona tıklayın"
+                form_instructions: "Kullanıcı adınızı ve şifrenizi girin"
+            one_click_login: "İyi işti! Hadi 1-Tıkla Girişi deneyelim"
+            tour_video: 
+                extension_guide: "PasswordBox’ınızı açmak için yeşil kutuya tıklayın"
+                instructions: "Bu hızlı ürün turu ile PasswordBox’tan en iyi şekilde yararlanın"
+                title: "Başlarken Turu"
+    features: 
+        seamless_login: 
+            title: "Şifrelere Elveda. Herhangi Bir Cihazdan, Websitesinden veya Mobil Uygulamadan Anında Giriş"
+            subtitle: "Giriş ekranının sizi yavaşlatmasından bıktınız mı? Hesaplarınıza 1-Click ve 1-Tap ile hızlı bir şekilde giriş yapabilirsiniz."
+            item_1: "Özel olarak PasswordBox ile, kullanıcı adı veya şifre yazmaya gerek kalmaksızın %{link}"
+            item_2: "Herhangi bir websitesini açın ve Passwordbox bilgilerinizi otomatik olarak dolduracak ve girişinizi yapacaktır. Chrome ve Safari ile mobil cihazınızda veya masaüstünüzde yazma gerekli değildir."
+            item_3: "Aynı sitede birden fazla hesabınız olsa bile hızlı bir şekilde giriş yapın"
+            item_4: "Tuş kaydedici kötü amaçlı yazılımlardan koruma – eğer şifrenizi yazmazsanız, çalamazlar"
+            one_tap_link: "1-Tap ile Android üzerinde favori mobil uygulamalarınıza giriş yapın"
+        device_syncing: 
+            title: "Şifrelerin, Her yerde"
+            subtitle: "PasswordBox’a bir şifre kaydedin, bu şifre hızlı bir şekilde bütün tarayıcılarınızda, bilgisayarlarınızda ve mobil aygıtlarınızda kaydedilir."
+            item_1: "Otomatik olarak senkronize olur, böylece daima kolay bir şekilde giriş yaparsınız"
+            item_2: "Hemen hemen piyasadaki bütün bilgisayarlarda, tarayıcılarda ve mobil aygıtlarda çalışır"
+            item_3: "Chrome, Firefox ve Internet Explorer de dahil olmak üzere başlıca bütün tarayıcılar için ücretsiz uyumlu eklenti"
+            item_4: "Verilerinizin şifrelenmesi ve şifrelerinin çözülmesi işlemi, AES-256 kullanılarak bölgesel olarak cihazınızda gerçekleştirilir"
+    install: 
+        mobile: 
+            title: "Mobil için PasswordBox"
+            widget: 
+                title: "Ücretsiz mobil uygulamalar"
+                subtitle: "Şifreleriniz her yerde"
+            notify: 
+                sms: "Telefonuma mesaj atın"
+                email: "Cihazıma e-posta gönder"
+                sending: "Kurulum bağlantısı gönderiliyor"
+            email: 
+                success: "E-posta gönderildi! İndirme bağlantısına ulaşmak için e-postanızı kontrol edin"
+                errors: 
+                    invalid: "E-posta kayıp ya da geçersiz"
+                    failed: "Kişiye e-posta gönderilemedi"
+            sms: 
+                body: "PasswordBox’ı kurmak için, mobil cihazınızda burayı tıklayın: %{link}"
+                success: "Mesaj gönderildi! İndirme bağlantısına ulaşmak için e-postanızı kontrol edin"
+                errors: 
+                    phone: 
+                        missing: "Telefon numarası eksik."
+                        invalid: "Bu telefon numarasına mesaj gönderemedik. Bu uluslararası bir numaraysa, ülke kodunu dahil ettiğinizden emin olun."
+                    service: 
+                        unavailable: "SMS hizmeti şuan gerçekleştirilemiyor"
+            apps: 
+                app_store: "<span>App Store</span>'da mevcut"
+                google_play: "<span>Google Play</span>'den ücretsiz ulaşın"
+            ces_award: "En iyi mobil <span>uygulama CES 2014</span>"
+        desktop: 
+            title: "PasswordBox’ı ÜCRETSİZ indirin"
+            warnings: 
+                windows_only: "Sadece Windows için"
+                mac_only: "Sadece Mac OS için"
+            button: 
+                get: "PasswordBox kurun"
+                for: "amaç"
+        instructions: "Aşağıdaki bağlantıyı kopyalayın ve %{browser} adres çubuğuna yapıştırın:"
+        copy: 
+            button: "Kopyala"
+            tooltip: "Taşıma panosuna kopyala"
+            success: "Kopyalandı!"
+    login: 
+        title: "Zaten Password'u kurduysanız, giriş yapmak için yeşil kutuya tıklayın."
+        reinstall: "Passwordbox'u yeniden kurma ihtiyacı duyarsanız, aşağıdaki butona tıklayın:"
+    member: 
+        errors: 
+            email: 
+                exists: "Bu e-posta adresi başka bir hesapta kullanılmaktadır. Lütfen başka bir adres deneyin."
+                invalid: "Lütfen geçerli bir e-posta girin."
+    emails: 
+        common: 
+            greeting: "Merhaba %{full_name},"
+            hey: "Hey!"
+            pbox_team: "PasswordBox Ekibi"
+        layout: 
+            tagline: "Passwordbox, tüm cihazlarda online hesaplarınıza hızlı, güvenli erişim, güvenli şifre paylaşımı ve Legacy Locker özelliklerini sunmaktadır. Bir daha asla şifre unutmayın"
+            unsubscribe: 
+                link: "Aboneliği iptal et"
+                from_all: "PasswordBox e-postalarından %{unsubscribe}"
+        welcome: 
+            subject: "%{full_name}, PasswordBox'a hoşgeldin!"
+            title: "Hoşgeldiniz"
+            avg_notice: "AVG araç çubuğu üzerindeki Passwordbox, tüm cihazlarda online hesaplarınıza hızlı erişim, güvenli şifre paylaşımı ve dijital miras özelliklerini sunmaktadır."
+            account_ready: "Hesabınızı neredeyse hazır!"
+            login_info: "Kullanıcı adınız %{email}. Şifreniz, kayıt işlemi sırasında oluşturmuş olduğunuz Ana Şifredir."
+            say_goodbye: "Birden çok kullanıcı adı ve şifreye elveda deyin. Artık, ihtiyacınız olan tek şey Ana Şifreniz. Passwordbox, tüm cihazlarda kolay 1-tıkla giriş, güvenli şifre paylaşımı ve dijital yaşam yönetimi sunmaktadir."
+            finally: "Son olarak, şifrelerinizi aklınızdan atabilirsiniz!"
+            confirm: "Şimdi hesabınızı onaylayın"
+            click_below: "Hesabınızı doğrulamak için aşağıdaki bağlantıya tıklayın:"
+            welcome: "PasswordBox’a hoşgeldiniz!"
+        sync: 
+            subject: "PasswordBox'u mobil cihazınıza indirin!"
+            instructions: "PasswordBox'ı indirmek için, mobil cihazınızdaki bu epostayı açın ve aşağıdaki bağlantıyı ziyaret edin:"

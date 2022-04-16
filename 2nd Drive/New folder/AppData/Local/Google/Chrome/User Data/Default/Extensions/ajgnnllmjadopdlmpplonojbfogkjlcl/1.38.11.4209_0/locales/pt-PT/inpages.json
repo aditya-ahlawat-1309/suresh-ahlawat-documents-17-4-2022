@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Fechar",
+		"done": "Concluído",
+		"dontSave" : "Não guardar",
+		"neverSave" : "Nunca guardar",
+		"saveNow" : "Guardar Agora",
+		"yes" : "Sim",
+		"no" : "Não",
+		"remove": "Remover",
+		"dontUpdate" : "Não atualizar",
+		"updateNow" : "Atualizar agora",
+		"dontAskAgain" : "Não voltar a perguntar",
+
+		"dontSaveNow" : "Não guardar desta vez",
+		"dontSaveItNow" : "Não guardar agora",
+		"neverSaveIt" : "Nunca guardar",
+		"neverForThisSite" : "Nunca guardar",
+		"savePassword" : "Guardar Palavra-passe",
+		"saveThisPassword" : "Guardar esta palavra-passe",
+		"dontShowAgain" : "Não mostrar novamente",
+		"masterPassword" : "Palavra-passe Principal",
+		"continue" : "Continuar",
+		"ok": "OK",
+		"typeMasterPassword" : "Introduza a Palavra-passe Principal",
+		"settings": "Definições",
+		"copyClipboard": "Copiar para a área de transferência",
+		"youreIn" : "Entrou!",
+		"success": "Êxito"
+	},
+
+	"bannerAutosave": {
+		"mainText": "O True Key guardou a sua palavra-passe para <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerBoxfull": {
+		"mainText": "O True Key detetou uma nova palavra-passe para <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Aguarde um momento"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "A sua palavra-passe para <span class='primary'>%{siteName}</span> não é suficientemente robusta"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Tem uma nova palavra-passe partilhada."
+	},
+	"bannerLoginFailure": {
+		"mainText": "O True Key iniciou a sua sessão?",
+		"deleteConfirm": "Pretende remover <span class='secondary'>%{username}</span> do seu perfil do True Key?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Ups. O True Key ainda não suporta este Web site."
+	},
+	"connectWith" : {
+		"mainText" : "Escolha o perfil",
+		"login": "Iniciar sessão"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "O seu perfil está bloqueado",
+		"ctaUnlock": "Inicie sessão para desbloquear",
+		"placeholder" : "Introduza a sua Palavra-passe Principal",
+		"mainTxtHasUsers" : "Inicie sessão com o seu perfil do True Key",
+		"mainTxtNoUsers" : "Introduza a sua Palavra-passe Principal para guardar esta palavra-passe",
+		"error" : "Palavra-passe Incorreta",
+		"decrypting" : "A desencriptar",
+		"profileLocked" : "O seu perfil está bloqueado",
+		"unlockedLogIn" : "Desbloqueie e inicie sessão"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Está cansado de gerir várias palavras-passe? Utilize a aplicação True Key para iniciar sessão instantaneamente",
+		"signup" : "Sim, mostrar como"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Está cansado de problemas com palavras-passe? Utilize o True Key para obter acesso rápido e fácil.",
+		"signup" : "Sim, mostrar como"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Inicie sessão em <span class='secondary'>%{siteName}</span> e",
+		"txt2" : "a sua aplicação True Key memorizará a palavra-passe por si."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Na próxima vez, o True Key iniciará sessão de forma segura."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Inicie sessão de forma mais fácil, rápida e segura no launchpad do seu True Key."
+	},
+	"passgen" : {
+		"generate": "Gerar Palavra-passe",
+		"regenerate" : "Gerar palavra-passe",
+		"noPassGenerated": "A palavra-passe não foi criada",
+		"letters" : "Letras",
+		"digits" : "Algarismos",
+		"symbols" : "Símbolos",
+		"capitals" : "Maiúsculas"
+	}
+}

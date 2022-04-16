@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "中國的"
+    common: 
+        privacy: "隱私"
+        privacy_full: "隱私權政策"
+        terms: "服務條款"
+        terms_full: "服務條款"
+        alert: "警告！"
+        warning: "警告！"
+        or: "或"
+        copyright: "© %{date}。保留所有權利。"
+        change_language: "變更語言"
+    shared: 
+        member_menu: 
+            upgrade: "升級帳戶"
+            refer_friends: "推薦朋友"
+            help: "協助與支援"
+            logout: "登出"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox 讓您不必再記住一大堆的密碼。向多組使用者名稱和密碼說再見吧！您唯一需要的是一組 PasswordBox 主密碼！"
+                mobile: "PasswordBox 是免費的密碼管理程式，可協助使用者在任何裝置上儲存、擷取與共用密碼。試用 PasswordBox Android、iPhone 或 iPad app 看看。"
+        title: 
+            default: "免費的密碼管理程式"
+            welcome: "歡迎"
+    download: 
+        download: "免費下載"
+        login: "登入"
+        mobile: "流動裝置"
+        platforms: "免費"
+        watch_video: "觀看影片"
+        available_for: "也可用於 %{os} 和 %{platform}"
+        free_for: "免費在 %{windows}、%{mac} 和 %{mobile} 中使用。"
+        guides: 
+            click_add: "按一下新增以安裝 PasswordBox"
+            click_allow: "按一下允許以安裝 PasswordBox"
+            click_install: "按一下「安裝」"
+            click_install_now: "立即按一下「安裝」"
+            click_run: "按一下「執行」以安裝"
+            click_yes: "按一下「是」以接受設定"
+            click_here: "按一下這裡"
+            run_and_open: "執行並開啟安裝程式"
+            install_pbox: "安裝 PasswordBox"
+            close_window: "關閉視窗"
+            download_pbox: "下載 PasswordBox"
+        alerts: 
+            mobile: "下載免費的 %{app_name} 應用程式，隨時隨地享受 1-Tap Login！"
+        errors: 
+            browser: 
+                min_version: "PasswordBox 僅可用於 %{browser} 版本 %{min_version} 和以上版本。請更新您的瀏覽器然後再試一次。"
+                single_version: "PasswordBox 僅適用於 %{browser}。請更新您的瀏覽器然後再試一次。"
+                unavailable: "PasswordBox 無法用於您的 %{browser} 版本。請使用 %{suggestion} 再試一次。"
+                safari_windows: "PasswordBox for Safari 目前僅可用於 Mac OS X。"
+                safari: 
+                    unsupported: "很可惜，我們已經不再支援 Safari。請在 Chrome、Firefox 或 Internet Explorer 上再試試看。"
+                    read_more: "在此讀取更多"
+                unsupported: 
+                    problems: "我們並未正式支援這個%{browser}的版本。您仍然可以安裝 PasswordBox，但是可能會遇到一些問題。"
+                    upgrade_suggestion: "為確保獲得最佳體驗，我們建議您升級至瀏覽器的最新版本。"
+                    install_anyway: "仍要安裝"
+            mobile: 
+                min_version: "PasswordBox 無法用於這個 %{os} 版本。請在使用 %{min_version} 或更高版本的裝置上再試一次。"
+                generic: "PasswordBox 無法用於這個裝置。請在 iPhone、iPad 或 Android 上再試一次，或是在桌面上開啟此頁以安裝我們的瀏覽器延伸。"
+        onboard: 
+            welcome: "歡迎使用 PasswordBox 安裝"
+            failed_install: "無法安裝 PasswordBox"
+            never_forget: "絕對不會再忘記密碼！"
+            click_to_retry: "按一下重試以便再試一次"
+            retry: "重試"
+            free_vault: "Google Chrome 的免費密碼庫。"
+            add_to_chrome: "新增至 Chrome"
+        guide: 
+            almost_done: "快完成了！"
+            greeting: "您好%{member_name}！"
+            welcome: "歡迎使用 PasswordBox。請遵照下面的步驟來完成安裝。"
+            downloading: "PasswordBox 將會自動開始下載。如果沒有自動開始，請%{restart_link}。"
+            restart: "按一下這裡以重新開始下載"
+    address_book: 
+        import: 
+            address: "地址"
+            email_password: "電郵密碼"
+            fetching_contacts: "正在擷取聯絡人…"
+            gmail: 
+                connect_button: "連接至Gmail"
+                instructions: "點擊連接你的Gmail通訊錄"
+            open_address_book: "開啟通訊錄"
+            sending_promise: "未經你的同意，我們絕對不會向你的聯絡人發送電郵。"
+            connect: 
+                title: "連接至您的通訊錄"
+                button: "連接至 %{provider}"
+                instructions: "按一下以連接至您的 %{provider} 通訊錄"
+        select: 
+            contacts: "聯絡人"
+            deselect_all: "全部取消選擇"
+            search_contact: "搜尋聯絡人"
+            select_all: "全部選擇"
+            select_title: "在通訊錄中選擇"
+            send_success: "你的數碼遺產申請已成功發送！"
+            to: "至"
+    forms: 
+        buttons: 
+            back: "返回"
+            cancel: "取消"
+            ok: "確定"
+            save: "儲存"
+            submit: "遞交"
+            send: "傳送"
+        errors: 
+            digits: 
+                only: "請只輸入數字。"
+            email: 
+                exists: "此電郵地址已被他人使用。"
+                invalid: "電郵地址無效。"
+                invalid_please: "請輸入有效的電郵地址。"
+                required: "電子郵件欄位為必填。"
+            fullname: 
+                required: "請輸入你的全名。"
+                too_long: "請輸入較短的姓名。"
+                too_short: "你的姓名必須最少有%{length}個字元。"
+            password: 
+                required: "請選擇密碼。"
+                too_short: "請確保你的密碼最少有%{length}個字元。"
+                confirm: "請你確認密碼"
+                match: "你真的輸入了正確密碼？"
+                different: "您的密碼不可以和電子郵件或姓名相同"
+            required: 
+                generic: "此項必須填寫。"
+            generic: "唉呀！發生一些問題。請嘗試重新提交表單。"
+            length: 
+                between: "請輸入介於 {0} 和 {1} 個字元長度的值。"
+        labels: 
+            email: "電郵"
+            fullname: "全名"
+            first_name: "名字"
+            last_name: "姓氏"
+            master_password: "主要密碼"
+            password: "密碼"
+            title: "稱謂"
+            username: "用戶名稱"
+            email_full: "您的電子郵件地址"
+            phone_full: "您的電話號碼"
+            date: "日期"
+        success: 
+            thank_you: "多謝"
+        info: 
+            password: 
+                very_weak: "非常弱"
+                weak: "弱"
+                average: "一般"
+                good: "好"
+                strong: "強"
+    premium: 
+        limit_reached: "您已經到達 %{limit} 的限制。立即升級並且獲得沒有限制的密碼儲存。"
+        billing: 
+            details: "使用高級版 PasswordBox，一年的費用為 %{price} 美元。如果你在訂用後的首 30 日內不滿意這項服務，你將可取回已經繳付的全數款項，而無須提供任何理由。"
+            renewal: "除非您在下次付款日期到期前透過寄送電子郵件 %{support_link} 的方式取消，否則您的帳戶將自動每年續約。"
+        enter_cc_info: "輸入信用卡資料"
+        form: 
+            errors: 
+                credit_card_invalid: "請輸入有效的信用卡號碼。"
+                generic_processing: "處理你的付款時發生問題。"
+                unable_to_process: "我們無法處理您的信用卡。請仔細檢查您是否提供正確的資訊，然後再試一次。"
+            labels: 
+                as_on_card: "（可在信用卡上找到）"
+                credit_card: "信用卡號碼"
+                expiry: "到期日"
+                secure: "安全碼"
+                verification: "4位數字信用卡驗證號碼"
+                what: "這是甚麼？"
+                country: "國家"
+                postal_code: "郵遞區號"
+                street_address: "街道地址"
+                city: "城市"
+                region: "地區"
+            submit: "啟用高級帳戶"
+            processing: "正在處理... 請稍候。"
+        main_title: "每月只需 %{price} 美元，即可享用配備全部功能的 PasswordBox 版本！"
+        premium: "高級帳戶"
+        quote: "我擁有的用戶名稱和密碼，比我能夠記得的還要多。很幸運，PasswordBox可以為我記起這些密碼。你們的服務也令我感到十分安心，因為如果我今天遇到致命交通意外，我也知道自己的另一半可根據我之前所留下的指示，登入我的各個網上帳戶。知道丈夫能夠存取我的PayPal帳戶，以及放在Flickr上的所有家庭相片，我就有如釋重負的感覺。"
+        satisfaction_guarantee: "如果你在首30日的試用期內感到不滿，我們將會向你退回全數款項。你無須回答任何問題，可以放心試用。"
+        success: 
+            already_premium: "你已成為高級會員！你的訂用時期在%{date}之前一直有效。"
+            free_for_life_notice: "多謝你參與我們的試用版測試。你的帳戶將會永久免費。"
+            payment_success: "謝謝！我們已經收到你的付款。"
+            return_to_public: "返回公共網站"
+            to_passwordbox: "進入我的PasswordBox"
+            upgrade_success: "你的帳戶已成功升級。"
+        testimonial: "證書"
+        unconfirmed: 
+            title: "尚未確認您的帳戶"
+            check_spam: "如果你未能收到電郵，請緊記檢查<strong>垃圾郵件</strong>資料夾。"
+            no_email: "沒收到電子郵件？"
+            explanation: "確認您的帳戶不僅可為我們驗證您的電子郵件地址，也能夠解鎖共用與 Legacy Locker 功能。"
+            resend_email: "重寄確認電子郵件"
+            steps: 
+                send_email: "傳送一封驗證郵件至您的電子郵件帳戶"
+                click_link: "點選電子郵件中的建議連結"
+                done: "完成！"
+            continue: 
+                instructions: "您確認帳戶之後，請即按下<strong>繼續</strong>完成付款詳細資料的填寫。"
+                action: "繼續"
+            messages: 
+                email_sent: "請查看您的收件匣。我們已傳送確認電子郵件給您。"
+                not_confirmed: "您尚未確認帳戶。"
+                general_error: "發生問題。請再試一次。"
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "邀請好友"
+                invite_new: "新邀請"
+                invites_accepted: "已接受的邀請"
+                invites_sent: "已發送的邀請"
+                manage_invites: "管理我的邀請"
+                manage_title: "管理你的邀請"
+                no_invites_sent: "你尚未發送任何邀請。請即向好友發送邀請！"
+                referrals_needed: "您需要有 %{count} 個接受的邀請，才能獲得免費的無限儲存空間帳戶"
+                referrals_needed_single: "您還需要再有 1 個接受的邀請，才能獲得免費的無限儲存空間帳戶"
+                resend: "重新發送"
+                reward: "有 %{count} 位好友註冊，你就能夠永久獲得免費的專業版帳戶。"
+                sent: "已發送"
+                status: "狀態"
+                subheader: "這些是你已經發送的邀請。如有需要，你可以重新發送。"
+            reward: "推薦 %{count} 位好友註冊 PasswordBox，您就能夠獲得免費的專業版帳戶，永久享受無限制的密碼儲存空間。"
+            title: "推薦 %{count} 位好友加入 PasswordBox"
+        import_contacts: 
+            manual_option: "手動輸入好友的電郵地址"
+        important: "重要事項"
+        installed_header: "PasswordBox現已正式投入服務！"
+        invite_header: "向你的好友告知有關PasswordBox的消息"
+        manual_invite: 
+            email_instructions: "輸入他們的電郵地址"
+            import_option: "邀請通訊錄上的好友"
+            required_error: "請輸入電郵地址，以作邀請"
+            send_action: "發送VIP貴賓證"
+            send_instructions: "向你的好友發送邀請"
+            send_success: "你的VIP貴賓證已經發出！"
+        resale_disclaimer: "請注意，PasswordBox並不容許你在eBay或任何其他網站上出售VIP貴賓證。貴賓證只限個人使用。"
+        sent_after_welcome: 
+            title: "你已完成註冊步驟！"
+            video_instructions: "觀看這段影片，瞭解更多有關PasswordBox的內容"
+        vip: 
+            reward: "你將會獲得終生免費的會籍"
+            title: "為你的好友發送PasswordBox的VIP貴賓存取權"
+    welcome: 
+        headers: 
+            running: "%{logo} 現已正式投入服務！"
+        bulk_password: 
+            check_all: "全部勾選"
+            did_you_know_title: "你是否知道，多達92%的人註冊大多數網上帳戶時，都使用相同的用戶名稱/密碼組合？"
+            instructions: "如果你是其中之一，請在下面輸入你的常用登入資料，並選擇你在哪些網站使用這些資料。只需一個動作，我們就能把這些帳戶儲存到你的PasswordBox帳戶之中。"
+            save_passwords: "儲存密碼"
+            success_message: "正在儲存你的密碼…"
+            uncheck_all: "全部取消勾選"
+            username_label: "電郵地址的所屬用戶名稱"
+            website_error: "請選擇最少一個網站。"
+        legacy: 
+            address_book: "連接你的網頁電郵通訊錄"
+            email_label: "你信任的人之電郵地址"
+            instructions: "寫下一位你信任的人的姓名，我們就會以電郵向他發送你的請求"
+            name_label: "你信任的人之姓名"
+            transfer_info: "不用擔心，你的密碼只會在有需要時才向對方發送"
+            trust_title: "如果你遇到突發情況，有哪位你信任的人可以負責看管你的網上帳戶？"
+            watch_video: "觀看影片，瞭解詳情"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "確認主要密碼"
+                never_store_password: "為確保你的安全得到保障，PasswordBox絕對不會看到或儲存你的主要密碼。"
+                no_recovery: "如果你已忘記主要密碼，你將無法恢復帳戶"
+                repeat_title: "請再次輸入密碼"
+            creating_account: "正在建立你的帳戶…"
+            form: 
+                create_account_action: "建立免費帳戶"
+                create_account_title: "建立你的免費帳戶"
+                create_password: "建立密碼"
+                existing_account: "你已建立帳戶？"
+                facebook_promise: "不用擔心。我們絕不會把訊息發佈到你的Wall上。"
+                facebook_signup: "以Facebook帳戶註冊"
+                login: "登入"
+                terms_disclaimer: "點擊以上按鈕，即表示你接受我們的服務條款。"
+                terms_full: "我們絕對不會將您的電子郵件或任何個人資訊與第三方分享，同時我們只會將有關交易的電子郵件傳送至您的 PasswordBox 帳戶。如需了解詳細資訊，請閱讀我們的%{privacy_link}。"
+                terms_agree: "點擊以上按鈕，即表示您接受我們的%{terms_link}。"
+            installed_title: "安裝完成！最後一步…"
+            never_forget: "以後也不會再忘記密碼！請即啟用你的免費帳戶"
+            recently_installed: "PasswordBox最近已加入你的瀏覽器之中…"
+            testimonial: "這款工具就像專為密碼而設的Dropbox。無論我身在何處，這款工具都能運作，而且分享十分方便。"
+            login_link: "如果您已經有 PasswordBox 帳戶，<a href=\"%{path}\" target=\"_blank\">請查詢瀏覽器中的</a>綠色方塊"
+            validating: "正在驗證您的資訊…"
+            almost_done: "快完成了！只剩下建立您的密碼"
+            delayed: 
+                never_forget: 
+                    generic: "絕對不會再忘記密碼！"
+                    domain: "絕對不會再忘記您的 <strong>%{website}</strong>密碼！"
+                signup_free: "立即免費註冊！"
+                secure: "為確保您所儲存密碼的安全，<strong>請免費註冊，然後享受自動登入自己最愛網站的便利！</strong>"
+                watch_video: "觀看我們的影片"
+                how_pbox_works: "PasswordBox 的運作方式"
+            crypto: 
+                creating: "正在建立您的帳戶…"
+                encrypting: "我們正在加密您的密碼以維護最大的安全性。如果您使用舊型的電腦，這個程序可能需要花費一些時間 (最多一分鐘)。這是正常的現象。請稍候片刻，等待程序完成。"
+        video: 
+            typing_passwords: "手動輸入密碼是一個繁瑣而且令人沮喪的過程。 PasswordBox 可透過在您登入網站時儲存憑證的方式提供協助。"
+            next_step: "我瞭解。謝謝！"
+        guides: 
+            extension: 
+                congratulations: "恭喜！"
+                save_success: "我們已經成功地將您的密碼儲存至 PasswordBox！"
+                green_box: "點選瀏覽器中的綠色方塊圖示，可在需要時存取！"
+        tutorial: 
+            create_password: 
+                click_instructions: "點擊下面的一個按鈕，加入你的首個密碼"
+                form_instructions: "輸入你的用戶名稱和密碼"
+            one_click_login: "做得好！現在請嘗試一鍵登入"
+            tour_video: 
+                extension_guide: "點擊綠色方格開啟PasswordBox"
+                instructions: "使用這個快速產品導覽，讓你能夠全面發揮PasswordBox的優點。"
+                title: "入門導覽"
+    features: 
+        seamless_login: 
+            title: "再見了，密碼。在任何裝置、網站或 Mobile App 上即時登入。"
+            subtitle: "厭倦因為登入畫面而拖慢您的速度了嗎？透過 1-Click 與 1-Tap Login，快速進入您的帳戶。"
+            item_1: "透過 PasswordBox 獨家的功能，不再需要輸入使用者名稱或密碼即可%{link}。"
+            item_2: "登陸任何網頁之後，PasswordBox 會自動將您的資訊填入，並且將您登入。使用 Chrome 與 Safari 登入時，您不再需要在桌上型電腦或行動裝置輸入任何資訊。"
+            item_3: "即使您在相同網站有多個使用者帳戶，仍然可以快速登入"
+            item_4: "防範按鍵輸入惡意軟體的安全性 - 如果您不輸入，他們就沒有機會竊取資料"
+            one_tap_link: "在 Android 的 1-Tap 登入您最喜愛的行動應用程式"
+        device_syncing: 
+            title: "您的密碼，無所不在"
+            subtitle: "將密碼儲存至 PasswordBox，它會立即儲存至您的所有瀏覽器、電腦和行動裝置。"
+            item_1: "自動同步，讓您始終能夠透過指尖登入"
+            item_2: "幾乎能夠在市面上的所有電腦、瀏覽器和行動裝置上使用"
+            item_3: "適用於所有主要瀏覽器的免費外掛程式，包括 Chrome、Firefox 和Internet Explorer"
+            item_4: "資料的加密與解密可使用 AES-256 在本機裝置上執行"
+    install: 
+        mobile: 
+            title: "行動版 PasswordBox"
+            widget: 
+                title: "免費行動 apps"
+                subtitle: "您的密碼無所不在"
+            notify: 
+                sms: "寫簡訊至我的手機"
+                email: "將電子郵件寄到我的裝置"
+                sending: "傳送安裝連結"
+            email: 
+                success: "電子郵件已傳送！查看電子郵件中是否有下載的連結"
+                errors: 
+                    invalid: "電子郵件遺失或無效"
+                    failed: "無法傳送連絡人電子郵件"
+            sms: 
+                body: "若要安裝 PasswordBox，請在行動裝置上按一下這裡：%{link}"
+                success: "文字訊息已傳送！查看手機中是否有下載的連結。"
+                errors: 
+                    phone: 
+                        missing: "電話號碼遺失。"
+                        invalid: "我們無法將訊息傳送至該電話號碼。如果這是國際電話號碼，請務必包含國碼。"
+                    service: 
+                        unavailable: "目前無法提供簡訊服務"
+            apps: 
+                app_store: "可透過 <span>App Store 下載</span>"
+                google_play: "可在 Google Play <span>免費取得</span>"
+            ces_award: "最佳行動<span>應用程式 CES 2014</span>"
+        desktop: 
+            title: "免費下載 PasswordBox"
+            warnings: 
+                windows_only: "僅適用於 Windows"
+                mac_only: "僅適用於 Mac OS"
+            button: 
+                get: "取得 PasswordBox"
+                for: "為"
+        instructions: "請複製以下連結並且將它貼至您的 %{browser} 地址列："
+        copy: 
+            button: "複製"
+            tooltip: "複製到剪貼簿"
+            success: "已複製！"
+    login: 
+        title: "如果您已經有安裝 PasswordBox， 請按一下綠色方塊以登入。"
+        reinstall: "如果您需要重新安裝 PasswordBox，請按一下下面的按鈕："
+    member: 
+        errors: 
+            email: 
+                exists: "已經有相同電子郵件的成員存在。請嘗試使用不同的電子郵件。"
+                invalid: "請輸入有效的電子郵件。"
+    emails: 
+        common: 
+            greeting: "您好%{full_name}："
+            hey: "嗨！"
+            pbox_team: "PasswordBox 團隊"
+        layout: 
+            tagline: "PasswordBox 提供在所有裝置間快速安全存取您的線上帳戶，安全密碼共用以及 Legacy Locker。絕對不會再忘記密碼。"
+            unsubscribe: 
+                link: "取消訂閱"
+                from_all: "%{unsubscribe} PasswordBox 電子郵件"
+        welcome: 
+            subject: "%{full_name}，歡迎使用 PasswordBox！"
+            title: "歡迎"
+            avg_notice: "AVG 工具列上的 PasswordBox 提供在所有裝置間快速存取您的線上帳戶，安全密碼共用以及數字繼承功能。"
+            account_ready: "您的帳戶即將準備就緒！"
+            login_info: "您的使用者名稱為 %{email}。您的密碼是您在註冊過程中所建立的主要密碼。"
+            say_goodbye: "向多組使用者名稱和密碼道別吧！從現在開始，您只需要您的主要密碼就好。PasswordBox 提供所有裝置間的簡易一鍵登入、安全密碼共用，以及數位生活管理。"
+            finally: "最後，您可以不再需要記住密碼！"
+            confirm: "立即確認您的帳戶"
+            click_below: "按一下下面的連結以確認您的帳戶："
+            welcome: "歡迎使用 PasswordBox！"
+        sync: 
+            subject: "在您的行動裝置上下載 PasswordBox！"
+            instructions: "若要下載 PasswordBox，請在您的行動裝置上開啟此電郵，然後造訪下面的連結："

@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "한국의"
+    common: 
+        privacy: "개인정보보호"
+        privacy_full: "개인정보보호 정책"
+        terms: "서비스 약관"
+        terms_full: "서비스 약관"
+        alert: "경고!"
+        warning: "경고!"
+        or: "또는"
+        copyright: "© %{date}. All rights reserved."
+        change_language: "언어 변경"
+    shared: 
+        member_menu: 
+            upgrade: "계정 업그레이드"
+            refer_friends: "친구 초대하기"
+            help: "도움말 & 지원"
+            logout: "로그아웃"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox는 귀하가 암호를 신경쓰지 않게 해줍니다. 많은 사용자 이름과 암호는 작별하세요. 귀하의 PasswordBox 기본암호가 귀하에게 필요한 전부입니다!"
+                mobile: "PasswordBox는 어떤 기기에서든 사람들이 암호를 저장하고, 다시 확인하고, 공유하도록 도와주는 무료 암호 관리자 프로그램입니다. 안드로이드, 아이폰, 또는 아이패드 전용 PasswordBox를 사용해 보세요."
+        title: 
+            default: "무료 암호 관리자"
+            welcome: "환영합니다"
+    download: 
+        download: "무료 다운로드"
+        login: "로그인"
+        mobile: "모바일"
+        platforms: "용 무료 다운로드"
+        watch_video: "동영상 보기"
+        available_for: "%{os}과 %{platform}에서도 사용 가능"
+        free_for: "%{windows}, %{mac} 및 %{mobile} 제품용 무료."
+        guides: 
+            click_add: "PasswordBox를 설치하려면 \"추가\"를 클릭"
+            click_allow: "PasswordBox를 설치하기 위해서 \"허용\"을 클릭"
+            click_install: "\"설치\"를 클릭"
+            click_install_now: "\"지금 설치\"를 클릭"
+            click_run: "설치하려면 \"실행\"을 클릭"
+            click_yes: "설정을 수락하려면 \"예\"를 클릭"
+            click_here: "여기를 클릭"
+            run_and_open: "설치프로그램 실행하고 열기"
+            install_pbox: "PasswordBox 설치"
+            close_window: "창 닫기"
+            download_pbox: "PasswordBox 다운로드"
+        alerts: 
+            mobile: "무료 %{app_name} 앱을 다운로드하여 언제든지 1-Tap Login을 즐겨 보세요!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox는 %{browser} 버전 %{min_version} 이상에서만 이용할 수 있습니다. 귀하의 브라우저를 업데이트하고 다시 시도하세요."
+                single_version: "PasswordBox는 %{browser}에서만 이용할 수 있습니다. 귀하의 브라우저를 업데이트하고 다시 시도하세요."
+                unavailable: "귀하의 %{browser}버전에서는 PasswordBox를 사용할 수 없습니다. %{suggestion}로 다시 해보세요."
+                safari_windows: "Safari용 PasswordBox는 현재 Mac OS X에서만 사용할 수 있습니다."
+                safari: 
+                    unsupported: "죄송하지만 Safari가 더 이상 지원되지 않습니다. Chrome, Firefox 또는 Internet Explorer에서 다시 시도하십시오."
+                    read_more: "여기서 더 보기"
+                unsupported: 
+                    problems: "이 %{browser} 버전은 공식적으로 지원되지 않습니다. 계속해서 PasswordBox를 계속 설치할 수 있지만, 문제가 발생할 수 있습니다."
+                    upgrade_suggestion: "최고의 사용자 환경을 이용하려면 브라우저를 최신 버전으로 업그레이드하시는 것이 좋습니다."
+                    install_anyway: "계속 설치"
+            mobile: 
+                min_version: "PasswordBox는 %{os}의 현재 버전에서는 사용할 수 없습니다. 버전 %{min_version} 이상을 사용하는 기기에서 다시 해보세요."
+                generic: "PasswordBox는 이 기기에서는 사용할 수 없습니다. 아이폰, 아이패드 또는 안드로이드로 다시 해보시거나, 브라우저 확장팩을 설치하기 위해 귀하의 컴퓨터에서 이 페이지를 열어 보세요."
+        onboard: 
+            welcome: "PasswordBox 설치를 환영합니다"
+            failed_install: "PasswordBox 설치 실패"
+            never_forget: "다시는 암호를 잊지마세요!"
+            click_to_retry: "다시 시도하려면 \"다시 시도\"를 클릭"
+            retry: "다시 시도"
+            free_vault: "Google Chrome을 위한 무료 암호 금고."
+            add_to_chrome: "Chrome에 추가"
+        guide: 
+            almost_done: "거의 완료!"
+            greeting: "안녕하세요, %{member_name}님!"
+            welcome: "PasswordBox에 오신 것을 환영합니다. 설치를 완료하려면 아래 단계를 따르세요."
+            downloading: "PasswordBox에서 자동으로 다운로드를 시작할 것입니다. 그렇지 않은 경우, %{restart_link}을/를 클릭하세요."
+            restart: "다운로드를 다시 시작하려면 여기를 클릭"
+    address_book: 
+        import: 
+            address: "주소"
+            email_password: "이메일 패스워드"
+            fetching_contacts: "연락처를 가져오는 중…"
+            gmail: 
+                connect_button: "Gmail 접속"
+                instructions: "클릭하여 사용자 Gmail 주소록에 접속합니다."
+            open_address_book: "주소록 열기"
+            sending_promise: "동의 없이는 절대로 사용자에게 이메일을 발송하지 않습니다."
+            connect: 
+                title: "귀하의 주소록에 연결"
+                button: "%{provider}에 연결"
+                instructions: "귀하의 %{provider} 주소록에 연결하려면 클릭"
+        select: 
+            contacts: "연락처"
+            deselect_all: "전체 선택 해제"
+            search_contact: "연락처 찾기"
+            select_all: "전체 선택"
+            select_title: "주소록에서 선택"
+            send_success: "디지털 레거시 요청이 성공적으로 수행되었습니다!"
+            to: "To"
+    forms: 
+        buttons: 
+            back: "뒤로"
+            cancel: "취소"
+            ok: "확인"
+            save: "저장"
+            submit: "제출"
+            send: "전송"
+        errors: 
+            digits: 
+                only: "숫자만 입력하십시오."
+            email: 
+                exists: "이미 사용 중인 이메일 주소입니다."
+                invalid: "사용할 수 없는 이메일 주소입니다."
+                invalid_please: "유효한 이메일 주소를 입력하십시오."
+                required: "이메일 항목은 필수입니다."
+            fullname: 
+                required: "본명을 입력하십시오."
+                too_long: "닉네임을 입력하십시오."
+                too_short: "귀하의 이름은 최소 %{length}글자 이상이어야 합니다."
+            password: 
+                required: "패스워드를 선택하십시오."
+                too_short: "귀하의 암호는 최소 %{length}글자 이상이어야 합니다."
+                confirm: "비밀번호를 확인하세요."
+                match: "비밀번호가 일치하는지 확인하세요."
+                different: "암호는 이메일 또는 이름과 다르게 입력해야 합니다."
+            required: 
+                generic: "필수 입력 사항"
+            generic: "앗! 잘못된 사항이 있습니다. 다시 서식을 제출해보세요."
+            length: 
+                between: "{0}에서 {1}자 사이의 값을 입력하세요."
+        labels: 
+            email: "이메일"
+            fullname: "이름"
+            first_name: "이름"
+            last_name: "성"
+            master_password: "마스터 패스워드"
+            password: "패스워드"
+            title: "직함"
+            username: "ID"
+            email_full: "귀하의 이메일 주소"
+            phone_full: "귀하의 전화 번호"
+            date: "날짜"
+        success: 
+            thank_you: "감사합니다"
+        info: 
+            password: 
+                very_weak: "매우 약함"
+                weak: "약함"
+                average: "보통"
+                good: "양호"
+                strong: "강함"
+    premium: 
+        limit_reached: "제한 수 %{limit}개에 도달했습니다. 지금 업그레이드하여 무제한으로 암호를 저장하세요."
+        billing: 
+            details: "PasswordBox 프리미엄 서비스 이용 시 연간 이용료로 미화 %{price}달러가 청구됩니다. 서비스가 만족스럽지 않은 경우 가입 후 최초 30일 이내에 조건 없이 100% 환불 받으실 수 있습니다."
+            renewal: "다음 결제일 전까지 %{support_link}(으)로 이메일을 보내 취소하지 않는 한 계정이 매년 자동으로 갱신됩니다."
+        enter_cc_info: "카드 상에 적혀있는 대로"
+        form: 
+            errors: 
+                credit_card_invalid: "유효한 신용카드 번호를 입력하십시오."
+                generic_processing: "결제 처리 중 문제가 발생했습니다."
+                unable_to_process: "귀하의 신용카드를 처리할 수 없습니다. 정확한 정보를 입력했는지 확인하고, 다시 시도해주세요."
+            labels: 
+                as_on_card: "신용 카드 정보를 입력하십시오."
+                credit_card: "신용카드 번호"
+                expiry: "만료일"
+                secure: "보안"
+                verification: "4자리 카드 인증 번호"
+                what: "이것은 무엇입니까?"
+                country: "국가"
+                postal_code: "우편번호"
+                street_address: "주소"
+                city: "도시"
+                region: "지역"
+            submit: "프리미엄 활성화하기"
+            processing: "처리 중... 잠시 기다려 주세요."
+        main_title: "월 %{price}달러로 PasswordBox 풀버전을 이용하세요!"
+        premium: "프리미엄"
+        quote: "저는 모두 기억할 수 없을 정도로 많은 ID와 패스워드를 사용하고 있습니다. 다행스럽게도 PasswordBox를 통해 수많은 로그인 정보를 손쉽게 확인할 수 있게 되었습니다. 또한 오늘 당장 제가 자동차 사고로 사망해도 저의 가족이나 지인이 저의 요청에 따라 다양한 온라인 계정들에 대한 접속 권한을 넘겨 받을 수 있기 때문에 마음이 정말 편합니다. 남편이 저의 Paypal 계정과 Flickr에 올린 가족 사진에 접속할 수 있게 될 것을 알기 때문에 정말 안심할 수 있습니다."
+        satisfaction_guarantee: "제품이 만족스럽지 않을 경우 30일 내로 전액 환불 받으실 수 있습니다. 조건 없이 즉시 환불됩니다."
+        success: 
+            already_premium: "귀하는 이미 프리미엄 회원입니다! 서비스 만료일은 %{date}입니다."
+            free_for_life_notice: "베타 테스트에 참여해 주셔서 감사합니다. 평생 무료로 계정을 이용하실 수 있습니다."
+            payment_success: "감사합니다! 결제가 완료되었습니다."
+            return_to_public: "공개 사이트로 돌아가기"
+            to_passwordbox: "내 PasswordBox로 가기"
+            upgrade_success: "귀하의 계정이 성공적으로 업그레이드되었습니다."
+        testimonial: "추천의 글"
+        unconfirmed: 
+            title: "귀하의 계정이 아직 확인되지 않았습니다"
+            check_spam: "받은 편지함에서 이메일이 보이지 않으면 <strong>스팸</strong> 폴더를 확인해 보세요."
+            no_email: "이메일을 받지 않았습니까?"
+            explanation: "계정 확인을 수행하면 주소의 유효성을 확인할 수 있고, 공유 및 Legacy Locker 기능도 사용할 수 있습니다."
+            resend_email: "확인 이메일 다시 보내기"
+            steps: 
+                send_email: "귀하의 이메일 계정으로 확인 메일 전송"
+                click_link: "이메일에서 제시된 링크를 클릭"
+                done: "완료되었습니다!"
+            continue: 
+                instructions: "귀하의 계정을 확인한 다음 <strong>계속</strong> 을 클릭하여 결제 세부 정보를 작성하세요."
+                action: "계속"
+            messages: 
+                email_sent: "귀하의 받은 편지함을 확인하세요. 확인 이메일을 보냈습니다."
+                not_confirmed: "아직 계정을 확인하지 않았습니다."
+                general_error: "문제가 발생했습니다. 다시 시도하세요."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "친구 초대하기"
+                invite_new: "새 친구 초대하기"
+                invites_accepted: "수신 초대장"
+                invites_sent: "보낸 초대장"
+                manage_invites: "내 초대장 관리하기"
+                manage_title: "사용자 초대장 관리하기"
+                no_invites_sent: "한 번도 초대장을 보내지 않았습니다. 초대장 관리하기로 들어가셔서 초대장을 보내보세요!"
+                referrals_needed: "%{count}명을 초대하는 데 성공하면 무제한으로 저장 가능한 계정을 무료로 사용할 수 있습니다"
+                referrals_needed_single: "1명을 더 초대하면 무제한 저장이 가능한 계정을 무료로 이용하실 수 있습니다."
+                resend: "재발송하기"
+                reward: "%{count}명의 친구를 가입시키면 귀하는 Pro Account를 평생 무료로 이용할 수 있습니다."
+                sent: "발송됨"
+                status: "상태"
+                subheader: "지금까지 발송한 초대장을 확인할 수 있습니다. 필요할 경우 초대장을 재발송할 수도 있습니다."
+            reward: "%{count}명의 친구를 PasswordBox에 가입시키면 귀하는 무료 Pro Account를 받아서, 평생 무제한 암호 저장 서비스를 이용할 수 있습니다."
+            title: "%{count}명의 친구를 PasswordBox에 초대하세요"
+        import_contacts: 
+            manual_option: "친구의 이메일 주소를 직접 입력하십시오."
+        important: "중요"
+        installed_header: "PasswordBox를 시작합니다!"
+        invite_header: "친구에게 PasswordBox에 대해 알려주세요."
+        manual_invite: 
+            email_instructions: "친구의 이메일 주소를 입력하십시오."
+            import_option: "주소록에 있는 친구를 초대하십시오."
+            required_error: "초대할 친구의 이메일 주소를 입력하십시오."
+            send_action: "VIP 이용권 보내기"
+            send_instructions: "친구에게 초대장을 보내세요."
+            send_success: "VIP 이용권이 발송되었습니다!"
+        resale_disclaimer: "PasswordBox VIP 이용권을 eBay 등의 사이트에서 판매할 수 없습니다. 반드시 본인만 사용할 수 있습니다."
+        sent_after_welcome: 
+            title: "등록이 완료되었습니다!"
+            video_instructions: "이 동영상을 통해 PasswordBox에 대해 좀 더 자세히 알아보십시오."
+        vip: 
+            reward: "평생 무료 회원권을 받으실 수 있습니다."
+            title: "친구에게 PasswordBox VIP 이용권을 선물해 보십시오."
+    welcome: 
+        headers: 
+            running: "%{logo}가 이제 작동 중입니다!"
+        bulk_password: 
+            check_all: "전체 선택"
+            did_you_know_title: "사람들의 92%가 대부분의 본인 온라인 계정에 대해 동일한 ID/패스워드 조합을 이용한다는 사실을 혹시 알고 계십니까?"
+            instructions: "여러분도 그렇다면 주로 쓰는 로그인 정보를 아래에 입력하고 이용 중인 사이트를 선택하십시오. 그러면 모든 계정들이 PasswordBox에 한 번에 저장됩니다."
+            save_passwords: "패스워드 저장"
+            success_message: "패스워드 저장 중…"
+            uncheck_all: "전체 선택 해제"
+            username_label: "이메일 주소 ID"
+            website_error: "최소 1개 이상의 웹사이트를 선택하십시오."
+        legacy: 
+            address_book: "웹메일 주소록에 접속하십시오."
+            email_label: "위임자 이메일 주소"
+            instructions: "아래에 위임자의 이름을 입력하면 사용자 요청 사항을 해당 위임자에게 이메일로 통보합니다."
+            name_label: "위임자 이름"
+            transfer_info: "걱정하지 마십시오. 권한을 위임해야 하는 상황이 오기 전까지는 절대로 사용자 패스워드를 전송하지 않습니다."
+            trust_title: "무슨 일이 발생할 경우 사용자의 온라인 계정을 대신 관리할 사람을 지정하십시오."
+            watch_video: "동영상을 통해 더 많은 정보를 얻으십시오."
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "마스터 패스워드를 확인하십시오."
+                never_store_password: "보안을 위해 PasswordBox 사용자 마스터 패스워드를 확인하거나 저장하지 않습니다."
+                no_recovery: "마스터 패스워드 분실 시 계정을 복구할 수 없습니다."
+                repeat_title: "패스워드를 재입력하십시오."
+            creating_account: "계정 생성 중…"
+            form: 
+                create_account_action: "무료 계정을 만드십시오."
+                create_account_title: "무료 계정을 만드십시오."
+                create_password: "패스워드를 지정하십시오."
+                existing_account: "이미 계정이 있습니까?"
+                facebook_promise: "걱정하지 마십시오. 사용자 페이스북 담벼락에는 어떠한 포스트도 등록하지 않겠습니다."
+                facebook_signup: "페이스북 계정으로 등록"
+                login: "로그인"
+                terms_disclaimer: "위의 아이콘을 클릭하면 서비스 약관에 동의하게 됩니다."
+                terms_full: "저희는 제3자와 귀하의 이메일이나 여하한의 개인정보도 절대 공유하지 않으며, 귀하의 PasswordBox 계정에 관한 업무상의 이메일만 귀하에게 발송합니다. 자세한 사항은 우리의 %{privacy_link}를 읽으세요."
+                terms_agree: "위 버튼을 클릭하면 귀하가 저희 %{terms_link}에 동의하는 것입니다."
+            installed_title: "설치가 완료되었습니다! 마지막 단계…"
+            never_forget: "다시 패스워드를 잊지 마십시오! 무료 계정을 활성화하십시오."
+            recently_installed: "브라우저에 PasswordBox가 최근에 추가되었습니다…"
+            testimonial: "일종의 패스워드용 드롭박스입니다. 어떤 장소든 어떤 장치든 상관 없이 사용하고 손쉽게 공유할 수 있습니다."
+            login_link: "이미 PasswordBox 계정이 있는 경우 <a href=\"%{path}\" target=\"_blank\">브라우저에서</a> 녹색 상자를 찾아 보세요."
+            validating: "귀하의 정보 확인 중..."
+            almost_done: "거의 끝나갑니다! 귀하의 암호만 만드세요"
+            delayed: 
+                never_forget: 
+                    generic: "다시는 암호를 잊지마세요!"
+                    domain: "다시는  <strong>%{website}</strong> 암호를 잊지마세요!"
+                signup_free: "이제 무료로 가입하세요!"
+                secure: "저장된 암호를 안전하게 보호하기 위해서, <strong>무료로 가입하고 즐겨찾는 사이트들에 대한 자동 로그인을 즐기세요!</strong>"
+                watch_video: "자료 동영상 보기"
+                how_pbox_works: "PasswordBox가 작동하는 방법"
+            crypto: 
+                creating: "귀하의 계정을 만드는 중..."
+                encrypting: "저희는 최대한의 보안을 위해서 귀하의 암호를 암호화합니다. 구형 컴퓨터에서는 이 과정에 시간이 걸릴 수 있습니다(최대 몇 분까지). 이것은 정상입니다. 이 과정이 끝날 때까지 기다리세요."
+        video: 
+            typing_passwords: "직접 암호를 입럭하는 것은 지루하고 귀찮은 일입니다. PasswordBox는 사이트에 로그인할 때 귀하의 신원 확인 정보를 자동으로 저장하여 도와드립니다."
+            next_step: "이해합니다. 감사합니다!"
+        guides: 
+            extension: 
+                congratulations: "축하합니다!"
+                save_success: "PasswordBox에 귀하의 암호가 성공적으로 저장되었습니다."
+                green_box: "필요할 때 언제든지 이용하려면 귀하의 브라우저에 있는 녹색 상자 아이콘을 클릭하세요!"
+        tutorial: 
+            create_password: 
+                click_instructions: "첫 번째 패스워드를 입력하려면 아래의 버튼을 클릭하십시오."
+                form_instructions: "ID와 패스워드를 입력하십시오."
+            one_click_login: "입력이 완료되었습니다! 이제 원클릭 로그인을 사용해 보십시오."
+            tour_video: 
+                extension_guide: "녹색 상자를 클릭하여 PasswordBox를 엽니다."
+                instructions: "간단한 제품 체험으로 PasswordBox의 기능을 최대한 활용할 수 있는 방법을 알아보십시오."
+                title: "체험 시작하기"
+    features: 
+        seamless_login: 
+            title: "번거로운 암호 입력은 이제 그만하세요. 모든 장치, 웹사이트 또는 모바일 앱에서 즉시 로그인하세요."
+            subtitle: "로그인 화면 때문에 이용 속도가 느려지는 것이 짜증나시죠? 1-Click 및 1-Tap Login을 통해 보다 빠르게 계정에 접속해 보세요."
+            item_1: "사용자 이름이나 암호를 직접 입력할 필요가 없는 %{link}은(는) 오직 PasswordBox에서만 제공하는 서비스입니다."
+            item_2: "어떠한 웹페이지를 방문해도 PasswordBox가 자동으로 로그인 정보를 입력하므로 편하게 로그인하실 수 있습니다. 컴퓨터나 모바일 장치에서 Chrome 및 Safari를 이용할 때 로그인 정보를 직접 입력할 필요가 없습니다."
+            item_3: "동일 사이트에 대한 복수의 사용자 계정들을 가진 경우에도 신속한 로그인"
+            item_4: "키 누름 감지 멀웨어로부터의 보안 - 귀하가 타이핑을 하지 않으면, 그들이 도용할 수 없습니다"
+            one_tap_link: "즐겨찾는 Android 모바일 앱에 1-Tap으로 로그인"
+        device_syncing: 
+            title: "어느 곳에서든 귀하의 암호를 사용"
+            subtitle: "PasswordBox에 암호를 저장하면 귀하의 브라우저, 컴퓨터 및 모바일 기기 모두에 즉시 저장됩니다."
+            item_1: "귀하가 항상 손쉽게 로그인할 수 있도록 자동적으로 동기화됩니다"
+            item_2: "시중의 거의 모든 컴퓨터, 브라우저 및 모바일 기기에서 작동됩니다"
+            item_3: "Chrome, Firefox 및 Internet Explorer를 비롯한 모든 주요 브라우저에 대한 무료 플러그인"
+            item_4: "귀하의 정보에 대한 암호화 및 해독은 AES-256을 사용해서 귀하의 기기 상에서 직접 수행됩니다."
+    install: 
+        mobile: 
+            title: "모바일용 PasswordBox"
+            widget: 
+                title: "무료 모바일 앱"
+                subtitle: "어디에서든지 귀하의 암호를 사용"
+            notify: 
+                sms: "내 전화로 문자 메시지"
+                email: "내 기기로 이메일 보내기"
+                sending: "설치 링크 전송"
+            email: 
+                success: "이메일 전송됨! 다운로드 링크에 관해 귀하의 이메일을 확인하세요"
+                errors: 
+                    invalid: "이메일이 없거나 부정확합니다"
+                    failed: "연락용 메일 보내기 오류"
+            sms: 
+                body: "PasswordBox를 설치하려면, 귀하의 모바일 기기에서 여기를 클릭하세요: %{link}"
+                success: "텍스트 메시지 전송됨! 다운로드 링크를 위해서 귀하의 전화를 확인하세요."
+                errors: 
+                    phone: 
+                        missing: "전화번호가 없습니다."
+                        invalid: "이 전화번호로는 메시지를 보낼 수 없습니다. 국제 번호인 경우 국가 코드를 포함하십시오."
+                    service: 
+                        unavailable: "현재 SMS 서비스를 이용할 수 없습니다"
+            apps: 
+                app_store: "앱 스토어에서  <span>이용 가능</span>"
+                google_play: "구글 플레이에서  <span>무료로 받기</span>"
+            ces_award: "최고의 모바일 <span>앱 CES 2014</span>"
+        desktop: 
+            title: "PasswordBox 무료 다운로드"
+            warnings: 
+                windows_only: "Windows 전용"
+                mac_only: "Mac OS 전용"
+            button: 
+                get: "PasswordBox 받기"
+                for: "사용"
+        instructions: "다음 링크를 복사하여 귀하의 %{browser} 주소창에 붙여넣으세요."
+        copy: 
+            button: "복사"
+            tooltip: "클립보드에 복사"
+            success: "복사 완료!"
+    login: 
+        title: "이미 PasswordBox를 설치한 경우, 로그인하려면 녹색 상자를 클릭하세요."
+        reinstall: "PasswordBox를 다시 설치할 필요가 있는 경우, 아래 버튼을 클릭하세요."
+    member: 
+        errors: 
+            email: 
+                exists: "해당 이메일을 가진 회원이 이미 존재합니다. 다른 이메일을 시도해보세요."
+                invalid: "유효한 이메일을 입력하세요."
+    emails: 
+        common: 
+            greeting: "안녕하세요, %{full_name}님,"
+            hey: "여기요!"
+            pbox_team: "PasswordBox 팀"
+        layout: 
+            tagline: "PasswordBox는 모든 기기에 걸쳐서 귀하의 온라인 계정에 대한 빠르고 안전한 액세스, 안전한 암호 공유 및 Legacy Locker 기능을 제공합니다. 다시는 절대로 암호를 잊지 마세요."
+            unsubscribe: 
+                link: "가입 해지"
+                from_all: "PasswordBox 이메일에서 %{unsubscribe}"
+        welcome: 
+            subject: "%{full_name}님, PasswordBox에 오신 것을 환영합니다!"
+            title: "환영합니다"
+            avg_notice: "AVG 도구 모음상에서 PasswordBox는 모든 기기에 귀하의 온라인 계정에 대한 신속한 접속, 안전한 암호 공유 및 디지털 권한위임 기능을 제공합니다."
+            account_ready: "귀하의 계정이 거의 준비되었습니다!"
+            login_info: "귀하의 사용자 이름은 %{email}입니다. 귀하의 암호는 귀하가 등록과정에서 만든 기본 암호입니다."
+            say_goodbye: "수많은 사용자 이름과 암호로부터 해방되세요. 이제부터는 기본 암호만 있으면 됩니다. PasswordBox는 모든 기기에 쉬운 원 클릭 로그인, 안전한 암호 공유 및 디지털 라이프 관리를 제공합니다."
+            finally: "이제부터는 암호를 머리에서 지우셔도 됩니다."
+            confirm: "이제 귀하의 계정을 확인하세요"
+            click_below: "귀하의 계정 확인을 검증하기 위해서 아래 링크를 클릭하세요."
+            welcome: "PasswordBox에 오신 것을 환영합니다!"
+        sync: 
+            subject: "모바일 기기에 PasswordBox를 다운로드하세요!"
+            instructions: "PasswordBox를 다운로드하려면, 모바일 기기에서 이 이메일을 연 다음 아래 링크를 방문하세요."

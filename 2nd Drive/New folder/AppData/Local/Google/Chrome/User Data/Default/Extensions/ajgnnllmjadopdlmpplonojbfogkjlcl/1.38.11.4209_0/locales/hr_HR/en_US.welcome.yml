@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Engleski"
+    common: 
+        privacy: "Privatnost"
+        privacy_full: "Pravila privatnosti"
+        terms: "Uvjeti"
+        terms_full: "Uvjeti korištenja"
+        alert: "Oprez!"
+        warning: "Upozorenje!"
+        or: "ili"
+        copyright: "© %{date}. Sva prava pridržana."
+        change_language: "Promijenite jezik"
+    shared: 
+        member_menu: 
+            upgrade: "Nadogradite račun"
+            refer_friends: "Uputite prijatelje"
+            help: "Pomoć i podrška"
+            logout: "Odjava"
+    head: 
+        meta: 
+            description: 
+                default: "Uz PasswordBox možete zaboraviti na lozinke. Recite zbogom višestrukim korisničkim imenima i lozinkama. Vaša PasswordBox glavna lozinka je jedina lozinka koju ćete ikad trebati!"
+                mobile: "PasswordBox je besplatni upravitelj lozinkama koji pomaže ljudima da pohranjuju, pronalaze i dijele lozinke na svim uređajima. Isprobajte PasswordBox aplikaciju za Android, iPhone ili iPad."
+        title: 
+            default: "Besplatni upravitelj lozinkama"
+            welcome: "Dobrodošli"
+    download: 
+        download: "Preuzmite BESPLATNO"
+        login: "Prijavite se"
+        mobile: "Mobilno"
+        platforms: "Besplatno za"
+        watch_video: "Pogledajte video zapis"
+        available_for: "Također dostupno za %{os} i %{platform}"
+        free_for: "Besplatno za %{windows}, %{mac} i %{mobile}."
+        guides: 
+            click_add: "Kliknite dodajte da instalirate PasswordBox"
+            click_allow: "Kliknite na dopustite da instalirate PasswordBox"
+            click_install: "Kliknite \"Instaliraj\""
+            click_install_now: "Kliknite \"Instaliraj sada\""
+            click_run: "Kliknite \"Pokreni\" za instalaciju"
+            click_yes: "Kliknite \"Da\" da prihvatite postavke"
+            click_here: "Kliknite ovdje"
+            run_and_open: "Pokrenite i otvorite instalacijski program"
+            install_pbox: "Instalirajte PasswordBox"
+            close_window: "Zatvorite prozor"
+            download_pbox: "Preuzmite PasswordBox"
+        alerts: 
+            mobile: "Preuzmite besplatnu aplikaciju %{app_name} kako biste užiali u opciji 1-Tap Login dok ste u pokretu!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox je dostupan samo za %{browser} verzije%{min_version} i iznad. Molimo ažurirajte svoj preglednik i pokušajte ponovno."
+                single_version: "PasswordBox je dostupan samo za %{browser}. Molimo ažurirajte svoj preglednik i pokušajte ponovno."
+                unavailable: "PasswordBox nije dostupan za vašu verziju preglednika %{browser}. Molimo pokušajte ponovno s %{suggestion}."
+                safari_windows: "PasswordBox za Safari je trenutno dostupan samo na Mac OS X."
+                safari: 
+                    unsupported: "Nažalost, više ne podržavamo Safari. Molimo pokušajte ponovnu u Chromeu, Firefoxu ili Internet Exploreru."
+                    read_more: "Pročitajte više ovdje"
+                unsupported: 
+                    problems: "Ne podržavamo zvanično ovu verziju preglednika %{browser}. Vi ipak možete instalirati PasswordBox, ali mogu se javiti neki problemi."
+                    upgrade_suggestion: "Za najbolji doživljaj preporučujemo da nadogradite svoj preglednik na najnoviju verziju."
+                    install_anyway: "Svejedno instalirajte"
+            mobile: 
+                min_version: "PasswordBox nije dostupan za ovu verziju sustava %{os}. Molimo pokušajte ponovno na uređaju s verzijom %{min_version} ili višom."
+                generic: "PasswordBox nije dostupan za ovaj uređaj. Molimo pokušajte ponovno na iPhone, iPad ili Android uređaju ili otvorite ovu stranicu na svom osobnom računalu i instalirajte naše proširenje za preglednik."
+        onboard: 
+            welcome: "Dobrodošli u instalaciju PasswordBoxa"
+            failed_install: "Instalacija PasswordBoxa nije uspjela"
+            never_forget: "Nikad više nemojte zaboraviti lozinku!"
+            click_to_retry: "Kliknite ovdje da pokušate ponovno"
+            retry: "Pokušajte ponovno"
+            free_vault: "Trezor s besplatnim lozinkama za Google Chrome."
+            add_to_chrome: "Dodajte u Chrome"
+        guide: 
+            almost_done: "Skoro je gotovo!"
+            greeting: "Zdravo %{member_name}!"
+            welcome: "Dobrodošli u PasswordBox. Slijedite korak ispod da završite svoju instalaciju."
+            downloading: "PasswordBox će automatski početi s preuzimanjem. Ako se to ne desi, %{restart_link}."
+            restart: "kliknite ovdje da ponovno pokrenete preuzimanje"
+    address_book: 
+        import: 
+            address: "Adresa"
+            email_password: "Pošaljite lozinku e-poštom"
+            fetching_contacts: "Dobavljanje kontakata..."
+            gmail: 
+                connect_button: "Povežite se s Gmailom"
+                instructions: "Kliknite za povezivanje sa svojim Gmail adresarom"
+            open_address_book: "Otvorite adresar"
+            sending_promise: "Nikad nećemo slati e-poruke vašim kontaktima bez vašeg pristanka."
+            connect: 
+                title: "Povežite svoj adresar"
+                button: "Povežite se sa %{provider}"
+                instructions: "Kliknite za povezivanje sa svojim %{provider} adresarom"
+        select: 
+            contacts: "Kontakti"
+            deselect_all: "Poništite odabir svih"
+            search_contact: "Tražite kontakt"
+            select_all: "Odaberite sve"
+            select_title: "Odaberite iz adresara"
+            send_success: "Vaše zahtjev za digitalnim naslijeđem je uspješno poslan!"
+            to: "Prima"
+    forms: 
+        buttons: 
+            back: "Nazad"
+            cancel: "Otkažite"
+            ok: "U redu"
+            save: "Spremite"
+            submit: "Podnesite"
+            send: "Pošaljite"
+        errors: 
+            digits: 
+                only: "Molimo upišite samo znamenke."
+            email: 
+                exists: "Ta se adresa e-pošte već koristi."
+                invalid: "Ta adresa e-pošte je nevažeća."
+                invalid_please: "Molimo upišite važeću adresu e-pošte."
+                required: "Polje s adresom e-pošte je obavezno."
+            fullname: 
+                required: "Molimo upišite svoje puno ime."
+                too_long: "Molimo upišite kraće ime."
+                too_short: "Vaše ime mora biti dugo najmanje %{length} znakova."
+            password: 
+                required: "Molimo odaberite lozinku."
+                too_short: "Pazite da vaša lozinka bude duga najmanje %{length} znakova."
+                confirm: "Molimo potvrdite svoju lozinku."
+                match: "Pazite da se vaše lozinke podudaraju."
+                different: "Vaša lozinka ne može biti ista kao adresa e-pošte ili ime"
+            required: 
+                generic: "Ovo polje je obavezno."
+            generic: "Ups! Nešto je pošlo po zlu. Molimo pokušajte ponovno podnijeti obrazac."
+            length: 
+                between: "Molimo unesite vrijednost dugu između {0} i {1} znakova."
+        labels: 
+            email: "Adresa e-pošte"
+            fullname: "Puno ime"
+            first_name: "Ime"
+            last_name: "Prezime"
+            master_password: "Glavna lozinka"
+            password: "Lozinka"
+            title: "Naziv"
+            username: "Korisničko ime"
+            email_full: "Vaša adresa e-pošte"
+            phone_full: "Vaš broj telefona"
+            date: "Datum"
+        success: 
+            thank_you: "Hvala vam! "
+        info: 
+            password: 
+                very_weak: "Vrlo slaba"
+                weak: "Slaba"
+                average: "Prosječna"
+                good: "Dobra"
+                strong: "Jaka"
+    premium: 
+        limit_reached: "Dostigli ste limit od %{limit}. Nadogradite sada i steknite neograničenu pohranu lozinki."
+        billing: 
+            details: "Naplatit će vam se %{price} US za godinu dana PasswordBox Premiuma. Ako ne budete zadovoljni u roku od prvih 30 dana vaše pretplate, vratit ćemo vam novac u iznosu od 100% od onoga što ste platili, bez ikakvih pitanja."
+            renewal: "Vaš že se račun automatski obnavljati svake godine osim ako ne otkažete putem e-pošte %{support_link} prije rika za sljedeće plaćanje."
+        enter_cc_info: "Upišite podatke o kreditnoj kartici"
+        form: 
+            errors: 
+                credit_card_invalid: "Molimo upišite važeći broj kreditne kartice."
+                generic_processing: "Došlo je do problema prilikom obrade vašeg plaćanja."
+                unable_to_process: "Nismo mogli obraditi vašu kreditnu karticu. Molimo provjerite jesu li podaci ispravni i pokušajte ponovno."
+            labels: 
+                as_on_card: "kako se javlja na vašoj kartici"
+                credit_card: "Broj kreditne kartice"
+                expiry: "Datum isteka"
+                secure: "Sigurno"
+                verification: "četvoroznamenkasti broj za potvrdu kartice"
+                what: "Što je ovo?"
+                country: "Država"
+                postal_code: "Poštanski broj"
+                street_address: "Adresa ulice"
+                city: "Grad"
+                region: "Regija"
+            submit: "Aktivirajte premium"
+            processing: "Obrada u tijeku...Molimo pričekajte."
+        main_title: "Pristupite punoj verziji PasswordBoxa za %{price}/mjesečno!"
+        premium: "Premium"
+        quote: "Imam više korisničkih imena nego što mogu zapamtiti. Srećom, PasswordBox ih se može prisjetiti za mene. Vaša usluga mi također osigurava mir jer ako doživim smrtonosnu nesreću, znam da će moji voljeni dobiti pristup mojim različitim internetskim računima s mojim uputama. Olakšanje je znati da će moj muž moći pristupiti mojem Paypal računu i svim obiteljskim slikama koje imam na Flickru."
+        satisfaction_guarantee: "Ako niste potpuno zadovoljni unutar prvih 30 dana, mi ćemo vam vratiti sav novac koji ste platili. <strong>Bez pitanja, bez gnjavaže.</strong>."
+        success: 
+            already_premium: "Već ste Premium član! Vaša pretplata važi do %{date}."
+            free_for_life_notice: "Hvala za sudjelovanje u našem beta testiranju. Vaš račun će zauvijek biti besplatan."
+            payment_success: "Hvala vam! Primili smo vašu uplatu."
+            return_to_public: "Vratite se na javno mjesto"
+            to_passwordbox: "Vodi me u moj PasswordBox"
+            upgrade_success: "Vaš je račun uspješno nadograđen."
+        testimonial: "Izjava"
+        unconfirmed: 
+            title: "Vaš račun još nije potvrđen"
+            check_spam: "Ako ne vidite e-poruku u svojoj primljenoj pošti, ne zaboravite provjeriti svoju <strong>mapu s neželjenom</strong> poštom."
+            no_email: "Niste primili e-poruku?"
+            explanation: "Potvrđivanje računa će ne samo potvrditi vašu adresu e-pošte za nas, već i otključati opcije dijeljenja i Legacy Locker."
+            resend_email: "Ponovno pošaljite e-poruku za potvrdu"
+            steps: 
+                send_email: "Pošaljite e-poruku za potvrdu na svoj račun e-pošte"
+                click_link: "Kliknite na predloženu vezu u e-poruci"
+                done: "Završili ste!"
+            continue: 
+                instructions: "Nakon što potvrdite svoj račun, kliknite <strong>nastavite</strong> da popunite svoje detalje za plaćanje."
+                action: "Nastavite"
+            messages: 
+                email_sent: "Provjerite svoju primljenu poštu. Poslali smo vam e-poruku za potvrdu."
+                not_confirmed: "Još niste potvrdili svoj račun."
+                general_error: "Nešto je pošlo po zlu. Molimo pokušajte ponovno."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Pozovite prijatelje"
+                invite_new: "Pozovite novo"
+                invites_accepted: "Pozivnice su prihvaćene"
+                invites_sent: "Pozivnice su poslane"
+                manage_invites: "Upravljaj mojim pozivnicama"
+                manage_title: "Upravljajte svojim pozivnicama"
+                no_invites_sent: "Niste još poslali nijednu pozivnicu. Pošaljite nekoliko!"
+                referrals_needed: "Treba vam %{count} prihvaćenih pozivnica za besplatni račun s neograničenom pohranom"
+                referrals_needed_single: "Potrebna vam je još 1 prihvaćena pozivnica da osvojite račun s neograničenom pohranom"
+                resend: "Ponovno pošaljite"
+                reward: "Kada %{count} prijatelja izradi račun, primit ćete doživotni besplatni profesionalni račun."
+                sent: "Poslano"
+                status: "Status"
+                subheader: "Ovo su pozivnice koje ste poslali. Možete ih ponovno poslati po potrebi."
+            reward: "Dovedite %{count} prijatelja da izrade račun na PasswordBoxu i primit ćete besplatni profesionalni račun i zauvijek uživati u neograničenoj pohrani lozinki."
+            title: "Uputite %{count} prijatelja na"
+        import_contacts: 
+            manual_option: "Ručno upišite adrese e-pošte svojih prijatelja"
+        important: "Važno"
+        installed_header: "PasswordBox je sada pokrenut i radi!"
+        invite_header: "Recite prijateljima za PasswordBox"
+        manual_invite: 
+            email_instructions: "Unesite njihove adrese e-pošte"
+            import_option: "Pozovite prijatelje iz svog adresara"
+            required_error: "Molimo unesite adresu e-pošte za pozivnicu"
+            send_action: "Pošaljite VIP propusnice"
+            send_instructions: "Pošaljite pozivnice svojim prijateljima"
+            send_success: "Vaše VIP propusnice su poslane!"
+        resale_disclaimer: "Zapamtite da PasswordBox ne dozvoljava prodavanje VIP pozivnica na eBayu ili drugim stranicama. <strong>One su strogo za osobnu upotrebu.</strong>"
+        sent_after_welcome: 
+            title: "Vaša registracija je sada završena!"
+            video_instructions: "Pogledajte ovaj video zapis da saznate više o PasswordBoxu"
+        vip: 
+            reward: "Primit ćete besplatno doživotno članstvo"
+            title: "Dajte svojim prijateljima VIP pristup za"
+    welcome: 
+        headers: 
+            running: "%{logo} je sada pokrenut i radi!"
+        bulk_password: 
+            check_all: "Označite sve"
+            did_you_know_title: "Jeste li znali da 92% ljudi koristi istu kombinaciju korisničkog imena i lozinke za većinu internetskih računa?"
+            instructions: "Ako ste i vi među njima, upišite svoju zajedničku prijavu i odaberite stranice za koje je koristite. Spremit ćemo sve te račune u vaš PasswordBox odjednom."
+            save_passwords: "Spremite lozinke"
+            success_message: "Spremanje vaših lozinki..."
+            uncheck_all: "Poništite sve"
+            username_label: "Korisničko ime ili adresa e-pošte"
+            website_error: "Molimo odaberite bar jednu stranicu."
+        legacy: 
+            address_book: "Povežite se na svoj adresar web pošte"
+            email_label: "Adresa e-pošte osobe kojoj vjerujete"
+            instructions: "Imenujte osobu kojoj vjerujete ispod i poslat ćemo joj e-poruku s vašim zahtjevom"
+            name_label: "Ime osobe kojoj vjerujete"
+            transfer_info: "Ne brinite, vaše lozinke se neće prenijeti dok za to ne bude potrebe"
+            trust_title: "U koga imate povjerenja da se brine za vaš internetski račun ako se vama nešto desi?"
+            watch_video: "Pogledajte naš video zapis da saznate više"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Potvrdite glavnu lozinku"
+                never_store_password: "Kako bi vam jamčili sigurnost, PasswordBox nikad ne vidi ni pohranjuje vašu glavnu lozinku"
+                no_recovery: "Ne postoji način da povratite svoj račun ako zaboravite svoju glavnu lozinku"
+                repeat_title: "Unesite svoju lozinku još jednom"
+            creating_account: "Izrada vašeg računa..."
+            form: 
+                create_account_action: "Napravite besplatni račun"
+                create_account_title: "Napravite svoj besplatni račun"
+                create_password: "Napravite lozinku"
+                existing_account: "Već imate račun?"
+                facebook_promise: "Ne brinite, nikad nećemo objavljivati na vašem zidu."
+                facebook_signup: "Registrirajte se s uz Facebook"
+                login: "Prijava"
+                terms_disclaimer: "Klikom iznad prihvaćate naše uvjete korištenja."
+                terms_full: "Nikad nećemo podijeliti vašu adresu e-pošte ni osobne podatke s trećim stranama te ćemo vam slati transakcijske e-poruke vezane samo za vaš PasswordBox račun. Pročitajte naš %{privacy_link} za više detalja"
+                terms_agree: "Klikom iznad prihvaćate naše %{terms_link}."
+            installed_title: "Instalacija dovršena! Zadnji korak.."
+            never_forget: "Nikad više ne zaboravite lozinku! Aktivirajte svoj BESPLATNI račun"
+            recently_installed: "PasswordBox je nedavno dodan u vaš preglednik..."
+            testimonial: "To je kao Dropbox za lozinke. Radi na svim uređajima gdje god sam i dijeljenje je lako"
+            login_link: "Ako već imate PasswordBox račun <a href=\"%{path}\" target=\"_blank\">potražite zelenu kutiju</a> u svom pregledniku"
+            validating: "Potvrđivanje vaših podataka..."
+            almost_done: "Skoro je gotovo! Samo napravite svoju lozinku"
+            delayed: 
+                never_forget: 
+                    generic: "Nikad više nemojte zaboraviti lozinku!"
+                    domain: "Nikad više ne zaboravite svoju <strong>%{website}</strong> lozinku!"
+                signup_free: "Prijavite se BESPLATNO sada!"
+                secure: "Da zaštitite svoje spremljene lozinke, <strong>prijavite se BESPLATNO i uživajte u automatskoj prijavi na svoje omiljene stranice!</strong>"
+                watch_video: "Pogledajte naš video zapis"
+                how_pbox_works: "Kako PasswordBox funkcionira"
+            crypto: 
+                creating: "Izrada vašeg računa..."
+                encrypting: "Vašu lozinku šifriramo radi maksimalne sigurnosti. Ovaj postupak može potrajati (do minute) na starijim računalima. To je normalno. Molimo pričekajte da se postupak završi."
+        video: 
+            typing_passwords: "Ručno upisivanje lozinki je zamoran i frustrirajući proces. PasswordBox vam pomaže tako što automatski sprema vaše vjerodajnice kada se prijavite na neku stranicu."
+            next_step: "Razumijem. Hvala!"
+        guides: 
+            extension: 
+                congratulations: "Čestitamo!"
+                save_success: "Uspješno smo spremili vaše lozinke u PasswordBox!"
+                green_box: "Kliknite na ikonu zelene kutije u svom pregledniku za pristup kad god vam treba!"
+        tutorial: 
+            create_password: 
+                click_instructions: "Kliknite na gumb ispod da dodate svoju prvu lozinku"
+                form_instructions: "Unesite svoje korisničko ime i lozinku"
+            one_click_login: "Odlično! Isprobajmo sada 1-Click Login!"
+            tour_video: 
+                extension_guide: "Kliknite na zelenu kutiju da otvorite PasswordBox"
+                instructions: "Izvucite maksimum iz PasswordBoxa uz pomoć ovog jednostavnog upoznavanja s proizvodom."
+                title: "Upoznavanje"
+    features: 
+        seamless_login: 
+            title: "Zbogom lozinke. Trenutno prijavljivanje na svim uređajima, internet stranicama ili mobilnim aplikacijama."
+            subtitle: "Dosta vam je usporavanja zbog zaslona za prijavu? Pristupite svojim računim brže pomoću opcije 1-Click i 1-Tap login."
+            item_1: "Isključivo s PasswordBoxom, %{link} bez potrebe za upisivanjem korisničkog imena ili lozinke."
+            item_2: "Pristupite bilo kojoj internetskoj stranici i PasswordBox će automatski popuniti vaše podatke i prijaviti vas. Nema potrebe za tipkanjem na vašem osobnom računalu ili mobilnom uređaju u preglednicima Chrome i Safari."
+            item_3: "Brza prijava čak i kad imate više korisničkih računa za istu stranicu."
+            item_4: "Zaštićeno od zloćudnog softvera za tipkanje - ako ne tipkate, ne mogu ništa ukrasti"
+            one_tap_link: "prijavite se u svoje omiljene mobilne aplikacije na Android uređajima uz opciju 1-Tap"
+        device_syncing: 
+            title: "Vaše lozinke, posvuda"
+            subtitle: "Spremite lozinku u PasswordBoxu i ona će se odmah spremiti na svim vašim preglednicima, računalima i mobilnim uređajima."
+            item_1: "Automatska sinkronizacija tako da uvijek imate svoje prijave na dohvat ruke"
+            item_2: "Radi na skoro svakom računalo, pregledniku i mobilnom uređaju na tržištu"
+            item_3: "Besplatni dodatak za sve glavne preglednike, uključujući Chrome, Firefox i Internet Explorer"
+            item_4: "Šifriranje i dešifriranje vaših podataka se obavlja lokalno na vašem uređaju pomoću AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox za mobilne uređaje"
+            widget: 
+                title: "Besplatne mobilne aplikacije"
+                subtitle: "Vaše lozinke posvuda"
+            notify: 
+                sms: "Poruka na moj telefon"
+                email: "E-poruka na moj uređaj"
+                sending: "Slanje veze za instalaciju"
+            email: 
+                success: "E-poruka poslana! Provjerite e-poštu za vezu za preuzimanje"
+                errors: 
+                    invalid: "Adresa e-pošte nedostaje ili nije važeća"
+                    failed: "Slanje kontaktne e-poruke nije uspjelo"
+            sms: 
+                body: "Za instalaciju PasswordBoxa kliknite ovdje na mobilnom uređaju:%{link}"
+                success: "Tekstualna poruka je poslana! Provjerite telefon za vezu za preuzimanje."
+                errors: 
+                    phone: 
+                        missing: "Broj telefona nedostaje."
+                        invalid: "Nismo mogli poslati poruku na taj broj telefona. Ne zaboravite upisati pozivni kod zemlje ako se radi o međunarodnom broju."
+                    service: 
+                        unavailable: "SMS usluga trenutno nije dostupna"
+            apps: 
+                app_store: "Dostupno u <span>trgovini aplikacijama</span>"
+                google_play: "Preuzmite na <span>Google Play</span>"
+            ces_award: "Najbolja mobilna <span>aplikacija na CES 2014</span>"
+        desktop: 
+            title: "Preuzmite PasswordBox BESPLATNO"
+            warnings: 
+                windows_only: "Samo za Windows"
+                mac_only: "Samo za Mac OS"
+            button: 
+                get: "Preuzmite PasswordBox"
+                for: "za"
+        instructions: "Kopirajte sljedeću vezu i zalijepite je adresnu traku svog preglednika %{browser}:"
+        copy: 
+            button: "Kopirajte"
+            tooltip: "Kopiraj u međuspr."
+            success: "Kopirano!"
+    login: 
+        title: "Ako već imate instaliran PasswordBox, kliknite na zelenu kutiju da se prijavite."
+        reinstall: "Ako trebate ponovno instalirati PasswordBox, kliknite na gumb ispod:"
+    member: 
+        errors: 
+            email: 
+                exists: "Član s tom adresom e-pošte već postoji. Molimo pokušajte s drugom."
+                invalid: "Molimo unesite važeću adresu e-pošte."
+    emails: 
+        common: 
+            greeting: "Zdravo %{full_name},"
+            hey: "Hej!"
+            pbox_team: "PasswordBox tim"
+        layout: 
+            tagline: "PasswordBox nudi brz, siguran pristup vašim internetskim računima, sigurno dijeljenje lozinki i Legacy Locker na svim uređajima. Nikad više nemojte zaboraviti lozinku. "
+            unsubscribe: 
+                link: "Otkažite pretplatu"
+                from_all: "%{unsubscribe} za PasswordBox e-poruke"
+        welcome: 
+            subject: "%{full_name}, dobrodošli u PasswordBox!"
+            title: "Dobrodošli"
+            avg_notice: "PasswordBox na AVG alatnoj traci nudi brz pristup vašim internetskim računim, opcije sigurnog dijeljenja lozinki i digitalnog naslijeđa na svim uređajima."
+            account_ready: "Vaš je račun skoro spreman!"
+            login_info: "Vaše korisničko ime je %{email}. Vaša lozinka je glavna lozinka koju ste napravili prilikom postupka registracije."
+            say_goodbye: "Recite zbogom višestrukim korisničkim imenima i lozinkama. Od sada je vaša glavna lozinka jedino što vam je potrebno. PasswordBox pruža jednostavnu prijavu uz 1 klik, sigurno dijeljenje lozinki i upravljanje digitalnim životom na svim uređajima."
+            finally: "Napokon možete zaboraviti na lozinke!"
+            confirm: "Potvrdite svoj račun sada"
+            click_below: "Kliknite na vezu ispod da potvrdite svoj račun:"
+            welcome: "Dobrodošli u PasswordBox!"
+        sync: 
+            subject: "Preuzmite PasswordBox na svoj mobilni uređaj!"
+            instructions: "Da preuzmete PasswordBox, otvorite ovu e-poruku na svom mobilnom uređaju i slijedite vezu ispod:"

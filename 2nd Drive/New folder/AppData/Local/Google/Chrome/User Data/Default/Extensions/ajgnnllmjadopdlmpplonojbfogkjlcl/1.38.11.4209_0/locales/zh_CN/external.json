@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "如何在 Firefox 中启用 Cookie",
+    "onMac" : "在 Mac 上",
+    "onPC" : "在 PC 上",
+    "step1" : "<strong>1: 转至 Firefox &gt;“首选项”&gt;“隐私”。</strong><br>在“历史记录”部分中，选择：<br><strong>“Firefox 将：使用历史记录的自定义设置”</strong>",
+    "step2" : "<strong>2: 在历史记录部分中，选择“接受站点的 Cookie”</strong><br>然后在下面的下拉菜单中：<br><strong>“接受第三方 Cookie” &gt; “始终”</strong>"
+  },
+  "import" : {
+    "title" : "将密码导入到 PasswordBox",
+    "selectSoure" : "选择源",
+    "export" : "导出密码",
+    "import" : "将密码文件导入到 PasswordBox",
+    "dashlane1" : "要从 Dashlane 中导出密码，请打开 Dashlane 并单击：",
+    "dashlane2" : "“文件”>“导出数据”",
+    "dashlane3" : "选择<strong class=\"green\">“不安全的归档 CSV ”</strong>格式选项。",
+    "dashlane4" : "将文件保存在所选的位置中。",
+    "dashlane5" : "仅支持最新版本的 Dashlane。",
+    "lastpass1" : "要从 LastPass 中导出密码，请单击浏览器中的 LastPass 插件图标并选择：",
+    "lastpass2" : "<strong>“工具”&gt;“导出到”</strong><br>并选择菜单中的<strong class=\"green\"> LastPass CSV </strong>文件。如果看到提示，请输入密码。",
+    "lastpass3" : "单击“确定”，以将其保存到所选的位置。",
+    "lastpass4" : "仅支持最新版本的 LastPass。",
+    "roboform1" : "当前仅 Mac 操作系统支持从 Roboform 导出密码。",
+    "roboform2" : "Windows 很快就能支持此功能。",
+    "roboform3" : "要从 RoboForm 中导出密码，请打开 RoboForm 浏览器扩展件，并单击<strong>选项：</strong>",
+    "roboform4" : "在面板选项上，选择“用户数据”，并单击<strong>“导出到”</strong>",
+    "roboform5" : "<strong>将文件保存为 .html</strong> 并保存到您选择的位置。",
+    "roboform6" : "仅支持最新版本的 RoboForm。",
+    "onepassword1" : "要从 1Password 中导出密码，请打开：",
+    "onepassword2" : "<strong>- 文件 &gt; 导出：</strong><br>选择<strong class=\"green\">以制表符分隔的文本</strong>格式，并选择<strong>全部登录</strong>选项。",
+    "onepassword3" : "单击“确定”，以将其保存到所选的位置。",
+    "onepassword4" : "仅支持最新版本的 1Password。",
+    "onepasswordClick" : "<u>单击此处</u>上传 <span class=\"serviceName green\">1Password</span> 文件",
+    "keepass1" : "要从 KeePass 中导出密码，请打开 KeePass 并单击：<",
+    "keepass2" : "<strong>文件 &gt; 导出</strong><br>选择 <strong>KeePass CSV 1.x</strong> 格式选项。",
+    "keepass3" : "将文件保存在所选的位置中。",
+    "keepass4" : "仅支持最新版本的 KeePass。"
+  }
+}

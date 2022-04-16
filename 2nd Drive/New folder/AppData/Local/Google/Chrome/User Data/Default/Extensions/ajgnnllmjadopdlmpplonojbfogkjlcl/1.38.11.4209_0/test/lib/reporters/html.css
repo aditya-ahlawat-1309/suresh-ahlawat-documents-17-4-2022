@@ -1,0 +1,101 @@
+#minitest {
+  font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 80px;
+}
+
+#minitest .test {
+  display: block;
+  margin: 1px;
+  float: left;
+  width: 25px;
+  height: 25px;
+  background: #f8f8f8;
+  border-radius: 2px;
+  -webkit-transform: scale(.2);
+  -moz-transform: scale(.2);
+  transform: scale(.2);
+  -webkit-transition: -webkit-transform 200ms, background-color 150ms;
+  -moz-transition: -moz-transform 200ms, background-color 150ms;
+  transition: transform 200ms, background-color 150ms;
+}
+
+#minitest .fail.show:hover {
+  background: #f00;
+}
+
+#minitest .test.show {
+  background: #eee;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  transform: scale(1);
+}
+
+#minitest .fail.show {
+  background: #c00;
+}
+
+#minitest .test:hover {
+  background: #ddd;
+}
+
+#minitest .errors {
+  margin: 0;
+  padding: 0;
+  opacity: 0;
+  float: left;
+  min-height: 50px;
+  width: 100%;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
+
+#minitest .errors.show {
+  opacity: 1;
+}
+
+#minitest .errors li {
+  margin: 50px 15px;
+  list-style: none;
+
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
+
+#minitest .errors li.show {
+  opacity: 1;
+}
+
+#minitest .errors li pre {
+  overflow: hidden;
+  height: 100px;
+  cursor: pointer;
+}
+
+#minitest .errors li pre.show {
+  height: auto;
+  cursor: default;
+}
+
+#minitest .suite {
+  display: block;
+  clear: both;
+  padding-top: 50px;
+}
+
+#minitests .suite:first-child {
+  padding-top: 0;
+}
+
+#minitest .suite h2 {
+  cursor: pointer;
+  margin-bottom: 35px;
+}
+
+#minitest .suite h2 canvas {
+  margin-right: 10px;
+  margin-top: -18px;
+  float: left;
+}

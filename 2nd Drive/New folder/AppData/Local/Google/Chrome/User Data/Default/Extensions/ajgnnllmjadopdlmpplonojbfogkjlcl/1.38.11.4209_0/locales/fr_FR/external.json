@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Activation des témoins dans Firefox",
+    "onMac" : "Sur Mac",
+    "onPC" : "Sur PC",
+    "step1" : "<strong>1. Dans Firefox, accédez à Préférences &gt; Vie privée.</strong><br>Dans la section Historique, sélectionnez :<br><strong>« Règles de conservation : utiliser les paramètres personnalisés pour l’historique »</strong>",
+    "step2" : "<strong>2. Dans la section Historique, cochez la case « Accepter les cookies »</strong><br>Ensuite, dans le menu déroulant en dessous, sélectionnez<br><strong>« Accepter les cookies tiers » et l’option ci-dessous « leur expiration ».</strong>"
+  },
+  "import" : {
+    "title" : "Import des mots de passe vers PasswordBox.",
+    "selectSoure" : "Sélectionnez une source",
+    "export" : "Export des mots de passe",
+    "import" : "Importez votre fichier de mots de passe vers PasswordBox",
+    "dashlane1" : "Pour exporter vos mots de passe de Dashlane, ouvrez Dashlane et cliquez sur :",
+    "dashlane2" : "Fichier > Exporter",
+    "dashlane3" : "Sélectionnez  <strong class=\"green\">l’option</strong> « Archive non sécurisée (lisible) au format CSV »",
+    "dashlane4" : "Enregistrez le fichier dans l’emplacement souhaité.",
+    "dashlane5" : "Seule la dernière version de Dashlane est prise en charge.",
+    "lastpass1" : "Pour exporter vos mots de passe de LastPass, cliquez sur l’icône de l’extension LastPass dans votre navigateur et sélectionnez :",
+    "lastpass2" : "<strong>Tools &gt; Export</strong><br>To (Outils &gt; Exporter vers) et sélectionnez <strong class=\"green\">le fichier CSV LastPass</strong> dans le menu. Inscrivez votre mot de passe si vous y êtes invité.",
+    "lastpass3" : "Cliquez sur OK et enregistrez-le dans l’emplacement souhaité.",
+    "lastpass4" : "Seule la dernière version de LastPass est prise en charge.",
+    "roboform1" : "La fonction d’export depuis Roboform n’est disponible que sur les systèmes d’exploitation Mac.",
+    "roboform2" : "Les systèmes Windows seront bientôt pris en charge.",
+    "roboform3" : "Pour exporter vos mots de passe de Roboform, ouvrez l’extension Roboform dans votre navigateur et cliquez sur <strong>Options :</strong>",
+    "roboform4" : "Dans le panneau Options, sélectionnez « User data » (Données utilisateur) et cliquez sur <strong>« Export to » (Exporter vers)</strong>",
+    "roboform5" : "<strong>Enregistrez le fichier sous format .html</strong>dans l’emplacement souhaité.",
+    "roboform6" : "Seule la dernière version de RoboForm est prise en charge.",
+    "onepassword1" : "Pour exporter vos mots de passe de 1Password, cliquez sur :",
+    "onepassword2" : "<strong>File &gt; Export  (Fichier &gt; Exporter),</strong><br>sélectionnez le <strong class=\"green\">format texte délimité par</strong> tabulations et l’option <strong>All logins</strong> (Toutes les informations de connexion).",
+    "onepassword3" : "Cliquez sur OK et enregistrez-le dans l’emplacement souhaité.",
+    "onepassword4" : "Seule la dernière version de 1Password est prise en charge.",
+    "onepasswordClick" : "<u>Cliquez ici</u> pour télécharger votre <span class=\"serviceName green\">fichier</span> 1Password",
+    "keepass1" : "Pour exporter vos mots de passe de KeePass, ouvrez KeePass et cliquez sur :",
+    "keepass2" : "<strong>File &gt; Export (Fichier &gt; Exporter)</strong><br>Sélectionnez <strong>le format</strong> KeePass CSV 1.x.",
+    "keepass3" : "Enregistrez le fichier dans l’emplacement souhaité.",
+    "keepass4" : "Seule la dernière version de KeePass est prise en charge."
+  }
+}

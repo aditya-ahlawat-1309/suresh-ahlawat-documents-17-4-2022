@@ -1,0 +1,13 @@
+{
+  "name": "selector",
+  "description": "asset selection menu",
+  "dependencies": {
+    "component/emitter":  "*",
+    "component/domify":   "*",
+    "component/model":   "*",
+    "component/reactive": "*"
+  },
+  "templates": ["template.html"],
+  "scripts":   ["index.js"],
+  "styles":    ["index.css"]
+}

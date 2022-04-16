@@ -1,0 +1,8 @@
+{
+  "name": "translations",
+  "private": true,
+  "description": "Inpages Translations",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "json": ["*/inpages.json"]
+}

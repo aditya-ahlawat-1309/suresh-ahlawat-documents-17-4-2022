@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Configurer",
+		"add": "Ajouter",
+		"addNew": "Nouveau",
+		"addManually": "Ajouter manuellement",
+		"cancel": "Annuler",
+		"back": "Précédent",
+		"save": "Enregistrer",
+		"saving": "Enregistrement...",
+		"saved": "Enregistrement terminé !",
+		"upgrade": "Mettre à niveau",
+		"noThanks": "Non merci",
+		"from": "De %{name}",
+		"remove": "Supprimer",
+		"removing": "Suppression...",
+		"disabling": "Désactivation...",
+		"delete": "Supprimer",
+		"warningPermanent": "Cette action ne peut pas être annulée.",
+		"confirmProceed": "Voulez-vous vraiment poursuivre ?",
+		"parameters": "Paramètres",
+		"details": "Détails",
+		"sharing": "Partage",
+		"advancedSettings": "Avancé",
+		"validating": "Validation...",
+		"tryAgain": "Réessayer",
+		"sending": "Envoi...",
+		"send": "Envoyer",
+		"sent": "Envoyé !",
+		"waitingResponse": "En attente de réponse",
+		"revoke": "Révoquer",
+		"updating": "Mise à jour...",
+		"change": "Changer",
+		"changed": "Modification effectuée !",
+		"copy": "Copier dans le Presse-papiers",
+		"accept": "Accepter",
+		"decline": "Refuser",
+		"privacyNotice": "Déclaration de confidentialité",
+		"dontAskAgain": "Ne plus demander",
+		"notNow": "Pas maintenant",
+		"sendNotification": "Envoyer une notification",
+		"justAMoment": "Juste un moment...",
+		"learnMore": "En savoir plus",
+		"notYou": "Pas vous ?",
+		"changeUser": "Changer d'utilisateur",
+		"confirm": "Confirmer",
+		"launchSite": "Lancer le site",
+		"unlockMyTrueKey": "Déverrouiller True Key",
+		"next": "Suivant",
+		"previous": "Précédent",
+		"visible": "Visible",
+		"hidden": "Masqué",
+		"vistHelpDesk": "Visitez notre %{htmlBefore}centre d'assistance%{htmlAfter} pour en savoir plus.",
+		"addFacialRecognition": "Ajouter le déverrouillage facial",
+		"comingSoon": "Bientôt disponible",
+		"offline": "Hors ligne",
+		"or": "ou",
+		"and": "et",
+		"activate": "Activer",
+		"logOut": "Se déconnecter",
+		"logins": "Identifiants de connexion",
+		"favorites": "Favoris",
+		"other": "Autre",
+		"locked": "Verrouillé",
+		"unlocked": "Déverrouillé",
+		"login": "Connexion",
+		"close": "Fermer",
+		"closing": "Fermeture...",
+		"dismiss": "Ignorer",
+		"signin": "Se connecter",
+		"signOut": "Déconnexion",
+		"manageProfile": "Gérer le profil",
+		"profile": "Profil",
+		"menu": "Menu",
+		"DD": "JJ",
+		"MM": "MM",
+		"YYYY": "AAAA",
+		"visible": "Visible",
+		"hidden": "Masqué",
+		"enable": "Activer",
+		"doNotShowAgain": "Ne plus afficher",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Plus tard",
+		"restart": "Redémarrer",
+		"install": "Installer",
+		"feedback": "Commentaires",
+		"done": "Terminé",
+		"success": "Réussite",
+		"youreIn": "Vous êtes connecté !",
+		"recommended": "recommandé"
+	},
+
+	"validation": {
+		"required": "Ce champ est obligatoire",
+		"min": "{0} doit contenir au moins {1} caractères"
+	},
+
+	"offline": {
+		"title": "Oups, il n'y a pas de connexion Internet.",
+		"desc": "Vous n'êtes pas en ligne. Connectez-vous à nouveau à Internet et réessayez."
+	},
+
+	"locked": {
+		"notYou": "Pas vous ?",
+		"changeUser": "changer d'utilisateur",
+		"cancelAuth": "Annuler l'authentification",
+		"signIn": "Connectez-vous pour profiter de la connexion instantanée",
+		"alternativeEmail": "Utiliser la vérification d'adresse e-mail à la place",
+		"alternativeDevice": "Utiliser un équipement approuvé à la place"
+	},
+
+	"time": {
+		"never": "Jamais",
+		"minutes": "%{smart_count} minute |||| %{smart_count} minutes",
+		"hours": "%{smart_count} heure |||| %{smart_count} heures",
+		"days": "%{smart_count} jour |||| %{smart_count} jours"
+	},
+
+	"labels": {
+		"email": "Adresse e-mail",
+		"masterPassword": "Mot de passe principal",
+		"confirmMasterPassword": "Confirmer le Mot de passe principal",
+		"rememberMe": "Rester connecté",
+		"websiteURL": "URL du site web",
+		"username": "Nom d'utilisateur",
+		"password": "Mot de passe",
+		"mobile": "Numéro de téléphone portable",
+		"name": "Nom",
+		"title": "Titre",
+		"details": "Détails",
+		"masterPassword": "Mot de passe principal",
+		"websiteName": "Nom du site web",
+		"notes": "Notes",
+		"ccType": "Type de carte de crédit",
+		"cardholderName": "Nom du détenteur de la carte",
+		"ccNumber": "Numéro de carte de crédit",
+		"expiryDate": "Date d'expiration",
+		"issueDate": "Date d'émission",
+		"colorpicker": "Organisez vos cartes à l'aide de couleurs",
+		"driversLicenseNumber": "Numéro de licence",
+		"firstName": "Prénom",
+		"lastName": "Nom",
+		"gender": "Sexe",
+		"stateProvince": "Etat/Province",
+		"birthdate": "Date de naissance",
+		"company": "Société",
+		"telephone": "Téléphone",
+		"streetName": "Rue",
+		"streetNumber": "Numéro",
+		"city": "Ville",
+		"zipcode": "Code postal",
+		"memberID": "ID de membre",
+		"memberSince": "Membre depuis",
+		"country": "Pays",
+		"passportNumber": "Numéro de passeport",
+		"issuingCountry": "Pays d'émission",
+		"placeOfBirth": "Lieu de naissance",
+		"number": "Numéro",
+		"male": "Homme",
+		"female": "Femme"
+	},
+
+	"placeholders": {
+		"email": "Entrer votre adresse e-mail",
+		"masterPassword": "Entrez votre mot de passe principal",
+		"phone": "(123)-456-7890",
+		"name": "Entrez votre nom",
+		"title": "Entrer un titre",
+		"websiteURL": "Entrer une URL",
+		"websiteName": "Entrer le nom du site web",
+		"username": "Entrer un nom d'utilisateur",
+		"password": "Entrer un mot de passe",
+		"notes": "Entrer des notes",
+		"cardholderName": "Entrer le nom du détenteur de la carte",
+		"ccNumber": "Entrer le numéro de carte de crédit",
+		"driversLicenseNumber": "Entrer le numéro de licence",
+		"firstName": "Entrer le prénom",
+		"lastName": "Entrer le nom",
+		"stateProvince": "Enter l'Etat ou la province",
+		"company": "Entrer le nom de la société",
+		"telephone": "Entrer le numéro de téléphone",
+		"streetName": "Entrer l'adresse",
+		"streetNumber": "Entrer le numéro",
+		"city": "Entrer la ville",
+		"zipcode": "Entrer le code postal",
+		"memberID": "Entrer l'ID de membre",
+		"notesDetails": "Ajoutez ce dont vous souhaitez vous rappeler. Combinaisons de verrouillage. Codes produit et logiciel. Rappels et même recettes secrètes.",
+		"country": "Sélectionner un pays",
+		"passportNumber": "Entrer le numéro de passeport",
+		"issuingCountry": "Sélectionner un pays",
+		"placeOfBirth": "Sélectionner un pays",
+		"number": "Entrer le numéro"
+	},
+
+	"errors": {
+		"generic": "Une erreur est survenue",
+		"passwordsMatch": "Vos mots de passe doivent correspondre",
+		"nameRequired": "Entrez votre nom",
+		"emailInvalid": "Entrez une adresse e-mail valide",
+		"passwordTooShort": "Votre mot de passe doit comporter au moins %{nbCharacters} caractères",
+		"usernameRequired": "Un nom d'utilisateur est requis"
+	},
+
+	"form": {
+		"launch": "Ouvrir ce site web",
+		"passwordStrength": {
+			"veryWeak": "Très faible",
+			"weak": "Faible",
+			"acceptable": "Acceptable",
+			"strong": "Fort",
+			"veryStrong": "Très fort"
+		},
+		"copyPassword": "Copier le mot de passe",
+		"viewPassword": "Afficher le mot de passe"
+	},
+
+	"headerMessages": {
+		"txt1": "Bonjour %{firstName}, bienvenue dans True Key Launchpad"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "Commençons dès maintenant. Ajouter votre premier identifiant de connexion dans True Key",
+		"addNewLogin": "Ajouter un nouvel identifiant de connexion",
+		"success": "Bienvenue !"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Vous ne possédez pas de profil True Key ?",
+			"signup": "Créez-en un ici",
+			"haveAccount": "Vous possédez déjà un profil True Key ?",
+			"login": "Se connecter",
+			"help": "Aide"
+		},
+
+		"intro": {
+			"hi": "Bonjour.",
+			"meetTK": "Découvrez True Key™. Déverrouillez votre monde numérique plus facilement, en toute sécurité. Commencez par créer votre profil.",
+			"watchVideo": "Regarder la vidéo",
+			"createProfile": "Commencez par créer votre profil True Key.",
+			"cta": "C'est parti",
+			"eulaPrivacy": "En cliquant sur le bouton ci-dessous, vous acceptez notre <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>Accord de licence utilisateur final</a> et notre <a class='txt bold secondary btPrivacy'>Déclaration&nbsp;de confidentialité</a>."
+		},
+
+		"confirm": {
+			"title": "IMPORTANT : confirmez le mot de passe principal",
+			"enterAgain": "Entrez de nouveau votre mot de passe principal.",
+			"wontRemember": "Pour protéger votre confidentialité et sécuriser votre mot de passe, votre mot de passe principal n'est jamais stocké ni enregistré. Vous êtes le seul à le détenir, alors veillez à vous en souvenir.",
+			"promise": "Vous promettez de vous en souvenir ?",
+			"submit": "Oui, je m'en souviendrai"
+		},
+		"loginHelp": {
+			"title": "Vous rencontrez des problèmes ?",
+			"txt1": "Votre Mot de passe principal est sensible à la casse et ne doit pas contenir d'espaces. Vous ne pouvez pas utiliser la fonction Copier-coller.",
+			"txt2": "Vous avez oublié votre Mot de passe principal ? Pour votre sécurité, nous ne le connaissons pas. Vous devrez créer un nouveau compte True Key™.",
+			"createAccount": "Créer un nouveau compte"
+		},
+
+		"login": {
+			"title": "Se connecter à son profil",
+			"submit": "Se connecter",
+			"working": "Déchiffrement des données...",
+			"error": "L'action a échoué"
+		},
+
+		"logout": {
+			"title": "Pour vos déplacements, utilisez l'application mobile.",
+			"desc": "Recevez un message texte contenant le lien vers la boutique d'applications gratuites."
+		},
+
+		"onboarding": {
+			"skip": "Passer cette étape",
+			"skipVideo": "Tout est clair !",
+			"title": "%{firstName}, votre profil True Key™ est prêt. Essayons-le.",
+			"desc": "Choisissez l'un de ces sites populaires ou ajoutez un nouveau site pour voir comment cela fonctionne.",
+
+			"noWebsiteFlow": {
+				"desc": "Tirez facilement le meilleur parti de votre application True Key :",
+				"addManually": "Ajouter votre premier identifiant de connexion manuellement"
+			}
+		},
+
+		"emailTaken": {
+			"title": "Cette adresse e-mail dispose déjà d'un profil",
+			"desc": "Souhaitez-vous vous connecter en tant que %{emailAddress} ?"
+		},
+
+		"signup": {
+			"title": "Créer votre profil True Key™",
+			"cta": "OK, étape suivante",
+			"working": "Validation...",
+			"success": "Ça a l'air bon !"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Connexion instantanée",
+			"desc": "Utilisez la connexion instantanée pour vous connecter à ce site web plus rapidement. Laissez l'application True Key indiquer vos nom et mot de passe pour vous."
+		},
+		"passwordReprompt": {
+			"title": "Me demander mon Mot de passe principal",
+			"desc": "Vous êtes seul à connaître votre Mot de passe principal. Le demander avant chaque connexion."
+		},
+		"subdomainOnly": {
+			"title": "Utiliser pour ce sous-domaine uniquement",
+			"desc": "Utiliser pour autoriser la connexion à ce sous-domaine spécifique uniquement."
+		},
+		"offlineHelp": {
+			"title": "Mode hors ligne",
+			"desc": "Il semble que vous ayez perdu votre connexion Internet ou que celle-ci soit très lente. Vous pouvez toujours voir vos mots de passe en mode hors ligne. Toutefois, vous ne pouvez pas ajouter ni enregistrer de modifications, ni partager de mot de passe."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Langue modifiée",
+			"desc": "Votre langue actuelle est désormais %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Favori ajouté",
+			"desc": "Le site web sélectionné a été ajouté à votre Launchpad."
+		},
+		"favoriteRemoved": {
+			"title": "Favori supprimé",
+			"desc": "Le favori a été supprimé de votre Launchpad."
+		},
+		"favoriteEdited": {
+			"title": "Favori modifié",
+			"desc": "Les modifications apportées à ce favori ont été enregistrées."
+		},
+		"passwordGenerated": {
+			"title": "Mot de passe copié !",
+			"desc": "Le mot de passe généré a été copié dans le Presse-papiers."
+		},
+		"noteCreated": {
+			"title": "La note a été créée !",
+			"desc": "Cette note a été ajoutée à True Key."
+		},
+		"passwordSaved": {
+			"title": "Mot de passe enregistré !",
+			"desc": "Ce mot de passe a été ajouté à True Key."
+		},
+		"loginShared": {
+			"title": "Mot de passe partagé",
+			"desc": "Votre mot de passe a été partagé avec %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Mot de passe supprimé.",
+			"desc": "Ce mot de passe a été supprimé de True Key."
+		},
+		"loginEdited": {
+			"title": "Identifiant de connexion modifié.",
+			"desc": "Les modifications apportées à cet identifiant de connexion ont été enregistrées."
+		},
+		"copied": {
+			"title": "Copie effectuée !",
+			"desc": "Cet élément a été copié dans le Presse-papiers."
+		},
+		"passwordCopied": {
+			"title": "Mot de passe copié !",
+			"desc": "Votre mot de passe a été copié dans le Presse-papiers."
+		},
+		"error": {
+			"title": "Une erreur est survenue",
+			"desc": "Essayez à nouveau"
+		},
+		"legacyAccepted": {
+			"title": "Invitation acceptée",
+			"desc": "Cette invitation d'héritage a été acceptée."
+		},
+		"legacyDeclined": {
+			"title": "Invitation refusée",
+			"desc": "Cette invitation d'héritage a été refusée."
+		},
+		"sharingAccepted": {
+			"title": "Invitation acceptée",
+			"desc": "Cette invitation de partage a été acceptée."
+		},
+		"sharingDeclined": {
+			"title": "Invitation refusée",
+			"desc": "Cette invitation de partage a été refusée."
+		},
+		"invitationResent": {
+			"title": "Invitation renvoyée !",
+			"desc": "Cette invitation a été renvoyée."
+		},
+		"oobResent": {
+			"title": "Notification renvoyée !",
+			"desc": "Une nouvelle notification a été envoyée sur votre téléphone."
+		},
+		"emailResent": {
+			"title": "E-mail renvoyé !",
+			"desc": "Un nouvel e-mail de confirmation vous a été envoyé."
+		},
+		"legacyRevoked": {
+			"title": "Connexion héritée révoquée.",
+			"desc": "Cette connexion héritée a été révoquée."
+		},
+		"legacySent": {
+			"title": "Demande héritée envoyée.",
+			"desc": "Une invitation a été envoyée à %{email}."
+		},
+		"legacySendError": {
+			"title": "Erreur de demande d'héritage",
+			"desc": "Cette invitation n'a pu être envoyée à %{email}."
+		},
+		"browserNewTab": {
+			"title": "Le paramètre Nouvel onglet du navigateur a été enregistré.",
+			"desc": "Le paramètre du nouvel onglet du navigateur a été mis à jour."
+		},
+		"changedMP": {
+			"title": "Mot de passe principal modifié.",
+			"desc": "Votre Mot de passe principal a été modifié."
+		},
+		"clearAutosave": {
+			"title": "Enregistrement automatique restauré",
+			"desc": "True Key enregistrera automatiquement les mots de passe sur tous les sites."
+		},
+		"feedbackSent": {
+			"title": "Commentaire envoyé.",
+			"desc": "Merci de votre commentaire."
+		},
+		"documentCreated": {
+			"title": "Document créé !",
+			"desc": "Ce document a été enregistré dans True Key."
+		},
+		"documentRemoved": {
+			"title": "Document supprimé",
+			"desc": "Ce document a été supprimé de True Key."
+		},
+		"notesEdit": {
+			"title": "Modifications enregistrées",
+			"desc": "Les modifications apportées à cette note ont été enregistrées."
+		},
+		"notesRemove": {
+			"title": "Note supprimée",
+			"desc": "Cette note a été supprimée de True Key."
+		},
+		"settingsChanged": {
+			"title": "Paramètres modifiés",
+			"desc": "Vos paramètres de verrouillage ont été mis à jour."
+		},
+		"disabledTrustedDevice": {
+			"title": "Equipement désactivé",
+			"desc": "Votre équipement a été désactivé."
+		},
+		"deviceTrusted": {
+			"title": "Equipement approuvé",
+			"desc": "Votre équipement actuel est désormais approuvé."
+		},
+		"confirmationEmailSent": {
+			"title": "E-mail de confirmation envoyé !",
+			"desc": "Un e-mail de confirmation a été envoyé à %{email}"
+		}
+	},
+
+	"logins": {
+		"title": "Identifiants de connexion",
+		"editLogin": "Modifier l'identifiant de connexion",
+		"viewLogin": "Afficher l'identifiant de connexion",
+		"shareLogin": "Partager l'identifiant de connexion",
+		"shareSection": {
+			"title": "Partagez vos identifiants de connexion avec vos amis et votre famille en toute sécurité. <strong>Sélectionnez ci-dessous l'identifiant de connexion que vous souhaitez partager.</strong>"
+		},
+		"copyPassword": "Copier le mot de passe",
+		"loginAs": "Se connecter en tant que",
+		"removeLogin": "Supprimer cet identifiant de connexion",
+		"noLoginFound": {
+			"title": "Cet identifiant est introuvable",
+			"desc": "Il n'a peut-être pas encore été enregistré. Souhaitez-vous l'ajouter ?"
+		},
+		"currentWebsite": "Site web actuel",
+		"onboardingPopover": {
+			"title": "Connexion instantanée",
+			"desc": "Cliquez ici pour vous connecter sans saisir d'informations"
+		},
+		"searchAssets": "Rechercher mon %{smart_count} identifiant de connexion |||| Rechercher mes %{smart_count} identifiants de connexion",
+		"askForMasterPassword": "Mot de passe principal",
+		"askForFaceRecognition": "Déverrouillage facial",
+		"instantLogin": "Connexion instantanée",
+		"useForSubdomainOnly": "Utiliser pour le sous-domaine <span class='primary'>%{domain}</span> uniquement",
+		"notShared": "Vous ne partagez actuellement ce mot de passe avec personne.",
+		"visiblity": {
+			"title": "Rendre le mot de passe :"
+		},
+		"unshare": "Annuler le partage",
+		"waitingResponse": "en attente de réponse"
+	},
+
+	"sharing": {
+		"title": "Partager votre mot de passe <span class='primary'>%{name}</span>",
+		"accessGiven": "Ce mot de passe est partagé avec :"
+	},
+
+	"verifyEmail": {
+		"title": "Vous n'avez pas encore confirmé votre adresse e-mail",
+		"subtitle": "Pour partager des mots de passe, confirmez d'abord votre adresse e-mail.",
+		"desc": "Vous ne trouvez pas l'e-mail de vérification que nous vous avons envoyé ? Obtenez-en un nouveau maintenant.",
+		"cta": "Renvoyer l'e-mail de confirmation"
+	},
+
+	"premiumOnly": {
+		"title": "Disponible uniquement aux utilisateurs Premium",
+		"txt1": "Un compte Premium est requis pour ajouter un nouveau mot de passe à True Key",
+		"txt1": "Vous disposez de 5 mots de passe gratuits avant la mise à niveau. Procédez à la mise à niveau maintenant pour bénéficier d'un nombre de mots de passe illimité !"
+	},
+
+	"generator": {
+		"title": "Générez un mot de passe fort instantanément.",
+		"subtitle": "Choisissez vos préférences, puis appuyez sur le bouton Générer et copier pour générer un nouveau mot de passe.",
+		"placeholder": "Cliquer sur le bouton pour générer un mot de passe",
+		"cta": "Générer et copier",
+		"length": "Longueur de mot de passe",
+
+		"letters": "Utiliser des lettres",
+		"digits": "Utiliser des chiffres",
+		"symbols": "Utiliser des caractères spéciaux",
+		"capitals": "Utiliser des capitales",
+		"showInForms": "Afficher automatiquement le générateur dans les formulaires",
+
+		"history": {
+			"title": "Mots de passe générés",
+			"noGeneratedPassword": "Aucun mot de passe généré."
+		}
+	},
+
+	"legacy": {
+		"title": "Stockage sécurisé hérité",
+		"countingOnYou": "Les personnes qui comptent sur vous",
+		"heirs": "Les personnes sur lesquelles vous comptez",
+		"sentTimer": "Il y a %{time}",
+		"resendInvitation": "Renvoyer l'invitation",
+		"assignTrustees": "Désigner vos personnes de confiance",
+
+		"txtFeature": {
+			"txt1": "Assurez la sécurité de votre identité numérique, même après votre décès.",
+			"txt2": "Le Stockage sécurisé hérité est le meilleur moyen de transmettre votre vie numérique à vos personnes de confiance, qu'il s'agisse d'un conjoint, d'un enfant, d'un ami ou d'un collègue.",
+			"txt3": "Lorsque vous affectez une personne de confiance à True Key, cette personne n'en reçoit l'accès que le moment venu. %{htmlBefore}Regarder la vidéo%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "Vous devez confirmer votre adresse e-mail",
+		"descLegacy": "Vous ne pouvez pas affecter de personne de confiance tant que vous n'avez pas confirmé votre adresse e-mail",
+		"getNewEmail": "Vous n'êtes pas sûr de toujours posséder l'e-mail de vérification que nous vous avons envoyé ? Obtenez-en un nouveau maintenant.",
+		"cta": "M'envoyer un nouvel e-mail de vérification"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Identifiants de connexion",
+		"wallet": "Portefeuille",
+		"notes": "Notes sécurisées",
+		"legacy": "Stockage sécurisé hérité",
+		"generator": "Générateur de mot de passe",
+		"settings": "Paramètres",
+		"preferences": "Préférences",
+		"support": "Aide et Support",
+		"tkProfile": "Mon profil True Key",
+		"logout": "Déconnexion"
+	},
+
+	"browserNewTab": {
+		"title": "Nouvel onglet du navigateur",
+		"txt1": "Définissez la page web qui doit s'afficher à l'ouverture du navigateur :",
+		"startpage": "Mon True Key Launchpad",
+		"default": "Page par défaut de mon navigateur",
+		"custom": "La page web de mon choix :"
+	},
+
+	"changeMP": {
+		"title": "Modifier le Mot de passe principal",
+		"labels": {
+			"current": "Mot de passe principal actuel",
+			"new": "Nouveau Mot de passe principal",
+			"confirmNew": "Nouveau Mot de passe principal"
+		},
+		"placeholders": {
+			"current": "Entrez le mot de passe principal actuel",
+			"new": "Entrer votre nouveau Mot de passe principal",
+			"confirmNew": "Confirmez le nouveau mot de passe principal"
+		},
+		"cta": "Changer le mot de passe"
+	},
+
+	"lockUnlock": {
+		"title": "Vous avez le contrôle",
+		"desc": "Personnalisez votre application True Key en utilisant autant de facteurs que vous le souhaitez. L'ajout de facteurs supplémentaires renforce votre profil.",
+
+		"noYap": {
+			"title": "Définissez la fréquence du verrouillage automatique de votre compte True Key.",
+			"desc": "Sélectionnez la durée souhaitée dans le menu déroulant ci-dessous."
+		},
+
+		"basic": "De base",
+		"advanced": "Avancé",
+
+		"autolock": {
+			"title": "Verrouillage automatique",
+			"desc": "Quelle durée d'inactivité doit s'écouler avant le verrouillage de votre compte True Key ?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Visibilité du Launchpad",
+			"desc": "Indiquez si True Key Launchpad doit être visible lorsque le verrouillage est activé."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "L'équipement que vous utilisez est approuvé.",
+			"txt2": "Lorsque vous approuvez un équipement, vous pouvez ajouter des facteurs de sécurité supplémentaires tels que le Déverrouillage facial."
+		}
+	},
+
+	"preferences": {
+		"title": "Préférences",
+		"modals": {
+			"autologin": {
+				"title": "Connexion instantanée",
+				"desc": "Utilisez la connexion instantanée pour vous connecter aux sites web plus rapidement. Laissez l'application True Key indiquer vos nom et mot de passe pour vous.",
+				"txt1": "La connexion instantanée permet à True Key de vous connecter automatiquement à un site web que vous avez enregistré dans votre compte en saisissant simplement son URL (www.exemple.com) dans votre navigateur.",
+				"txt2": "Si la connexion instantanée est activée, True Key détecte l'URL du site web et vous connecte automatiquement, sans le moindre clic supplémentaire.",
+				"txt3": "Si cette fonction est désactivée, True Key détecte l'URL du site web, indique vos nom d'utilisateur et mot de passe, mais vous devez cliquer sur le bouton Connexion."
+			},
+			"clearAutologin": {
+				"title": "Restaurer l'enregistrement automatique sur tous les sites",
+				"desc": "Si vous demandez à True Key de ne pas enregistrer votre mot de passe sur certains sites web, et si vous changez d'avis, cliquez sur le bouton Restaurer pour enregistrer automatiquement les mots de passe au cours de la navigation."
+			}
+		},
+		"import": {
+			"title": "Ajoutez-vous actuellement des mots de passe sur un autre équipement ? Ajoutez-les à votre compte True Key.",
+			"desc": "A l'aide de l'importateur de mots de passe, ajoutez rapidement des mots de passe à votre compte True Key.",
+			"cta": "Importer des mots de passe"
+		},
+		"newTab": "Page d'accueil et nouvel onglet du navigateur",
+		"restoreAutosave": "Restaurer l'enregistrement automatique sur tous les sites",
+		"restore": "Restaurer",
+		"instantLogin": "Connexion instantanée",
+		"changeLanguage": "Modifier la langue"
+	},
+
+	"shareSocial": {
+		"title": "Parlez-en autour de vous",
+		"title2": "Partagez votre enthousiasme",
+		"desc": "Vous appréciez l'expérience offerte par l'application True Key ? Faites-le savoir à vos amis et soyez-en récompensé.",
+		"share": "Partager",
+		"tweet": "Tweeter",
+		"rateChrome": "Evaluer l'application",
+		"twitterMessage": "Soyez l'un des premiers à éliminer des mots de passe. Réservez votre #TrueKey by @IntelSecurity pour un accès précoce."
+	},
+
+	"settingsNav": {
+		"profile": "Mon profil True Key",
+		"lockUnlock": "Préférences de verrouillage",
+		"windowsLock": "Déverrouillage facial Windows",
+		"preferences": "Préférences",
+		"support": "Aide et Support",
+		"shareSocial": "Parlez-en autour de vous",
+		"trustedDevices": "Equipements approuvés"
+	},
+
+	"tkProfile": {
+		"title": "Mes facteurs",
+		"hi": "Bonjour, %{fullname}",
+		"txt1": "Plus vous ajoutez de facteurs, %{htmlBefore}plus votre profil True Key est fort.%{htmlAfter}",
+		"activeFactors": "Facteurs actifs",
+		"active": "Actif",
+		"strength": "Force du profil",
+
+		"accountStatus": {
+			"title": "Etat de l'abonnement",
+			"premium": "Premium",
+			"ends": "Fin"
+		},
+
+		"layerEmail": "Ajoutez votre adresse e-mail en tant que facteur approuvé en l'associant à votre profil True Key. <strong>Vous recevrez des notifications dans votre boîte de réception lorsque vous vous connecterez à des équipements nouveaux ou non approuvés.</strong>",
+		"layerSwipe": "<strong>Pour une protection renforcée lors de la connexion aux comptes</strong>, envoyez une notification à votre équipement mobile. Vous devrez accepter la notification avant que True Key ne vous connecte.",
+		"layerFace": {
+			"txt1": "<strong>Connectez-vous sans mot de passe.</strong> Le Déverrouillage facial utilise les dimensions uniques de votre visage (distance entre les yeux et le nez, par exemple) pour vous identifier avant de vous autoriser à vous connecter.",
+			"txt2": "Le Déverrouillage facial est disponible sur PC et équipements Android."
+		},
+		"layerPassword": "Utilisez un mot de passe principal complexe pour protéger votre profil et ne l'oubliez pas. <strong>Votre mot de passe principal ne peut pas être réinitialisé si vous le perdez, vous êtes le seul à le détenir.</strong> Si vous ajoutez d'autres facteurs, votre mot de passe principal servira de sauvegarde s'ils ne vous permettent pas de vous connecter.",
+		"layerDevice" : "True Key reconnaît les équipements qui vous appartiennent et que vous utilisez souvent. Ajoutez les équipements avec lesquels vous accédez à votre profil True Key. <strong>Ainsi, personne ne pourra accéder à votre compte</strong>, des facteurs supplémentaires seront exigés lors de toute tentative de connexion à partir d'un équipement inconnu."
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Quel niveau de sécurité souhaitez-vous pour votre Déverrouillage Windows ?",
+		"desc": "Sélectionnez le niveau de sécurité souhaité.",
+
+		"basic": {
+			"settingName": "De base",
+			"title": "Sélectionnez le paramètre De base pour bénéficier de la connexion la plus rapide",
+			"desc": "Ce paramètre est recommandé si vous utilisez un ordinateur personnel dans un environnement approuvé."
+		},
+		"advanced": {
+			"settingName": "Avancé",
+			"title": "Le paramètre Avancé active la protection contre l'usurpation d'identité",
+			"desc": "Ce paramètre est recommandé pour les ordinateurs personnels et publics utilisés au bureau ou à la maison."
+		},
+		"boosted": {
+			"settingName": "Supplémentaire",
+			"title": "Le paramètre Supplémentaire active la protection contre l'usurpation d'identité et la détection en temps réel",
+			"desc": "Le paramètre Supplémentaire vous demandera de cligner des yeux pour confirmer votre identité. Ce paramètre est recommandé pour les ordinateurs publics situés dans des environnements non approuvés."
+		},
+		"howTo": {
+			"title": "Utilisez votre visage pour vous connecter à Windows",
+			"subtitle": "Lassé de saisir votre mot de passe Windows ?",
+			"desc": "Déverrouillez votre équipement avec True Key. C'est rapide et facile.",
+			"cta": "En savoir plus sur l'activation"
+		},
+		"howToModal": {
+			"title": "Utilisez votre visage pour vous connecter à Windows",
+			"desc": "Suivez cette procédure simple pour activer la connexion Windows à l'aide de votre visage :",
+			"step1": "Verrouillez votre écran (Windows + L)",
+			"step2": "Cliquez sur le bouton Précédent",
+			"step3": "Cliquez sur l'icône True Key",
+			"tip": "Vous pouvez verrouiller l'écran à l'aide du raccourci clavier Windows+L"
+		}
+	},
+
+	"videos": {
+		"title": "Vidéos",
+		"intro": {
+			"title": "Introduction",
+			"desc": "Qu'est-ce que True Key et pourquoi en avez-vous besoin ? La réponse dans cette vidéo."
+		},
+		"gettingStarted": {
+			"title": "Présentation de mise en route",
+			"desc": "Nouvel utilisateur ? Tirez le meilleur parti de True Key avec cette présentation rapide."
+		},
+		"security": {
+			"title": "Sécurité",
+			"desc": "Votre sécurité est notre priorité. Voici comment nous assurons la sécurité de vos données."
+		},
+		"sharing": {
+			"title": "Partager un mot de passe",
+			"desc": "Enfin ! Une fonction de partage chiffré que tout le monde peut utiliser !"
+		},
+		"sharingSecurity": {
+			"title": "Partage sécurisé",
+			"desc": "Partage chiffré : obtenir une telle facilité d'utilisation est plus compliqué qu'il n'y paraît."
+		},
+		"legacy": {
+			"title": "Héritage",
+			"desc": "Le seul outil de mot de passe qui protège vos données au cours de votre existence... et après."
+		}
+	},
+
+	"support": {
+		"title": "Aide et Support",
+		"feedback": {
+			"title": "Donnez-nous votre avis",
+			"desc": "Que pensez-vous du service True Key ?",
+			"needsWork": "Peut être amélioré",
+			"awesome": "Fantastique",
+			"leaveComment": "Déposer un commentaire :",
+			"placeholder": "Vos commentaires nous seront très utiles. Ecrivez vos commentaires ici. Merci par avance !",
+			"thankYou": "Merci !"
+		},
+		"getMoreSupport": "Obtenir une assistance plus complète"
+	},
+
+	"wallet": {
+		"title": "Portefeuille",
+		"add": {
+			"subtitle1": "Stockez vos données en toute sécurité",
+			"subtitle2": "Sélectionnez une catégorie ci-dessous pour ajouter votre premier élément de portefeuille"
+		},
+		"search": "Rechercher dans votre portefeuille",
+		"types": {
+			"identity": "Carnet d'adresses",
+			"cc": "Carte de crédit",
+			"drivers": "Nº permis de conduire",
+			"membership": "Adhésions",
+			"passport": "Passeport",
+			"ssn": "Numéro de sécurité sociale"
+		},
+		"remove": {
+			"title": "Suppression d'un document",
+			"confirm": "Voulez-vous vraiment supprimer ce document de True Key ?",
+			"permanent": "Il est impossible d'annuler cette action."
+		},
+		"edit": {
+			"title": "Modifier le document"
+		}
+	},
+
+	"notes": {
+		"title": "Notes sécurisées",
+		"add": {
+			"title": "Ajouter une note"
+		},
+		"empty": {
+			"title": "Introuvable",
+			"desc": "La note recherchée n'est peut-être pas enregistrée dans True Key.",
+			"cta": "Créer une note"
+		},
+		"sort": {
+			"alphabetically": "Alphabétiquement",
+			"dateCreated": "Date de création"
+		},
+		"search": "Rechercher dans ma %{smart_count} note sécurisée |||| Rechercher dans mes %{smart_count} notes sécurisées",
+		"remove": {
+			"title": "Suppression d'une note",
+			"desc": "Voulez-vous vraiment supprimer cette note de True Key ?",
+			"permanent": "Il est impossible d'annuler cette action."
+		},
+		"edit": {
+			"title": "Note sécurisée"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Utiliser une connexion standard"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) veut vous désigner en tant qu'héritier."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) a partagé son mot de passe %{htmlBefore}%{title}%{htmlAfter} avec vous."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) souhaite partager un mot de passe avec vous."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Progression du compte :",
+		"pctProgress": "%{percentage} %",
+		"addLogin": {
+			"title": "Ajouter le premier identifiant de connexion",
+			"desc": "Enregistrer un identifiant de connexion dans True Key"
+		},
+		"oneClick": {
+			"title": "Essayer une connexion instantanée",
+			"desc": "Se connecter sans toucher au clavier"
+		},
+		"addFace": {
+			"title": "Ajouter le Déverrouillage facial",
+			"desc": "Cette fonction accélère et simplifie la connexion."
+		},
+		"addLogins": {
+			"title": "Ajouter vos quatre premiers identifiants de connexion",
+			"desc": "Ajouter plus d'identifiants de connexion à votre profil True Key"
+		},
+		"sharing": {
+			"title": "Partager un mot de passe",
+			"desc": "Partagez vos mots de passe en toute sécurité avec votre famille, vos amis et vos collègues"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "Utilisez votre visage pour vous connecter plus rapidement.",
+		"txt1": "Configurez le Déverrouillage facial pour un accès simple instantané à l'application True Key™.",
+		"txt2": "Vous pouvez également l'associer à votre Mot de passe principal afin de disposer d'un second facteur sans contrainte.",
+		"txt3": "Ne vous inquiétez pas. Nous n'enregistrons ni ne partageons votre photo.",
+		"cta": "Configurer le Déverrouillage facial"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Ajouter un équipement approuvé",
+		"txt1": "Vérifiez votre e-mail pour confirmer.",
+		"txt2": "Vérifiez votre boîte de réception pour continuer."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Sélectionner un équipement approuvé",
+		"txt": "Vous avez activé l'authentification à deux facteurs. Sélectionnez un équipement approuvé pour recevoir cette notification."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Désactiver un équipement approuvé",
+		"txt": "Vous avez décidé de désactiver l'équipement suivant : \"%{deviceName}\"",
+		"confirm": "Désactiver"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "L'équipement que vous utilisez est approuvé.",
+		"txt": "Lorsque vous approuvez un équipement, vous pouvez ajouter des facteurs de sécurité supplémentaires tels que le Déverrouillage facial."
+	},
+
+	"overlayInstallExe": {
+		"title": "Plus que trois étapes et c'est terminé",
+		"txt": "Le logiciel True Key est en cours de téléchargement. Problème de fonctionnement ? ",
+		"restartDownload": "Cliquez ici pour relancer le téléchargement."
+	},
+
+	"overlayOobPending": {
+		"txt": "Nous vous avons envoyé une notification de diffusion pour vérifier votre connexion. Vérifiez votre équipement approuvé.",
+		"btResend": "Renvoyer la notification"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "Oups, la notification de diffusion a expiré.",
+		"txt2": "Réessayer avec une nouvelle notification",
+		"btResend": "Vous n'avez pas reçu la notification ? Renvoyer"
+	},
+
+	"overlayInstallFace": {
+		"title": "Se connecter plus rapidement",
+		"txt": "Gagnez du temps. Au lieu de saisir votre mot de passe principal, utilisez Déverrouillage facial."
+	},
+
+	"overlayTrustDevice": {
+		"title": "S'agit-il d'un équipement approuvé ?",
+		"txt1": "Il semble que vous tentiez de vous connecter à un équipement non approuvé.",
+		"txt2": "Ajoutez cet ordinateur à vos équipements approuvés afin de vous connecter plus rapidement avec un ou deux facteurs.",
+		"dontTrust": "Non, ne pas approuver",
+		"trustComputer": "Approuver cet ordinateur"
+	},
+
+	"overlayEmailPending": {
+		"title": "Confirmez votre adresse e-mail",
+		"txt": "Vérifiez votre e-mail pour confirmer cet équipement.",
+		"btResend": "Renvoyer l'e-mail"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Oups, votre notification par e-mail a expiré.",
+		"txt2": "Réessayez avec une nouvelle notification.",
+		"btResend": "Vous n'avez pas reçu la notification ? Renvoyer"
+	},
+
+	"overlayUpdate": {
+		"title": "Mettez à jour votre application True Key",
+		"txt": "Une nouvelle version est prête à être installée. Cliquez sur Mettre à jour pour procéder à l'installation.",
+		"btUpdate": "Mettre à jour maintenant"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Entrer votre Mot de passe principal",
+			"enterMasterPasswordHere": "Entrer votre Mot de passe principal ici",
+			"invalidPassword": "Mot de passe non valide"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Confirmation requise"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Verrouillage automatique",
+		"text": "Quand souhaitez-vous que votre application True Key soit verrouillée ?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Visibilité du Launchpad",
+		"text": "Décidez si vos sites favoris sont masqués ou visibles lorsque le Launchpad est verrouillé.",
+		"visible": "<span class='bold'>Visible :</span> affichez le Launchpad même lorsqu'il est verrouillé.",
+		"invisible": "<span class='bold'>Masqué :</span> masquez le Launchpad lorsqu'il est verrouillé."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Equipement approuvé",
+			"helpText": "Connectez votre équipement à votre profil True Key afin de bénéficier d'un niveau de sécurité supplémentaire.",
+			"enroll": "Approuver l'équipement"
+		},
+		"masterPassword": {
+			"title": "Mot de passe principal",
+			"helpText": "Créez un Mot de passe principal fort pour votre profil True Key. Prenez note de ce mot de passe, car nous ne l'enregistrerons pas."
+		},
+		"email": {
+			"title": "Adresse e-mail approuvée",
+			"helpText": "Confirmez votre adresse e-mail pour activer toutes les fonctionnalités. Pour une sécurité accrue, vous pouvez également utiliser votre adresse e-mail comme second facteur.",
+			"enroll": "Envoyer un e-mail de confirmation"
+		},
+		"face": {
+			"title": "Déverrouillage facial",
+			"helpText": "Le Déverrouillage facial de True Key utilise les traits uniques de votre visage pour confirmer votre identité. Utilisez cette fonction comme principale méthode de connexion ou en tant que facteur de sécurité supplémentaire.",
+			"enroll": "Ajouter maintenant"
+		},
+		"mobile": {
+			"title": "Déverrouillage par glissement (Android uniquement)",
+			"helpText": "Avec le Déverrouillage par glissement, vous enverrez une notification de diffusion à votre téléphone portable en tant que 2d facteur : il vous suffit de faire glisser la notification pour déverrouiller le profil de votre ordinateur. Vous pouvez utiliser cette fonction à la place du Mot de passe principal ou en combinaison avec ce dernier pour bénéficier d'une sécurité accrue.",
+			"enroll": "Ajouter un téléphone"
+		},
+		"fingerprint": {
+			"title": "Déverrouillage tactile",
+			"helpText": "Utilisez vos empreintes digitales uniques pour accéder à True Key de manière sécurisée et bénéficier d'un niveau de sécurité supplémentaire. Cette fonction sera disponible prochainement."
+		}
+	},
+
+	"killswitch": {
+		"title": "Mise à jour obligatoire",
+		"chrome": {
+			"txt1": "Cette version de l'extension True Key n'est plus prise en charge.  Chrome a procédé automatiquement à la mise à jour vers la dernière version.",
+			"txt2": "Redémarrez votre navigateur."
+		},
+		"ie": {
+			"txt1": "Cette version de True Key n'est plus prise en charge. Cliquez sur le bouton ci-dessous pour installer la dernière version",
+			"cta": "Mettre à jour maintenant"
+		},
+		"downloading": "Cette version de True Key n'est plus prise en charge. Une version mise à jour est en cours de téléchargement. Elle sera prête dans quelques minutes..."
+	},
+
+	"downloadExe": {
+		"title": "Bon choix",
+		"txt1": "Grâce au déverrouillage facial, vous n'avez plus besoin de saisir votre mot de passe principal. Cliquez ci-dessous pour télécharger le programme d'installation."
+	},
+
+	"enableIE": {
+		"appInstalled": "Application installée",
+		"enableIt": "A présent, activez-la dans votre navigateur",
+		"cta": "Cliquez ici après avoir effectué l'activation ci-dessous",
+		"title": "Vous avez presque terminé",
+		"txt1": "Cliquez sur Activer ci-dessous pour commencer à utiliser l'application True Key. Vous ne devrez effectuer cette action qu'une seule fois.",
+		"txt2": "Ensuite, %{htmlBefore}cliquez ici%{htmlAfter}.",
+		"appInstalled" : "Application installée.",
+		"enableIt" : "A présent, activez-la dans votre navigateur.",
+		"havingTrouble" : "Des problèmes ? Actualisez cette page."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "Vous êtes déjà protégé, car vous utilisez un équipement approuvé :",
+		"trustedDevice": "Cet équipement approuvé (\"%{deviceName}\")",
+		"chooseFactors": "Choisissez le facteur supplémentaire à utiliser pour déverrouiller votre application :",
+		"simple": "Simple",
+		"complex": "Complexe",
+		"faceUnlock": "Déverrouillage facial",
+		"addFace": "Ajouter un visage",
+		"addSwipe": "Ajouter le Déverrouillage par glissement",
+		"masterPassword": "Mot de passe principal",
+		"theseFactorsAreRequired": "Ces facteurs sont également requis pour accéder à votre application :",
+
+		"confirmAdvanced": {
+			"title": "A savoir",
+			"content": "Lorsque vous vous connectez à l'aide du paramètre Avancé, votre équipement doit être connecté à Internet. Si la connexion échoue, vous ne pourrez pas accéder à votre profil True Key.",
+			"confirm": "Tout est clair"
+		}
+	},
+
+	"faq": {
+		"title": "FAQ",
+
+		"Q1": "Qu'est-ce que True Key™ ?",
+		"A1": "True Key™ by Intel Security modifie les méthodes de connexion.  Grâce à True Key, vous ne devez plus mémoriser de multiples mots de passe et vous pouvez vous connecter instantanément à vos applications, sites et équipements à l'aide de facteurs qui vous sont propres, tels que les traits de votre visage et les identifiants de vos équipements.  Plus les facteurs sont nombreux, plus l'application True Key est forte, ce qui facilite la confirmation de votre identité. Avec True Key, le mot de passe, c'est vous.  Vous contrôlerez mieux votre identité numérique et vous pourrez vivre votre vie numérique plus rapidement et plus facilement, et ce en toute sécurité.",
+
+		"Q2": "Fonctionnement",
+		"A2": "Ouvrez votre compte True Key sur un smartphone, une tablette ou un PC et créez votre profil afin que True Key vous identifie. Les sites web prenant en charge True Key vous identifierons automatiquement de sorte que vous n'aurez pas besoin de saisir, ni même de mémoriser, un mot de passe. Les sites web non pris en charge par True Key utilisent le gestionnaire de mots de passe inclus pour mémoriser et entrer automatiquement vos nom d'utilisateur et mot de passe pour vous. Avec True Key, le mot de passe, c'est vous.  Vous contrôlerez mieux votre identité numérique et vous pourrez vivre votre vie numérique plus rapidement et plus facilement, et ce en toute sécurité.",
+
+		"Q3": "Pourquoi se connecter avec True Key ?",
+		"A3": "True Key vous simplifie la vie et vous identifie auprès du monde numérique. En vous connectant une fois à True Key à l'aide d'attributs uniques tels que les traits de votre visage ou une empreinte digitale, vous pouvez vous connecter instantanément.",
+
+		"Q4": "Plusieurs personnes peuvent-elles utiliser leur compte True Key sur un ordinateur partagé ?",
+		"A4": "Oui, True Key vous reconnaîtra et ne connectera que vous à vos comptes. C'est aussi simple que de se déconnecter et se reconnecter.",
+
+		"Q5": "Quel est le niveau de sécurité de True Key ?",
+		"A5": "True Key est un produit que toute personne peut utiliser. Les données sont chiffrées à l'aide d'AES-256, l'un des niveaux les plus élevés de chiffrement disponibles. Vous pouvez améliorer True Key en ajoutant des attributs supplémentaires, ou facteurs, tels que les traits de votre visage ou une empreinte digitale.",
+
+		"Q6": "Comment mes données sont-elles chiffrées et déchiffrées ?",
+		"A6": "True Key conserve les données localement sur votre équipement à l'aide du chiffrement AES-256, l'un des niveaux de chiffrement les plus élevés disponibles.  Vos données confidentielles ne quittent jamais votre équipement sauf si elles sont préalablement déchiffrées. Dans ce cas, seul vous et les personnes que vous avez autorisées peuvent y accéder.",
+
+		"Q7": "Un employé True Key peut-il accéder aux données stockées dans mon compte ou à d'autres informations sensibles ?",
+		"A7": "Non, avec True Key, le mot de passe, c'est vous.  Vos données sont chiffrées et déchiffrées sur votre équipement et restent sous votre contrôle à tout moment. True Key utilise des facteurs qui vous sont propres, y compris les traits de votre visage, une empreinte ou le Mot de passe principal pour chiffrer et déchiffrer uniquement en fonction de vos besoins.",
+
+		"Q8": "Où sont effectués le chiffrement et le déchiffrement de mes données ?",
+		"A8": "Vos données sont chiffrées et déchiffrées localement, sur votre équipement. Seules les données chiffrées sont stockées sur les serveurs True Key.",
+
+		"Q9": "Mes données sont-elles stockées sur les serveurs True Key ?",
+		"A9": "Oui, vos données True Key chiffrées sont stockées sur un serveur True Key sécurisé. Ces informations sont accessibles uniquement à l'aide de facteurs qui vous sont propres, tels que les traits du visage ou un Mot de passe principal.",
+
+		"Q10": "Puis-je utiliser le Déverrouillage facial True Key pour les équipements Windows ?",
+		"A10": "Le Déverrouillage facial True Key sera disponible pour les équipements Windows début 2015.",
+
+		"Q11": "Dois-je utiliser une caméra web spécifique ?",
+		"A11": "True Key fonctionnera avec la caméra avant de votre équipement et les caméras USB.",
+
+		"Q12": "Une personne peut-elle se connecter en utilisant l'une de mes photos ?",
+		"A12": "Non, True Key a développé une technologie de protection contre l'usurpation d'identité afin d'empêcher ce type de tentative de connexion. Avec Intel Security, vous êtes entre de bonnes mains.",
+
+		"Q13": "Comment êtes-vous sûrs que c'est bien moi qui me connecte ?",
+		"A13": "Avec Intel Security, vous êtes entre de bonnes mains. True Key utilise des algorithmes très sophistiqués pour confirmer votre identité, y compris des données biométriques, une image du visage, une empreinte et d'autres attributs que vous configurez et qui vous sont propres.",
+
+		"Q14": "Où puis-je utiliser le Déverrouillage facial True Key et sur quelles plates-formes ?",
+		"A14": "Vous pouvez télécharger True Key sur tous les équipements les plus répandus. Toutefois, la connexion faciale n'est actuellement disponible que sous Windows 8, 8.1, Internet Explorer 10 + 11 et Google Chrome.  Dans les prochains mois, nous mettrons à disposition plus de plates-formes et de méthodes d'authentification."
+	},
+
+	"privacy": {
+		"title": "Vous, vos données et True Key",
+
+		"Q1": "Tout d'abord, votre confidentialité",
+		"A1": "Intel Security respecte votre confidentialité. Veuillez lire notre %{privacyBefore}Déclaration de confidentialité%{linkAfter} pour en savoir plus sur la manière dont Intel Security gère les informations personnelles.",
+
+		"Q2": "Quelles informations l'application True Key collecte-t-elle ?",
+		"A2": "<p>Avec votre autorisation, l'application True Key collecte votre image et la convertit en mesures, appelées “calcul facial”.</p><p>Une fois le calcul facial réalisé, l'image est supprimée. Votre calcul facial est chiffré et stocké localement sur votre équipement.  Les informations chiffrées sont ensuite stockées et protégées dans un centre de données Intel Security pour que vous puissiez accéder à vos équipements et sites web facilement et en toute sécurité.</p><p>Intel Security n'a pas accès aux informations sensibles que vous stockez dans votre application True Key, car elles sont chiffrées avant d'être envoyées à Intel Security et protégées par un Mot de passe principal que vous êtes seul à connaître.</p><p>En outre :</p><p>l'application True Key stockera également les mots de passe, noms d'utilisateur et informations de portefeuille que vous fournissez.  Tous ces éléments seront chiffrés sur votre équipement et peuvent être synchronisés avec vos autres équipements après l'envoi des informations chiffrées aux serveurs True Key sécurisés pour communiquer avec vous.</p>",
+
+		"Q3": "Qu'est-ce que le calcul facial ?",
+		"A3": "Le calcul facial est le calcul des mesures de votre visage permettant à la technologie du Déverrouillage facial de vous identifier.",
+
+		"Q4": "Comment mon calcul facial est-il utilisé ?",
+		"A4": "Intel Security utilise votre calcul facial avec la technologie du Déverrouillage facial pour vous reconnaître et vous connecter à votre équipement ou un site web compatible True Key.",
+
+		"Q5": "Où toutes ces informations sont-elles stockées ?",
+		"A5": "Le modèle de calcul facial sera chiffré et enregistré sur vos équipements. Les informations chiffrées seront également stockées dans un centre de données Intel Security pour que vous puissiez synchroniser vos équipements.",
+
+		"Q6": "Comment supprimer le Déverrouillage facial de mon équipement ?",
+		"A6": "Pour supprimer ou désactiver cette fonctionnalité, désactivez votre compte ou désinstallez le programme à l'aide des options de désinstallation de votre équipement ou système.",
+
+		"Q7": "Comment supprimer mon calcul facial du centre de données d'Intel Security ?",
+		"A7": "Vous pouvez solliciter la suppression de votre calcul facial auprès du %{customerSupportBefore}Service Client%{linkAfter} de True Key. Après vous être authentifié, vous pouvez demander la suppression de votre calcul facial.",
+
+		"Q8": "Mon application True Key effectuera-t-elle le suivi des sites web auxquels j'accède ?",
+		"A8": "Les sites web et identifiants de connexion que vous stockez dans votre profil True Key sont disponibles dans True Key Launchpad.",
+
+		"Q9": "Le service True Key utilisera-t-il mes informations dans un autre but ?",
+		"A9": "Non, le service True Key n'a pas accès à vos informations déchiffrées.",
+
+		"Q10": "Où obtenir plus d'informations sur l'application True Key ?",
+		"A10": "Des informations supplémentaires sur le Déverrouillage facial et l'application True Key sont disponibles sur le site web True Key, %{websiteBefore}truekey.com%{linkAfter}, ou auprès du %{customerSupportBefore}Service Client%{linkAfter} de True Key."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Ajouter un équipement approuvé",
+		"lastUsed": "Date de la dernière utilisation :",
+		"twoFactor": "Authentification à deux facteurs :",
+		"title": "Sélectionnez et gérez les équipements approuvés pour votre profil True Key.",
+		"txt1": "Vous décidez quels équipements sont approuvés pour votre profil True Key. Utilisez ces équipements pour l'authentification à deux facteurs, en gérant l'emplacement à partir duquel vous pouvez accéder à vos sites et applications. Gardez à l'esprit que vous pouvez ajouter ou supprimer un équipement à tout moment."
+	},
+
+	"startpage": {
+		"searchNoResults": "Aucun résultat trouvé.",
+
+		"addFavorite": {
+			"title": "Ajouter un favori",
+			"placeholder": "Entrer un nom ou une URL de site web",
+			"titleSuggestions": "Voici quelques suggestions :",
+			"moreSuggestions": "Plus de suggestions"
+		},
+
+		"addManually": {
+			"title": "Ajouter un favori manuellement",
+			"label": {
+				"websiteName": "Nom du site web",
+				"url": "URL"
+			},
+			"placeholders": {
+				"websiteName": "par exemple : Facebook",
+				"url": "par exemple : http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Modifier un favori"
+		},
+
+		"ctaEdit": "Modifier ce favori",
+
+		"search": {
+			"onTheWeb": "Rechercher %{filter} sur le web",
+			"logins": "Vos informations de connexion enregistrées",
+			"placeholder": "Rechercher sur le web ou votre True Key Launchpad"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Favoris",
+			"description": "Les favoris sont similaires aux signets. Ajoutez-les, supprimez-les et organisez-les à votre guise. Utilisez les favoris pour accéder rapidement aux sites que vous visitez le plus souvent, y compris ceux pour lesquels vous n'avez pas enregistré d'identifiants de connexion."
+		},
+		"logins": {
+			"title": "Identifiants de connexion",
+			"description": "Vous trouverez les identifiants de connexion enregistrés dans votre profil à cet emplacement. Ajoutez, affichez ou modifiez les détails et gérez les paramètres de sécurité de chacune d'elles."
+		},
+		"menu": {
+			"title": "Votre menu",
+			"description": "Accédez à vos préférences, aux paramètres de sécurité, au support, etc., dans le Menu."
+		},
+		"search": {
+			"title": "Rechercher",
+			"description": "Recherchez rapidement des informations sur le web ou dans votre profil True Key."
+		},
+		"profile": {
+			"title": "Profil",
+			"description": "Affichez et mettez à jour vos paramètres de profil. Cliquez sur l'icône de notification si vous avez reçu un message."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Presque terminé",
+		"description": "Vous devez activer l'extension True Key™. Choisissez un navigateur ou tous vos navigateurs.",
+		"activated": "True Key™ est déjà activé sur <em>%{activatedBrowser}</em>,<br> ajoutez-le également à <em>%{availableBrowser}</em>.",
+
+		"overlayTitle": "True Key™ activé",
+		"overlayText": "Pour vous connecter à vos sites favoris instantanément sans avoir à saisir de mots de passe, <strong>activez True Key</strong>.",
+		"errorNoBrowserSelected": "Sélectionnez au moins un navigateur pour activer True Key"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "Découvrez True Key™ by Intel Security",
+			"subtitle": "Déverrouillez votre monde numérique sans la contrainte que représentent plusieurs mots de passe",
+			"description": "A l'aide de facteurs qui vous sont propres, l'application True Key modifie les méthodes de connexion, vous offrant un accès rapide et sécurisé à vos équipements, applications et sites favoris."
+		},
+		"sync": {
+			"subtitle": "La synchronisation automatique avec votre téléphone, tablette ou ordinateur vous offre la liberté de l'itinérance",
+			"description": "L'application True Key se synchronise avec votre téléphone, tablette et ordinateur en toute sécurité, ce qui vous permet de conserver vos données à portée de main."
+		},
+		"encrypted": {
+			"subtitle": "Sécurisez et chiffrez vos informations, et protégez votre confidentialité",
+			"description": "Vos données sont stockées localement sur votre équipement et n'en sortent que si elles sont chiffrées. Vous êtes le seul à y avoir accès."
+		},
+		"unique": {
+			"subtitle": "Créez un profil unique, à votre image",
+			"description": "Avec l'application True Key, le mot de passe, c'est vous. Plus vous ajoutez de facteurs, plus votre profil True Key est fort, permettant ainsi au monde numérique de vous reconnaître entre mille."
+		},
+		"skipTour": "Ignorer la visite",
+		"iGetIt": "Tout est clair.",
+		"getStarted": "Commençons dès maintenant"
+	},
+
+	"slideshow2": {
+		"meetTK": "Découvrez True Key by Intel Security",
+		"multiple_passwords": {
+			"title": "Finie la contrainte liée aux multiples mots de passe",
+			"desc": "L'application True Key retient vos mots de passe à votre place."
+		},
+		"sync": {
+			"title": "Synchronisez vos mots de passe sur tous vos équipements",
+			"desc": "Installez l'application True Key sur tous vos équipements pour disposer de vos mots de passe à portée de main."
+		},
+		"encrypted": {
+			"title": "Protégez et chiffrez vos mots de passe",
+			"desc": "L'application True Key chiffre vos mots de passe sur votre équipement pour que vous soyez le seul à y avoir accès."
+		}
+	},
+
+	"enable": {
+		"lastStep": "Vous avez presque terminé",
+		"clickEnable": "Cliquez sur Activer ci-dessous pour commencer à utiliser l'application True Key. Vous ne devrez effectuer cette action qu'une seule fois.",
+		"clickDone": "Une fois fait, %{htmlBefore}cliquez ici%{htmlAfter}"
+	},
+
+	"activation": {
+		"title": "Activer True Key™",
+		"txtEnable": "Pour vous connecter à vos sites favoris instantanément sans avoir à saisir<br>de mots de passe, <strong>activez l'extension True Key</strong>.",
+		"txtInstall": "Pour vous connecter à vos sites favoris instantanément sans avoir à saisir<br>de mots de passe, <strong>installez l'extension True Key</strong>.",
+		"txtRestart": "Vous devez redémarrer votre navigateur pour installer<br>l'extension True Key."
+	},
+
+	"loginSuccess": {
+		"title": "Bienvenue",
+		"text": "Recherchez l'icône True Key au prochain démarrage de votre navigateur."
+	},
+
+	"signupSuccess": {
+		"text": "Votre profil est créé.<br>Recherchez l'icône True Key au prochain démarrage de votre navigateur."
+	}
+}

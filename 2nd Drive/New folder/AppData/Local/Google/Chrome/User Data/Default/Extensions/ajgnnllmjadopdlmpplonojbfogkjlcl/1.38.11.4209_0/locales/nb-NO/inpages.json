@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Lukk",
+		"done": "Fullført",
+		"dontSave" : "Ikke lagre",
+		"neverSave" : "Aldri lagre",
+		"saveNow" : "Lagre nå",
+		"yes" : "Ja",
+		"no" : "Nei",
+		"remove": "Fjern",
+		"dontUpdate" : "Ikke oppdater",
+		"updateNow" : "Oppdater nå",
+		"dontAskAgain" : "Ikke spør igjen",
+
+		"dontSaveNow" : "Ikke lagre denne gangen",
+		"dontSaveItNow" : "Ikke lagre nå",
+		"neverSaveIt" : "Aldri lagre det",
+		"neverForThisSite" : "Aldri lagre",
+		"savePassword" : "Lagre passord",
+		"saveThisPassword" : "Lagre dette passordet",
+		"dontShowAgain" : "Ikke vis igjen",
+		"masterPassword" : "Master-passord",
+		"continue" : "Fortsett",
+		"ok": "OK",
+		"typeMasterPassword" : "Angi master-passord",
+		"settings": "Innstillinger",
+		"copyClipboard": "Kopier til utklippstavlen",
+		"youreIn" : "Du er inne!",
+		"success": "Suksess"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key lagret <span class='secondary'>%{siteName}</span>-passordet."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key har oppdaget et nytt passord til <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Et øyeblikk"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Passordet ditt på <span class='primary'>%{siteName}</span> er ikke sterkt nok"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Du har fått et nytt delt passord."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Logget True Key deg inn?",
+		"deleteConfirm": "Ønsker du å fjerne <span class='secondary'>%{username}</span> fra True Key-profilen?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Ops! True Key støtter ikke dette nettstedet ennå."
+	},
+	"connectWith" : {
+		"mainText" : "Velg profil",
+		"login": "Logg på"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Profilen din er låst",
+		"ctaUnlock": "Logg inn for å låse den opp",
+		"placeholder" : "Angi master-passordet",
+		"mainTxtHasUsers" : "Logg inn med True Key-profilen din",
+		"mainTxtNoUsers" : "Angi master-passordet ditt for å lagre dette passordet",
+		"error" : "Feil passord",
+		"decrypting" : "Dekrypterer",
+		"profileLocked" : "Profilen din er låst",
+		"unlockedLogIn" : "Lås opp og logg deg inn"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Er du lei av å håndtere flere passord? Bruk True Key-appen din til å logge deg inn med en gang",
+		"signup" : "Ja, vis meg hvordan"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Lei av passordproblemer? Bruk True Key til å få en enklere og raskere tilgang.",
+		"signup" : "Ja, vis meg hvordan"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Logg på <span class='secondary'>%{siteName}</span> og",
+		"txt2" : "True Key vil huske passordet for deg."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Neste gang vil True Key logge deg trygt inn med en gang."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Logg på raskere, lettere og sikrere fra True Key Launchpad."
+	},
+	"passgen" : {
+		"generate": "Generer passord",
+		"regenerate" : "Generer passord",
+		"noPassGenerated": "Ingen passord generert",
+		"letters" : "Bokstaver",
+		"digits" : "Tall",
+		"symbols" : "Symboler",
+		"capitals" : "Store bokstaver"
+	}
+}

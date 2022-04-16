@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Zamknij",
+		"done": "Gotowe",
+		"dontSave" : "Nie zapisuj",
+		"neverSave" : "Nigdy nie zapisuj",
+		"saveNow" : "Zapisz teraz",
+		"yes" : "Tak",
+		"no" : "Nie",
+		"remove": "Usuń",
+		"dontUpdate" : "Nie aktualizuj",
+		"updateNow" : "Aktualizuj teraz",
+		"dontAskAgain" : "Nie pytaj ponownie",
+
+		"dontSaveNow" : "Nie zapisuj tym razem",
+		"dontSaveItNow" : "Nie zapisuj teraz",
+		"neverSaveIt" : "Nigdy nie zapisuj",
+		"neverForThisSite" : "Nigdy nie zapisuj",
+		"savePassword" : "Zapisywanie hasła",
+		"saveThisPassword" : "Zapisz to hasło",
+		"dontShowAgain" : "Nie pokazuj ponownie",
+		"masterPassword" : "Hasło główne",
+		"continue" : "Kontynuuj",
+		"ok": "OK",
+		"typeMasterPassword" : "Wprowadź hasło główne",
+		"settings": "Ustawienia",
+		"copyClipboard": "Kopiuj do schowka",
+		"youreIn" : "Logowanie powiodło się.",
+		"success": "Udało się"
+	},
+
+	"bannerAutosave": {
+		"mainText": "Aplikacja True Key zapisała Twoje hasło do witryny <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerBoxfull": {
+		"mainText": "Aplikacja True Key wykryła nowe hasło do witryny <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Czekaj"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Twoje hasło do witryny <span class='primary'>%{siteName}</span> nie jest wystarczająco silne."
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Masz nowe udostępnione hasło."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Czy aplikacja True Key Cię zalogowała?",
+		"deleteConfirm": "Czy chcesz usunąć nazwę użytkownika <span class='secondary'>%{username}</span> ze swojego profilu True Key?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Ojej! Aplikacja True Key nie obsługuje jeszcze tej witryny."
+	},
+	"connectWith" : {
+		"mainText" : "Wybierz profil",
+		"login": "Zaloguj się"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Twój profil jest zablokowany",
+		"ctaUnlock": "Zaloguj się w celu odblokowania",
+		"placeholder" : "Wprowadź hasło główne",
+		"mainTxtHasUsers" : "Zaloguj się przez swój profil True Key",
+		"mainTxtNoUsers" : "Aby zapisać to hasło, wpisz swoje hasło główne",
+		"error" : "Nieprawidłowe hasło",
+		"decrypting" : "Odszyfrowywanie",
+		"profileLocked" : "Twój profil jest zablokowany",
+		"unlockedLogIn" : "Odblokuj i zaloguj się"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Masz dość używania wielu różnych haseł? Aby szybko się zalogować, użyj aplikacji True Key.",
+		"signup" : "Tak, pokaż, jak to zrobić."
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Masz już dość problemów z hasłami? Dzięki aplikacji True Key uzyskasz łatwiejszy i szybszy dostęp.",
+		"signup" : "Tak, pokaż, jak to zrobić."
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Zaloguj się w witrynie <span class='secondary'>%{siteName}</span> a",
+		"txt2" : "aplikacja True Key zapamięta Twoje hasło."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Następnym razem aplikacja True Key zaloguje Cię automatycznie."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Teraz możesz logować się szybciej, łatwiej i bezpieczniej ze strony Launchpad aplikacji True Key."
+	},
+	"passgen" : {
+		"generate": "Generowanie hasła",
+		"regenerate" : "Generowanie hasła",
+		"noPassGenerated": "Nie wygenerowano hasła.",
+		"letters" : "Litery",
+		"digits" : "Cyfry",
+		"symbols" : "Symbole",
+		"capitals" : "Wielkie litery"
+	}
+}

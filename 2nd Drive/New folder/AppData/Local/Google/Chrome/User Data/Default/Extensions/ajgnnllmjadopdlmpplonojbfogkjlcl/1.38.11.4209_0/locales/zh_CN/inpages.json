@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "关闭",
+    "done" : "完成",
+    "dontSave" : "不保存",
+    "neverSave" : "从不保存",
+    "saveNow" : "立即保存",
+    "yes" : "是",
+    "no" : "无",
+    "remove" : "删除",
+    "dontUpdate" : "不更新",
+    "updateNow" : "立即更新",
+    "dontAskAgain" : "别再问我",
+    "dontSaveNow" : "现在不保存",
+    "dontSaveItNow" : "现在不保存",
+    "neverSaveIt" : "从不保存",
+    "neverForThisSite" : "永不用于此站点",
+    "savePassword" : "保存密码",
+    "saveThisPassword" : "保存此密码",
+    "dontShowAgain" : "不要再显示",
+    "masterPassword" : "主密码",
+    "continue" : "继续",
+    "typeMasterPassword" : "键入主密码",
+    "settings" : "设置",
+    "copyClipboard" : "复制到剪贴板"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> 已保存 <span class='green'>%{siteName} </span>的新密码"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> 已检测到 <span class='green'>%{siteName}</span> 的新密码"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> 将立即帮您登录"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "您的 <span class='green'>%{siteName}</span> 密码不够强"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "您有 <span id='shareCount' class='green'>1 个新</span>密码共享邀请。"
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "您能否成功登录您的 <span class='green'>%{username}</span> 的帐户？",
+    "deleteConfirm" : "是否要从 PasswordBox 中删除 <span class='green'>%{username}</span>？"
+  },
+  "topbarDisabled" : {
+    "mainText" : "很遗憾，目前不支持此站点 － 我们的团队正在努力，相信很快就能支持此站点"
+  },
+  "connectWith" : {
+    "mainText" : "选择您要登录的帐户",
+    "login" : "登录"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "键入主密码",
+    "mainTxtHasUsers" : "输入主密码以立即登录",
+    "mainTxtNoUsers" : "输入主密码以保存此密码",
+    "error" : "密码错误",
+    "decrypting" : "正在解密"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "立即保存此密码。",
+    "signup" : "注册 PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "选择要结帐的卡片",
+    "use" : "使用"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "再也不会忘记密码：",
+    "createAccount" : "创建帐户",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> 已添加到您的 %{partner} 工具栏中"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "立即登录 <span class='green'>%{siteName}</span> 帐户...",
+    "txt2" : "<span class='pb-logo'>PasswordBox </span>将自动为您保存！"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... 就是这样的！",
+    "mainText" : "您的 <span class='green'>%{siteName}</span> 密码现已安全保存到您的 PasswordBox！"
+  },
+  "welcomeComplete" : {
+    "congrats" : "恭喜",
+    "mainText" : "现在，您可以随时单击浏览器中的<strong class='green'>绿框图标</strong>来访问您的密码！现在就来试试吧！"
+  },
+  "passgen" : {
+    "generate" : "生成强密码",
+    "regenerate" : "生成新密码",
+    "noPassGenerated" : "未生成密码",
+    "letters" : "字母",
+    "digits" : "数字",
+    "symbols" : "符号",
+    "capitals" : "大写字母"
+  }
+}

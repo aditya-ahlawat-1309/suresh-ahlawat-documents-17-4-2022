@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "英语"
+    common: 
+        privacy: "隐私"
+        privacy_full: "隐私政策"
+        terms: "条款"
+        terms_full: "服务条款"
+        alert: "警告！"
+        warning: "警告！"
+        or: "或者"
+        copyright: "© %{date}。保留所有权利。"
+        change_language: "更改语言"
+    shared: 
+        member_menu: 
+            upgrade: "升级帐户"
+            refer_friends: "推荐给好友"
+            help: "帮助与支持"
+            logout: "注销"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox 让您无需用心记住自己的密码。您可以对自己的多个用户名和密码说再见，唯一需要记住的只是一个 PasswordBox 主密码！"
+                mobile: "PasswordBox 是免费的密码管理器，可以帮助人们在任意设备上存储、取回和共享密码。尝试使用 PasswordBox Android、iPhone 或 iPad 应用。"
+        title: 
+            default: "免费的密码管理器"
+            welcome: "欢迎"
+    download: 
+        download: "免费下载"
+        login: "登录"
+        mobile: "手机"
+        platforms: "免费"
+        watch_video: "观看视频"
+        available_for: "也可用于 %{os} 和 %{platform}"
+        free_for: "在 %{windows}、%{mac} 和 %{mobile} 上免费使用。 "
+        guides: 
+            click_add: "单击“添加”可安装 PasswordBox"
+            click_allow: "单击“允许”以安装 PasswordBox"
+            click_install: "单击“安装”"
+            click_install_now: "单击“立即安装”"
+            click_run: "单击“运行”以安装"
+            click_yes: "单击“是”接受设置"
+            click_here: "单击此处"
+            run_and_open: "运行并打开安装程序"
+            install_pbox: "安装 PasswordBox"
+            close_window: "关闭窗口"
+            download_pbox: "下载 PasswordBox"
+        alerts: 
+            mobile: "下载免费的 %{app_name}，享受 1-Tap Login 的便捷！"
+        errors: 
+            browser: 
+                min_version: "PasswordBox 仅适用于 %{browser} 版本 %{min_version} 及更高版本。请更新您的浏览器并重试。"
+                single_version: "PasswordBox 仅适用于 %{browser}。 请更新您的浏览器并重试。"
+                unavailable: "PasswordBox 不适用于您的 %{browser} 版本。 请使用 %{suggestion} 重试。"
+                safari_windows: "目前只能在 Mac OS X 上使用 PasswordBox for Safari。"
+                safari: 
+                    unsupported: "很遗憾，我们已不支持 Safari。 请使用 Chrome、Firefox 或 Internet Explorer 重试。"
+                    read_more: "在此了解更多信息"
+                unsupported: 
+                    problems: "我们未正式支持此 %{browser} 版本。您仍然可以安装 PasswordBox，但是可能会遇到一些问题。"
+                    upgrade_suggestion: "为确保获得最佳体验，我们建议您将浏览器升级到最新版本。"
+                    install_anyway: "仍然安装"
+            mobile: 
+                min_version: "PasswordBox 不适用于此版本的 %{os}。 请在使用 %{min_version} 或更高版本的设备上重试。"
+                generic: "PasswordBox 不适用于此设备。请在 iPhone、iPad 或 Android 上重试，或在桌面设备上打开此页面安装我们的浏览器扩展件。"
+        onboard: 
+            welcome: "欢迎安装 PasswordBox"
+            failed_install: "无法安装 PasswordBox"
+            never_forget: "再也不会忘掉密码了！"
+            click_to_retry: "单击“重试”以重试"
+            retry: "重试"
+            free_vault: "Google Chrome 的免费密码保管库。"
+            add_to_chrome: "添加到 Chrome"
+        guide: 
+            almost_done: "快完成了！"
+            greeting: "您好，%{member_name}！"
+            welcome: "欢迎使用 PasswordBox。按照以下步骤完成安装。"
+            downloading: "PasswordBox 将自动开始下载。如果未开始下载，%{restart_link}。"
+            restart: "单击此处重新开始下载"
+    address_book: 
+        import: 
+            address: "地址"
+            email_password: "邮箱密码"
+            fetching_contacts: "正在提取联系人..."
+            gmail: 
+                connect_button: "连接到 Gmail"
+                instructions: "单击连接到 Gmail 通讯簿"
+            open_address_book: "打开通讯簿"
+            sending_promise: "未经您的同意，我们绝不会向您的联系人发送电子邮件。"
+            connect: 
+                title: "连接到通讯簿"
+                button: "连接到 %{provider}"
+                instructions: "单击以连接到 %{provider} 通讯簿"
+        select: 
+            contacts: "联系人"
+            deselect_all: "取消全选"
+            search_contact: "搜索联系人"
+            select_all: "全选"
+            select_title: "从通讯簿中选择"
+            send_success: "您的数字遗赠请求已成功发送！"
+            to: "至"
+    forms: 
+        buttons: 
+            back: "返回"
+            cancel: "取消"
+            ok: "确定"
+            save: "保存"
+            submit: "提交"
+            send: "发送"
+        errors: 
+            digits: 
+                only: "请只输入数字。"
+            email: 
+                exists: "此邮箱已被使用。"
+                invalid: "此邮箱无效。"
+                invalid_please: "请输入有效的邮箱地址。"
+                required: "邮箱字段为必填。"
+            fullname: 
+                required: "请输入您的全名。"
+                too_long: "请输入更简短的名称。"
+                too_short: "您的姓名至少必须包含 %{length} 个字符。"
+            password: 
+                required: "请选择密码。"
+                too_short: "请确保您的密码至少包含 %{length} 个字符。"
+                confirm: "请确认密码。"
+                match: "确保密码保持一致。"
+                different: "您不能使用电子邮箱或姓名作为密码"
+            required: 
+                generic: "此字段为必填。"
+            generic: "糟糕，出错了。请重新提交表单。"
+            length: 
+                between: "请输入一个介于 {0} 到 {1} 个字符的值。"
+        labels: 
+            email: "邮箱"
+            fullname: "全名"
+            first_name: "名字"
+            last_name: "姓氏"
+            master_password: "主密码"
+            password: "密码"
+            title: "标题"
+            username: "用户名"
+            email_full: "您的邮箱地址"
+            phone_full: "您的电话号码"
+            date: "日期"
+        success: 
+            thank_you: "谢谢！"
+        info: 
+            password: 
+                very_weak: "非常弱"
+                weak: "弱"
+                average: "中等"
+                good: "好"
+                strong: "强"
+    premium: 
+        limit_reached: "您已达到 %{limit} 的上限。立即升级，获得无限制的密码存储空间。"
+        billing: 
+            details: "PasswordBox 高级版的年费为 %{price} 美元。如果您在订阅后的头 30 天内不满意，我们将毫无条件地 100% 退款。"
+            renewal: "除非您在应付下次款项前发送电子邮件至 %{support_link} 进行取消，否则您的帐户将自动续约。"
+        enter_cc_info: "输入信用卡信息"
+        form: 
+            errors: 
+                credit_card_invalid: "请输入有效的信用卡号码。"
+                generic_processing: "处理您的付款时遇到问题。"
+                unable_to_process: "我们无法处理您的信用卡。请确认您提供的信息正确，然后重试。"
+            labels: 
+                as_on_card: "可能是您的卡有问题"
+                credit_card: "信用卡号码"
+                expiry: "失效日期"
+                secure: "安全"
+                verification: "4 位数字的卡验证号码"
+                what: "这是什么？"
+                country: "国家"
+                postal_code: "邮政编码"
+                street_address: "街道地址"
+                city: "城市"
+                region: "地区"
+            submit: "激活高级版"
+            processing: "正在处理... 请稍候。"
+        main_title: "访问 PasswordBox 的全功能版，费用为 %{price}/月！"
+        premium: "高级"
+        quote: "我有很多个用户名和密码，多到我难以一一记住。幸亏有 PasswordBox 可以帮我记住它们。贵方的服务让我感到放心，因为我知道，假如今天我遭遇致命的车祸，我所爱的人将能够按照我的指示获得访问我各个在线帐户的权限。想到我的丈夫能够访问我的 Paypal 帐户以及我存在 Flickr 上的所有家人照片，我就觉得很轻松。"
+        satisfaction_guarantee: "如果您在头 30 天内对我们的产品和服务不满意，我们将向您全额退款。<strong>没有任何条件，不留一点麻烦</strong>。"
+        success: 
+            already_premium: "您已经是高级会员！您的订阅在 %{date} 前有效。"
+            free_for_life_notice: "感谢您参与我们的试用版测试。您的帐户将永久免费。"
+            payment_success: "谢谢您！我们已收到您的付款。"
+            return_to_public: "返回到公共站点"
+            to_passwordbox: "带我进入我的 PasswordBox"
+            upgrade_success: "您的帐户已成功升级。"
+        testimonial: "证言"
+        unconfirmed: 
+            title: "您的帐户尚未经过确认"
+            check_spam: "如果您在收件箱中没有找到电子邮件，记得检查您的<strong>垃圾邮件</strong>文件夹。"
+            no_email: "未收到电子邮件？"
+            explanation: "确认帐户不仅是验证邮箱地址，也是对共享和 Legacy Locker 功能进行解锁。"
+            resend_email: "重新发送确认电子邮件"
+            steps: 
+                send_email: "向您的邮箱帐户发送验证电子邮件"
+                click_link: "单击电子邮件中的建议链接"
+                done: "完成！"
+            continue: 
+                instructions: "确认帐户后，单击<strong>继续</strong>填写付款详细信息。"
+                action: "继续"
+            messages: 
+                email_sent: "查看收件箱。我们已向您发送了确认电子邮件。"
+                not_confirmed: "您尚未确认您的帐户。"
+                general_error: "出错了。请重试。"
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "邀请朋友"
+                invite_new: "邀请新朋友"
+                invites_accepted: "已接受邀请"
+                invites_sent: "已发送邀请"
+                manage_invites: "管理我的邀请"
+                manage_title: "管理您的邀请"
+                no_invites_sent: "您尚未发送任何邀请。现在发送几个邀请吧！"
+                referrals_needed: "当您有 %{count} 个邀请被接受后，您将获得免费的无限制存储帐户"
+                referrals_needed_single: "您还需要再有 1 个邀请被接受，即可获得免费的无限制存储帐户"
+                resend: "重新发送"
+                reward: "成功邀请 %{count} 位朋友注册后，您将获得终生免费的高级帐户。"
+                sent: "已发送"
+                status: "状态"
+                subheader: "这些是您以前发送的邀请。如果需要，您可以重新发送这些邀请。"
+            reward: "成功邀请 %{count} 位朋友注册 PasswordBox 后，您将获得免费的高级帐户，可以终生享受无限制的密码存储空间。"
+            title: "推荐 %{count} 位朋友到"
+        import_contacts: 
+            manual_option: "手动输入您朋友的邮箱"
+        important: "重要"
+        installed_header: "PasswordBox 现在正常运行！"
+        invite_header: "向您的朋友推荐 PasswordBox"
+        manual_invite: 
+            email_instructions: "输入他们的邮箱"
+            import_option: "邀请您通讯簿中的朋友"
+            required_error: "请输入要邀请的邮箱地址"
+            send_action: "发送 VIP 通行证"
+            send_instructions: "向您的朋友发送邀请"
+            send_success: "您的 VIP 通行证已发送！"
+        resale_disclaimer: "请注意，PasswordBox  不允许您在 eBay 或任何其它网站上销售您的 VIP 通行证。<strong>VIP 通行证仅限本人使用。</strong>"
+        sent_after_welcome: 
+            title: "您的注册现已完成！"
+            video_instructions: "观看此视频，更详细地了解 PasswordBox"
+        vip: 
+            reward: "您将成为终生免费会员"
+            title: "向您的朋友提供 VIP 权限来访问"
+    welcome: 
+        headers: 
+            running: "%{logo} 现在正常运行！"
+        bulk_password: 
+            check_all: "全选"
+            did_you_know_title: "有 92% 的人对大部分在线帐户使用相同的用户名/密码组合，您知道吗？"
+            instructions: "如果您也是这样，请在下面输入您常用的登录信息，并选择使用这些登录信息的站点。我们会一次性将这些帐户保存到您的 PasswordBox。"
+            save_passwords: "保存密码"
+            success_message: "正在保存您的密码..."
+            uncheck_all: "取消全选"
+            username_label: "邮箱地址的用户名"
+            website_error: "请至少选择一个网站。"
+        legacy: 
+            address_book: "连接到您的网络邮箱通讯簿"
+            email_label: "您信任的人的邮箱"
+            instructions: "在下面输入您信任的人的姓名，我们将应您的请求向其发送电子邮件"
+            name_label: "您信任的人的姓名"
+            transfer_info: "别担心，除非有必要，否则不会传送您的密码"
+            trust_title: "如果您不幸发生意外，您选择由谁接管您的在线帐户？"
+            watch_video: "观看我们的视频了解详细信息"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "确认主密码"
+                never_store_password: "为保证您的数据安全，PasswordBox 绝不查看或存储您的主密码"
+                no_recovery: "如果忘记主密码，您将没有任何方法可以恢复帐户"
+                repeat_title: "请再输入一次您的密码"
+            creating_account: "正在创建您的帐户..."
+            form: 
+                create_account_action: "创建免费帐户"
+                create_account_title: "创建您的免费帐户"
+                create_password: "创建密码"
+                existing_account: "已经有帐户了？"
+                facebook_promise: "别担心，我们绝不会在您的留言板上发布。"
+                facebook_signup: "用 Facebook 帐户注册"
+                login: "登录"
+                terms_disclaimer: "单击上方表示您同意我们的服务条款。"
+                terms_full: "我们绝对不会向第三方泄露您的邮箱或任何个人信息，我们将只向您发送与您的 PasswordBox 帐户有关的事务性电子邮件。有关详细信息，请阅读我们的 %{privacy_link}。"
+                terms_agree: "单击上方表示您同意我们的 %{terms_link}。"
+            installed_title: "安装完成！最后一步.."
+            never_forget: "再也不会忘掉密码了！激活您的免费帐户"
+            recently_installed: "最近您的浏览器中添加了 PasswordBox..."
+            testimonial: "它就像存储密码的 Dropbox。无论我在哪，它都可以在我的所有设备上运行，共享因此变得简单"
+            login_link: "如果您已有 PasswordBox 帐户，请在您的浏览器中<a href=\"%{path}\" target=\"_blank\">寻找一个绿框</a>"
+            validating: "正在验证您的信息..."
+            almost_done: "快完成了！您只需创建密码即可"
+            delayed: 
+                never_forget: 
+                    generic: "再也不会忘掉密码了！"
+                    domain: "再也不会忘掉您的 <strong>%{website}</strong> 密码了！"
+                signup_free: "立即免费注册！"
+                secure: "为保护您保存的密码，<strong>请免费注册，然后享受自动登录自己所喜爱网站的便利。</strong>"
+                watch_video: "观看我们的视频"
+                how_pbox_works: "PasswordBox 如何工作"
+            crypto: 
+                creating: "正在创建您的帐户..."
+                encrypting: "我们正在对您的密码进行加密，以最高安全等级保护您的密码。如果计算机较旧，这个过程需要一会儿（最多一分钟）。这是正常的。请耐心等候此过程完成。"
+        video: 
+            typing_passwords: "手动输入密码不但单调，而且低效。PasswordBox 可在您登录站点时自动保存您的凭据。"
+            next_step: "我理解。谢谢！"
+        guides: 
+            extension: 
+                congratulations: "恭喜您！"
+                save_success: "我们已成功将您的密码保存到 PasswordBox。"
+                green_box: "无论何时，单击浏览器中的绿框图标即可访问 PasswordBox！"
+        tutorial: 
+            create_password: 
+                click_instructions: "单击下面的按钮添加您的第一个密码"
+                form_instructions: "输入您的用户名和密码"
+            one_click_login: " 好样的！现在我们来试试一键登录"
+            tour_video: 
+                extension_guide: "单击绿框打开您的 PasswordBox"
+                instructions: "通过此快速产品展示充分了解 PasswordBox。"
+                title: "入门展示"
+    features: 
+        seamless_login: 
+            title: "再见，密码。在任意设备、网站或移动应用上均可即时登录。"
+            subtitle: "觉得登录屏幕耽误时间？使用一键登录和 1-Tap Login 可以更快地访问帐户。"
+            item_1: "PasswordBox 独有的功能，无需输入用户名或密码即可%{link}。"
+            item_2: "进入任意一个网页，PasswordBox 均可自动填充信息并让您登录。使用 Chrome 和 Safari，无需在台式机或移动设备上输入任何信息。"
+            item_3: "即使您在同一站点设置了多个用户帐户，也可以快速登录"
+            item_4: "免受击键恶意软件的威胁 － 只要您不击键，密码就不会被盗窃"
+            one_tap_link: "在 Android 上使用 1-Tap 登录到您最喜欢的移动应用"
+        device_syncing: 
+            title: "您的密码，随处可得"
+            subtitle: "将密码保存到 PasswordBox，可以即时保存到所有浏览器、计算机和移动设备上。"
+            item_1: "可以自动同步，让您轻松获得登录信息"
+            item_2: "几乎可在市面上的所有计算机、浏览器和移动设备上使用"
+            item_3: "免费插件，适用于包括 Chrome、Firefox 和 Internet Explorer 在内的主流浏览器"
+            item_4: "您的设备使用 AES-256 本地执行数据的加密和解密 "
+    install: 
+        mobile: 
+            title: "用于手机的 PasswordBox"
+            widget: 
+                title: "免费移动应用"
+                subtitle: "您的密码随处可得"
+            notify: 
+                sms: "给我的手机发送短信"
+                email: "向我的设备发送电子邮件"
+                sending: "正在发送安装链接"
+            email: 
+                success: "电子邮件已发送！请查收邮箱获得下载链接"
+                errors: 
+                    invalid: "邮箱未提供或无效"
+                    failed: "无法发送联系人邮箱"
+            sms: 
+                body: "要安装 PasswordBox，请在移动设备上单击此处：%{link}"
+                success: "短信已发送！请查看短信获取下载链接。"
+                errors: 
+                    phone: 
+                        missing: "缺少电话号码。"
+                        invalid: "无法向该手机号码发送消息。如果该号码为国际号码，请务必包含国家代码。"
+                    service: 
+                        unavailable: "目前不提供 SMS 服务"
+            apps: 
+                app_store: "可从<span>应用商店</span>获取"
+                google_play: "从 <span>Google Play</span> 免费获取"
+            ces_award: "<span>CES 2014</span> 最佳移动应用"
+        desktop: 
+            title: "免费下载 PasswordBox"
+            warnings: 
+                windows_only: "仅适用于 Windows"
+                mac_only: "仅适用于 Mac OS"
+            button: 
+                get: "获取 PasswordBox"
+                for: "用于"
+        instructions: "复制以下链接，并将其粘贴到您的 %{browser} 地址栏："
+        copy: 
+            button: "复制"
+            tooltip: "复制到剪贴板"
+            success: "已复制！"
+    login: 
+        title: "如果您已经安装 PasswordBox，请单击绿框登录。"
+        reinstall: "如果您需要重新安装 PasswordBox，请单击下面的按钮："
+    member: 
+        errors: 
+            email: 
+                exists: "已经有会员使用此邮箱。请尝试使用其它邮箱。"
+                invalid: "请输入有效的邮箱。"
+    emails: 
+        common: 
+            greeting: "您好，%{full_name}："
+            hey: "您好！"
+            pbox_team: "PasswordBox 团队"
+        layout: 
+            tagline: "PasswordBox 让您可以在所有设备上快速安全地访问您的在线帐户、安全密码共享和 Legacy Locker。您再也不用担心会忘记密码了。"
+            unsubscribe: 
+                link: "取消订阅"
+                from_all: "%{unsubscribe} PasswordBox 电子邮件"
+        welcome: 
+            subject: "%{full_name}，欢迎使用 PasswordBox！"
+            title: "欢迎"
+            avg_notice: "通过 AVG 工具栏上的 PasswordBox，您可以在所有设备上快速访问您的在线帐户、安全密码共享和数字遗赠功能。"
+            account_ready: "您的帐户差不多准备好了！"
+            login_info: "您的用户名为 %{email}。您的密码为您在注册过程中创建的主密码。"
+            say_goodbye: "跟许多个用户名和密码说再见。从现在开始，您要记住的只有主密码。PasswordBox 可在所有设备上提供方便的一键登录、安全密码共享和数字生活管理功能。"
+            finally: "PasswordBox 让您无需用心铭记自己的密码！"
+            confirm: "立即确认您的帐户"
+            click_below: "单击下面的链接确认您的帐户："
+            welcome: "欢迎使用 PasswordBox！"
+        sync: 
+            subject: "在移动设备上下载 PasswordBox！"
+            instructions: "要下载 PasswordBox，请在移动设备上打开此电子邮件并访问下面的链接："

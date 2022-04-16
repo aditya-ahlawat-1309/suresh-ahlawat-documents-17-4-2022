@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "閉じる",
+    "done" : "完了",
+    "dontSave" : "保存しない",
+    "neverSave" : "絶対に保存しない",
+    "saveNow" : "今すぐ保存",
+    "yes" : "はい",
+    "no" : "いいえ",
+    "remove" : "削除",
+    "dontUpdate" : "アップデートしない",
+    "updateNow" : "今すぐアップデート",
+    "dontAskAgain" : "今後このメッセージを表示しない",
+    "dontSaveNow" : "今は保存しない",
+    "dontSaveItNow" : "今は保存しない",
+    "neverSaveIt" : "絶対に保存しない",
+    "neverForThisSite" : "このサイトではしない",
+    "savePassword" : "パスワードを保存する",
+    "saveThisPassword" : "このパスワードを保存",
+    "dontShowAgain" : "今後表示しない",
+    "masterPassword" : "マスターパスワード",
+    "continue" : "続ける",
+    "typeMasterPassword" : "マスターパスワードを入力",
+    "settings" : "設定",
+    "copyClipboard" : "クリップボードにコピー"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span>が<span class='green'>%{siteName}</span>の新しいパスワードを保存しました"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span>が<span class='green'>%{siteName}</span>の新しいパスワードを検出しました"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span>があなたをログインしています"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "パスワード<span class='green'>%{siteName}</span>は強力ではありません。"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "<span id='shareCount' class='green'>1件</span>の新しいパスワード共有の招待状があります。"
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "<span class='green'>%{username}</span>アカウントに正常にログインできましたか？",
+    "deleteConfirm" : "<span class='green'>%{username}</span>をPasswordBoxから削除しますか？"
+  },
+  "topbarDisabled" : {
+    "mainText" : "申し訳ありませんが、このサイトは現在サポートされていません。現在サポートに向けて取り組んでおりますので、まもなくご利用が可能となります。"
+  },
+  "connectWith" : {
+    "mainText" : "ログインしたいアカウントを選択してください",
+    "login" : "ログイン"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "マスターパスワードを入力",
+    "mainTxtHasUsers" : "すぐにログインするにはマスターパスワードを入力してください",
+    "mainTxtNoUsers" : "このパスワードを保存するには、マスターパスワードを入力してください",
+    "error" : "不正なパスワード",
+    "decrypting" : "解読中"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "このパスワードを今すぐ保存",
+    "signup" : "PasswordBoxにに登録"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "カードを選択してレジに進む",
+    "use" : "使う"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "もうパスワードを忘れることはありません：",
+    "createAccount" : "アカウントを作成",
+    "passwordboxAdded" : "<span class='pb-logo'>%{partner} ツールバーに</span>PasswordBoxが追加されました"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "<span class='green'>%{siteName}</span>アカウントにログインしてください...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span>があなたに代わって自動的に保存します！"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "これで完了です！",
+    "mainText" : "これで、<span class='green'>%{siteName}</span>パスワードが安全にPasswordBoxに保存されました"
+  },
+  "welcomeComplete" : {
+    "congrats" : "おめでとうございます",
+    "mainText" : "お使いのブラウザで<strong class='green'>緑のボックスアイコン</strong>をクリックすれば、いつでもパスワードにアクセスできます！今すぐお試しください！"
+  },
+  "passgen" : {
+    "generate" : "強力なパスワードを作成する",
+    "regenerate" : "新しいパスワードを生成",
+    "noPassGenerated" : "パスワードは生成されませんでした",
+    "letters" : "文字",
+    "digits" : "数字",
+    "symbols" : "記号",
+    "capitals" : "大文字"
+  }
+}

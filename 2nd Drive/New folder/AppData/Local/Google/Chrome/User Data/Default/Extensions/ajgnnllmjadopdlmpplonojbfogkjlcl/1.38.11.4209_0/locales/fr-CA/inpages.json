@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Fermer",
+		"done": "Terminé",
+		"dontSave" : "Ne pas enregistrer",
+		"neverSave" : "Ne jamais enregistrer",
+		"saveNow" : "Enregistrer maintenant",
+		"yes" : "Oui",
+		"no" : "Non",
+		"remove": "Supprimer",
+		"dontUpdate" : "Ne pas mettre à jour",
+		"updateNow" : "Mettre à jour maintenant",
+		"dontAskAgain" : "Ne plus demander",
+
+		"dontSaveNow" : "Ne pas enregistrer cette fois-ci",
+		"dontSaveItNow" : "Ne pas l'enregistrer maintenant",
+		"neverSaveIt" : "Ne jamais l'enregistrer",
+		"neverForThisSite" : "Ne jamais enregistrer",
+		"savePassword" : "Enregistrer le mot de passe",
+		"saveThisPassword" : "Enregistrer ce mot de passe",
+		"dontShowAgain" : "Ne plus afficher",
+		"masterPassword" : "Mot de passe principal",
+		"continue" : "Continuer",
+		"ok": "OK",
+		"typeMasterPassword" : "Saisir le mot de passe principal",
+		"settings": "Paramètres",
+		"copyClipboard": "Copier dans le Presse-papiers",
+		"youreIn" : "Vous êtes connecté.",
+		"success": "Réussite"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key a enregistré votre mot de passe <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key a détecté un nouveau mot de passe pour <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Juste un moment"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Votre mot de passe <span class='primary'>%{siteName}</span> n'est pas assez fort"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Vous avez un nouveau mot de passe partagé."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Avez-vous été connecté via True Key ?",
+		"deleteConfirm": "Voulez-vous supprimer <span class='secondary'>%{username}</span> de votre profil True Key ?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Oups. True Key ne prend pas encore en charge ce site."
+	},
+	"connectWith" : {
+		"mainText" : "Sélectionner un profil",
+		"login": "Se connecter"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Votre profil est verrouillé",
+		"ctaUnlock": "Se connecter pour déverrouiller",
+		"placeholder" : "Entrez votre mot de passe principal",
+		"mainTxtHasUsers" : "Se connecter avec le profil True Key",
+		"mainTxtNoUsers" : "Entrer le Mot de passe principal pour enregistrer ce mot de passe",
+		"error" : "Mot de passe incorrect",
+		"decrypting" : "Déchiffrement",
+		"profileLocked" : "Votre profil est verrouillé",
+		"unlockedLogIn" : "Déverrouiller et se connecter"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Lassé de gérer plusieurs mots de passe ? Connectez-vous instantanément avec l'application True Key",
+		"signup" : "Oui, m'indiquer la procédure"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Lassé des problèmes liés aux mots de passe ? True Key offre un accès plus simple et plus rapide.",
+		"signup" : "Oui, m'indiquer la procédure"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Connectez-vous à <span class='secondary'>%{siteName}</span> et",
+		"txt2" : "votre application True Key mémorisera votre mot de passe pour vous."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "La prochaine fois, True Key vous connectera en toute sécurité."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Connectez-vous à présent plus rapidement, simplement et sûrement avec True Key Launchpad."
+	},
+	"passgen" : {
+		"generate": "Générer le mot de passe",
+		"regenerate" : "Générer le mot de passe",
+		"noPassGenerated": "Aucun mot de passe généré",
+		"letters" : "Lettres",
+		"digits" : "Chiffres",
+		"symbols" : "Symboles",
+		"capitals" : "Capitales"
+	}
+}

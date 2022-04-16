@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Закрыть",
+		"done": "Готово",
+		"dontSave" : "Не сохранять",
+		"neverSave" : "Никогда не сохранять",
+		"saveNow" : "Сохранить",
+		"yes" : "Да",
+		"no" : "Нет",
+		"remove": "Удалить",
+		"dontUpdate" : "Не обновлять",
+		"updateNow" : "Обновить",
+		"dontAskAgain" : "Больше не спрашивать",
+
+		"dontSaveNow" : "Не сохранять в этот раз",
+		"dontSaveItNow" : "Не сохранять сейчас",
+		"neverSaveIt" : "Никогда не сохранять",
+		"neverForThisSite" : "Никогда не сохранять",
+		"savePassword" : "Сохранить пароль",
+		"saveThisPassword" : "Сохранить этот пароль",
+		"dontShowAgain" : "Больше не показывать",
+		"masterPassword" : "Главный пароль",
+		"continue" : "Продолжить",
+		"ok": "ОК",
+		"typeMasterPassword" : "Введите главный пароль",
+		"settings": "Параметры",
+		"copyClipboard": "Копировать в буфер обмена",
+		"youreIn" : "Готово!",
+		"success": "Успешно выполнено"
+	},
+
+	"bannerAutosave": {
+		"mainText": "Ваш пароль для <span class='secondary'>%{siteName}</span> сохранен в True Key."
+	},
+	"bannerBoxfull": {
+		"mainText": "Приложение True Key обнаружило новый пароль для <span class='secondary'>%{siteName}</span>."
+	},
+	"bannerConnecting": {
+		"mainText" : "Подождите..."
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Ваш пароль для <span class='primary'>%{siteName}</span> недостаточно надежен."
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Вы получили новый общий пароль."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Вы вошли с помощью True Key?",
+		"deleteConfirm": "Хотите удалить <span class='secondary'>%{username}</span> из вашего профиля True Key?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Увы! True Key еще не поддерживает этот сайт."
+	},
+	"connectWith" : {
+		"mainText" : "Выберите профиль",
+		"login": "Войти"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Ваш профиль заблокирован.",
+		"ctaUnlock": "Чтобы разблокировать его, войдите в систему.",
+		"placeholder" : "Введите главный пароль",
+		"mainTxtHasUsers" : "Войдите в систему с помощью профиля True Key.",
+		"mainTxtNoUsers" : "Чтобы сохранить этот пароль, введите главный пароль.",
+		"error" : "Неправильный пароль",
+		"decrypting" : "Расшифровка",
+		"profileLocked" : "Ваш профиль заблокирован.",
+		"unlockedLogIn" : "Разблокируйте его и войдите в систему."
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Вы устали запоминать многочисленные пароли? Используйте приложение True Key, чтобы мгновенно входить в систему.",
+		"signup" : "Да, хочу узнать больше"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Устали от проблем с паролями? Используйте True Key для простого и быстрого доступа.",
+		"signup" : "Да, хочу узнать больше"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Войдите в <span class='secondary'>%{siteName}</span>, и",
+		"txt2" : "приложение True Key запомнит ваш пароль."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "В следующий раз True Key выполнит безопасный вход в систему."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Теперь вы можете выполнять вход через True Key Launchpad более быстрым, простым и безопасным способом."
+	},
+	"passgen" : {
+		"generate": "Создать пароль",
+		"regenerate" : "Создать пароль",
+		"noPassGenerated": "Пароль не создан",
+		"letters" : "Буквы",
+		"digits" : "Цифры",
+		"symbols" : "Символы",
+		"capitals" : "Заглавные буквы"
+	}
+}

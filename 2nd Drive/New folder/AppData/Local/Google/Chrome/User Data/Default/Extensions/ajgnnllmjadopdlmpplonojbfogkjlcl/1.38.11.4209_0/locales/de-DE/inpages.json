@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Schließen",
+		"done": "Fertig",
+		"dontSave" : "Nicht speichern",
+		"neverSave" : "Nie speichern",
+		"saveNow" : "Jetzt speichern",
+		"yes" : "Ja",
+		"no" : "Nein",
+		"remove": "Entfernen",
+		"dontUpdate" : "Nicht aktualisieren",
+		"updateNow" : "Jetzt aktualisieren",
+		"dontAskAgain" : "Nicht erneut fragen",
+
+		"dontSaveNow" : "Dieses Mal nicht speichern",
+		"dontSaveItNow" : "Jetzt nicht speichern",
+		"neverSaveIt" : "Nie speichern",
+		"neverForThisSite" : "Nie speichern",
+		"savePassword" : "Kennwort speichern",
+		"saveThisPassword" : "Dieses Kennwort speichern",
+		"dontShowAgain" : "Nicht mehr anzeigen",
+		"masterPassword" : "Master-Kennwort",
+		"continue" : "Weiter",
+		"ok": "OK",
+		"typeMasterPassword" : "Master-Kennwort eingeben",
+		"settings": "Einstellungen",
+		"copyClipboard": "In Zwischenablage kopieren",
+		"youreIn" : "Sie sind angemeldet.",
+		"success": "Erfolgreich"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key hat Ihr <span class='secondary'>%{siteName}</span>-Kennwort gespeichert."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key hat ein neues Kennwort für <span class='secondary'>%{siteName}</span> erkannt"
+	},
+	"bannerConnecting": {
+		"mainText" : "Einen Moment"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Ihr <span class='primary'>%{siteName}</span>-Kennwort ist nicht sicher genug"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Sie haben ein neues freigegebenes Kennwort."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Hat True Key Sie angemeldet?",
+		"deleteConfirm": "Möchten Sie <span class='secondary'>%{username}</span> aus Ihrem True Key-Profil entfernen?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Es gibt leider ein Problem. True Key unterstützt diese Website noch nicht."
+	},
+	"connectWith" : {
+		"mainText" : "Profil wählen",
+		"login": "Anmelden"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Ihr Profil ist gesperrt",
+		"ctaUnlock": "Zum Entsperren anmelden",
+		"placeholder" : "Geben Sie Ihr Master-Kennwort ein",
+		"mainTxtHasUsers" : "Melden Sie sich mit Ihrem True Key-Profil an",
+		"mainTxtNoUsers" : "Geben Sie Ihr Master-Kennwort ein, um dieses Kennwort zu speichern",
+		"error" : "Falsches Kennwort",
+		"decrypting" : "Entschlüsseln",
+		"profileLocked" : "Ihr Profil ist gesperrt",
+		"unlockedLogIn" : "Entsperren und anmelden"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Sie möchten nicht mehr so viele Kennwörter verwalten? Lassen Sie sich von Ihrer True Key-App sofort anmelden",
+		"signup" : "Ja, ich möchte wissen, wie das funktioniert"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Haben Sie von Schwierigkeiten mit Kennwörtern genug? Verwenden Sie True Key für einfacheren, schnelleren Zugriff.",
+		"signup" : "Ja, ich möchte wissen, wie das funktioniert"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Melden Sie sich bei <span class='secondary'>%{siteName}</span> an und",
+		"txt2" : "Ihre True Key-App speichert Ihr Kennwort für Sie."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Beim nächsten Mal meldet True Key Sie sofort an."
+	},
+	"welcomeComplete" : {
+		"mainText" : "Melden Sie sich jetzt schneller, einfacher und sicherer über Ihr True Key-Launchpad an."
+	},
+	"passgen" : {
+		"generate": "Kennwort generieren",
+		"regenerate" : "Kennwort generieren",
+		"noPassGenerated": "Kein Kennwort generiert",
+		"letters" : "Buchstaben",
+		"digits" : "Ziffern",
+		"symbols" : "Symbole",
+		"capitals" : "Großbuchstaben"
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"cookies": {
+		"title": "How to enable cookies on Firefox",
+		"onMac" : "On Mac",
+		"onPC" : "On PC",
+		"step1": "<strong>1: Go to Firefox > Preferences > Privacy.</strong><br>In the History section, select:<br><strong>“Firefox will: Use custom settings for history”</strong>",
+		"step2" : "<strong>2: In history section, select “Accept cookies form sites”</strong><br>Then in the dropdown menu below:<br><strong>“Accept third-party cookies” > “Always”</strong>"
+	},
+
+	"import": {
+		"title":"Import Passwords to PasswordBox",
+		"selectSoure" : "Select source",
+		"export": "Export your passwords",
+		"import": "Import your passwords file to PasswordBox",
+
+		"dashlane1": "To export your passwords from Dashlane, open Dashlane and click on :",
+		"dashlane2": "File > Export data",
+		"dashlane3": "Select <strong class=\"green\">Unsecured Archives CSV</strong> format option.",
+		"dashlane4": "Save the file on the location of your choice.",
+		"dashlane5": "Only the latest version of Dashlane is supported.",
+
+		"lastpass1": "To export your passwords from LastPass, click on the LastPass plug-in icon from your browser and select:",
+		"lastpass2": "<strong>Tools > Export</strong><br>To and select <strong class=\"green\">LastPass CSV</strong> file in the menu. Enter your password if prompted.",
+		"lastpass3": "Click OK, and save it to the location of your choice.",
+		"lastpass4": "Only the latest version of LastPass is supported.",
+
+		"roboform1": "Exporting from Roboform is currently available on Mac operating systems only.",
+		"roboform2": "Windows support is coming soon.",
+		"roboform3": "To export your passwords from RoboForm, open the RoboForm browser extension and click on <strong>Options:</strong>",
+		"roboform4": "On the panel option select \"User Data\" and click on <strong>\"Export to\"</strong>",
+		"roboform5": "<strong>Save the file as .html</strong> on the location of your choice.",
+		"roboform6": "Only the latest version of RoboForm is supported.",
+
+		"onepassword1": "To export your passwords from 1Password, open:",
+		"onepassword2": "<strong>- file > Export:</strong><br>select the <strong class=\"green\">Tab-delimited-text</strong> format, and the <strong>All logins</strong> option.",
+		"onepassword3": "Click OK, and save it to the location of your choice.",
+		"onepassword4": "Only the latest version of 1Password is supported.",
+		"onepasswordClick": "<u>Click here</u> to upload your <span class=\"serviceName green\">1Password</span> file",
+
+		"keepass1": "To export your passwords from KeePass, open KeePass and click on :<",
+		"keepass2": "<strong>File > Export</strong><br>Select <strong>KeePass CSV 1.x</strong> format option.",
+		"keepass3": "Save the file on the location of your choice.",
+		"keepass4": "Only the latest version of KeePass is supported."
+	}
+}

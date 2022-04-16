@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Nastavit",
+		"add": "Přidat",
+		"addNew": "Přidat nové",
+		"addManually": "Přidat ručně",
+		"cancel": "Zrušit",
+		"back": "Zpět",
+		"save": "Uložit",
+		"saving": "Ukládání...",
+		"saved": "Uloženo!",
+		"upgrade": "Upgradovat",
+		"noThanks": "Ne",
+		"from": "Od %{name}",
+		"remove": "Odebrat",
+		"removing": "Odebírání...",
+		"disabling": "Zakazování...",
+		"delete": "Odstranit",
+		"warningPermanent": "Tuto akci nelze vrátit.",
+		"confirmProceed": "Opravdu chcete pokračovat?",
+		"parameters": "Parametry",
+		"details": "Podrobnosti",
+		"sharing": "Sdílení",
+		"advancedSettings": "Rozšířené",
+		"validating": "Probíhá ověřování...",
+		"tryAgain": "Opakovat",
+		"sending": "Odesílání...",
+		"send": "Odeslat",
+		"sent": "Odesláno!",
+		"waitingResponse": "Čekání na odpověď",
+		"revoke": "Odvolat",
+		"updating": "Probíhá aktualizace...",
+		"change": "Změnit",
+		"changed": "Změněno.",
+		"copy": "Kopírovat do schránky",
+		"accept": "Přijmout",
+		"decline": "Odmítnout",
+		"privacyNotice": "Prohlášení o ochraně osobních údajů",
+		"dontAskAgain": "Znovu se neptat",
+		"notNow": "Nyní ne",
+		"sendNotification": "Odeslat upozornění",
+		"justAMoment": "Počkejte chvíli...",
+		"learnMore": "Další informace",
+		"notYou": "Nejste to vy?",
+		"changeUser": "Změnit uživatele",
+		"confirm": "Potvrdit",
+		"launchSite": "Otevřít web",
+		"unlockMyTrueKey": "Odemknout aplikaci True Key",
+		"next": "Další",
+		"previous": "Předchozí",
+		"visible": "Viditelné",
+		"hidden": "Skryté",
+		"vistHelpDesk": "Další informace získáte od %{htmlBefore}oddělení technické podpory%{htmlAfter}.",
+		"addFacialRecognition": "Přidat odemčení tváří",
+		"comingSoon": "Již brzy",
+		"offline": "Offline",
+		"or": "nebo",
+		"and": "a",
+		"activate": "Aktivovat",
+		"logOut": "Odhlásit",
+		"logins": "Přihlášení",
+		"favorites": "Oblíbené položky",
+		"other": "Jiný",
+		"locked": "Uzamknuto",
+		"unlocked": "Odemknuto",
+		"login": "Přihlášení",
+		"close": "Zavřít",
+		"closing": "Zavírání...",
+		"dismiss": "Opustit",
+		"signin": "Přihlásit",
+		"signOut": "Odhlásit",
+		"manageProfile": "Spravovat profil",
+		"profile": "Profil",
+		"menu": "Nabídka",
+		"DD": "DD",
+		"MM": "MM",
+		"YYYY": "RRRR",
+		"visible": "Viditelné",
+		"hidden": "Skryté",
+		"enable": "Zapnout",
+		"doNotShowAgain": "Znovu nezobrazovat",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Později",
+		"restart": "Restartovat",
+		"install": "Nainstalovat",
+		"feedback": "Váš názor",
+		"done": "Hotovo",
+		"success": "Výborně",
+		"youreIn": "Hotovo!",
+		"recommended": "doporučeno"
+	},
+
+	"validation": {
+		"required": "Toto pole je povinné",
+		"min": "Délka položky {0} musí být alespoň {1} znaků"
+	},
+
+	"offline": {
+		"title": "Litujeme, připojení k internetu není k dispozici.",
+		"desc": "Nejste online. Připojte se k internetu a opakujte akci."
+	},
+
+	"locked": {
+		"notYou": "Nejste to vy?",
+		"changeUser": "změnit uživatele",
+		"cancelAuth": "Zrušit ověřování",
+		"signIn": "Chcete-li využít rychlé přihlášení, přihlaste se",
+		"alternativeEmail": "Použít ověření e-mailem",
+		"alternativeDevice": "Použít důvěryhodné zařízení"
+	},
+
+	"time": {
+		"never": "Nikdy",
+		"minutes": "%{smart_count} minuta |||| %{smart_count} minut",
+		"hours": "%{smart_count} hodina |||| %{smart_count} hodin",
+		"days": "%{smart_count} den |||| %{smart_count} dní"
+	},
+
+	"labels": {
+		"email": "E-mailová adresa",
+		"masterPassword": "Hlavní heslo",
+		"confirmMasterPassword": "Potvrzení hlavního hesla",
+		"rememberMe": "Trvale přihlásit",
+		"websiteURL": "Adresa URL webové stránky",
+		"username": "Uživatelské jméno",
+		"password": "Heslo",
+		"mobile": "Číslo mobilního telefonu",
+		"name": "Jméno",
+		"title": "Název",
+		"details": "Podrobnosti",
+		"masterPassword": "Hlavní heslo",
+		"websiteName": "Název webové stránky",
+		"notes": "Poznámky",
+		"ccType": "Typ platební karty",
+		"cardholderName": "Jméno držitele karty",
+		"ccNumber": "Číslo kreditní karty",
+		"expiryDate": "Datum vypršení platnosti",
+		"issueDate": "Datum vydání",
+		"colorpicker": "Rozlište své karty pomocí barev",
+		"driversLicenseNumber": "Číslo průkazu",
+		"firstName": "Jméno",
+		"lastName": "Příjmení",
+		"gender": "Pohlaví",
+		"stateProvince": "Stát/kraj",
+		"birthdate": "Datum narození",
+		"company": "Společnost",
+		"telephone": "Telefon",
+		"streetName": "Ulice",
+		"streetNumber": "Číslo popisné",
+		"city": "Město",
+		"zipcode": "PSČ",
+		"memberID": "ID člena",
+		"memberSince": "Členství od",
+		"country": "Země",
+		"passportNumber": "Číslo pasu",
+		"issuingCountry": "Země vydání",
+		"placeOfBirth": "Místo narození",
+		"number": "Číslo",
+		"male": "Muž",
+		"female": "Žena"
+	},
+
+	"placeholders": {
+		"email": "Zadejte e-mailovou adresu",
+		"masterPassword": "Zadejte hlavní heslo",
+		"phone": "(123)-456-7890",
+		"name": "Zadejte jméno",
+		"title": "Sem zadejte titul",
+		"websiteURL": "Sem zadejte adresu URL",
+		"websiteName": "Sem zadejte název webové stránky",
+		"username": "Sem zadejte uživatelské jméno",
+		"password": "Sem zadejte heslo",
+		"notes": "Sem zadejte poznámky",
+		"cardholderName": "Zadejte jméno držitele karty",
+		"ccNumber": "Sem zadejte číslo platební karty",
+		"driversLicenseNumber": "Sem zadejte licenční číslo",
+		"firstName": "Sem zadejte jméno",
+		"lastName": "Sem zadejte příjmení",
+		"stateProvince": "Sem zadejte kraj",
+		"company": "Sem zadejte název společnosti",
+		"telephone": "Sem zadejte telefon",
+		"streetName": "Sem zadejte ulici",
+		"streetNumber": "Sem zadejte číslo popisné",
+		"city": "Sem zadejte město",
+		"zipcode": "Sem zadejte PSČ",
+		"memberID": "Sem zadejte ID člena",
+		"notesDetails": "Přidejte věci, které si chcete zapamatovat. Kombinace zámku. Kódy produktů a softwaru. Připomínky nebo i tajné recepty.",
+		"country": "Vyberte zemi",
+		"passportNumber": "Sem zadejte číslo pasu",
+		"issuingCountry": "Vyberte zemi",
+		"placeOfBirth": "Vyberte zemi",
+		"number": "Sem zadejte číslo"
+	},
+
+	"errors": {
+		"generic": "Došlo k chybě",
+		"passwordsMatch": "Hesla se musí shodovat",
+		"nameRequired": "Zadejte jméno",
+		"emailInvalid": "Zadejte platný e-mail",
+		"passwordTooShort": "Délka hesla musí být nejméně %{nbCharacters} znaků",
+		"usernameRequired": "Uživatelské jméno je povinný údaj"
+	},
+
+	"form": {
+		"launch": "Otevřít tuto webovou stránku",
+		"passwordStrength": {
+			"veryWeak": "Velmi slabé",
+			"weak": "Slabé",
+			"acceptable": "Přijatelné",
+			"strong": "Silné",
+			"veryStrong": "Velmi silné"
+		},
+		"copyPassword": "Kopírovat heslo",
+		"viewPassword": "Zobrazit heslo"
+	},
+
+	"headerMessages": {
+		"txt1": "Vážený uživateli %{firstName}, vítá vás stránka True Key Launchpad"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "Pusťme se do toho! Přidejte údaje pro první přihlášení k aplikaci True Key",
+		"addNewLogin": "Přidat nové přihlašovací údaje",
+		"success": "Vítáme vás."
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Nemáte profil aplikace True Key?",
+			"signup": "Můžete jej získat zde",
+			"haveAccount": "Již máte profil aplikace True Key?",
+			"login": "Přihlásit",
+			"help": "Nápověda"
+		},
+
+		"intro": {
+			"hi": "Zdravíme vás.",
+			"meetTK": "Vítejte v aplikaci True Key™. Snadnější a bezpečnější způsob k odemknutí digitálního světa. Nejprve si vytvořte profil.",
+			"watchVideo": "Přehrát video",
+			"createProfile": "Nejprve si vytvořte profil True Key.",
+			"cta": "Začít",
+			"eulaPrivacy": "Kliknutím na tlačítko níže vyjadřujete souhlas s podmínkami smlouvy <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>EULA</a> a <a class='txt bold secondary btPrivacy'>prohlášení o&nbsp;ochraně osobních údajů</a>."
+		},
+
+		"confirm": {
+			"title": "DŮLEŽITÉ UPOZORNĚNÍ: Potvrzení hlavního hesla",
+			"enterAgain": "Zadejte hlavní heslo ještě jednou.",
+			"wontRemember": "Hlavní heslo se nikdy neukládá ani neuchovává, aby byla zajištěna ochrana osobních údajů a maximální bezpečnost hesla. Znáte ho pouze vy, takže je důležité, abyste si ho zapamatovali.",
+			"promise": "Potvrzujete, že si ho zapamatujete?",
+			"submit": "Ano, zapamatuji"
+		},
+		"loginHelp": {
+			"title": "Máte potíže?",
+			"txt1": "Vaše hlavní heslo rozlišuje malá a velká písmena a neobsahuje mezery. Kopírování a vložení nebude fungovat.",
+			"txt2": "Zapomněli jste hlavní heslo? Z bezpečnostních důvodů je neznáme.Bude třeba vytvořit nový účet aplikace True Key™.",
+			"createAccount": "Vytvořit nový účet"
+		},
+
+		"login": {
+			"title": "Přihlášení k profilu",
+			"submit": "Přihlásit",
+			"working": "Probíhá dešifrování vašich dat...",
+			"error": "Tato akce nefungovala"
+		},
+
+		"logout": {
+			"title": "Než aplikaci ukončíte, můžete si pořídit její verzi pro mobilní zařízení.",
+			"desc": "Pošlete si odkaz na obchod s bezplatnými aplikacemi."
+		},
+
+		"onboarding": {
+			"skip": "Přeskočit tento krok",
+			"skipVideo": "Rozumím!",
+			"title": "Uživateli %{firstName}, váš profil aplikace True Key™ je připraven. Můžete jej vyzkoušet.",
+			"desc": "Vyberte si jednu z těchto oblíbených stránek nebo přidejte novou stránku a podívejte se, jak vše funguje.",
+
+			"noWebsiteFlow": {
+				"desc": "Využívání aplikace True Key naplno je snadné:",
+				"addManually": "Údaje pro první přihlášení přidejte ručně"
+			}
+		},
+
+		"emailTaken": {
+			"title": "Tento e-mail již má profil",
+			"desc": "Chcete se přihlásit jako %{emailAddress}?"
+		},
+
+		"signup": {
+			"title": "Vytvořte si vlastní profil aplikace True Key™",
+			"cta": "OK, další",
+			"working": "Probíhá ověřování...",
+			"success": "Vše je v pořádku."
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Rychlé přihlášení",
+			"desc": "Pomocí rychlého přihlášení se k této webové stránce můžete přihlásit rychleji. Můžete nastavit, aby aplikace True Key vyplnila uživatelské jméno a heslo za vás."
+		},
+		"passwordReprompt": {
+			"title": "Zeptat se na hlavní heslo",
+			"desc": "Hlavní heslo znáte pouze vy. Požádejte o ně před každým přihlášením."
+		},
+		"subdomainOnly": {
+			"title": "Použít pouze pro tuto subdoménu",
+			"desc": "Tuto možnost použijte, chcete-li povolit přihlášení pouze k této konkrétní subdoméně."
+		},
+		"offlineHelp": {
+			"title": "Offline režim",
+			"desc": "Pravděpodobně došlo k ukončení připojení k internetu nebo je připojení k internetu velmi pomalé. Svá hesla můžete zobrazit i v offline režimu. Nelze však přidávat hesla, ukládat změny ani sdílet hesla."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Jazyk byl změněn",
+			"desc": "Aktuální jazyk je nyní %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Oblíbená položka přidána",
+			"desc": "Vybraná webová stránka byla přidána na stránku Launchpad."
+		},
+		"favoriteRemoved": {
+			"title": "Oblíbená položka odebrána",
+			"desc": "Tato oblíbená položka byla odebrána ze stránky Launchpad."
+		},
+		"favoriteEdited": {
+			"title": "Oblíbená položka upravena",
+			"desc": "Změny této oblíbené položky byly úspěšně uloženy."
+		},
+		"passwordGenerated": {
+			"title": "Heslo zkopírováno!",
+			"desc": "Vygenerované heslo bylo zkopírováno do schránky."
+		},
+		"noteCreated": {
+			"title": "Poznámka vytvořena!",
+			"desc": "Tato poznámka byla přidána do aplikace True Key."
+		},
+		"passwordSaved": {
+			"title": "Heslo uloženo!",
+			"desc": "Toto heslo bylo přidáno do aplikace True Key."
+		},
+		"loginShared": {
+			"title": "Heslo sdíleno",
+			"desc": "Heslo bylo úspěšně sdíleno s adresou %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Heslo odebráno.",
+			"desc": "Toto heslo bylo odebráno z aplikace True Key."
+		},
+		"loginEdited": {
+			"title": "Přihlašovací údaje upraveny.",
+			"desc": "Změny tohoto přihlášení byly uloženy."
+		},
+		"copied": {
+			"title": "Zkopírováno!",
+			"desc": "Tato položka byla zkopírována do schránky."
+		},
+		"passwordCopied": {
+			"title": "Heslo zkopírováno!",
+			"desc": "Vaše heslo bylo zkopírováno do schránky."
+		},
+		"error": {
+			"title": "Došlo k chybě",
+			"desc": "Opakujte akci"
+		},
+		"legacyAccepted": {
+			"title": "Pozvánka přijata",
+			"desc": "Tato starší pozvánka byla úspěšně přijata."
+		},
+		"legacyDeclined": {
+			"title": "Pozvánka odmítnuta",
+			"desc": "Tato starší pozvánka byla úspěšně odmítnuta."
+		},
+		"sharingAccepted": {
+			"title": "Pozvánka přijata",
+			"desc": "Tato pozvánka ke sdílení byla úspěšně přijata."
+		},
+		"sharingDeclined": {
+			"title": "Pozvánka odmítnuta",
+			"desc": "Tato pozvánka ke sdílení byla úspěšně odmítnuta."
+		},
+		"invitationResent": {
+			"title": "Pozvánka znovu odeslána!",
+			"desc": "Tato pozvánka byla znovu odeslána."
+		},
+		"oobResent": {
+			"title": "Upozornění znovu odesláno!",
+			"desc": "Na váš telefon bylo odesláno nové upozornění."
+		},
+		"emailResent": {
+			"title": "E-mail znovu odeslán!",
+			"desc": "Byl vám odeslán nový e-mail s potvrzením."
+		},
+		"legacyRevoked": {
+			"title": "Digitální odkaz byl odvolán!",
+			"desc": "Tento digitální odkaz byl odvolán."
+		},
+		"legacySent": {
+			"title": "Požadavek úschovné schránky digitálního odkazu byl odeslán.",
+			"desc": "Pozvánka byla odeslána na adresu %{email}."
+		},
+		"legacySendError": {
+			"title": "Chyba ve starší žádosti",
+			"desc": "Pozvánku nebylo možné odeslat na adresu %{email}."
+		},
+		"browserNewTab": {
+			"title": "Nastavení nové karty v prohlížeči bylo uloženo.",
+			"desc": "Nastavení nové karty v prohlížeči bylo aktualizováno."
+		},
+		"changedMP": {
+			"title": "Hlavní heslo bylo změněno!",
+			"desc": "Vaše hlavní heslo bylo změněno."
+		},
+		"clearAutosave": {
+			"title": "Funkce automatického uložení obnovena",
+			"desc": "Aplikace True Key bude nyní automaticky ukládat hesla na všech stránkách."
+		},
+		"feedbackSent": {
+			"title": "Názor byl odeslán!",
+			"desc": "Děkujeme za váš názor."
+		},
+		"documentCreated": {
+			"title": "Dokument vytvořen!",
+			"desc": "Tento dokument byl uložen do aplikace True Key."
+		},
+		"documentRemoved": {
+			"title": "Dokument odstraněn",
+			"desc": "Tento dokument byl odebrán z aplikace True Key."
+		},
+		"notesEdit": {
+			"title": "Změny uloženy",
+			"desc": "Změny této poznámky byly uloženy."
+		},
+		"notesRemove": {
+			"title": "Poznámka odebrána",
+			"desc": "Tato poznámka byla odebrána z aplikace True Key."
+		},
+		"settingsChanged": {
+			"title": "Nastavení změněna",
+			"desc": "Nastavení uzamknutí byla aktualizována."
+		},
+		"disabledTrustedDevice": {
+			"title": "Zařízení neaktivní",
+			"desc": "Vaše zařízení bylo deaktivováno."
+		},
+		"deviceTrusted": {
+			"title": "Zařízení je důvěryhodné",
+			"desc": "Aktuální zařízení je důvěryhodné."
+		},
+		"confirmationEmailSent": {
+			"title": "E-mail s potvrzením odeslán!",
+			"desc": "E-mail s potvrzením byl odeslán na adresu %{email}"
+		}
+	},
+
+	"logins": {
+		"title": "Přihlášení",
+		"editLogin": "Upravit přihlašovací údaje",
+		"viewLogin": "Zobrazit přihlašovací údaje",
+		"shareLogin": "Sdílet přihlašovací údaje",
+		"shareSection": {
+			"title": "Sdílejte své přihlašovací údaje s přáteli a příbuznými bezpečně. <strong>Níže vyberte přihlášení, které chcete sdílet.</strong>"
+		},
+		"copyPassword": "Kopírovat heslo",
+		"loginAs": "Přihlásit se jako",
+		"removeLogin": "Odebrat tyto přihlašovací údaje",
+		"noLoginFound": {
+			"title": "Nelze je najít",
+			"desc": "Tyto přihlašovací údaje možná ještě nebyly uloženy. Chcete je přidat?"
+		},
+		"currentWebsite": "Aktuální webová stránka",
+		"onboardingPopover": {
+			"title": "Rychlé přihlášení",
+			"desc": "Kliknutím sem se přihlásíte bez psaní"
+		},
+		"searchAssets": "Vyhledat %{smart_count} přihlášení |||| Vyhledat %{smart_count} přihlášení",
+		"askForMasterPassword": "Hlavní heslo",
+		"askForFaceRecognition": "Odemčení tváří",
+		"instantLogin": "Rychlé přihlášení",
+		"useForSubdomainOnly": "Použít pouze pro subdoménu <span class='primary'>%{domain}</span>",
+		"notShared": "Toto heslo nyní s nikým nesdílíte.",
+		"visiblity": {
+			"title": "Vytvořit heslo:"
+		},
+		"unshare": "Zrušit sdílení",
+		"waitingResponse": "čekání na odpověď"
+	},
+
+	"sharing": {
+		"title": "Sdílejte své heslo <span class='primary'>%{name}</span>",
+		"accessGiven": "Toto heslo je sdíleno s:"
+	},
+
+	"verifyEmail": {
+		"title": "Neověřili jste svou e-mailovou adresu",
+		"subtitle": "Pokud chcete sdílet hesla, nejprve ověřte svou e-mailovou adresu.",
+		"desc": "Nemůžete najít ověřovací e-mail, který jsme vám odeslali? Požádejte o nový.",
+		"cta": "Znovu odeslat potvrzovací e-mail"
+	},
+
+	"premiumOnly": {
+		"title": "K dispozici pouze pro uživatele prémiové verze",
+		"txt1": "Chcete-li do aplikace True Key přidat nové heslo, potřebujete prémiový účet",
+		"txt1": "Před upgradem je počet hesel zdarma omezen na pět. Upgradovat nyní na neomezený počet!"
+	},
+
+	"generator": {
+		"title": "Vygenerujte si silné heslo kdykoli a kdekoli.",
+		"subtitle": "Zvolte své předvolby a poté klepnutím na tlačítko „Generovat a kopírovat\" vygenerujte nové heslo.",
+		"placeholder": "Kliknutím na tlačítko vygenerujete heslo",
+		"cta": "Generovat a kopírovat",
+		"length": "Délka hesla",
+
+		"letters": "Použít písmena",
+		"digits": "Použít čísla",
+		"symbols": "Použít speciální znaky",
+		"capitals": "Použít velká písmena",
+		"showInForms": "Automaticky zobrazovat generátor ve formulářích",
+
+		"history": {
+			"title": "Vygenerovaná hesla",
+			"noGeneratedPassword": "Žádná vygenerovaná hesla."
+		}
+	},
+
+	"legacy": {
+		"title": "Úschovná schránka digitálního odkazu",
+		"countingOnYou": "Lidé, kteří se na vás spoléhají",
+		"heirs": "Lidé, na které se spoléháte",
+		"sentTimer": "O %{time} dřív",
+		"resendInvitation": "Znovu odeslat pozvánku",
+		"assignTrustees": "Přiřadit vaše zplnomocněnce",
+
+		"txtFeature": {
+			"txt1": "Chraňte svou digitální identitu během života i po něm.",
+			"txt2": "Díky úschovné schránce digitálního odkazu můžete předat své přístupové údaje dalším důvěryhodným osobám, ať už se jedná o manžela či manželku, děti, přátele nebo kolegy.",
+			"txt3": "Když přiřadíte zplnomocněnce aplikaci True Key, nikdy nezískají přístup k vašemu účtu, dokud nenastane čas. %{htmlBefore}Sledovat video%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "Je nutné ověřit e-mailovou adresu",
+		"descLegacy": "Zplnomocněnce nelze přiřadit, dokud nebude e-mailová adresa ověřena",
+		"getNewEmail": "Nejste si jisti, zda máte stále k dispozici e-mail s ověřením, který jsme vám zaslali dříve? Požádejte o nový.",
+		"cta": "Zaslat nový ověřovací e-mail"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Přihlášení",
+		"wallet": "Úložiště dokladů",
+		"notes": "Bezpečné poznámky",
+		"legacy": "Úschovná schránka digitálního odkazu",
+		"generator": "Generátor hesla",
+		"settings": "Nastavení",
+		"preferences": "Předvolby",
+		"support": "Nápověda a podpora",
+		"tkProfile": "Můj profil aplikace True Key",
+		"logout": "Odhlásit"
+	},
+
+	"browserNewTab": {
+		"title": "Nová karta prohlížeče",
+		"txt1": "Nastavte, která webová stránka se má spustit po otevření prohlížeče:",
+		"startpage": "Můj Launchpad aplikace True Key",
+		"default": "Výchozí nastavení prohlížeče",
+		"custom": "Můj vlastní cíl:"
+	},
+
+	"changeMP": {
+		"title": "Změnit hlavní heslo",
+		"labels": {
+			"current": "Aktuální hlavní heslo",
+			"new": "Nové hlavní heslo",
+			"confirmNew": "Nové hlavní heslo"
+		},
+		"placeholders": {
+			"current": "Zadejte aktuální hlavní heslo",
+			"new": "Zadejte nové hlavní heslo",
+			"confirmNew": "Znovu zadejte nové hlavní heslo"
+		},
+		"cta": "Změnit heslo"
+	},
+
+	"lockUnlock": {
+		"title": "Vše je na vás",
+		"desc": "Přidejte do aplikace True Key tolik faktorů, kolik chcete. Čím víc faktorů přidáte, tím bude váš profil silnější.",
+
+		"noYap": {
+			"title": "Nastavte, jak často se má účet aplikace True Key automaticky uzamknout.",
+			"desc": "Vyberte požadovanou dobu v rozevírací nabídce níže."
+		},
+
+		"basic": "Základní",
+		"advanced": "Rozšířené",
+
+		"autolock": {
+			"title": "Automatický zámek",
+			"desc": "Po jaké době nečinnosti se má účet aplikace True Key uzamknout?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Viditelnost stránky Launchpad",
+			"desc": "Zvolte, zda má být stránka Launchpad aplikace True Key viditelná, když je účet uzamčený."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "Používané zařízení není označeno jako důvěryhodné.",
+			"txt2": "Když zařízení označíte jako důvěryhodné, můžete přidat další faktory zabezpečení, například funkci Odemčení tváří."
+		}
+	},
+
+	"preferences": {
+		"title": "Předvolby",
+		"modals": {
+			"autologin": {
+				"title": "Rychlé přihlášení",
+				"desc": "Přihlašujte se k webovým stránkám rychleji pomocí rychlého přihlášení. Můžete nastavit, aby za vás aplikace True Key vyplnila uživatelské jméno a heslo.",
+				"txt1": "Rychlé přihlášení umožňuje aplikaci True Key, aby vás automaticky přihlásila k webové stránce, kterou jste dříve uložili ve svém účtu. Stačí jednoduše zadat její adresu URL (například www.example.com) v prohlížeči.",
+				"txt2": "Pokud je rychlé přihlášení zapnuto, aplikace True Key detekuje adresu URL webové stránky a automaticky vás přihlásí. Není třeba klikat na nic dalšího.",
+				"txt3": "Je-li funkce rychlého přihlášení vypnuta, aplikace True Key detekuje adresu URL webové stránky a vyplní vaše uživatelské jméno a heslo, ale bude třeba kliknout na tlačítko Přihlásit."
+			},
+			"clearAutologin": {
+				"title": "Obnovit automatické uložení na všech stránkách",
+				"desc": "Pokud nastavíte, že v aplikaci True Key nechcete ukládat hesla k určitým webovým stránkám, ale později změníte názor, můžete kliknout na tlačítko Obnovit a hesla se budou při procházení automaticky ukládat."
+			}
+		},
+		"import": {
+			"title": "Ukládáte nyní hesla v jiné službě? Přidejte je ke svému účtu aplikace True Key.",
+			"desc": "Pomocí nástroje pro import hesel lze rychle přidat hesla k účtu aplikace True Key.",
+			"cta": "Importovat hesla"
+		},
+		"newTab": "Domovská stránka a nová karta prohlížeče",
+		"restoreAutosave": "Obnovit automatické uložení na všech stránkách",
+		"restore": "Obnovit",
+		"instantLogin": "Rychlé přihlášení",
+		"changeLanguage": "Změnit jazyk"
+	},
+
+	"shareSocial": {
+		"title": "Podělte se s ostatními",
+		"title2": "Sdílejte nadšení",
+		"desc": "Líbí se vám aplikace True Key? Podělte se se svými přáteli a získejte odměny.",
+		"share": "Sdílet",
+		"tweet": "Tweet",
+		"rateChrome": "Ohodnotit aplikaci",
+		"twitterMessage": "Přestaňte se zatěžovat hesly. Získejte přístup k aplikaci #TrueKey by @IntelSecurity mezi prvními."
+	},
+
+	"settingsNav": {
+		"profile": "Můj profil aplikace True Key",
+		"lockUnlock": "Předvolby uzamknutí",
+		"windowsLock": "Odemčení tváří Windows",
+		"preferences": "Předvolby",
+		"support": "Nápověda a podpora",
+		"shareSocial": "Podělte se s ostatními",
+		"trustedDevices": "Důvěryhodná zařízení"
+	},
+
+	"tkProfile": {
+		"title": "Moje faktory",
+		"hi": "Zdravíme vás, uživateli %{fullname}",
+		"txt1": "Čím víc faktorů přidáte, %{htmlBefore}tím silnější váš profil True Key bude.%{htmlAfter}",
+		"activeFactors": "Aktivní faktory",
+		"active": "Aktivní",
+		"strength": "Síla profilu",
+
+		"accountStatus": {
+			"title": "Stav předplatného",
+			"premium": "Prémiová verze",
+			"ends": "Končí"
+		},
+
+		"layerEmail": "Přidejte jako důvěryhodný faktor e-mail a propojte jej s profilem True Key. <strong>Při přihlášení z nového nebo nedůvěryhodného zařízení vám bude do složky doručené pošty doručeno upozornění.</strong>",
+		"layerSwipe": "<strong>Chcete-li zvýšit ochranu při přihlašování k účtům</strong>, můžete odeslat upozornění na mobilní zařízení. Před přihlášením pomocí aplikace True Key je třeba upozornění potvrdit.",
+		"layerFace": {
+			"txt1": "<strong>Přihlaste se, aniž byste museli zadávat heslo.</strong> Funkce Odemčení tváří vás rozpozná na základě jedinečných proporcí tváře, jako je vzdálenost mezi nosem a očima, a umožní vám přihlášení.",
+			"txt2": "Funkce Odemčení tváří je k dispozici v počítačích PC a zařízeních se systémem Android."
+		},
+		"layerPassword": "Chraňte profil pomocí silného hlavního hesla, které si dobře zapamatujte. <strong>Pokud hlavní heslo zapomenete, nelze ho obnovit, protože ho znáte pouze vy.</strong> Přidáte-li další faktory, bude hlavní heslo používáno jako záložní možnost pro případ, že se nebudete moci přihlásit pomocí těchto faktorů.",
+		"layerDevice" : "Aplikace True Key dokáže rozpoznat zařízení, která vlastníte nebo často používáte. Přidejte všechna zařízení, ze kterých přistupujete k profilu True Key. Díky vyžadování dalších faktorů při pokusu o přihlášení z neznámého zařízení lze <strong>zabránit ostatním uživatelům v přístupu k účtu</strong>."
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Jak bezpečné má být odemčení systému Windows?",
+		"desc": "Vyberte požadovanou úroveň zabezpečení.",
+
+		"basic": {
+			"settingName": "Základní",
+			"title": "Nastavení Základní umožňuje nejrychlejší přihlášení.",
+			"desc": "Toto nastavení se doporučuje, pokud používáte osobní počítač v důvěryhodném prostředí."
+		},
+		"advanced": {
+			"settingName": "Rozšířené",
+			"title": "Nastavení Rozšířené aktivuje ochranu před podvodným přihlášením.",
+			"desc": "Toto nastavení se doporučuje pro osobní a veřejné počítače v práci nebo doma."
+		},
+		"boosted": {
+			"settingName": "Posílené",
+			"title": "Nastavení Posílené aktivuje ochranu před podvodným přihlášením a detekci v reálném čase.",
+			"desc": "Toto nastavení vás vyzve, abyste mrkli, díky čemuž ověří, zda se jedná skutečně o vás. Toto nastavení se doporučuje pro veřejné počítače v nedůvěryhodném prostředí."
+		},
+		"howTo": {
+			"title": "Přihlašujte se k systému Windows pomocí tváře",
+			"subtitle": "Už vás nebaví zadávat heslo k systému Windows?",
+			"desc": "Odemykejte zařízení pomocí aplikace True Key. Je to snadné a rychlé.",
+			"cta": "Postup aktivace"
+		},
+		"howToModal": {
+			"title": "Přihlašujte se k systému Windows pomocí tváře",
+			"desc": "Chcete-li se přihlašovat k systému Windows pomocí tváře, postupujte takto:",
+			"step1": "Uzamkněte obrazovku (stisknutím kláves Windows + L)",
+			"step2": "Klikněte na tlačítko Zpět",
+			"step3": "Klikněte na ikonu aplikace True Key",
+			"tip": "Obrazovku můžete uzamknout stisknutím klávesové zkratky Windows + L"
+		}
+	},
+
+	"videos": {
+		"title": "Videa",
+		"intro": {
+			"title": "Úvod",
+			"desc": "Co je aplikace True Key a proč ji potřebujete? Přečtěte si další informace!"
+		},
+		"gettingStarted": {
+			"title": "Prohlídka Začínáme",
+			"desc": "Jste nový uživatel? Díky této rychlé prohlídce produktu zjistíte, jak využívat aplikaci True Key naplno."
+		},
+		"security": {
+			"title": "Zabezpečení",
+			"desc": "Vaše bezpečí je naší prioritou. Tady se dovíte, jak uchovávat svá data v bezpečí."
+		},
+		"sharing": {
+			"title": "Sdílet heslo",
+			"desc": "Konečně! Šifrované sdílení, které může používat každý!"
+		},
+		"sharingSecurity": {
+			"title": "Zabezpečení sdílení",
+			"desc": "Šifrované sdílení – jeho usnadnění je složitější, než si myslíte."
+		},
+		"legacy": {
+			"title": "Úschovná schránka digitálního odkazu",
+			"desc": "Jediný nástroj pro správu hesel, který chrání vaše data během vašeho života... i po něm."
+		}
+	},
+
+	"support": {
+		"title": "Nápověda a podpora",
+		"feedback": {
+			"title": "Sdělte nám svůj názor",
+			"desc": "Jak se vám služba True Key líbí?",
+			"needsWork": "Potřebuje vylepšit",
+			"awesome": "Skvělá",
+			"leaveComment": "Vložit komentář:",
+			"placeholder": "Vašeho názoru si velmi ceníme. Sem zadejte svůj komentář. Předem děkujeme!",
+			"thankYou": "Děkujeme!"
+		},
+		"getMoreSupport": "Získat další podporu"
+	},
+
+	"wallet": {
+		"title": "Úložiště dokladů",
+		"add": {
+			"subtitle1": "Bezpečné ukládání informací",
+			"subtitle2": "Níže vyberte kategorii, do které chcete přidat svou první položku úložiště dokladů"
+		},
+		"search": "Prohledat úložiště dokladů",
+		"types": {
+			"identity": "Adresář",
+			"cc": "Kreditní karta",
+			"drivers": "Řidičský průkaz",
+			"membership": "Členství",
+			"passport": "Pas",
+			"ssn": "Rodné číslo"
+		},
+		"remove": {
+			"title": "Odebrání dokumentu",
+			"confirm": "Opravdu chcete tento dokument odebrat z aplikace True Key?",
+			"permanent": "Tuto akci nelze vrátit."
+		},
+		"edit": {
+			"title": "Upravit dokument"
+		}
+	},
+
+	"notes": {
+		"title": "Bezpečné poznámky",
+		"add": {
+			"title": "Přidat poznámku"
+		},
+		"empty": {
+			"title": "Nenalezeno",
+			"desc": "Možná nebyla poznámka, kterou hledáte, v aplikaci True Key uložena.",
+			"cta": "Vytvořit poznámku"
+		},
+		"sort": {
+			"alphabetically": "Abecedně",
+			"dateCreated": "Datum vytvoření"
+		},
+		"search": "Prohledat %{smart_count} bezpečnou poznámku |||| prohledat %{smart_count} bezpečných poznámek",
+		"remove": {
+			"title": "Odebrání poznámky",
+			"desc": "Opravdu chcete tuto poznámku odebrat z aplikace True Key?",
+			"permanent": "Tuto akci nelze vrátit."
+		},
+		"edit": {
+			"title": "Bezpečná poznámka"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Použít standardní přihlášení"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "Uživatel %{htmlBefore}{{username}}%{htmlAfter} (%{email}) vás chce přiřadit jako svého dědice."
+		},
+		"nonConfirmedAsset": {
+			"txt": "Uživatel %{htmlBefore}%{fullname}%{htmlAfter} (%{email}) s vámi sdílel své heslo %{htmlBefore}%{title}%{htmlAfter}."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) chce s vámi sdílet heslo."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Vývoj účtu:",
+		"pctProgress": "%{percentage} %",
+		"addLogin": {
+			"title": "Přidat údaje pro první přihlášení",
+			"desc": "Uložit přihlašovací údaje do aplikace True Key"
+		},
+		"oneClick": {
+			"title": "Vyzkoušejte rychlé přihlášení",
+			"desc": "Přihlašujte se bez použití klávesnice."
+		},
+		"addFace": {
+			"title": "Přidat odemčení tváří",
+			"desc": "Usnadňuje a urychluje přihlašování."
+		},
+		"addLogins": {
+			"title": "Přidat údaje pro první čtyři přihlášení",
+			"desc": "Přidat údaje pro více přihlášení do profilu aplikace True Key"
+		},
+		"sharing": {
+			"title": "Sdílet heslo",
+			"desc": "Bezpečné sdílení s příbuznými, přáteli a spolupracovníky"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "Pomocí svého obličeje se můžete přihlásit rychleji.",
+		"txt1": "Nastavte si funkci Odemčení tváří a budete mít k dispozici jednoduchý a okamžitý přístup k aplikaci True Key™.",
+		"txt2": "Je možné ji také spárovat s hlavním heslem jako bezproblémový druhý faktor.",
+		"txt3": "Nemějte obavy. Váš obrázek neuložíme ani nebudeme sdílet.",
+		"cta": "Nastavit funkci Odemčení tváří"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Přidat důvěryhodné zařízení",
+		"txt1": "Chcete-li potvrdit zařízení, zkontrolujte svůj e-mail.",
+		"txt2": "Chcete-li pokračovat, zkontrolujte doručenou poštu."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Vybrat důvěryhodné zařízení",
+		"txt": "Aktivovali jste ověřování pomocí dvou faktorů. Vyberte důvěryhodné zařízení, na které chcete upozornění odeslat."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Zakázat důvěryhodné zařízení",
+		"txt": "Rozhodli jste se zakázat následující zařízení: \"%{deviceName}\"",
+		"confirm": "Zakázat"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "Používané zařízení není označeno jako důvěryhodné.",
+		"txt": "Když zařízení označíte jako důvěryhodné, můžete přidat další faktory zabezpečení, například funkci Odemčení tváří."
+	},
+
+	"overlayInstallExe": {
+		"title": "Téměř hotovo – zbývají tři kroky",
+		"txt": "Právě probíhá stahování aplikace True Key. Nefunguje? ",
+		"restartDownload": "Kliknutím sem stahování spusťte znovu."
+	},
+
+	"overlayOobPending": {
+		"txt": "Právě jsme vám odeslali upozornění s doručením na vyžádání, aby bylo možné ověřit vaše přihlášení. Zkontrolujte své důvěryhodné zařízení.",
+		"btResend": "Odeslat upozornění znovu"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "Platnost upozornění s doručením na vyžádání bohužel vypršela.",
+		"txt2": "Opakujte akci s novým upozorněním",
+		"btResend": "Neobdrželi jste upozornění? Odeslat znovu"
+	},
+
+	"overlayInstallFace": {
+		"title": "Přihlašujte se rychleji",
+		"txt": "Šetřete čas. Místo zadávání hlavního hesla použijte funkci Odemčení tváří."
+	},
+
+	"overlayTrustDevice": {
+		"title": "Jedná se o důvěryhodné zařízení?",
+		"txt1": "Zdá se, že se chcete přihlásit k nedůvěryhodnému zařízení.",
+		"txt2": "Přidání tohoto počítače k důvěryhodným zařízením vám umožní přihlašovat se rychleji pomocí jednoho nebo více faktorů.",
+		"dontTrust": "Ne, nedůvěřovat",
+		"trustComputer": "Důvěřovat tomuto počítači"
+	},
+
+	"overlayEmailPending": {
+		"title": "Potvrďte svou e-mailovou adresu",
+		"txt": "Chcete-li potvrdit zařízení, zkontrolujte svůj e-mail.",
+		"btResend": "Odeslat e-mail znovu"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Platnost e-mailu s upozorněním bohužel vypršela.",
+		"txt2": "Opakujte akci s novým upozorněním.",
+		"btResend": "Neobdrželi jste upozornění? Odeslat znovu"
+	},
+
+	"overlayUpdate": {
+		"title": "Aktualizujte aplikaci True Key",
+		"txt": "Je k dispozici nová verze. Nainstalujte ji kliknutím na tlačítko Aktualizovat.",
+		"btUpdate": "Aktualizovat"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Zadejte hlavní heslo",
+			"enterMasterPasswordHere": "Sem zadejte hlavní heslo",
+			"invalidPassword": "Neplatné heslo"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Vyžadováno potvrzení"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Automatický zámek",
+		"text": "Kdy se má aplikace True Key uzamknout?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Viditelnost stránky Launchpad",
+		"text": "Rozhodněte se, zda mají být vaše oblíbené stránky skryté nebo viditelné, když je stránka Launchpad uzamčena.",
+		"visible": "<span class='bold'>Viditelná:</span> Stránka Launchpad zůstane viditelná, i když je uzamčena.",
+		"invisible": "<span class='bold'>Skrytá:</span> Stránka Launchpad se skryje, když je uzamčena."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Důvěryhodné zařízení",
+			"helpText": "Propojte vaše zařízení s profilem aplikace True Key, čímž zvýšíte zabezpečení.",
+			"enroll": "Důvěřovat zařízení"
+		},
+		"masterPassword": {
+			"title": "Hlavní heslo",
+			"helpText": "Vytvořte pro svůj profil aplikace True Key silné hlavní heslo. Nebudeme ho ukládat, takže je nutné, abyste si ho zapamatovali."
+		},
+		"email": {
+			"title": "Důvěryhodný e-mail",
+			"helpText": "Chcete-li aktivovat všechny funkce, potvrďte svůj e-mail. Svůj e-mail můžete rovněž použít jako druhý faktor a zvýšit tak zabezpečení.",
+			"enroll": "Odeslat potvrzovací e-mail"
+		},
+		"face": {
+			"title": "Odemčení tváří",
+			"helpText": "Funkce Odemčení tváří aplikace True Key ověřuje vaši identitu na základě jedinečných proporcí vaší tváře. Funkci Odemčení tváří lze použít jako primární způsob přihlašování nebo jako další faktor zabezpečení.",
+			"enroll": "Přidat nyní"
+		},
+		"mobile": {
+			"title": "Odemčení potažením prstem (pouze systém Android)",
+			"helpText": "Pokud aktivujete funkci Odemčení potažením prstem, jako druhý faktor se bude na váš mobilní telefon odesílat upozornění s doručením na vyžádání. Potažením prstu na upozornění odemknete profil v počítači. Tuto funkci lze používat místo hlavního hesla nebo s ním ke zvýšení zabezpečení.",
+			"enroll": "Přidat telefon"
+		},
+		"fingerprint": {
+			"title": "Odemknutí klepnutím",
+			"helpText": "Pomocí jedinečného otisku prstu lze získat bezpečný přístup k aplikaci True Key a zvýšit úroveň zabezpečení. Tato funkce bude zavedena již brzy."
+		}
+	},
+
+	"killswitch": {
+		"title": "Povinná aktualizace",
+		"chrome": {
+			"txt1": "Tato verze rozšíření aplikace True Key již není podporována.  Prohlížeč Chrome provedl automatickou aktualizaci na nejnovější verzi.",
+			"txt2": "Restartujte prohlížeč."
+		},
+		"ie": {
+			"txt1": "Tato verze aplikace True Key již není podporována. Kliknutím na tlačítko níže proveďte aktualizaci na nejnovější verzi",
+			"cta": "Aktualizovat"
+		},
+		"downloading": "Tato verze aplikace True Key již není podporována. Probíhá stahování aktualizované verze, která bude připravena během chvilky…"
+	},
+
+	"downloadExe": {
+		"title": "Skvělá volba",
+		"txt1": "Funkce Odemčení tváří odstraňuje nutnost zadávání hlavního hesla. Kliknutím níže stáhněte instalační program."
+	},
+
+	"enableIE": {
+		"appInstalled": "Aplikace nainstalována",
+		"enableIt": "Nyní ji povolte v prohlížeči",
+		"cta": "Po povolení níže klikněte sem",
+		"title": "Poslední krok",
+		"txt1": "Kliknutím na tlačítko „Zapnout\" níže můžete začít aplikaci True Key používat. Tuto akci stačí provést jednou.",
+		"txt2": "Následně %{htmlBefore}klikněte na tento odkaz%{htmlAfter}.",
+		"appInstalled" : "Aplikace je nainstalována.",
+		"enableIt" : "Nyní ji povolte v prohlížeči.",
+		"havingTrouble" : "Vyskytl se problém? Aktualizujte tuto stránku."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "Již jste chráněni, protože používáte důvěryhodné zařízení:",
+		"trustedDevice": "Toto důvěryhodné zařízení (\"%{deviceName}\")",
+		"chooseFactors": "Zvolte, jaký další faktor chcete k odemknutí aplikace použít:",
+		"simple": "Jednoduché",
+		"complex": "Kompletní",
+		"faceUnlock": "Odemčení tváří",
+		"addFace": "Přidat tvář",
+		"addSwipe": "Přidat odemčení potažením prstem",
+		"masterPassword": "Hlavní heslo",
+		"theseFactorsAreRequired": "Chcete-li přistupovat k aplikaci, jsou nutné také tyto faktory:",
+
+		"confirmAdvanced": {
+			"title": "Pro vaši informaci",
+			"content": "Při přihlašování pomocí nastavení „Rozšířené\" musí být zařízení připojeno k Internetu. Pokud se nelze připojit, nebude možné získat přístup k profilu aplikace True Key.",
+			"confirm": "Rozumím"
+		}
+	},
+
+	"faq": {
+		"title": "Nejčastější dotazy",
+
+		"Q1": "Co je aplikace True Key™?",
+		"A1": "Aplikace True Key™ by Intel Security mění způsob, jakým se uživatelé přihlašují.  Aplikace True Key odstraňuje nutnost pamatování několika hesel a rychle vás přihlásí k vašim aplikacím, webům a zařízením pomocí jedinečných faktorů, například proporcí tváře a identifikátorů vašich zařízení.  Čím více faktorů používáte, tím silnější vaše aplikace True Key bude. Díky tomu bude také snazší ověřit, že se jedná skutečně o vás. S aplikací True Key jste heslem vy sami.  Získáte větší kontrolu nad digitální identitou a budete moci brázdit digitální svět rychleji, jednodušeji a bezpečněji.",
+
+		"Q2": "Jak to funguje?",
+		"A2": "Otevřete svůj účet aplikace True Key v chytrém telefonu, tabletu nebo počítači a vytvořte svůj profil, aby aplikace True Key věděla, že se jedná o vás. Webové stránky, které podporují aplikaci True Key, automaticky poznají, že jste to vy, takže není nutné zadávat heslo ani si je pamatovat. Webové stránky, které ještě nejsou aplikací True Key podporovány, používají integrovaného správce hesel, aby bylo možné si uživatelská jména a hesla pamatovat a zadávat automaticky za vás. S aplikací True Key jste heslem vy sami.  Získáte větší kontrolu nad digitální identitou a budete moci brázdit digitální svět rychleji, jednodušeji a bezpečněji.",
+
+		"Q3": "Proč se přihlašovat pomocí aplikace True Key?",
+		"A3": "Aplikace True Key vám usnadní život a dá digitálnímu světu vědět, že se skutečně jedná o vás. Jedním přihlášením k aplikaci True Key pomocí jedinečných atributů, jako například proporcí tváře nebo otisku prstu, se okamžitě dostanete tam, kam chcete.",
+
+		"Q4": "Může používat účet aplikace True Key několik lidí na sdíleném počítači?",
+		"A4": "Ano, aplikace True Key rozpozná, že se jedná o vás, a přihlásí vás k vašim účtům. Je to stejně snadné jako odhlášení a opětovné přihlášení.",
+
+		"Q5": "Jak bezpečná je aplikace True Key?",
+		"A5": "True Key je produkt zabezpečení, který může používat kdokoli. Vaše data jsou šifrována pomocí technologie AES-256, což je jeden z nejvyšších stupňů šifrování na trhu. Aplikaci True Key lze posílit přidáním dalších atributů neboli 'faktorů', jako jsou například proporce tváře nebo otisk prstu.",
+
+		"Q6": "Jak jsou má data šifrována a dešifrována?",
+		"A6": "Aplikace True Key uchovává data v zařízení pomocí šifrování AES-256, což je jedna z nejvyšších úrovní šifrování na trhu.  Citlivá data nikdy neopustí vaše zařízení v nezašifrované podobě a budete k nim mít přístup pouze vy (a osoby, které k přístupu oprávníte).",
+
+		"Q7": "Může zaměstnanec společnosti True Key získat přístup k datům uloženým na mém účtu nebo jiným citlivým informacím?",
+		"A7": "Ne, s aplikací True Key jste heslem vy sami.  Vaše data jsou šifrována a dešifrována ve vašem zařízení a vždy je máte pod kontrolou. Aplikace True Key používá faktory, které jsou pro vás jedinečné – včetně proporcí tváře, otisku prstu nebo hlavního hesla. Tyto faktory slouží k šifrování a dešifrování, pouze když je potřebujete.",
+
+		"Q8": "Kde probíhá šifrování a dešifrování mých dat?",
+		"A8": "Vaše data jsou šifrována a dešifrována místně, ve vašem zařízení. Na serverech True Key jsou uložena pouze šifrovaná data.",
+
+		"Q9": "Jsou má data uložena na serverech True Key?",
+		"A9": "Ano, vaše šifrovaná data aplikace True Key jsou uložena na bezpečném serveru True Key. Přístup k těmto informacím lze získat pouze pomocí faktorů, které jsou pro vás jedinečné, včetně proporcí tváře nebo hlavního hesla.",
+
+		"Q10": "Mohu funkci Odemčení tváří aplikace True Key používat pro zařízení se systémem Windows?",
+		"A10": "Pro zařízení se systémem Windows bude funkce Odemčení tváří aplikace True Key zavedena na začátku roku 2015.",
+
+		"Q11": "Potřebuji konkrétní typ webové kamery?",
+		"A11": "Aplikace True Key bude fungovat s přední webovou kamerou vašeho zařízení a kamerou/fotoaparátem připojeným přes rozhraní USB.",
+
+		"Q12": "Může se někdo přihlásit pomocí mého obrázku?",
+		"A12": "Ne, aplikace True Key je vybavena propracovanou technologií ochrany před podvodným přihlášením, která takovým pokusům brání. Díky technologii Intel Security jste v dobrých rukách.",
+
+		"Q13": "Jak si můžete být jisti, že se přihlašuji skutečně já?",
+		"A13": "Díky technologii Intel Security jste v dobrých rukách. Aplikace True Key využívá k ověření vaší identity velmi propracované algoritmy, včetně biometrických údajů, proporcí tváře, otisku prstu a dalších atributů, které nastavíte a které jsou pro vás jedinečné.",
+
+		"Q14": "Kde a na jakých platformách mohu používat funkci Odemčení tváří aplikace True Key?",
+		"A14": "Aplikaci True Key je možné stáhnout do všech oblíbených zařízení. Funkce přihlašování pomocí tváře je však zatím dostupná pouze v systému Windows 8 a 8.1 a v prohlížečích Internet Explorer 10 a 11 a Google Chrome.  V nadcházejících měsících plánujeme vydat verze pro další platformy a nabídnout více možností ověřování."
+	},
+
+	"privacy": {
+		"title": "Vy, vaše data a aplikace True Key",
+
+		"Q1": "Ochrana vašich osobních údajů je nejdůležitější",
+		"A1": "Společnost Intel Security respektuje ochranu osobních údajů. Další informace o tom, jak společnost Intel Security nakládá s poskytnutými osobními údaji, naleznete v %{privacyBefore}prohlášení o ochraně osobních údajů%{linkAfter}.",
+
+		"Q2": "Jaké informace shromažďuje aplikace True Key?",
+		"A2": "<p>Aplikace True Key s vaším svolením pořídí vaši fotografii, z níž zjistí proporce vaší tváře.</p><p>Po výpočtu proporcí tváře je fotografie odstraněna. Proporce vaší tváře jsou zašifrovány a uloženy místně ve vašem zařízení.  Následně jsou zašifrované informace bezpečně uloženy v datovém centru společnosti Intel Security, abyste mohli snadno a bezpečně přistupovat ke svým zařízením a webovým stránkám.</p><p>Společnost Intel Security nemá přístup k citlivým informacím uloženým v aplikaci True Key, protože jsou před odesláním zašifrovány a chráněny hlavním heslem, které znáte pouze vy.</p><p>Další informace:</p><p>V aplikaci True Key se rovněž ukládají přidaná hesla, uživatelská jména a položky úložiště dokladů.  Tyto položky se v zařízení zašifrují a po jejich odeslání na bezpečné servery aplikace True Key je můžete synchronizovat v dalších zařízeních.</p>",
+
+		"Q3": "Co jsou proporce tváře?",
+		"A3": "Proporce tváře označují rysy vaší tváře, podle kterých vás funkce Odemčení tváří rozpozná.",
+
+		"Q4": "Jak jsou proporce tváře používány?",
+		"A4": "Společnost Intel Security využívá proporce tváře ve funkci Odemčení tváří, aby vás mohla rozpoznat a přihlásit k zařízení nebo webovým stránkám podporovaným aplikací True Key.",
+
+		"Q5": "Kde se údaje se ukládají?",
+		"A5": "Zašifrovaný vzor proporcí tváře je uložen v zařízení. Zašifrované informace se rovněž ukládají v datovém centru společnosti Intel Security, abyste je mohli synchronizovat v různých zařízeních.",
+
+		"Q6": "Jak mohu odebrat funkci Odemčení tváří ze zařízení?",
+		"A6": "Chcete-li funkci odebrat nebo zakázat, deaktivujte svůj účet nebo program odinstalujte pomocí příslušné možnosti k odinstalaci v zařízení nebo systému.",
+
+		"Q7": "Jak mohu odstranit proporce své tváře z datového centra společnosti Intel Security?",
+		"A7": "O odstranění proporcí tváře můžete požádat %{customerSupportBefore}zákaznické služby%{linkAfter} aplikace True Key. Po ověření identity můžete požádat o odstranění proporcí své tváře.",
+
+		"Q8": "Zaznamenává aplikace True Key navštívené webové stránky?",
+		"A8": "Pokud v profilu aplikace True Key ukládáte webové stránky a přihlašovací údaje, jsou tyto informace uvedeny na stránce Launchpad aplikace True Key.",
+
+		"Q9": "Bude služba True Key používat mé údaje k jiným účelům?",
+		"A9": "Nikoli. Služba True Key nemá k vašim nezašifrovaným údajům přístup.",
+
+		"Q10": "Kde získám další informace o aplikaci True Key?",
+		"A10": "Další informace o funkci Odemčení tváří a aplikaci True Key naleznete na webových stránkách aplikace True Key na adrese %{websiteBefore}truekey.com%{linkAfter}, případně se můžete obrátit na %{customerSupportBefore}zákaznické služby%{linkAfter} aplikace True Key."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Přidat důvěryhodné zařízení",
+		"lastUsed": "Naposledy použito:",
+		"twoFactor": "Ověřování pomocí dvou faktorů:",
+		"title": "Vyberte a spravujte důvěryhodná zařízení pro váš profil aplikace True Key.",
+		"txt1": "Získáte kontrolu nad tím, kterým zařízením může váš profil aplikace True Key důvěřovat. Tato zařízení lze použít pro ověřování pomocí druhého faktoru a správu přístupu k vašim webům a aplikacím. Zařízení můžete kdykoli přidat nebo odebrat."
+	},
+
+	"startpage": {
+		"searchNoResults": "Nebyly nalezeny žádné výsledky.",
+
+		"addFavorite": {
+			"title": "Přidat oblíbenou položku",
+			"placeholder": "Zadejte název nebo adresu URL webové stránky",
+			"titleSuggestions": "Několik návrhů:",
+			"moreSuggestions": "Další návrhy"
+		},
+
+		"addManually": {
+			"title": "Přidat oblíbenou položku ručně",
+			"label": {
+				"websiteName": "Název webové stránky",
+				"url": "Adresa URL"
+			},
+			"placeholders": {
+				"websiteName": "např.: Facebook",
+				"url": "např.: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Upravit oblíbenou položku"
+		},
+
+		"ctaEdit": "Upravit tuto oblíbenou položku",
+
+		"search": {
+			"onTheWeb": "Vyhledat \"%{filter}\" na webu",
+			"logins": "Uložené přihlašovací údaje",
+			"placeholder": "Prohledejte web nebo Launchpad aplikace True Key"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Oblíbené položky",
+			"description": "Fungují podobně jako záložky. Můžete je libovolně přidávat, odebírat a uspořádat. Oblíbené položky umožňují rychlý přístup k nejčastěji navštěvovaným stránkám, i když k nim nemáte uloženy přihlašovací údaje."
+		},
+		"logins": {
+			"title": "Přihlášení",
+			"description": "Zde naleznete přihlašovací údaje uložené v profilu. Můžete přidat, zobrazit a upravit údaje a také změnit jejich nastavení zabezpečení."
+		},
+		"menu": {
+			"title": "Vaše nabídka",
+			"description": "Umožňuje přístup k předvolbám, nastavením zabezpečení, podpoře a dalším položkám v nabídce."
+		},
+		"search": {
+			"title": "Hledat",
+			"description": "Rychle prohledejte web nebo profil aplikace True Key, potřebujete-li rychle najít informace."
+		},
+		"profile": {
+			"title": "Profil",
+			"description": "Zobrazte a aktualizujte nastavení svého profilu. Pokud je zobrazena čekající zpráva, klikněte na ikonu upozornění."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Téměř hotovo",
+		"description": "Nyní je třeba aktivovat rozšíření aplikace True Key™. Vyberte jeden nebo více používaných prohlížečů.",
+		"activated": "Rozšíření aplikace True Key™ je již aktivováno v prohlížeči <em>%{activatedBrowser}</em>,<br>. Aktivujte jej i v prohlížeči <em>%{availableBrowser}</em>.",
+
+		"overlayTitle": "Aktivace rozšíření aplikace True Key™",
+		"overlayText": "Pokud se chcete rychle přihlašovat k oblíbeným stránkám, aniž byste museli zadávat heslo, <strong>povolte rozšíření aplikace True Key</strong>.",
+		"errorNoBrowserSelected": "Chcete-li povolit aplikaci True Key, vyberte alespoň jeden prohlížeč"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "Vítejte v aplikaci True Key™ by Intel Security",
+			"subtitle": "Přistupujte k digitálnímu světu, aniž byste museli zadávat různá hesla",
+			"description": "Aplikace True Key mění způsob, jakým se uživatelé přihlašují. Používá jedinečné faktory a umožňuje tak rychlý a bezpečný přístup k oblíbeným stránkám, aplikacím a zařízením."
+		},
+		"sync": {
+			"subtitle": "Díky automatické synchronizaci v telefonu, tabletu a počítači se můžete přihlašovat odkudkoli",
+			"description": "Aplikace True Key bezpečně synchronizuje údaje v telefonu, tabletu a počítači, takže je máte vždy po ruce."
+		},
+		"encrypted": {
+			"subtitle": "Uchovávejte své informace bezpečně v zašifrované formě a chraňte své osobní údaje",
+			"description": "Vaše data jsou místně uložena ve vašem zařízení a odesílají se pouze zašifrovaná. Máte k nim přístup pouze vy."
+		},
+		"unique": {
+			"subtitle": "Vytvořte si jedinečný profil na míru",
+			"description": "S aplikací True Key jste heslem vy sami. Čím víc faktorů přidáte, tím silnější váš profil aplikace True Key bude, takže v digitálním světě bude snazší ověřit, že se jedná skutečně o vás."
+		},
+		"skipTour": "Přeskočit prohlídku",
+		"iGetIt": "Rozumím.",
+		"getStarted": "Začít"
+	},
+
+	"slideshow2": {
+		"meetTK": "Vítejte v aplikaci True Key by Intel Security",
+		"multiple_passwords": {
+			"title": "Nezdržujte se zadáváním různých hesel",
+			"desc": "Aplikace True Key si pamatuje hesla za vás."
+		},
+		"sync": {
+			"title": "Synchronizujte hesla na všech zařízeních",
+			"desc": "Nainstalujte aplikaci True Key do všech zařízení, abyste měli hesla vždy po ruce."
+		},
+		"encrypted": {
+			"title": "Mějte hesla bezpečně uložená v šifrované podobě",
+			"desc": "Aplikace True Key šifruje hesla v zařízení, takže k nim máte přístup pouze vy."
+		}
+	},
+
+	"enable": {
+		"lastStep": "Poslední krok",
+		"clickEnable": "Kliknutím na tlačítko „Zapnout\" níže můžete začít aplikaci True Key používat. Tuto akci stačí provést jednou.",
+		"clickDone": "Po provedení této akce %{htmlBefore}klikněte sem%{htmlAfter}"
+	},
+
+	"activation": {
+		"title": "Aktivace rozšíření aplikace True Key™",
+		"txtEnable": "Pokud se chcete rychle přihlašovat k oblíbeným stránkám,<br>aniž byste museli zadávat heslo, <strong>aktivujte rozšíření aplikace True Key</strong>.",
+		"txtInstall": "Pokud se chcete rychle přihlašovat k oblíbeným stránkám,<br>aniž byste museli zadávat heslo, <strong>nainstalujte rozšíření aplikace True Key</strong>.",
+		"txtRestart": "Chcete-li nainstalovat rozšíření aplikace True Key, je třeba<br>restartovat prohlížeč."
+	},
+
+	"loginSuccess": {
+		"title": "Vítejte zpět",
+		"text": "Při příštím spuštění prohlížeče se zobrazí ikona aplikace True Key."
+	},
+
+	"signupSuccess": {
+		"text": "Profil byl vytvořen.<br>Při příštím spuštění prohlížeče se zobrazí ikona aplikace True Key."
+	}
+}

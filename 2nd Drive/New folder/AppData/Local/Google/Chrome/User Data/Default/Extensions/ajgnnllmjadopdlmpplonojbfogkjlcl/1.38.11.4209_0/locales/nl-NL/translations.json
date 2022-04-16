@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Instellen",
+		"add": "Toevoegen",
+		"addNew": "Nieuwe toevoegen",
+		"addManually": "Handmatig toevoegen",
+		"cancel": "Annuleren",
+		"back": "Vorige",
+		"save": "Opslaan",
+		"saving": "Opslaan...",
+		"saved": "Opgeslagen!",
+		"upgrade": "Upgrade uitvoeren",
+		"noThanks": "Nee, bedankt",
+		"from": "Van %{name}",
+		"remove": "Verwijderen",
+		"removing": "Verwijderen...",
+		"disabling": "Uitschakelen...",
+		"delete": "Verwijderen",
+		"warningPermanent": "Deze actie kan niet ongedaan worden gemaakt.",
+		"confirmProceed": "Weet u zeker dat u wilt doorgaan?",
+		"parameters": "Parameters",
+		"details": "Details",
+		"sharing": "Delen",
+		"advancedSettings": "Geavanceerd",
+		"validating": "Valideren...",
+		"tryAgain": "Opnieuw proberen",
+		"sending": "Verzenden...",
+		"send": "Verzenden",
+		"sent": "Verzonden!",
+		"waitingResponse": "Wachten op antwoord",
+		"revoke": "Intrekken",
+		"updating": "Updates uitvoeren...",
+		"change": "Wijzigen",
+		"changed": "Gewijzigd!",
+		"copy": "Naar klembord kopiëren",
+		"accept": "Accepteren",
+		"decline": "Weigeren",
+		"privacyNotice": "Privacyverklaring",
+		"dontAskAgain": "Niet opnieuw vragen",
+		"notNow": "Later",
+		"sendNotification": "Melding verzenden",
+		"justAMoment": "Een ogenblik geduld...",
+		"learnMore": "Meer informatie",
+		"notYou": "Bent u dit niet?",
+		"changeUser": "Gebruiker wijzigen",
+		"confirm": "Bevestigen",
+		"launchSite": "Site openen",
+		"unlockMyTrueKey": "Mijn True Key ontgrendelen",
+		"next": "Volgende",
+		"previous": "Vorige",
+		"visible": "Zichtbaar",
+		"hidden": "Verborgen",
+		"vistHelpDesk": "Bezoek onze %{htmlBefore}helpdesk%{htmlAfter} voor meer informatie.",
+		"addFacialRecognition": "Gezichtsontgrendeling toevoegen",
+		"comingSoon": "Binnenkort verkrijgbaar",
+		"offline": "Offline",
+		"or": "of",
+		"and": "en",
+		"activate": "Activeren",
+		"logOut": "Afmelden",
+		"logins": "Aanmeldingen",
+		"favorites": "Favorieten",
+		"other": "Overige",
+		"locked": "Vergrendeld",
+		"unlocked": "Ontgrendeld",
+		"login": "Aanmelden",
+		"close": "Sluiten",
+		"closing": "Sluiten...",
+		"dismiss": "Negeren",
+		"signin": "Aanmelden",
+		"signOut": "Afmelden",
+		"manageProfile": "Profiel beheren",
+		"profile": "Profiel",
+		"menu": "Menu",
+		"DD": "DD",
+		"MM": "MM",
+		"YYYY": "JJJJ",
+		"visible": "Zichtbaar",
+		"hidden": "Verborgen",
+		"enable": "Inschakelen",
+		"doNotShowAgain": "Niet meer weergeven",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Later",
+		"restart": "Opnieuw opstarten",
+		"install": "Installeren",
+		"feedback": "Feedback",
+		"done": "Gereed",
+		"success": "Geslaagd",
+		"youreIn": "U bent binnen!",
+		"recommended": "aanbevolen"
+	},
+
+	"validation": {
+		"required": "Dit veld is verplicht",
+		"min": "{0} moet minimaal {1} tekens lang zijn"
+	},
+
+	"offline": {
+		"title": "Er is helaas geen internetverbinding.",
+		"desc": "U bent niet online. Herstel de verbinding met internet en probeer het opnieuw."
+	},
+
+	"locked": {
+		"notYou": "Bent u dit niet?",
+		"changeUser": "gebruiker wijzigen",
+		"cancelAuth": "Verificatie annuleren",
+		"signIn": "Meld u aan om te profiteren van Automatisch aanmelden",
+		"alternativeEmail": "Gebruik in plaats daarvan e-mailverificatie",
+		"alternativeDevice": "Gebruik in plaats daarvan een vertrouwd apparaat"
+	},
+
+	"time": {
+		"never": "Nooit",
+		"minutes": "%{smart_count} minuut |||| %{smart_count} minuten",
+		"hours": "%{smart_count} uur |||| %{smart_count} uur",
+		"days": "%{smart_count} dag |||| %{smart_count} dagen"
+	},
+
+	"labels": {
+		"email": "E-mailadres",
+		"masterPassword": "Hoofdwachtwoord",
+		"confirmMasterPassword": "Hoofdwachtwoord bevestigen",
+		"rememberMe": "Aangemeld blijven",
+		"websiteURL": "Website-URL",
+		"username": "Gebruikersnaam",
+		"password": "Wachtwoord",
+		"mobile": "Mobiel nummer",
+		"name": "Naam",
+		"title": "Titel",
+		"details": "Details",
+		"masterPassword": "Hoofdwachtwoord",
+		"websiteName": "Naam van website",
+		"notes": "Notities",
+		"ccType": "Type creditcard",
+		"cardholderName": "Naam van creditcardhouder",
+		"ccNumber": "Creditcardnummer",
+		"expiryDate": "Vervaldatum",
+		"issueDate": "Datum van uitgifte",
+		"colorpicker": "Uw kaarten ordenen met kleuren",
+		"driversLicenseNumber": "Licentienummer",
+		"firstName": "Voornaam",
+		"lastName": "Achternaam",
+		"gender": "Geslacht",
+		"stateProvince": "Staat/provincie",
+		"birthdate": "Geboortedatum",
+		"company": "Bedrijf",
+		"telephone": "Telefoon",
+		"streetName": "Straat",
+		"streetNumber": "Huisnummer",
+		"city": "Plaats",
+		"zipcode": "Postcode",
+		"memberID": "Lid-ID",
+		"memberSince": "Lid sinds",
+		"country": "Land",
+		"passportNumber": "Paspoortnummer",
+		"issuingCountry": "Land van uitgifte",
+		"placeOfBirth": "Geboorteplaats",
+		"number": "Nummer",
+		"male": "Man",
+		"female": "Vrouw"
+	},
+
+	"placeholders": {
+		"email": "Voer uw e-mailadres in",
+		"masterPassword": "Voer uw hoofdwachtwoord in",
+		"phone": "(123)-456-7890",
+		"name": "Voer uw naam in",
+		"title": "Voer hier een titel in",
+		"websiteURL": "Voer hier een URL in",
+		"websiteName": "Voer hier de naam van de website in",
+		"username": "Voer hier uw gebruikersnaam in",
+		"password": "Voer hier uw wachtwoord in",
+		"notes": "Voer hier opmerkingen in",
+		"cardholderName": "Voer hier de naam van de creditcardhouder in",
+		"ccNumber": "Voer hier het creditcardnummer in",
+		"driversLicenseNumber": "Voer hier het licentienummer in",
+		"firstName": "Voer hier de voornaam in",
+		"lastName": "Voer hier de achternaam in",
+		"stateProvince": "Voer hier de staat of provincie in",
+		"company": "Voer hier de bedrijfsnaam in",
+		"telephone": "Voer hier het telefoonnummer in",
+		"streetName": "Voer hier de straatnaam in",
+		"streetNumber": "Voer hier het huisnummer in",
+		"city": "Voer hier de plaats in",
+		"zipcode": "Voer hier de postcode in",
+		"memberID": "Voer hier het lid-ID in",
+		"notesDetails": "Voeg items toe die u wilt onthouden. Slotcombinaties. Product- en softwarecodes. Herinneringen en zelfs geheime recepten.",
+		"country": "Land selecteren",
+		"passportNumber": "Voer hier het paspoortnummer in",
+		"issuingCountry": "Land selecteren",
+		"placeOfBirth": "Land selecteren",
+		"number": "Voer hier het nummer in"
+	},
+
+	"errors": {
+		"generic": "Er is iets misgegaan",
+		"passwordsMatch": "Uw wachtwoorden moeten overeenkomen",
+		"nameRequired": "Voer uw naam in",
+		"emailInvalid": "Voer een geldig e-mailadres in",
+		"passwordTooShort": "Uw wachtwoord moet minimaal %{nbCharacters} tekens lang zijn",
+		"usernameRequired": "Gebruikersnaam is vereist"
+	},
+
+	"form": {
+		"launch": "Deze website bezoeken",
+		"passwordStrength": {
+			"veryWeak": "Erg zwak",
+			"weak": "Zwak",
+			"acceptable": "Acceptabel",
+			"strong": "Sterk",
+			"veryStrong": "Zeer sterk"
+		},
+		"copyPassword": "Wachtwoord kopiëren",
+		"viewPassword": "Wachtwoord weergeven"
+	},
+
+	"headerMessages": {
+		"txt1": "Hallo %{firstName}, welkom bij uw True Key Launchpad"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "Aan de slag! Voeg uw eerste aanmelding toe aan True Key",
+		"addNewLogin": "Nieuwe aanmelding toevoegen",
+		"success": "Welkom!"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Hebt u geen True Key-profiel?",
+			"signup": "Vraag er hier een aan",
+			"haveAccount": "Hebt u al een True Key-profiel?",
+			"login": "Aanmelden",
+			"help": "Help"
+		},
+
+		"intro": {
+			"hi": "Hallo.",
+			"meetTK": "Maak kennis met True Key™. De gemakkelijke en veilige manier om uw digitale wereld te ontgrendelen. Maak eerst een profiel.",
+			"watchVideo": "Video bekijken",
+			"createProfile": "Ga aan de slag en maak uw True Key-profiel.",
+			"cta": "Aan de gang",
+			"eulaPrivacy": "Wanneer u op de onderstaande knop klikt, gaat u akkoord met onze <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>EULA</a> en&nbsp;<a class='txt bold secondary btPrivacy'>Privacyverklaring</a>."
+		},
+
+		"confirm": {
+			"title": "BELANGRIJK: bevestig hoofdwachtwoord",
+			"enterAgain": "Voer uw hoofdwachtwoord nogmaals in.",
+			"wontRemember": "Ter bescherming van uw privacy en wachtwoord wordt uw hoofdwachtwoord nooit opgeslagen of bewaard. Alleen u weet uw hoofdwachtwoord. Zorg dus dat u het niet vergeet.",
+			"promise": "Belooft u het te onthouden?",
+			"submit": "Ja, ik onthoud mijn wachtwoord"
+		},
+		"loginHelp": {
+			"title": "Ondervindt u problemen?",
+			"txt1": "Uw hoofdwachtwoord is hoofdlettergevoelig en bevat geen spaties. En u kunt niet kopiëren en plakken.",
+			"txt2": "Bent u uw hoofdwachtwoord vergeten? Voor uw veiligheid weten wij niet wat uw wachtwoord is. U moet een nieuwe True Key™-account maken.",
+			"createAccount": "Nieuwe account maken"
+		},
+
+		"login": {
+			"title": "Aanmelden bij uw profiel",
+			"submit": "Aanmelden",
+			"working": "Uw gegevens ontsleutelen...",
+			"error": "Niet gelukt"
+		},
+
+		"logout": {
+			"title": "Ga nog niet: er is ook een mobiele app.",
+			"desc": "Stuur uzelf een sms-bericht met de store-koppeling voor de gratis app."
+		},
+
+		"onboarding": {
+			"skip": "Deze stap overslaan",
+			"skipVideo": "Gelukt!",
+			"title": "%{firstName}, uw True Key™-profiel is klaar. We gaan het nu uitproberen.",
+			"desc": "Kies een van deze populaire sites of voeg een nieuwe site toe om te zien hoe True Key werkt.",
+
+			"noWebsiteFlow": {
+				"desc": "U kunt gemakkelijk alles uit uw True Key-app halen:",
+				"addManually": "Uw eerste aanmelding handmatig toevoegen"
+			}
+		},
+
+		"emailTaken": {
+			"title": "Dit e-mailadres heeft al een profiel",
+			"desc": "Wilt u zich aanmelden als %{emailAddress}?"
+		},
+
+		"signup": {
+			"title": "Uw True Key™-profiel maken",
+			"cta": "Volgende stap",
+			"working": "Valideren...",
+			"success": "Ziet er goed uit!"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Automatisch aanmelden",
+			"desc": "Gebruik Automatisch aanmelden om sneller naar deze website te gaan. De True Key-app kan uw gebruikersnaam en wachtwoord voor u invullen."
+		},
+		"passwordReprompt": {
+			"title": "Om mijn hoofdwachtwoord vragen",
+			"desc": "Alleen u kent uw hoofdwachtwoord. Vraag altijd om uw wachtwoord voordat u wordt aangemeld."
+		},
+		"subdomainOnly": {
+			"title": "Alleen voor dit subdomein gebruiken",
+			"desc": "Gebruik deze optie om aanmelding alleen voor dit specifieke subdomein toe te staan."
+		},
+		"offlineHelp": {
+			"title": "Offlinemodus",
+			"desc": "Het lijkt erop dat uw internetverbinding is verbroken of traag is. U kunt uw wachtwoorden weergeven in offlinemodus, maar u kunt niets toevoegen, geen wijzigingen opslaan en geen wachtwoorden delen."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Taal gewijzigd",
+			"desc": "Uw huidige taal is %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Favoriet toegevoegd",
+			"desc": "De geselecteerde website is aan uw Launchpad toegevoegd."
+		},
+		"favoriteRemoved": {
+			"title": "Favoriet verwijderd",
+			"desc": "Deze favoriet is van uw Launchpad verwijderd."
+		},
+		"favoriteEdited": {
+			"title": "Favoriet bewerkt",
+			"desc": "De wijzigingen in deze favoriet zijn opgeslagen."
+		},
+		"passwordGenerated": {
+			"title": "Wachtwoord gekopieerd!",
+			"desc": "Het gegenereerde wachtwoord is gekopieerd naar uw klembord."
+		},
+		"noteCreated": {
+			"title": "Opmerking gemaakt!",
+			"desc": "Deze opmerking is toegevoegd aan uw True Key."
+		},
+		"passwordSaved": {
+			"title": "Wachtwoord opgeslagen!",
+			"desc": "Dit wachtwoord is toegevoegd aan uw True Key."
+		},
+		"loginShared": {
+			"title": "Wachtwoord gedeeld",
+			"desc": "Uw wachtwoord is gedeeld met %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Wachtwoord verwijderd.",
+			"desc": "Dit wachtwoord is verwijderd uit uw True Key."
+		},
+		"loginEdited": {
+			"title": "Aanmelding bewerkt.",
+			"desc": "De wijzigingen in deze aanmelding zijn opgeslagen."
+		},
+		"copied": {
+			"title": "Gekopieerd!",
+			"desc": "Dit is naar uw klembord gekopieerd."
+		},
+		"passwordCopied": {
+			"title": "Wachtwoord gekopieerd!",
+			"desc": "Uw wachtwoord is naar uw klembord gekopieerd."
+		},
+		"error": {
+			"title": "Er is iets misgegaan",
+			"desc": "Probeer het opnieuw"
+		},
+		"legacyAccepted": {
+			"title": "Uitnodiging geaccepteerd",
+			"desc": "Deze erfenisuitnodiging is geaccepteerd."
+		},
+		"legacyDeclined": {
+			"title": "Uitnodiging geweigerd",
+			"desc": "Deze erfenisuitnodiging is geweigerd."
+		},
+		"sharingAccepted": {
+			"title": "Uitnodiging geaccepteerd",
+			"desc": "Deze uitnodiging voor delen is geaccepteerd."
+		},
+		"sharingDeclined": {
+			"title": "Uitnodiging geweigerd",
+			"desc": "Deze uitnodiging voor delen is geweigerd."
+		},
+		"invitationResent": {
+			"title": "Uitnodiging opnieuw verzonden!",
+			"desc": "Deze uitnodiging is opnieuw verzonden."
+		},
+		"oobResent": {
+			"title": "Melding opnieuw verzonden!",
+			"desc": "Er is een nieuwe melding naar uw telefoon verzonden."
+		},
+		"emailResent": {
+			"title": "E-mail opnieuw verzonden!",
+			"desc": "Er is een nieuwe bevestigingsmail naar u verzonden."
+		},
+		"legacyRevoked": {
+			"title": "Erfenisverbinding ingetrokken!",
+			"desc": "Deze erfenisverbinding is ingetrokken."
+		},
+		"legacySent": {
+			"title": "Erfenisverzoek verzonden!",
+			"desc": "Er is een uitnodiging verzonden aan %{email}."
+		},
+		"legacySendError": {
+			"title": "Fout bij erfenisverzoek",
+			"desc": "De uitnodiging kan niet worden verzonden aan %{email}."
+		},
+		"browserNewTab": {
+			"title": "Instelling voor nieuw browsertabblad opgeslagen!",
+			"desc": "De instelling voor uw nieuwe browsertabblad is bijgewerkt."
+		},
+		"changedMP": {
+			"title": "Hoofdwachtwoord gewijzigd!",
+			"desc": "Uw hoofdwachtwoord is gewijzigd."
+		},
+		"clearAutosave": {
+			"title": "Automatisch opslaan hersteld",
+			"desc": "True Key slaat wachtwoorden op alle sites nu automatisch op."
+		},
+		"feedbackSent": {
+			"title": "Feedback ingediend!",
+			"desc": "Hartelijk dank voor uw feedback."
+		},
+		"documentCreated": {
+			"title": "Document gemaakt!",
+			"desc": "Dit document is opgeslagen naar uw True Key."
+		},
+		"documentRemoved": {
+			"title": "Document verwijderd",
+			"desc": "Dit document is verwijderd uit uw True Key."
+		},
+		"notesEdit": {
+			"title": "Wijzigingen opgeslagen",
+			"desc": "De wijzigingen in deze opmerking zijn opgeslagen."
+		},
+		"notesRemove": {
+			"title": "Opmerking verwijderd",
+			"desc": "Deze opmerking is verwijderd uit uw True Key."
+		},
+		"settingsChanged": {
+			"title": "Instellingen gewijzigd",
+			"desc": "Uw vergrendelingsinstellingen zijn bijgewerkt."
+		},
+		"disabledTrustedDevice": {
+			"title": "Apparaat uitgeschakeld",
+			"desc": "Uw apparaat is uitgeschakeld."
+		},
+		"deviceTrusted": {
+			"title": "Apparaat vertrouwd",
+			"desc": "Uw huidige apparaat is nu vertrouwd."
+		},
+		"confirmationEmailSent": {
+			"title": "Bevestigingsmail verstuurd!",
+			"desc": "Er is een bevestigingsmail verstuurd om %{email}"
+		}
+	},
+
+	"logins": {
+		"title": "Aanmeldingen",
+		"editLogin": "Aanmelding bewerken",
+		"viewLogin": "Aanmelding weergeven",
+		"shareLogin": "Aanmelding delen",
+		"shareSection": {
+			"title": "Deel aanmeldingen veilig met familie en vrienden. <strong>Selecteer hieronder de aanmelding die u wilt delen.</strong>"
+		},
+		"copyPassword": "Wachtwoord kopiëren",
+		"loginAs": "Aanmelden als",
+		"removeLogin": "Deze aanmelding verwijderen",
+		"noLoginFound": {
+			"title": "Kan die aanmelding niet vinden",
+			"desc": "Misschien is deze aanmelding nog niet opgeslagen. Wilt u de aanmelding toevoegen?"
+		},
+		"currentWebsite": "Huidige website",
+		"onboardingPopover": {
+			"title": "Automatisch aanmelden",
+			"desc": "Klik hier om aan te melden zonder te typen"
+		},
+		"searchAssets": "Mijn %{smart_count} aanmelding zoeken |||| Mijn %{smart_count} aanmeldingen zoeken",
+		"askForMasterPassword": "Hoofdwachtwoord",
+		"askForFaceRecognition": "Gezichtsontgrendeling",
+		"instantLogin": "Automatisch aanmelden",
+		"useForSubdomainOnly": "Alleen gebruiken voor het subdomein <span class='primary'>%{domain}</span>",
+		"notShared": "U deelt dit wachtwoord op dit moment met niemand.",
+		"visiblity": {
+			"title": "Maak wachtwoord:"
+		},
+		"unshare": "Delen opheffen",
+		"waitingResponse": "wachten op antwoord"
+	},
+
+	"sharing": {
+		"title": "Uw <span class='primary'>%{name}</span>-wachtwoord delen",
+		"accessGiven": "Dit wachtwoord wordt gedeeld met:"
+	},
+
+	"verifyEmail": {
+		"title": "U hebt uw e-mailadres niet geverifieerd",
+		"subtitle": "Als u wachtwoorden wilt delen, moet u eerst uw e-mailadres bevestigen.",
+		"desc": "Kunt u de verificatiemail die we u hebben gestuurd, niet meer vinden? U kunt een nieuwe mail aanvragen.",
+		"cta": "Bevestigingsmail opnieuw verzenden"
+	},
+
+	"premiumOnly": {
+		"title": "Alleen beschikbaar voor Premium-gebruikers",
+		"txt1": "Er is een Premium-account vereist om een nieuw wachtwoord aan uw True Key toe te voegen",
+		"txt1": "U kunt tot 5 wachtwoorden gratis toevoegen voordat een upgrade is vereist. Voer nu een upgrade uit om een onbeperkt aantal wachtwoorden te kunnen bewaren!"
+	},
+
+	"generator": {
+		"title": "Genereer een sterk wachtwoord onderweg.",
+		"subtitle": "Kies uw voorkeuren en tik op de knop Genereren en kopiëren om een nieuw wachtwoord te genereren.",
+		"placeholder": "Klik op de knop om een wachtwoord te genereren",
+		"cta": "Genereren en kopiëren",
+		"length": "Wachtwoordlengte",
+
+		"letters": "Letters gebruiken",
+		"digits": "Cijfers gebruiken",
+		"symbols": "Speciale tekens gebruiken",
+		"capitals": "Hoofdletters gebruiken",
+		"showInForms": "Generator automatisch in formulieren weergeven",
+
+		"history": {
+			"title": "Gegenereerde wachtwoorden",
+			"noGeneratedPassword": "Geen gegenereerde wachtwoorden."
+		}
+	},
+
+	"legacy": {
+		"title": "Erfenislocker",
+		"countingOnYou": "Mensen die op u rekenen",
+		"heirs": "Mensen op wie u rekent",
+		"sentTimer": "%{time} geleden",
+		"resendInvitation": "Uitnodiging opnieuw verzenden",
+		"assignTrustees": "Uw vertrouwde personen toewijzen",
+
+		"txtFeature": {
+			"txt1": "Zorg dat uw digitale identiteit veilig blijft, zowel tijdens uw leven als daarna.",
+			"txt2": "Erfenislocker is de beste manier om uw digitale leven door te geven aan degenen die u vertrouwt, bijvoorbeeld een partner, kind, vriend of collega.",
+			"txt3": "Wanneer u een vertrouwde persoon aan uw True Key toewijst, krijgt deze pas toegang tot uw account wanneer dat nodig is. %{htmlBefore}Video bekijken%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "U moet uw e-mailadres verifiëren",
+		"descLegacy": "U kunt pas vertrouwde personen toewijzen als uw e-mailadres is geverifieerd",
+		"getNewEmail": "Weet u niet zeker of u de verificatiemail die we eerder hebben gestuurd, nog hebt? U kunt een nieuwe mail aanvragen.",
+		"cta": "Stuur mij een nieuwe verificatiemail"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Aanmeldingen",
+		"wallet": "Portefeuille",
+		"notes": "Veilige notities",
+		"legacy": "Erfenislocker",
+		"generator": "Wachtwoordgenerator",
+		"settings": "Instellingen",
+		"preferences": "Voorkeuren",
+		"support": "Help en ondersteuning",
+		"tkProfile": "Mijn True Key-profiel",
+		"logout": "Afmelden"
+	},
+
+	"browserNewTab": {
+		"title": "Nieuw browsertabblad",
+		"txt1": "Stel de webpagina in waarmee uw browser moet worden geopend:",
+		"startpage": "Mijn True Key Launchpad",
+		"default": "Mijn standaardbrowserinstelling",
+		"custom": "Mijn eigen bestemming:"
+	},
+
+	"changeMP": {
+		"title": "Hoofdwachtwoord wijzigen",
+		"labels": {
+			"current": "Huidig hoofdwachtwoord",
+			"new": "Nieuw hoofdwachtwoord",
+			"confirmNew": "Nieuw hoofdwachtwoord"
+		},
+		"placeholders": {
+			"current": "Uw huidige hoofdwachtwoord invoeren",
+			"new": "Uw nieuwe hoofdwachtwoord invoeren",
+			"confirmNew": "Uw nieuwe hoofdwachtwoord opnieuw invoeren"
+		},
+		"cta": "Wachtwoord wijzigen"
+	},
+
+	"lockUnlock": {
+		"title": "U hebt de touwtjes in handen",
+		"desc": "Pas uw True Key-apps aan met een onbeperkt aantal factoren. Uw profiel wordt sterker als u meer wachtwoorden toevoegt.",
+
+		"noYap": {
+			"title": "Geef op aan uw True Key-account hoe vaak automatische vergrendeling moet worden uitgevoerd.",
+			"desc": "Selecteer de gewenste duur in het onderstaande vervolgkeuzemenu."
+		},
+
+		"basic": "Eenvoudig",
+		"advanced": "Geavanceerd",
+
+		"autolock": {
+			"title": "Automatische vergrendeling",
+			"desc": "Hoelang moet uw True Key-account inactief zijn voordat de account wordt vergrendeld?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Zichtbaarheid van Launchpad",
+			"desc": "Geef aan of uw True Key Launchpad zichtbaar moet zijn bij vergrendeling."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "Het apparaat dat u gebruikt, is vertrouwd.",
+			"txt2": "Wanneer u een apparaat vertrouwt, kunt u meer beveiligingsfactoren toevoegen, zoals Gezichtsontgrendeling."
+		}
+	},
+
+	"preferences": {
+		"title": "Voorkeuren",
+		"modals": {
+			"autologin": {
+				"title": "Automatisch aanmelden",
+				"desc": "Gebruik Automatisch aanmelden om sneller naar websites te gaan. De True Key-app kan uw gebruikersnaam en wachtwoord voor u invullen.",
+				"txt1": "Met Automatisch aanmelden kan True Key u rechtstreeks aanmelden bij een website die u eerder in uw account hebt opgeslagen. Hiervoor typt u gewoon het URL-adres (bijvoorbeeld www.voorbeeld.nl) in uw browser.",
+				"txt2": "Als Automatisch aanmelden is ingeschakeld, detecteert True Key het URL-adres van de website en wordt u automatisch aangemeld. U hoeft verder niet te klikken.",
+				"txt3": "Als Automatisch aanmelden is uitgeschakeld, detecteert True Key het URL-adres van de website en worden uw gebruikersnaam en wachtwoord ingevuld, maar moet u op de knop Aanmelden klikken."
+			},
+			"clearAutologin": {
+				"title": "Automatisch opslaan op alle sites herstellen",
+				"desc": "Als u True Key op bepaalde websites vraagt uw wachtwoord niet te onthouden en u verandert van gedachten, klikt u op de knop Herstellen. True Key slaat wachtwoorden dan automatisch op tijdens het surfen op het web."
+			}
+		},
+		"import": {
+			"title": "Slaat u momenteel wachtwoorden op een andere service op? Voeg ze toe aan uw True Key-account.",
+			"desc": "Gebruik het programma voor wachtwoordimport om snel wachtwoorden aan uw True Key-account toe te voegen.",
+			"cta": "Wachtwoorden importeren"
+		},
+		"newTab": "Startpagina en nieuw tabblad in browser",
+		"restoreAutosave": "Automatisch opslaan op alle sites herstellen",
+		"restore": "Herstellen",
+		"instantLogin": "Automatisch aanmelden",
+		"changeLanguage": "Taal wijzigen"
+	},
+
+	"shareSocial": {
+		"title": "Zeg het voort",
+		"title2": "Deel uw enthousiasme",
+		"desc": "Bent u tevreden over de True Key-app? Deel uw feedback met uw vrienden en verdien beloningen.",
+		"share": "Delen",
+		"tweet": "Tweeten",
+		"rateChrome": "App beoordelen",
+		"twitterMessage": "U kunt als eerste wachtwoorden elimineren. Reserveer uw #TrueKey by @IntelSecurity zodat u het als eerste kunt gebruiken."
+	},
+
+	"settingsNav": {
+		"profile": "Mijn True Key-profiel",
+		"lockUnlock": "Vergrendelingsvoorkeuren",
+		"windowsLock": "Windows Gezichtsontgrendeling",
+		"preferences": "Voorkeuren",
+		"support": "Help en ondersteuning",
+		"shareSocial": "Zeg het voort",
+		"trustedDevices": "Vertrouwde apparaten"
+	},
+
+	"tkProfile": {
+		"title": "Mijn factoren",
+		"hi": "Hallo %{fullname},",
+		"txt1": "Hoe meer factoren u toevoegt, %{htmlBefore}hoe sterker uw True Key-profiel.%{htmlAfter}",
+		"activeFactors": "Actieve factoren",
+		"active": "Actief",
+		"strength": "Profielsterkte",
+
+		"accountStatus": {
+			"title": "Abonnementsstatus",
+			"premium": "Premium",
+			"ends": "Verloopt op"
+		},
+
+		"layerEmail": "Voeg uw e-mailadres toe als vertrouwde factor en koppel het aan uw True Key-profiel. <strong>U ontvangt meldingen in uw postvak IN wanneer u zich aanmeldt op nieuwe of niet-vertrouwde apparaten.</strong>",
+		"layerSwipe": "Stuur een melding naar uw mobiele apparaat <strong>voor extra beveiliging wanneer u zich aanmeldt bij accounts</strong>. U moet de melding accepteren voordat True Key u aanmeldt.",
+		"layerFace": {
+			"txt1": "<strong>Meld u aan zonder een wachtwoord in te voeren.</strong>Gezichtsontgrendeling gebruikt de unieke afmetingen van uw gezicht, zoals de afstand tussen uw ogen en neus, om u te herkennen en aan te melden.",
+			"txt2": "Gezichtsontgrendeling is beschikbaar voor pc's en Android-apparaten."
+		},
+		"layerPassword": "Bescherm uw profiel met een sterk hoofdwachtwoord, dat u niet moet vergeten! <strong>Uw hoofdwachtwoord kan niet opnieuw worden ingesteld als u het vergeet, omdat alleen u het weet.</strong> Als u extra factoren toevoegt, wordt uw hoofdwachtwoord gebruikt als back-up wanneer u zich niet kunt aanmelden met deze factoren.",
+		"layerDevice" : "True Key kan de apparaten herkennen die u bezit of veel gebruikt. Voeg alle apparaten toe waarop u zich bij uw True Key-profiel aanmeldt. <strong>Zo voorkomt u dat iemand toegang tot uw account krijgt</strong>, omdat extra factoren zijn vereist bij een aanmeldingspoging op een onbekend apparaat"
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Hoe veilig moet uw Windows-ontgrendeling zijn?",
+		"desc": "Selecteer het gewenste beveiligingsniveau.",
+
+		"basic": {
+			"settingName": "Eenvoudig",
+			"title": "Met de basisinstelling wordt u het snelste aangemeld",
+			"desc": "Deze instelling wordt aanbevolen als u een persoonlijke computer in een vertrouwde omgeving gebruikt."
+		},
+		"advanced": {
+			"settingName": "Geavanceerd",
+			"title": "Met de instelling Geavanceerd wordt anti-spoofing geactiveerd",
+			"desc": "Deze instelling wordt aanbevolen voor persoonlijke en openbare computers thuis of op het werk."
+		},
+		"boosted": {
+			"settingName": "Versterkt",
+			"title": "Met de instelling Versterkt worden anti-spoofing en livedetectie geactiveerd",
+			"desc": "Bij de instelling Versterkt wordt u gevraagd om met uw ogen te knipperen om te bewijzen dat u het echt bent. Deze instelling wordt aanbevolen voor openbare computers in niet-vertrouwde omgevingen."
+		},
+		"howTo": {
+			"title": "Met uw gezicht aanmelden bij Windows",
+			"subtitle": "Hebt u er genoeg van om uw Windows-wachtwoord te moeten invoeren?",
+			"desc": "Gebruik True Key om uw apparaat te ontgrendelen: een snelle en eenvoudige oplossing.",
+			"cta": "Kom te weten hoe u activeert"
+		},
+		"howToModal": {
+			"title": "Met uw gezicht aanmelden bij Windows",
+			"desc": "Volg deze eenvoudige stappen om Windows-aanmelding met uw gezicht in te schakelen:",
+			"step1": "Vergrendel uw scherm (Windows + L)",
+			"step2": "Klik op de Terug-knop",
+			"step3": "Klik op het True Key-pictogram",
+			"tip": "U kunt uw scherm vergrendelen met de snelkoppeling Windows+L"
+		}
+	},
+
+	"videos": {
+		"title": "Video's",
+		"intro": {
+			"title": "De inleiding",
+			"desc": "Wat is True Key en waarom hebt u het nodig? Kom het hier te weten!"
+		},
+		"gettingStarted": {
+			"title": "Aan de slag-rondleiding",
+			"desc": "Nieuwe gebruiker? Haal alles uit True Key met deze snelle rondleiding door het product."
+		},
+		"security": {
+			"title": "Beveiliging",
+			"desc": "Uw beveiliging is onze prioriteit. Hier komt u te weten hoe we uw gegevens beveiligen."
+		},
+		"sharing": {
+			"title": "Een wachtwoord delen",
+			"desc": "Eindelijk! Versleutelde deelfunctionaliteit die iedereen kan gebruiken!"
+		},
+		"sharingSecurity": {
+			"title": "Beveiliging bij delen",
+			"desc": "Versleuteld delen: het is moeilijker dan u zou denken om het zo gebruiksvriendelijk te maken."
+		},
+		"legacy": {
+			"title": "Erfenis",
+			"desc": "Het enige wachtwoordprogramma dat uw gegevens tijdens uw leven beschermt... en daarna."
+		}
+	},
+
+	"support": {
+		"title": "Help en ondersteuning",
+		"feedback": {
+			"title": "Neem contact op",
+			"desc": "Wat vindt u van de True Key-service?",
+			"needsWork": "Kan beter",
+			"awesome": "Geweldig",
+			"leaveComment": "Laat een opmerking achter:",
+			"placeholder": "wij stellen uw feedback op prijs. Voer hier uw opmerkingen in. Bij voorbaat dank!",
+			"thankYou": "Hartelijk dank!"
+		},
+		"getMoreSupport": "Meer ondersteuning"
+	},
+
+	"wallet": {
+		"title": "Portefeuille",
+		"add": {
+			"subtitle1": "Uw informatie veilig bewaren",
+			"subtitle2": "Selecteer hieronder een categorie om uw eerste portefeuille-item toe te voegen"
+		},
+		"search": "Zoeken in uw portefeuille",
+		"types": {
+			"identity": "Adresboek",
+			"cc": "Creditcard",
+			"drivers": "Rijbewijs",
+			"membership": "Lidmaatschappen",
+			"passport": "Paspoort",
+			"ssn": "Burgerservicenummer"
+		},
+		"remove": {
+			"title": "Een document verwijderen",
+			"confirm": "Weet u zeker dat u dit document wilt verwijderen uit uw True Key?",
+			"permanent": "Deze actie kan niet ongedaan worden gemaakt."
+		},
+		"edit": {
+			"title": "Document bewerken"
+		}
+	},
+
+	"notes": {
+		"title": "Veilige notities",
+		"add": {
+			"title": "Notitie toevoegen"
+		},
+		"empty": {
+			"title": "Niet gevonden",
+			"desc": "Misschien is de notitie die u zoekt, niet opgeslagen in True Key.",
+			"cta": "Notitie maken"
+		},
+		"sort": {
+			"alphabetically": "Alfabetisch",
+			"dateCreated": "Aanmaakdatum"
+		},
+		"search": "Mijn %{smart_count} veilige notitie doorzoeken |||| Mijn %{smart_count} veilige notities doorzoeken",
+		"remove": {
+			"title": "Een notitie verwijderen",
+			"desc": "Weet u zeker dat u deze notitie wilt verwijderen uit uw True Key?",
+			"permanent": "Deze actie kan niet ongedaan worden gemaakt."
+		},
+		"edit": {
+			"title": "Veilige notitie"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Standaardaanmelding gebruiken"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) wil u toewijzen als erfgenaam."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) heeft zijn wachtwoord voor %{htmlBefore}%{title}%{htmlAfter} met u gedeeld."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) wil een wachtwoord met u delen."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Accountvoortgang:",
+		"pctProgress": "%{percentage}%",
+		"addLogin": {
+			"title": "Uw eerste aanmelding toevoegen",
+			"desc": "Een aanmelding opslaan naar True Key"
+		},
+		"oneClick": {
+			"title": "Probeer Automatisch aanmelden uit",
+			"desc": "Aanmelden zonder uw toetsenbord te gebruiken"
+		},
+		"addFace": {
+			"title": "Gezichtsontgrendeling toevoegen",
+			"desc": "Zo kunt u zich sneller en gemakkelijker aanmelden."
+		},
+		"addLogins": {
+			"title": "Uw eerste vier aanmeldingen toevoegen",
+			"desc": "Meer aanmeldingen toevoegen aan uw True Key-profiel"
+		},
+		"sharing": {
+			"title": "Een wachtwoord delen",
+			"desc": "Veilig delen met familie, vrienden en collega's"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "Meld u sneller aan met uw gezicht.",
+		"txt1": "Stel Gezichtsontgrendeling in voor eenvoudige, onmiddellijke toegang tot uw True Key™-app.",
+		"txt2": "U kunt Gezichtsontgrendeling ook koppelen aan uw hoofdwachtwoord voor een probleemloze tweede factor.",
+		"txt3": "Maakt u zich geen zorgen. Uw foto wordt niet opgeslagen of gedeeld.",
+		"cta": "Gezichtsontgrendeling instellen"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Een vertrouwd apparaat toevoegen",
+		"txt1": "Controleer uw e-mail om te bevestigen.",
+		"txt2": "Controleer uw postvak IN om door te gaan."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Vertrouwd apparaat selecteren",
+		"txt": "U hebt verificatie op basis van twee factoren geactiveerd. Selecteer een vertrouwd apparaat om deze melding te ontvangen."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Vertrouwd apparaat uitschakelen",
+		"txt": "U hebt besloten het volgende apparaat uit te schakelen: '%{deviceName}'",
+		"confirm": "Uitschakelen"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "Het apparaat dat u gebruikt, is vertrouwd.",
+		"txt": "Wanneer u een apparaat vertrouwt, kunt u meer beveiligingsfactoren toevoegen, zoals Gezichtsontgrendeling."
+	},
+
+	"overlayInstallExe": {
+		"title": "U bent er bijna, nog drie stappen",
+		"txt": "Uw True Key-software wordt nu gedownload. Werkt het niet? ",
+		"restartDownload": "Klik hier om de download opnieuw te starten."
+	},
+
+	"overlayOobPending": {
+		"txt": "We hebben u een push-melding gestuurd om uw aanmelding te verifiëren. Controleer uw vertrouwde apparaat.",
+		"btResend": "Melding opnieuw verzenden"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "Oeps, uw push-melding is verlopen.",
+		"txt2": "Probeer het opnieuw met een nieuwe melding",
+		"btResend": "Hebt u de melding niet ontvangen? Opnieuw verzenden"
+	},
+
+	"overlayInstallFace": {
+		"title": "Sneller aanmelden",
+		"txt": "Bespaar tijd. Gebruik Gezichtsontgrendeling in plaats van uw hoofdwachtwoord in te voeren."
+	},
+
+	"overlayTrustDevice": {
+		"title": "Is dit een vertrouwd apparaat?",
+		"txt1": "Het lijkt erop dat u zich probeert aan te melden op een niet-vertrouwd apparaat.",
+		"txt2": "Wanneer u deze computer toevoegt aan uw vertrouwde apparaten, kunt u zich sneller aanmelden met behulp van een of meer factoren.",
+		"dontTrust": "Nee, niet vertrouwen",
+		"trustComputer": "Deze computer vertrouwen"
+	},
+
+	"overlayEmailPending": {
+		"title": "Uw e-mailadres bevestigen",
+		"txt": "Controleer uw e-mail om dit apparaat te bevestigen.",
+		"btResend": "E-mail opnieuw verzenden"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Oeps, uw e-mailmelding is verstreken.",
+		"txt2": "Probeer het opnieuw met een nieuwe melding.",
+		"btResend": "Hebt u de melding niet ontvangen? Opnieuw verzenden"
+	},
+
+	"overlayUpdate": {
+		"title": "Werk uw True Key-app bij",
+		"txt": "Er is een nieuwe versie om te installeren. Klik op Update uitvoeren om door te gaan.",
+		"btUpdate": "Nu update uitvoeren"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Voer uw hoofdwachtwoord in",
+			"enterMasterPasswordHere": "Voer hier uw hoofdwachtwoord in",
+			"invalidPassword": "Wachtwoord ongeldig"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Bevestiging vereist"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Automatische vergrendeling",
+		"text": "Wanneer moet uw True Key-app worden vergrendeld?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Zichtbaarheid van Launchpad",
+		"text": "Bepaal of uw favoriete sites worden verborgen of weergegeven wanneer uw Launchpad is vergrendeld.",
+		"visible": "<span class='bold'>Zichtbaar:</span> u kunt uw Launchpad ook zien als het is vergrendeld.",
+		"invisible": "<span class='bold'>Verborgen:</span> uw Launchpad wordt verborgen wanneer het is vergrendeld."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Vertrouwd apparaat",
+			"helpText": "Koppel uw apparaat aan uw True Key-profiel voor een extra beveiligingslaag.",
+			"enroll": "Apparaat vertrouwen"
+		},
+		"masterPassword": {
+			"title": "Hoofdwachtwoord",
+			"helpText": "Maak een sterk hoofdwachtwoord voor uw True Key-profiel. Wij onthouden dit wachtwoord niet, dus zorg dat u het niet vergeet."
+		},
+		"email": {
+			"title": "Vertrouwde e-mail",
+			"helpText": "Bevestig uw e-mailadres om alle functies te activeren. Voor extra veiligheid kunt u uw e-mailadres ook als tweede factor gebruiken.",
+			"enroll": "Bevestigingsmail verzenden"
+		},
+		"face": {
+			"title": "Gezichtsontgrendeling",
+			"helpText": "Gezichtsontgrendeling van True Key maakt gebruik van uw unieke gezichtseigenschappen om te bevestigen dat u het bent. Gebruik Gezichtsontgrendeling als primaire aanmeldingsmethode of als extra beveiligingsfactor.",
+			"enroll": "Nu toevoegen"
+		},
+		"mobile": {
+			"title": "Ontgrendeling door vegen (alleen Android)",
+			"helpText": "Met Ontgrendeling door vegen stuurt u een push-melding naar uw mobiele telefoon als tweede factor. Veeg gewoon over de melding om uw computerprofiel te ontgrendelen. U kunt deze functie gebruiken in plaats van uw hoofdwachtwoord of in combinatie met uw wachtwoord voor extra beveiliging.",
+			"enroll": "Telefoon toevoegen"
+		},
+		"fingerprint": {
+			"title": "Ontgrendeling door aanraken",
+			"helpText": "Gebruik uw unieke vingerafdruk als extra beveiligingslaag om veilig toegang te krijgen tot uw True Key. Deze functie is binnenkort beschikbaar."
+		}
+	},
+
+	"killswitch": {
+		"title": "Verplichte update",
+		"chrome": {
+			"txt1": "Deze versie van de True Key-extensie wordt niet meer ondersteund.  Chrome heeft automatisch een update naar de nieuwste versie uitgevoerd.",
+			"txt2": "Start uw browser opnieuw."
+		},
+		"ie": {
+			"txt1": "Deze versie van True Key wordt niet langer ondersteund. Klik op de knop hieronder om naar de nieuwste versie bij te werken",
+			"cta": "Nu update uitvoeren"
+		},
+		"downloading": "Deze versie van True Key wordt niet langer ondersteund. Er wordt nu een bijgewerkte versie gedownload. Een ogenblik geduld..."
+	},
+
+	"downloadExe": {
+		"title": "Goede keus",
+		"txt1": "Met Gezichtsontgrendeling hoeft u niet langer uw hoofdwachtwoord in te voeren. Klik hieronder om het installatieprogramma te downloaden."
+	},
+
+	"enableIE": {
+		"appInstalled": "App geïnstalleerd",
+		"enableIt": "Schakel de app nu in uw browser in",
+		"cta": "Klik nadat u de app hieronder hebt ingeschakeld",
+		"title": "Nog één stap",
+		"txt1": "Klik hieronder op 'Inschakelen' om de True Key-app te gaan gebruiken. U hoeft dit maar één keer te doen.",
+		"txt2": "Daarna %{htmlBefore}klikt u hier%{htmlAfter}.",
+		"appInstalled" : "App geïnstalleerd.",
+		"enableIt" : "Schakel de app nu in uw browser in.",
+		"havingTrouble" : "Ondervindt u problemen? Vernieuw deze pagina."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "U bent al beschermd omdat u op een vertrouwd apparaat werkt:",
+		"trustedDevice": "Dit vertrouwde apparaat ('%{deviceName}')",
+		"chooseFactors": "Kies welke extra factor u wilt gebruiken voor ontgrendeling van uw app:",
+		"simple": "Eenvoudig",
+		"complex": "Complex",
+		"faceUnlock": "Gezichtsontgrendeling",
+		"addFace": "Gezicht toevoegen",
+		"addSwipe": "Ontgrendeling door vegen toevoegen",
+		"masterPassword": "Hoofdwachtwoord",
+		"theseFactorsAreRequired": "Deze factoren zijn ook vereist voor toegang tot uw app:",
+
+		"confirmAdvanced": {
+			"title": "Ter informatie",
+			"content": "Wanneer u zich aanmeldt via de instelling Geavanceerd, moet uw apparaat een internetverbinding hebben. Als u geen verbinding kunt maken, hebt u geen toegang tot uw True Key-profiel.",
+			"confirm": "OK"
+		}
+	},
+
+	"faq": {
+		"title": "Veelgestelde vragen",
+
+		"Q1": "Wat is True Key™?",
+		"A1": "True Key™ by Intel Security transformeert de manier waarop de wereld zich aanmeldt.  Met True Key hoeft u niet langer meerdere wachtwoorden te onthouden, maar wordt u meteen aangemeld bij uw apps, sites en apparaten met behulp van factoren die uniek zijn voor u, zoals uw gelaatstrekken en identificators voor de apparaten die u gebruikt.  Hoe meer factoren u gebruikt, hoe sterker uw True Key wordt, zodat het nog gemakkelijker wordt om te bevestigen dat u het bent. Met True Key bent u het wachtwoord.  U hebt meer controle over uw digitale identiteit en kunt sneller, gemakkelijker en veiliger door uw digitale wereld reizen.",
+
+		"Q2": "Hoe werkt het?",
+		"A2": "Open uw True Key-account op een smartphone, tablet of pc en maak uw profiel, zodat True Key weet dat u het bent. Websites die True Key ondersteunen, weten automatisch dat u het bent, zodat u uw wachtwoord niet hoeft in te voeren en zelfs niet hoeft te onthouden. Websites die nog niet worden ondersteund door True Key, gebruiken de inbegrepen wachtwoordbeheerder om uw gebruikersnamen en wachtwoorden te leren en automatisch voor u in te voeren. Met True Key bent u het wachtwoord.  U hebt meer controle over uw digitale identiteit en kunt sneller, gemakkelijker en veiliger door uw digitale wereld reizen.",
+
+		"Q3": "Waarom aanmelden met True Key?",
+		"A3": "True Key vereenvoudigt uw leven en laat de digitale wereld weten dat u het echt bent. Wanneer u zich eenmaal aanmeldt bij True Key met unieke kenmerken zoals uw gezichtseigenschappen of uw vingerafdruk, komt u onmiddellijk waar u wilt zijn.",
+
+		"Q4": "Kunnen meerdere mensen op een gedeelde computer hun True Key-account gebruiken?",
+		"A4": "Ja, True Key herkent dat u het bent en meldt alleen u aan bij uw eigen account(s). Het is een kwestie van afmelden en u opnieuw aanmelden.",
+
+		"Q5": "Hoe veilig is True Key?",
+		"A5": "True Key is een beveiligingsproduct dat iedereen kan gebruiken. Uw gegevens worden versleuteld met AES-256, een van de krachtigste versleutelingsmethoden die beschikbaar zijn. En u kunt de beveiliging van True Key nog verder verhogen door extra attributen, of 'factoren', toe te voegen, zoals uw gezichtseigenschappen of een vingerafdruk.",
+
+		"Q6": "Hoe worden mijn gegevens versleuteld en ontsleuteld?",
+		"A6": "True Key bewaart uw gegevens lokaal op uw apparaat met behulp van AES-256-versleuteling, een van de krachtigste versleutelingsmethoden die beschikbaar zijn.  Uw vertrouwelijke gegevens verlaten nooit uw apparaat tenzij ze zijn versleuteld, en alleen u (en degenen die u toegang verleent) hebben toegang tot uw gegevens.",
+
+		"Q7": "Kan een True Key-werknemer toegang krijgen tot de gegevens die in mijn account zijn opgeslagen of tot andere vertrouwelijke gegevens?",
+		"A7": "Nee. Met True Key bent u het wachtwoord.  Uw gegevens worden op uw apparaat versleuteld en ontsleuteld, en blijven altijd in uw beheer. True Key gebruikt factoren die uniek zijn voor u, waaronder uw gezichtseigenschappen, vingerafdruk of hoofdwachtwoord, om alleen waar nodig te versleutelen en ontsleutelen.",
+
+		"Q8": "Waar worden de versleuteling en ontsleuteling van mijn gegevens uitgevoerd?",
+		"A8": "Uw gegevens worden lokaal versleuteld en ontsleuteld, op uw apparaat. Alleen versleutelde gegevens worden op True Key-servers opgeslagen.",
+
+		"Q9": "Worden mijn gegevens op True Key-servers opgeslagen?",
+		"A9": "Ja, uw versleutelde True Key-gegevens worden op een veilige True Key-server opgeslagen. Deze informatie is alleen toegankelijk met factoren die uniek zijn voor u, bijvoorbeeld uw gezichtseigenschappen of hoofdwachtwoord.",
+
+		"Q10": "Kan ik True Key Gezichtsontgrendeling gebruiken voor Windows-apparaten?",
+		"A10": "True Key Gezichtsontgrendeling voor Windows-apparaten zal begin 2015 beschikbaar zijn.",
+
+		"Q11": "Heb ik een bepaalde webcamera nodig?",
+		"A11": "True Key werkt met de camera aan de voorkant van uw apparaat en met USB-camera's.",
+
+		"Q12": "Kan iemand zich aanmelden met behulp van een foto van mij?",
+		"A12": "Nee, True Key is ontwikkeld met geavanceerde technologie voor anti-spoofing om dergelijke aanmeldingspogingen te voorkomen. U bent in goede handen bij Intel Security.",
+
+		"Q13": "Hoe weet u zeker dat ik het ben die zich aanmeldt?",
+		"A13": "U bent in goede handen bij Intel Security. True Key maakt gebruik van zeer geavanceerde algoritmes om te bevestigen dat u het bent, waaronder biometrische gegevens, gezichtsbeelden, vingerafdrukken en andere kenmerken die u instelt en die uniek zijn voor u.",
+
+		"Q14": "Waar kan ik True Key Gezichtsontgrendeling gebruiken en op welke platforms?",
+		"A14": "U kunt True Key downloaden op alle populaire apparaten. Gezichtsaanmelding is momenteel echter alleen beschikbaar op Windows 8, 8.1, Internet Explorer 10 + 11 en Google Chrome.  In de komende maanden brengen we nog meer platforms en manieren voor verificatie uit."
+	},
+
+	"privacy": {
+		"title": "U, uw gegevens en True Key",
+
+		"Q1": "Om te beginnen: uw privacy",
+		"A1": "Intel Security respecteert uw privacy. Lees onze %{privacyBefore}Privacyverklaring%{linkAfter} voor meer informatie over hoe Intel Security omgaat met de persoonlijke gegevens die u aan ons verstrekt.",
+
+		"Q2": "Welke informatie wordt verzameld door de True Key-app?",
+		"A2": "<p>Met uw toestemming registreert de True Key-app de afbeelding van uw gezicht, die wordt omgezet in metingen (oftewel 'gezichtseigenschappen').</p><p>Wanneer uw gezichtseigenschappen zijn berekend, wordt de afbeelding verwijderd. Uw gezichtseigenschappen worden lokaal versleuteld en op uw apparaat opgeslagen.  De versleutelde informatie wordt dan veilig opgeslagen in een Intel Security-datacenter, zodat u gemakkelijk en veilig toegang tot uw apparaten en websites krijgt.</p><p>Intel Security heeft geen toegang tot de vertrouwelijke informatie die in uw True Key-app is opgeslagen, omdat de gegevens worden versleuteld voordat ze naar Intel Security worden verstuurd en worden beschermd met een hoofdwachtwoord dat alleen u kent.</p><p>Bovendien:</p><p>de True Key-app slaat ook de wachtwoorden, gebruikersnamen en portefeuillegegevens op die u opgeeft.  Deze gegevens worden allemaal op uw apparaat versleuteld en kunnen naar uw andere apparaten worden gesynchroniseerd nadat de versleutelde informatie naar de veilige True Key-servers is verstuurd om met u te communiceren.</p>",
+
+		"Q3": "Wat zijn gezichtseigenschappen?",
+		"A3": "Met gezichtseigenschappen bedoelen we een berekening van de metingen van uw gezicht, zodat de technologie van Gezichtsontgrendeling u kan identificeren.",
+
+		"Q4": "Hoe worden mijn gezichtseigenschappen gebruikt?",
+		"A4": "Intel Security gebruikt uw gezichtseigenschappen met de technologie van Gezichtsontgrendeling om te weten dat u het bent en u bij uw apparaat of een True Key-website aan te melden.",
+
+		"Q5": "Waar wordt alles opgeslagen?",
+		"A5": "De sjabloon voor gezichtseigenschappen wordt versleuteld en op uw apparaten opgeslagen. De versleutelde informatie wordt ook opgeslagen in een Intel Security-datacenter, zodat u tussen uw apparaten kunt synchroniseren.",
+
+		"Q6": "Hoe verwijder ik Gezichtsontgrendeling van mijn apparaat?",
+		"A6": "Als u deze functie wilt verwijderen of uitschakelen, schakelt u uw account uit of verwijdert u het programma via de verwijderingsopties van uw apparaat of systeem.",
+
+		"Q7": "Hoe kan ik mijn gezichtseigenschappen verwijderen uit het datacenter van Intel Security?",
+		"A7": "U kunt een verzoek tot verwijdering van uw gezichtseigenschappen indienen door contact op te nemen met de %{customerSupportBefore}klantenservice%{linkAfter} van True Key. Na verificatie kunt u verzoeken dat uw gezichtseigenschappen worden verwijderd.",
+
+		"Q8": "Houdt mijn True Key-app bij welke websites ik bezoek?",
+		"A8": "Wanneer u websites en aanmeldingen in uw True Key-profiel opslaat, ziet u deze informatie in uw True Key Launchpad.",
+
+		"Q9": "Gebruikt de True Key-service deze informatie voor andere doeleinden?",
+		"A9": "Nee, de True Key-service heeft geen toegang tot uw versleutelde informatie.",
+
+		"Q10": "Waar kan ik meer informatie over de True Key-app vinden?",
+		"A10": "U komt meer te weten over Gezichtsontgrendeling en de True Key-app op de True Key-website (%{websiteBefore}truekey.com%{linkAfter}) of door contact op te nemen met de %{customerSupportBefore}klantenservice%{linkAfter} van True Key."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Een vertrouwd apparaat toevoegen",
+		"lastUsed": "Laatst gebruikt:",
+		"twoFactor": "Verificatie op basis van twee factoren:",
+		"title": "Selecteer en beheer vertrouwde apparaten voor uw True Key-profiel.",
+		"txt1": "U bepaalt welke apparaten uw True Key-profiel kan vertrouwen. Gebruik deze apparaten voor verificatie op basis van twee factoren, en bepaal waar u toegang hebt tot uw sites en apps. U kunt een apparaat op elk moment toevoegen of verwijderen."
+	},
+
+	"startpage": {
+		"searchNoResults": "Geen resultaten gevonden.",
+
+		"addFavorite": {
+			"title": "Een favoriet toevoegen",
+			"placeholder": "De naam of URL van een website invoeren",
+			"titleSuggestions": "Hieronder volgen enkele suggesties:",
+			"moreSuggestions": "Meer suggesties"
+		},
+
+		"addManually": {
+			"title": "Een favoriet handmatig toevoegen",
+			"label": {
+				"websiteName": "Naam van website",
+				"url": "URL"
+			},
+			"placeholders": {
+				"websiteName": "bijvoorbeeld: Facebook",
+				"url": "bijvoorbeeld: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Favoriet bewerken"
+		},
+
+		"ctaEdit": "Deze favoriet bewerken",
+
+		"search": {
+			"onTheWeb": "Zoeken naar '%{filter}' op het web",
+			"logins": "Uw opgeslagen aanmeldingen",
+			"placeholder": "Zoeken op het web of in uw True Key Launchpad"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Favorieten",
+			"description": "Favorieten lijken op bladwijzers. U kunt ze naar wens toevoegen, verwijderen en organiseren. Gebruik Favorieten voor snelle toegang tot de websites die u het vaakst bezoekt, zelfs websites waarvoor u geen aanmeldingen hebt opgeslagen."
+		},
+		"logins": {
+			"title": "Aanmeldingen",
+			"description": "Hier vindt u de aanmeldingen die naar uw profiel zijn opgeslagen. U kunt de details toevoegen, weergeven of bewerken en de beveiligingsinstellingen voor elke aanmelding beheren."
+		},
+		"menu": {
+			"title": "Uw menu",
+			"description": "Roep uw voorkeuren, beveiligingsinstellingen, ondersteuning en nog veel meer op via Menu."
+		},
+		"search": {
+			"title": "Zoeken",
+			"description": "Zoek snel op het web of in uw True Key-profiel naar de gewenste informatie."
+		},
+		"profile": {
+			"title": "Profiel",
+			"description": "Geef uw profielinstellingen weer en werk ze bij. Klik op het meldingspictogram wanneer er een bericht voor u is."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Bijna klaar!",
+		"description": "Nu moet u de True Key™-extensie inschakelen. Kies een van of al uw browsers.",
+		"activated": "True Key™ is al ingeschakeld op <em>%{activatedBrowser}</em>,<br> voeg True Key ook aan <em>%{availableBrowser}</em> toe.",
+
+		"overlayTitle": "True Key™ ingeschakeld",
+		"overlayText": "Als u zich rechtstreeks wilt aanmelden bij uw favoriete sites zonder een wachtwoord te moeten invoeren, <strong>schakelt u True Key in</strong>.",
+		"errorNoBrowserSelected": "Selecteer ten minste één browser om True Key in te schakelen"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "Maak kennis met True Key™ by Intel Security",
+			"subtitle": "Ontgrendel uw digitale wereld zonder het gedoe van meerdere wachtwoorden",
+			"description": "De True Key-app transformeert de manier waarop de wereld zich aanmeldt door uw unieke factoren te gebruiken en u zo veilige, snelle toegang tot uw favoriete sites, apps en apparaten te bieden."
+		},
+		"sync": {
+			"subtitle": "U kunt gaan en staan waar u wilt, met automatische synchronisatie met uw telefoon, tablet en computer",
+			"description": "De True Key-app synchroniseert veilig naar uw telefoon, tablet en computer, zodat u uw informatie altijd bij de hand hebt."
+		},
+		"encrypted": {
+			"subtitle": "Beveilig en versleutel uw informatie en bescherm uw privacy",
+			"description": "Uw gegevens worden lokaal op uw apparaat opgeslagen en verlaten het apparaat alleen versleuteld. Alleen u hebt toegang tot uw gegevens."
+		},
+		"unique": {
+			"subtitle": "Maak uw profiel net zo uniek als uzelf",
+			"description": "Met de True Key-app bent u het wachtwoord. Hoe meer factoren u gebruikt, hoe sterker uw True Key-profiel, zodat de digitale wereld weet dat u het echt bent."
+		},
+		"skipTour": "Rondleiding overslaan",
+		"iGetIt": "Ik snap het.",
+		"getStarted": "Aan de slag"
+	},
+
+	"slideshow2": {
+		"meetTK": "Maak kennis met True Key by Intel Security",
+		"multiple_passwords": {
+			"title": "Zeg het gedoe van meerdere wachtwoorden vaarwel",
+			"desc": "De True Key-app onthoudt uw wachtwoorden zodat u dat niet hoeft te doen."
+		},
+		"sync": {
+			"title": "Synchroniseer uw wachtwoorden op al uw apparaten",
+			"desc": "Installeer de True Key-app op al uw apparaten, zodat u uw wachtwoorden altijd bij de hand hebt."
+		},
+		"encrypted": {
+			"title": "Bewaar uw wachtwoorden veilig en versleuteld",
+			"desc": "De True Key-app versleutelt uw wachtwoorden op uw apparaat, zodat alleen u toegang hebt."
+		}
+	},
+
+	"enable": {
+		"lastStep": "Nog één stap",
+		"clickEnable": "Klik hieronder op 'Inschakelen' om de True Key-app te gaan gebruiken. U hoeft dit maar één keer te doen.",
+		"clickDone": "Daarna %{htmlBefore}klikt u hier%{htmlAfter}"
+	},
+
+	"activation": {
+		"title": "True Key™ inschakelen",
+		"txtEnable": "Als u zich automatisch wilt aanmelden bij uw favoriete sites zonder een <br>wachtwoord in te moeten voeren, <strong>schakelt u de True Key-extensie in</strong>.",
+		"txtInstall": "Als u zich automatisch wilt aanmelden bij uw favoriete sites zonder <br>een wachtwoord in te moeten voeren, <strong>schakelt u de True Key-extensie in</strong>.",
+		"txtRestart": "U moet uw browser opnieuw starten om de True Key-extensie<br> te installeren."
+	},
+
+	"loginSuccess": {
+		"title": "Welkom terug",
+		"text": "Let op het True Key-pictogram wanneer u uw browser de volgende keer opnieuw start."
+	},
+
+	"signupSuccess": {
+		"text": "Uw profiel is gemaakt.<br>Let op het True Key-pictogram wanneer u uw browser de volgende keer opnieuw start."
+	}
+}

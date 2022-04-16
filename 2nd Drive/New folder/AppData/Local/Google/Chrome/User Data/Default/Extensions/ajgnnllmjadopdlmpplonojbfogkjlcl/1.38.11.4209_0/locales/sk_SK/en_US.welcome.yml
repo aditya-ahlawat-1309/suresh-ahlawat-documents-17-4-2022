@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Anglický"
+    common: 
+        privacy: "Súkromie"
+        privacy_full: "Zásady ochrany osobných údajov"
+        terms: "Podmienky"
+        terms_full: "Podmienky služby"
+        alert: "Výstraha!"
+        warning: "Varovanie!"
+        or: "alebo"
+        copyright: "© %{date} . Všetky práva vyhradené."
+        change_language: "Zmeniť jazyk"
+    shared: 
+        member_menu: 
+            upgrade: "Inovovať účet"
+            refer_friends: "Odporúčajte priateľom"
+            help: "Pomoc a podpora"
+            logout: "Odhlásenie"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox dostane heslá z Vašej mysle. Rozlúčte sa s užívateľskými menami a heslami. Vaše hlavné heslo do PasswordBoxu je jediné heslo, ktoré budete potrebovať!"
+                mobile: "PasswordBox je bezplatný správca hesiel, ktorý pomáha ľuďom ukladať, načítať a zdieľať heslá na akomkoľvek zariadení. Vyskúšajte aplikáciu PasswordBox Android, iPhone alebo iPad."
+        title: 
+            default: "Bezplatný správca hesiel"
+            welcome: "Vitajte"
+    download: 
+        download: "Stiahnuť ZDARMA"
+        login: "Prihlásenie"
+        mobile: "Mobil"
+        platforms: "Zdarma pre"
+        watch_video: "Pozrieť video"
+        available_for: "K dispozícii aj pre %{os} a %{platform}"
+        free_for: "Zdarma pre %{windows} , %{mac} a %{mobile} ."
+        guides: 
+            click_add: "Ak chcete inštalovať PasswordBox, kliknite na Pridať"
+            click_allow: "Ak chcete povoliť inštaláciu PasswordBoxu, kliknite na tlačidlo Povoliť"
+            click_install: "Kliknite na tlačidlo „Inštalovať“ "
+            click_install_now: "Kliknite na tlačidlo „Inštalovať teraz“"
+            click_run: "Ak chcete zahájiť inštaláciu, kliknite na tlačidlo „Spustiť“"
+            click_yes: "Kliknutím na „Áno“ prijmete nastavenia"
+            click_here: "Kliknite sem"
+            run_and_open: "Spustiť a otvoriť inštalačný program"
+            install_pbox: "Inštalovať PasswordBox"
+            close_window: "Zavrieť okno"
+            download_pbox: "Stiahnuť PasswordBox"
+        alerts: 
+            mobile: "Stiahnite si ZDARMA aplikáciu %{app_name} a užívajte si 1-Tap Login za chodu!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox je k dispozícii len pre verziu %{browser} %{min_version}a vyššie. Aktualizujte prosím svoj prehliadač a skúste to znova."
+                single_version: "PasswordBox je k dispozícii len pre %{browser} . Aktualizujte prosím svoj prehliadač a skúste to znova."
+                unavailable: "PasswordBox nie je k dispozícii pre verziu %{browser}. Skúste prosím znova s %{suggestion}."
+                safari_windows: "PasswordBox Safari je momentálne k dispozícii iba v systéme Mac OS X."
+                safari: 
+                    unsupported: "Bohužiaľ Safari už nepodporujeme. Skúste to znova cez prehliadač Chrome, Firefox alebo Internet Explorer."
+                    read_more: "Viac informácií tu"
+                unsupported: 
+                    problems: "Oficiálne nepodporujeme túto verziu %{browser} . PasswordBox si môžete nainštalovať aj tak, no môžete naraziť na niektoré problémy."
+                    upgrade_suggestion: "Ak chcete zabezpečiť čo najlepšiu skúsenosť, odporúčame Vám inovovať Váš prehliadač na najnovšiu verziu."
+                    install_anyway: "V každom prípade inštalovať"
+            mobile: 
+                min_version: "PasswordBox nie je k dispozícii pre túto verziu %{os}. Skúste prosím znova na zariadení s verziou %{min_version} alebo vyššou."
+                generic: "PasswordBox nie je k dispozícii pre toto zariadenie. Skúste prosím znova na iPhone, iPad alebo Android, alebo si túto stránku otvorte na počítači a nainštalujte rozšírený prehliadač."
+        onboard: 
+            welcome: "Vitajte v inštalácii PasswordBox"
+            failed_install: "Nepodarilo sa nainštalovať PasswordBox"
+            never_forget: "Už nikdy nezabudnete heslo. "
+            click_to_retry: "Ak chcete akciu opakovať, kliknite na tlačidlo Opakovať"
+            retry: "Skúsiť znova"
+            free_vault: "Trezor pre heslá zdarma pre Google Chrome."
+            add_to_chrome: "Pridať do Chrome"
+        guide: 
+            almost_done: "Ste takmer na konci!"
+            greeting: "Ahoj %{member_name} !"
+            welcome: "Vitajte v PasswordBoxe. Postupujte podľa pokynov uvedených nižšie, ak chcete dokončiť inštaláciu."
+            downloading: "PasswordBox začne automaticky sťahovať. Ak tomu tak nie je, %{restart_link} ."
+            restart: "kliknite sem, ak chcete reštartovať sťahovanie"
+    address_book: 
+        import: 
+            address: "Adresa"
+            email_password: "Heslo do e-mailu"
+            fetching_contacts: "Načítavanie kontaktov..."
+            gmail: 
+                connect_button: "Pripojiť sa k Gmailu"
+                instructions: "Kliknutím sa pripojíte k adresáru Vášho Gmailu"
+            open_address_book: "Otvoriť adresár"
+            sending_promise: "Nikdy nebudeme posielať e-maily Vašim kontaktom bez Vášho súhlasu."
+            connect: 
+                title: "Pripojiť sa k adresáru"
+                button: "Pripojiť sa k %{provider}"
+                instructions: "Kliknutím sa pripojíte k Vášmu %{provider} adresáru"
+        select: 
+            contacts: "Kontakty"
+            deselect_all: "Zrušiť výber "
+            search_contact: "Hľadať kontakt"
+            select_all: "Vybrať všetko"
+            select_title: "Vybrať z adresára"
+            send_success: "Požiadavka týkajúca sa Vášho virtuálneho dedičstva bola úspešne odoslaná!"
+            to: "Ak chcete"
+    forms: 
+        buttons: 
+            back: "Späť"
+            cancel: "Zrušiť"
+            ok: "OK"
+            save: "Uložiť"
+            submit: "Odovzdať"
+            send: "Odoslať"
+        errors: 
+            digits: 
+                only: "Prosím, zadajte iba číslice."
+            email: 
+                exists: "Tento e-mail sa už používa."
+                invalid: "Tento e-mail je neplatný."
+                invalid_please: "Zadajte prosím platnú e-mailovú adresu."
+                required: "Je nutné vyplniť políčko s e-mailom."
+            fullname: 
+                required: "Prosím, zadajte svoje celé meno."
+                too_long: "Zadajte prosím kratšie meno."
+                too_short: "Vaše meno musí mať najmenej %{length} znakov."
+            password: 
+                required: "Prosím, zvoľte si heslo."
+                too_short: "Prosím, uistite sa, že Vaše heslo má aspoň %{length} znakov."
+                confirm: "Potvrďte heslo."
+                match: "Uistite sa, že sa Vaše heslá zhodujú."
+                different: "Heslo nemôže byť meno alebo e-mail"
+            required: 
+                generic: "Toto políčko je povinné."
+            generic: "Ale nie! Niečo sa pokazilo. Skúste formulár odovzdať znova."
+            length: 
+                between: "Zadajte prosím údaj dlhý od { {0} } do { {1} } znakov."
+        labels: 
+            email: "E-mail"
+            fullname: "Celé meno"
+            first_name: "Krstné meno"
+            last_name: "Priezvisko"
+            master_password: "Hlavné heslo"
+            password: "Heslo"
+            title: "Názov"
+            username: "Užívateľské meno"
+            email_full: "Vaša e-mailová adresa"
+            phone_full: "Vaše telefónne číslo"
+            date: "Dátum"
+        success: 
+            thank_you: "Ďakujeme! "
+        info: 
+            password: 
+                very_weak: "Veľmi slabé"
+                weak: "Slabé"
+                average: "Priemerné"
+                good: "Dobré"
+                strong: "Silné"
+    premium: 
+        limit_reached: "Dosiahli ste limit %{limit}. Zvýšte úroveň svojho účtu a získajte neobmedzený úložný priestor pre svoje heslá."
+        billing: 
+            details: "Budeme Vám účtovať %{price} za rok užívania PasswordBox Premium. Ak do 30 dní odoberania noviniek nebudete spokojní, bez otázok Vám vrátime celú sumu."
+            renewal: "Váš účet sa každý rok automaticky obnoví, kým ho nezrušíte zaslaním e-mailu na %{support_link} pred dátumom splatnosti ďalšej platby."
+        enter_cc_info: "Zadajte informácie o kreditnej karte"
+        form: 
+            errors: 
+                credit_card_invalid: "Zadajte platné číslo kreditnej karty."
+                generic_processing: "Pri spracovaní Vašej platby došlo k ťažkostiam."
+                unable_to_process: "Neboli sme schopní spracovať Vašu kreditnú kartu. Dôkladne skontrolujte, či máte správne informácie a skúste to znova."
+            labels: 
+                as_on_card: "zobrazuje sa to na Vašej karte"
+                credit_card: "Číslo kreditnej karty"
+                expiry: "Dátum expirácie"
+                secure: "Bezpečné"
+                verification: "4 miestne overovacie číslo karty"
+                what: "Čo je toto?"
+                country: "Krajina"
+                postal_code: "PSČ"
+                street_address: "Ulica"
+                city: "Mesto"
+                region: "Región"
+            submit: "Aktivovať Premium"
+            processing: "Prebieha spracovanie ... Čakajte prosím."
+        main_title: "Získajte prístup k verzii PasswordBoxu so všetkými funkciami za %{price}/mesiac!"
+        premium: "Premium"
+        quote: "Mám viac užívateľských mien a hesiel, než si dokážem zapamätať. Našťastie PasswordBox si ich bude pamätať za mňa. Táto služba mi taktiež pomáha byť kľudným, pretože ak by som dnes mal smrteľnú nehodu, viem, že moji blízki sa pomocou mojich inštrukcií dostanú k mojim online účtom. Je to úľava, keď viem, že môj manžel bude mať prístup k môjmu účtu na Paypal a všetkým rodinným fotografiám, ktoré mám na Flickr."
+        satisfaction_guarantee: "Ak do 30 dní nebudete úplne spokojní, vrátime Vám každú jednu penny, ktorú ste zaplatili. <strong>Bez otázok, bez problémov</strong>."
+        success: 
+            already_premium: "Ste už členom Premium! Vaše odoberanie noviniek je platné do %{date} ."
+            free_for_life_notice: "Ďakujeme Vám za účasť v našom teste beta. Váš účet bude už navždy zdarma."
+            payment_success: "Ďakujeme! Vaša platba bola prijatá."
+            return_to_public: "Späť na verejné stránky"
+            to_passwordbox: "Zober ma k môjmu PasswordBoxu"
+            upgrade_success: "Váš účet bol úspešne inovovaný."
+        testimonial: "Napísali o nás"
+        unconfirmed: 
+            title: "Váš účet ešte nie je potvrdený"
+            check_spam: "Ak e-mail nevidíte v schránke prijatých správ,\nskontrolujte si <strong>spamový</strong> priečinok."
+            no_email: "Nedostali ste e-mail?"
+            explanation: "Potvrdenie Vášho účtu nielen overí Vašu e-mailovú adresu, ale tiež otvára možnosť zdieľania a funkciu Legacy locker."
+            resend_email: "Znova odoslať potvrdzovací e-mail"
+            steps: 
+                send_email: "Odoslať overovací e-mail na Váš e-mail"
+                click_link: "Kliknite na navrhovaný odkaz v e-maili"
+                done: "Hotovo!"
+            continue: 
+                instructions: "Akonáhle overíte svoj účet, kliknutím na tlačidlo <strong>pokračovať</strong> doplníte svoje platobné údaje."
+                action: "Pokračovať"
+            messages: 
+                email_sent: "Skontrolujte si Vašu e-mailovú schránku. Poslali sme Vám potvrdzovací e-mail."
+                not_confirmed: "Ešte ste nepotvrdili svoj účet."
+                general_error: "Niečo sa pokazilo. Skúste prosím znova."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Pozvať priateľov"
+                invite_new: "Pozvať niekoho nového"
+                invites_accepted: "Prijaté pozvánky"
+                invites_sent: "Odoslané pozvánky"
+                manage_invites: "Spravovať moje pozvánky"
+                manage_title: "Spravovať pozvánky"
+                no_invites_sent: "Ešte ste neposlali žiadne pozvánky Pošlite nejaké!"
+                referrals_needed: "Budete potrebovať ešte %{count} prijatých pozvánok a získate účet s neobmedzeným úložným priestorom zdarma"
+                referrals_needed_single: "Budete potrebovať ešte jednu prijatú pozvánku, aby ste získali účet s neobmedzeným úložným priestorom zdarma"
+                resend: "Znovu odoslať"
+                reward: "Akonáhle sa %{count} Vaši priatelia zaregistrujú, získate účet na celý život zdarma."
+                sent: "Odoslané"
+                status: "Status"
+                subheader: "Tu sú pozvánky, ktoré ste odoslali. V prípade potreby môžete pozvánky znova rozposlať"
+            reward: "Pozvite %{count} priateľov, aby sa zaregistrovali na PasswordBox, získate tak účet zdarma a môžete si užívať neobmedzené ukladanie hesiel už navždy."
+            title: "Odporúčajte %{count}priateľom"
+        import_contacts: 
+            manual_option: "Zadajte e-maily Vašich priateľov ručne"
+        important: "Dôležité"
+        installed_header: "PasswordBox je teraz v prevádzke!"
+        invite_header: "Povedzte o PasswordBoxe svojim priateľom"
+        manual_invite: 
+            email_instructions: "Zadajte ich e-mailové adresy"
+            import_option: "Pozvať priateľov z adresára"
+            required_error: "Zadajte prosím e-mailovú adresu, ktorú chcete pozvať"
+            send_action: "Odoslať VIP vstupenky"
+            send_instructions: "Pošlite pozvánky svojim priateľom"
+            send_success: "Vaše VIP vstupenky boli odoslané!"
+        resale_disclaimer: "Vezmite prosím na vedomie, že PasswordBox neumožňuje predaj Vašich VIP vstupeniek na eBay alebo iných stránkach. <strong>Tieto pozvánky sú výhradne na osobnú potrebu.</strong>"
+        sent_after_welcome: 
+            title: "Vaša Registrácia je teraz kompletná!"
+            video_instructions: "Ak sa chcete dozvedieť viac o PasswordBoxe, pozrite si toto video"
+        vip: 
+            reward: "Získate doživotné členstvo zdarma"
+            title: "Dajte Vašim priateľom VIP prístup k"
+    welcome: 
+        headers: 
+            running: "%{logo} je teraz v prevádzke!"
+        bulk_password: 
+            check_all: "Skontrolovať všetko"
+            did_you_know_title: "Vedeli ste, že 92% ľudí používa rovnakú kombináciu užívateľského mena/hesla pre väčšinu svojich online účtov?"
+            instructions: "Ak ste sa v tomto popise našli, zadajte svoje prihlasovacie údaje a zvoľte stránky, pre ktoré ich používate. Uložíme tieto účty do Vášho PasswordBoxu."
+            save_passwords: "Uložiť heslá"
+            success_message: "Vaše heslá sa ukladajú..."
+            uncheck_all: "Zrušiť výber "
+            username_label: "Užívateľské meno e-mailovej adresy"
+            website_error: "Vyberte prosím aspoň jednu webovú stránku."
+        legacy: 
+            address_book: "Pripojte sa k adresáru e-mailu"
+            email_label: "E-mail osoby, ktorej dôverujete"
+            instructions: "Nižšie zadajte meno človeka, ktorému dôverujete a my mu zašleme e-mail s Vašou žiadosťou"
+            name_label: "Meno osoby, ktorej dôverujete"
+            transfer_info: "Nemajte obavy, heslá sa neprenesú, kým to nie je potrebné"
+            trust_title: "Komu dôverujete natoľko, aby ste mu zverili Vaše online účty v prípade, že sa Vám niečo stane?"
+            watch_video: "Ak sa chcete dozvedieť viac, pozrite si naše video"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Potvrdiť hlavné heslo"
+                never_store_password: "Aby bola zaručená Vaša bezpečnosť, PasswordBox nikdy nevidí ani neukladá Vaše hlavné heslo"
+                no_recovery: "Neexistuje spôsob, ako sa dostať k Vášmu účtu, ak zabudnete hlavné heslo"
+                repeat_title: "Ešte raz zadajte heslo"
+            creating_account: "Vytvára sa Váš účet"
+            form: 
+                create_account_action: "Vytvorte si účet zdarma"
+                create_account_title: "Vytvorte si účet zdarma"
+                create_password: "Vytvoriť heslo"
+                existing_account: "Máte už účet?"
+                facebook_promise: "Nebojte sa, nebudeme písať na Vašu nástenku."
+                facebook_signup: "Zaregistrujte sa s Facebookom"
+                login: "Prihlásenie"
+                terms_disclaimer: "Kliknutím na tlačidlo vyššie dávate súhlas s podmienkami služby."
+                terms_full: "Nikdy nebudeme zdieľať Váš e-mail alebo akékoľvek osobné informácie s tretími stranami. Budeme Vám len zasielať e-maily súvisiace s Vašim účtom na PasswordBoxe. Prečítajte si naše %{privacy_link} a dozviete sa ďalšie podrobnosti."
+                terms_agree: "Kliknutím na tlačidlo vyššie dávate súhlas s našimi%{terms_link}."
+            installed_title: "Inštalácia je dokončená! Posledný krok.."
+            never_forget: "Už nikdy nezabudnete heslo. Aktivujte svoj účet ZDARMA"
+            recently_installed: "PasswordBox bol nedávno pridaný do Vášho prehliadača..."
+            testimonial: "Je to ako Dropbox pre heslá. Funguje na všetkých mojich zariadeniach, kdekoľvek som, navyše zdieľanie je jednoduché"
+            login_link: "Ak už máte na PasswordBoxe svoj účet, <a href=\"%{path}\" target=\"_blank\">hľadajte vo svojom prehliadači</a> zelenú schránku"
+            validating: "Overujú sa Vaše informácie..."
+            almost_done: "Ste takmer na konci! Stačí vytvoriť heslo"
+            delayed: 
+                never_forget: 
+                    generic: "Už nikdy nezabudnete heslo. "
+                    domain: "Už nikdy nezabudnete <strong>svoje heslo na</strong> %{website}"
+                signup_free: "Zaregistrujte sa teraz zdarma!"
+                secure: "Ak chcete zabezpečiť uložené heslá, <strong>zaregistrujte sa ZDARMA a užite si automatické prihlásenie do svojich obľúbených stránok!</strong>"
+                watch_video: "Pozrite si naše video"
+                how_pbox_works: "Ako funguje PasswordBox"
+            crypto: 
+                creating: "Vytvára sa Váš účet"
+                encrypting: "Vaše heslo šifrujeme kvôli maximálnej bezpečnosti. Tento proces môže chvíľku trvať (do minúty), hlavne na starších počítačoch. Je to normálne. Počkajte prosím, kým sa proces dokončí."
+        video: 
+            typing_passwords: "Ručné zadávanie hesiel je únavný a frustrujúci proces. PasswordBox Vám pomôže automatickým ukladaním prihlasovacích údajov počas prihlasovania na stránku."
+            next_step: "Chápem. Ďakujem!"
+        guides: 
+            extension: 
+                congratulations: "Blahoželáme!"
+                save_success: "Vaše heslá boli úspešne uložené do PasswordBoxu!"
+                green_box: "Kliknutím na zelenú ikonu schránky na Vašom prehliadači máte PasswordBox kedykoľvek k dispozícii!"
+        tutorial: 
+            create_password: 
+                click_instructions: "Kliknutím na tlačidlo nižšie pridáte svoje prvé heslo"
+                form_instructions: "Zadajte svoje užívateľské meno a heslo"
+            one_click_login: "Dobrá práca! Teraz vyskúšajme prihlásenie jedným klikom!"
+            tour_video: 
+                extension_guide: "Kliknutím na zelenú schránku otvoríte Váš PasswordBox"
+                instructions: "Získajte čo najviac z PasswordBoxu pomocou tejto rýchlej prehliadky výrobku."
+                title: "Začíname prehliadku"
+    features: 
+        seamless_login: 
+            title: "Zbohom heslá. Okamžité prihlásenie na akomkoľvek zariadení, webovej stránke alebo mobilnej aplikácii."
+            subtitle: "Už vás nebaví, ako Vás prihlasovacie obrazovky spomaľujú? Dostaňte sa k svojmu účtu rýchlejšie pomocou prihlásenia jedným klikom a 1-Tap Login."
+            item_1: "Iba s PasswordBoxom, %{link}, bez toho, aby ste ešte niekedy museli zadávať užívateľské meno a heslo."
+            item_2: "Pri návšteve akejkoľvek webovej stránky PasswordBox automaticky vyplní Vaše informácie a prihlási Vás. Nemusíte nič písať na PC ani na mobile na Chrome a Safari."
+            item_3: "Expresné prihlásenie, aj keď máte viac používateľských účtov na rovnakej stránke"
+            item_4: "Bezpečnosť klávesnice - ak to nenapíšete, nedá sa to ukradnúť"
+            one_tap_link: "prihláste sa do svojej obľúbenej mobilnej aplikácie pre Android pomocou 1-Tap"
+        device_syncing: 
+            title: "Vaše heslá, kdekoľvek"
+            subtitle: "Keď si uložíte heslo do PasswordBoxu, okamžite sa uloží do všetkých prehliadačov, počítačov a mobilných zariadení."
+            item_1: "Synchronizuje sa automaticky, takže vždy budete mať svoje prihlasovacie údaje na dosah ruky"
+            item_2: "Funguje takmer na každom počítači, prehliadači a mobilnom zariadení na trhu"
+            item_3: "Bezplatný plug-in pre všetky hlavné prehliadače vrátane Chrome, Firefox a Internet explorer"
+            item_4: "Údaje sa šifrujú a dešifrujú na Vašom zariadení pomocou AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox pre mobilné telefóny"
+            widget: 
+                title: "Bezplatné mobilné aplikácie"
+                subtitle: "Vaše heslá, kdekoľvek"
+            notify: 
+                sms: "Odoslať správu na môj telefón"
+                email: "Poslať e-mail na moje zariadenie"
+                sending: "Odosielanie inštalačného odkazu"
+            email: 
+                success: "Email bol odoslaný Skontrolujte, či ste dostali e-mail s odkazom na stiahnutie"
+                errors: 
+                    invalid: "E-mail buď chýba, alebo je neplatný"
+                    failed: "Nepodarilo sa odoslať kontaktný e-mail"
+            sms: 
+                body: "Ak chcete nainštalovať PasswordBox do Vášho mobilu, kliknite tu: %{link}"
+                success: "Správa bola odoslaná! Skontrolujte na svojom telefóne, či ste dostali odkaz na stiahnutie."
+                errors: 
+                    phone: 
+                        missing: "Telefónne číslo chýba."
+                        invalid: "Nepodarilo sa odoslať správu na dané telefónne číslo. Nezabudnite zadať kód krajiny, ak sa jedná o medzinárodné číslo."
+                    service: 
+                        unavailable: "Služba SMS je momentálne nedostupná"
+            apps: 
+                app_store: "K dispozícii na <span>App Store </span>"
+                google_play: "Získajte ho zdarma na <span>Google Play </span>"
+            ces_award: "Najlepšia mobilná <span>aplikácia CES 2014 </span>"
+        desktop: 
+            title: "Stiahnite si PasswordBox ZDARMA"
+            warnings: 
+                windows_only: "Iba pre systém Windows"
+                mac_only: "Iba pre MAC OS"
+            button: 
+                get: "Získajte PasswordBox"
+                for: "pre"
+        instructions: "Skopírujte nasledujúci odkaz a vložte ho do svojho %{browser} prehliadača:"
+        copy: 
+            button: "Kopírovať"
+            tooltip: "Skopírovať do prechodnej pamäte"
+            success: "Skopírované!"
+    login: 
+        title: "Ak už máte PasswordBox nainštalovaný, kliknutím na zelenú schránku sa prihlásite."
+        reinstall: "Ak potrebujete znova nainštalovať PasswordBox, kliknite na tlačidlo nižšie:"
+    member: 
+        errors: 
+            email: 
+                exists: "Člen s týmto e-mailom už existuje. Prosím, skúste iný."
+                invalid: "Zadajte prosím platnú e-mailovú adresu."
+    emails: 
+        common: 
+            greeting: "Ahoj %{full_name},"
+            hey: "Hej!"
+            pbox_team: "Tím PasswordBox"
+        layout: 
+            tagline: "PasswordBox ponúka rýchly, bezpečný prístup k Vašim online účtom, bezpečné zdieľanie hesiel a funkciu Legacy Locker na všetkých Vašich zariadeniach. Už nikdy nezabudnete heslo."
+            unsubscribe: 
+                link: "Zrušiť odoberanie noviniek"
+                from_all: "%{unsubscribe} e-maily z PasswordBoxu"
+        welcome: 
+            subject: "%{full_name} , Vitajte v PasswordBoxe!"
+            title: "Vitajte"
+            avg_notice: "PasswordBox na paneli nástrojov AVG ponúka rýchly prístup k online účtom, bezpečné zdieľanie hesiel a virtuálne funkcie spojené s dedičstvom na všetkých Vašich zariadeniach."
+            account_ready: "Váš účet je takmer hotový!"
+            login_info: "Vaše užívateľské meno je %{email} . Vaše heslo je hlavné heslo, ktoré ste vytvorili v priebehu registrácie."
+            say_goodbye: "Rozlúčte sa s užívateľskými menami a heslami. Odteraz budete potrebovať už len hlavné heslo. PasswordBox ponúka jednoduché prihlásenie jedným klikom, bezpečné zdieľanie hesiel a spravovanie digitálneho majetku na všetkých zariadeniach."
+            finally: "Konečne môžete pustiť heslá z hlavy!"
+            confirm: "Potvrďte svoj účet"
+            click_below: "Kliknutím na odkaz nižšie overíte svoj účet:"
+            welcome: "Vitajte v PasswordBoxe!"
+        sync: 
+            subject: "Stiahnite si PasswordBox do Vášho mobilného zariadenia!"
+            instructions: "Ak chcete stiahnuť PasswordBox, otvorte tento e-mail na Vašom mobilnom zariadení a navštívte odkaz uvedený nižšie:"

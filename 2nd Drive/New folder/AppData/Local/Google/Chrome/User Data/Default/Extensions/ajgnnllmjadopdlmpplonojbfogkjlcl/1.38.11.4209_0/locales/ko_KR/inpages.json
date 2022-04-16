@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "종료",
+    "done" : "완료",
+    "dontSave" : "저장하지 않음",
+    "neverSave" : "절대로 저장하지 않음",
+    "saveNow" : "지금 저장",
+    "yes" : "예",
+    "no" : "아니오",
+    "remove" : "삭제",
+    "dontUpdate" : "업데이트하지 않음",
+    "updateNow" : "지금 업데이트",
+    "dontAskAgain" : "다시 묻지 않음",
+    "dontSaveNow" : "지금 저장하지 않음",
+    "dontSaveItNow" : "지금 저장하지 않음",
+    "neverSaveIt" : "절대로 저장하지 않음",
+    "neverForThisSite" : "이 사이트는 제외",
+    "savePassword" : "암호 저장",
+    "saveThisPassword" : "이 암호 저장",
+    "dontShowAgain" : "다시 표시하지 않기",
+    "masterPassword" : "기본암호",
+    "continue" : "계속",
+    "typeMasterPassword" : "기본암호 입력",
+    "settings" : "설정",
+    "copyClipboard" : "클립보드에 복사"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox가</span><span class='green'>%{siteName}</span>에 애한 새 암호를 저장했습니다."
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox가</span><span class='green'> %{siteName}</span>에 대한 새 암호를 탐지했습니다."
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox에</span> 즉시 로그인됩니다."
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "%{siteName}에 대한 <span class='green'>암호가</span> 강력하지 않습니다."
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "귀하는 초대를 공유하는 <span id='shareCount' class='green'>1개의 신규</span> 암호를 가지고 있습니다."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "%{username} <span class='green'>계정으로</span> 로그인할 수 있었습니까?",
+    "deleteConfirm" : "PasswordBox에서 <span class='green'>%{username}을(를)</span> 삭제하시겠습니까?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "불행히도 이 사이트는 아직 지원되지 않습니다 - 저희 팀이 지원을 위해 노력하고 있고, 곧 준비될 예정입니다."
+  },
+  "connectWith" : {
+    "mainText" : "로그인하려는 계정을 선택하세요.",
+    "login" : "로그인"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "기본암호 입력",
+    "mainTxtHasUsers" : "즉시 로그인하려면 기본암호를 입력하세요.",
+    "mainTxtNoUsers" : "이 암호를 저장하려면 기본암호를 입력하세요.",
+    "error" : "잘못된 암호",
+    "decrypting" : "암호를 해독하는 중"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "지금 이 암호를 저장하세요.",
+    "signup" : "PasswordBox 가입"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "체크아웃할 카드를 선택하세요.",
+    "use" : "사용"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "다시는 암호를 절대 잊지 마세요:",
+    "createAccount" : "계정 만들기",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> 가 귀하의 %{partner} 툴바에 추가되었습니다."
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "이제 귀하의 <span class='green'>%{siteName}</span> 계정에 로그인하세요...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> 가 자동으로 저장해 드립니다!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... 그리고 완료!",
+    "mainText" : "이제 귀하의 <span class='green'>%{siteName}</span> 암호가 PasswordBox에 안전하게 저장됩니다!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "축하합니다",
+    "mainText" : "이제 귀하의 브라우저에서 <strong class='green'>녹색 상자 아이콘</strong> 을 클릭하여 언제든지 귀하의 암호에 액세스할 수 있습니다! 지금 사용해 보세요!"
+  },
+  "passgen" : {
+    "generate" : "강한 암호를 만드세요.",
+    "regenerate" : "새 암호를 만드세요.",
+    "noPassGenerated" : "생성된 암호 없음",
+    "letters" : "문자",
+    "digits" : "숫자",
+    "symbols" : "기호",
+    "capitals" : "대문자"
+  }
+}

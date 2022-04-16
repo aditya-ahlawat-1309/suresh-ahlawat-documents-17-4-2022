@@ -1,0 +1,101 @@
+{
+  "common" : {
+    "txtClose" : "Sluiten",
+    "done" : "Klaar",
+    "dontSave" : "Niet opslaan",
+    "neverSave" : "Nooit opslaan",
+    "saveNow" : "Sla nu op",
+    "yes" : "Ja",
+    "no" : "Nee",
+    "remove" : "Verwijderen",
+    "dontUpdate" : "Niet bijwerken",
+    "updateNow" : "Nu bijwerken",
+    "dontAskAgain" : "Niet meer vragen",
+    "dontSaveNow" : "Nu niet opslaan",
+    "dontSaveItNow" : "Nu niet opslaan",
+    "neverSaveIt" : "Dit nooit opslaan",
+    "neverForThisSite" : "Nooit voor deze site",
+    "savePassword" : "Sla wachtwoord op",
+    "saveThisPassword" : "Sla dit wachtwoord op",
+    "dontShowAgain" : "Niet meer tonen",
+    "masterPassword" : "Hoofdwachtwoord",
+    "continue" : "Doorgaan",
+    "typeMasterPassword" : "Typ hoofdwachtwoord",
+    "settings" : "Instellingen",
+    "copyClipboard" : "Kopieer naar klembord"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> heeft een nieuw wachtwoord opgeslagen voor <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> heeft een nieuw wachtwoord gedetecteerd voor <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> logt u direct in"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Uw wachtwoord voor <span class='green'>%{siteName}</span> is niet sterk genoeg"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "U hebt <span id='shareCount' class='green'>1 nieuwe</span> uitnodiging voor het delen van wachtwoorden."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Kon u met succes inloggen op uw <span class='green'>%{username}</span> account?",
+    "deleteConfirm" : "Wilt u <span class='green'>%{username}</span> verwijderen van uw PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Helaas wordt deze site nog niet ondersteund - Ons team werkt er hard aan om deze te ondersteunen en dat zal spoedig zo ver zijn"
+  },
+  "connectWith" : {
+    "mainText" : "Selecteer de account waarmee u wilt inloggen",
+    "login" : "Inloggen"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Typ hoofdwachtwoord",
+    "mainTxtHasUsers" : "Voer uw hoofdwachtwoord in om direct in te loggen",
+    "mainTxtNoUsers" : "Voer uw hoofdwachtwoord in om dit wachtwoord op te slaan",
+    "error" : "Verkeerde wachtwoord",
+    "decrypting" : "Decoderen"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Sla dit wachtwoord nu op.",
+    "signup" : "Aanmelden bij PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Selecteer kaart om af te rekenen",
+    "use" : "Gebruiken"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Nooit meer een wachtwoord vergeten:",
+    "createAccount" : "Een account aanmaken",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> is toegevoegd aan uw %{partner} taakbalk"
+  },
+  "autosaveTutorial" : {
+    "labelTxt1" : "Log nu in op uw <span id='siteName'>[SITENAME]</span> account...",
+    "labelTxt2" : "PasswordBox zal het automatisch voor u opslaan!",
+    "thatsIt" : "... En dat is het!",
+    "completeMainText" : "Uw <span id='siteName'>[SITENAME]</span> wachtwoord is nu veilig opgeslagen in uw PasswordBox!",
+    "completeMainText2" : "Uw <span id='siteName'>[SITENAME]</span> wachtwoord is nu<br>veilig opgeslagen in uw PasswordBox!"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Log nu in op uw <span class='green'>%{siteName}</span> account...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> zal het automatisch voor u opslaan!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... En dat is het!",
+    "mainText" : "Uw <span class='green'>%{siteName}</span> wachtwoord is nu veilig opgeslagen in uw PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Gefeliciteerd",
+    "mainText" : "U hebt nu te allen tijde toegang tot uw wachtwoorden door te klikken op <strong class='green'>het groene box pictogram</strong> in uw browser! Laten we het nu proberen!"
+  },
+  "passgen" : {
+    "generate" : "Genereer sterk wachtwoord",
+    "regenerate" : "Genereer nieuw wachtwoord",
+    "noPassGenerated" : "Geen wachtwoord gegenereerd",
+    "letters" : "Letters",
+    "digits" : "Cijfers",
+    "symbols" : "Symbolen",
+    "capitals" : "Hoofdletters"
+  }
+}

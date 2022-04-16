@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Stäng",
+    "done" : "Klart",
+    "dontSave" : "Spara inte",
+    "neverSave" : "Spara aldrig",
+    "saveNow" : "Spara nu",
+    "yes" : "Ja",
+    "no" : "Nej",
+    "remove" : "Ta bort",
+    "dontUpdate" : "Uppdatera inte",
+    "updateNow" : "Uppdatera nu",
+    "dontAskAgain" : "Fråga inte igen",
+    "dontSaveNow" : "Spara inte nu",
+    "dontSaveItNow" : "Spara det inte nu",
+    "neverSaveIt" : "Spara det aldrig",
+    "neverForThisSite" : "Aldrig för den här sidan",
+    "savePassword" : "Spara lösenord",
+    "saveThisPassword" : "Spara det här lösenordet",
+    "dontShowAgain" : "Visa inte igen",
+    "masterPassword" : "Huvudlösenord",
+    "continue" : "Fortsätt",
+    "typeMasterPassword" : "Skriv in huvudlösenord",
+    "settings" : "Inställningar",
+    "copyClipboard" : "Kopiera till urklipp"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> har sparat ett nytt lösenord för <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> har identifierat ett nytt lösenord för <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> loggar in dig omedelbart"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Lösenordet för <span class='green'>%{siteName}</span> är inte tillräckligt starkt"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Du har 1 ny inbjudan om att <span id='shareCount' class='green'>dela</span> lösenord."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Kunde du logga in på ditt konto för <span class='green'>%{username}?</span>",
+    "deleteConfirm" : "Vill du ta bort <span class='green'>%{username}</span> från ditt PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Tyvärr finns det inte något stöd för webbplatsen ännu. Vårt team arbetar på att lösa detta, och det kommer snart att finnas en lösning."
+  },
+  "connectWith" : {
+    "mainText" : "Välj det konto du vill logga in med",
+    "login" : "Logga in"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Skriv in huvudlösenord",
+    "mainTxtHasUsers" : "Ange ditt huvudlösenord för att omedelbart logga in",
+    "mainTxtNoUsers" : "Ange ditt huvudlösenord för att spara det här lösenordet",
+    "error" : "Fel lösenord",
+    "decrypting" : "Avkrypterar"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Spara lösenordet nu.",
+    "signup" : "Registrera dig på PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Välj kort att betala med",
+    "use" : "Använd"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Glöm aldrig mer ett lösenord",
+    "createAccount" : "Skapa ett konto",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> har lagts till i verktygsfältet för %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Nu ska du logga in på <span class='green'>%{siteName}-kontot.</span>",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> sparar det automatiskt!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... Och det är allt!",
+    "mainText" : "Lösenordet för <span class='green'>%{siteName}</span> har nu sparats och förvaras säkert i PasswordBox!"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Grattis",
+    "mainText" : "Du kan nu komma åt dina lösenord när som helst genom att klicka på <strong class='green'>den gröna rutikonen</strong> i webbläsaren! Prova nu!"
+  },
+  "passgen" : {
+    "generate" : "Generera starkt lösenord",
+    "regenerate" : "Generera nytt lösenord",
+    "noPassGenerated" : "Inget lösenord har genererats",
+    "letters" : "Bokstäver",
+    "digits" : "Siffror",
+    "symbols" : "Symboler",
+    "capitals" : "Stora bokstäver"
+  }
+}

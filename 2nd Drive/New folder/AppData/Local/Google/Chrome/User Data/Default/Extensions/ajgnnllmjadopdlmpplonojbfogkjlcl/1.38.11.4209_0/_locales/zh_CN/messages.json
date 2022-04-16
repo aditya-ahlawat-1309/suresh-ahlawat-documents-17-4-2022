@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension.\n\n[Old description]\n为 Google Chrome 设计的免费密码管理工具——再也不会忘记密码\n\n[Store]\nPasswordBox® 会在您浏览网页时自动保存您的用户名和密码，因此您可以在任何设备上一键登录任何网站。\n\n\n和 Dropbox 一样，将密码在 PasswordBox 中保存，该密码就将立刻存入您所有的浏览器、电脑、平板设备和手机。 \n\n\n优点：\n,再也不会忘记或丢失密码。\n,完全免费。存入的密码没有任何数量限制。\n,无论身在何地，指尖轻触就可获取所需重要信息。\n,该工具可自动同步，是多设备用户随时获取最新资讯的理想之选。\n\n\n兼容所有设备和浏览器：\n,Chrome， Firefox， IE8， IE9， IE10。\n,iPhone， iPad 和安卓应用 + 其它手机上的移动页面。\n,Mac 和 Windows 操作系统。\n\n易操作功能：\n,一键登录网页。\n,预设模板可快速添加新账户。\n,可自定义的起始页。\n\n安全：\n,军事级 AES 加密，确保您的数据安全。\n,自动锁定功能，防止数据因手机被盗而泄露或丢失。\u0004\n,您可以在电脑上用只有自己知道的主密码进行加密和解密。\n\n\n来自用户的赞扬：\n/“PasswordBox.com 正是我所需要的工具… 这是一款我绝对会向所有朋友推荐的应用！/” – Scott W.\n\n\n/“PasswordBox.com 非常有用，满足了我真正的需求，并且它直观易用。继续努力。/”– Devon L.\n\n\n\n有了 PasswordBox.com， 您可以随时获取所需资讯。感谢您考虑将  PasswordBox.com 作为您的密码管理工具！\n\n\nPasswordBox.com 致力于提供快速开发和支持。如果您有任何问题或批评，请发送电子邮件至 help@passwordbox.com。也许我们解决您所遇到问题的速度比您撰写差评的时间还快。\n\n\n我们极为关注您的反馈、建议和意见。您的反馈将让我们继续改善 PasswordBox.com Chrome 扩展，并为它开发新的功能。",
+      "message": "厌倦了密码？用一键式登录节省您的时间！不再需要记住或输入密码。"
+   },
+   "appName": {
+      "description": "Name of the extension.",
+      "message": "PasswordBox.com"
+   }
+}

@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "Aseta",
+		"add": "Lisää",
+		"addNew": "Lisää uusi",
+		"addManually": "Lisää manuaalisesti",
+		"cancel": "Peruuta",
+		"back": "Takaisin",
+		"save": "Tallenna",
+		"saving": "Tallennetaan...",
+		"saved": "Tallennettu.",
+		"upgrade": "Päivitä Premiumiin",
+		"noThanks": "Ei kiitos",
+		"from": "Lähettäjä: %{name}",
+		"remove": "Poista",
+		"removing": "Poistetaan...",
+		"disabling": "Poistetaan käytöstä...",
+		"delete": "Poista",
+		"warningPermanent": "Tätä toimintoa ei voi kumota.",
+		"confirmProceed": "Haluatko varmasti jatkaa?",
+		"parameters": "Parametrit",
+		"details": "Tiedot",
+		"sharing": "Jakaminen",
+		"advancedSettings": "Tehosuojaus",
+		"validating": "Vahvistetaan...",
+		"tryAgain": "Yritä uudelleen",
+		"sending": "Lähetetään...",
+		"send": "Lähetä",
+		"sent": "Lähetetty.",
+		"waitingResponse": "Odotetaan vastausta",
+		"revoke": "Kumoa",
+		"updating": "Päivitetään...",
+		"change": "Muuta",
+		"changed": "Muutettu.",
+		"copy": "Kopioi leikepöydälle",
+		"accept": "Hyväksy",
+		"decline": "Hylkää",
+		"privacyNotice": "Tietosuojaseloste",
+		"dontAskAgain": "Älä kysy uudelleen",
+		"notNow": "Ei nyt",
+		"sendNotification": "Lähetä ilmoitus",
+		"justAMoment": "Hetkinen...",
+		"learnMore": "Lisätietoja",
+		"notYou": "Etkö se olekaan sinä?",
+		"changeUser": "Vaihda käyttäjää",
+		"confirm": "Vahvista",
+		"launchSite": "Käynnistä sivusto",
+		"unlockMyTrueKey": "Avaa True Keyn lukitus",
+		"next": "Seuraava",
+		"previous": "Edellinen",
+		"visible": "Näkyvissä",
+		"hidden": "Piilotettu",
+		"vistHelpDesk": "Lisätietoja aiheesta saat %{htmlBefore}tukipalvelustamme%{htmlAfter}.",
+		"addFacialRecognition": "Lisää Avaa kasvoilla -todennustekijä",
+		"comingSoon": "Tulossa lähiaikoina",
+		"offline": "Ei verkkoyhteyttä",
+		"or": "tai",
+		"and": "ja",
+		"activate": "Aktivoi",
+		"logOut": "Kirjaudu ulos",
+		"logins": "Kirjautumistiedot",
+		"favorites": "Suosikit",
+		"other": "Muu",
+		"locked": "Lukittu",
+		"unlocked": "Lukitus poistettu",
+		"login": "Kirjaudu sisään",
+		"close": "Sulje",
+		"closing": "Suljetaan…",
+		"dismiss": "Hylkää",
+		"signin": "Kirjaudu sisään",
+		"signOut": "Kirjaudu ulos",
+		"manageProfile": "Hallitse profiilia",
+		"profile": "Profiili",
+		"menu": "Valikko",
+		"DD": "pp",
+		"MM": "kk",
+		"YYYY": "vvvv",
+		"visible": "Näkyvissä",
+		"hidden": "Piilotettu",
+		"enable": "Ota käyttöön",
+		"doNotShowAgain": "Älä näytä tätä uudelleen",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "Myöhemmin",
+		"restart": "Käynnistä uudelleen",
+		"install": "Asenna",
+		"feedback": "Palaute",
+		"done": "Valmis",
+		"success": "Onnistui",
+		"youreIn": "Olet kirjautunut sisään.",
+		"recommended": "suositus"
+	},
+
+	"validation": {
+		"required": "Tämä kenttä on pakollinen.",
+		"min": "{0}: vähintään {1} merkkiä"
+	},
+
+	"offline": {
+		"title": "Ei internet-yhteyttä.",
+		"desc": "Sinulla ei ole verkkoyhteyttä. Muodosta internet-yhteys ja yritä uudelleen."
+	},
+
+	"locked": {
+		"notYou": "Etkö se olekaan sinä?",
+		"changeUser": "Vaihda käyttäjää",
+		"cancelAuth": "Peruuta todennus",
+		"signIn": "Kirjaudu sisään, niin voit käyttää pikakirjautumista",
+		"alternativeEmail": "Käytä sen sijaan sähköpostivahvistusta",
+		"alternativeDevice": "Käytä ennemmin luotettua laitetta"
+	},
+
+	"time": {
+		"never": "Ei koskaan",
+		"minutes": "%{smart_count} minuutti |||| %{smart_count} minuuttia",
+		"hours": "%{smart_count} tunti |||| %{smart_count} tuntia",
+		"days": "%{smart_count} päivä |||| %{smart_count} päivää"
+	},
+
+	"labels": {
+		"email": "Sähköpostiosoite",
+		"masterPassword": "Pääsalasana",
+		"confirmMasterPassword": "Vahvista pääsalasana",
+		"rememberMe": "Pidä minut kirjautuneena",
+		"websiteURL": "Verkkosivuston URL-osoite",
+		"username": "Käyttäjänimi",
+		"password": "Salasana",
+		"mobile": "Matkapuhelinnumero",
+		"name": "Nimi",
+		"title": "Otsikko",
+		"details": "Tiedot",
+		"masterPassword": "Pääsalasana",
+		"websiteName": "Verkkosivuston nimi",
+		"notes": "Muistiinpanot",
+		"ccType": "Luottokortin tyyppi",
+		"cardholderName": "Luottokortin haltijan nimi",
+		"ccNumber": "Luottokortin numero",
+		"expiryDate": "Viimeinen voimassaolopäivä",
+		"issueDate": "Myöntämispäivä",
+		"colorpicker": "Järjestä kortit värien avulla",
+		"driversLicenseNumber": "Lisenssinumero",
+		"firstName": "Etunimi",
+		"lastName": "Sukunimi",
+		"gender": "Sukupuoli",
+		"stateProvince": "Osavaltio/provinssi",
+		"birthdate": "Syntymäaika",
+		"company": "Yritys",
+		"telephone": "Puhelinnumero",
+		"streetName": "Kadun nimi",
+		"streetNumber": "Talon numero",
+		"city": "Postitoimipaikka",
+		"zipcode": "Postinumero",
+		"memberID": "Jäsennumero",
+		"memberSince": "Jäsenyys alkoi:",
+		"country": "Maa",
+		"passportNumber": "Passin numero",
+		"issuingCountry": "Myöntävä maa",
+		"placeOfBirth": "Syntymäpaikka",
+		"number": "Numero",
+		"male": "Mies",
+		"female": "Nainen"
+	},
+
+	"placeholders": {
+		"email": "Anna sähköpostiosoite",
+		"masterPassword": "Anna pääsalasana",
+		"phone": "(123) 456 7890",
+		"name": "Anna nimesi",
+		"title": "Kirjoita tähän otsikko",
+		"websiteURL": "Kirjoita tähän URL-osoite",
+		"websiteName": "Kirjoita tähän verkkosivuston nimi",
+		"username": "Kirjoita tähän käyttäjänimi",
+		"password": "Kirjoita tähän salasana",
+		"notes": "Kirjoita tähän muistiinpanoja",
+		"cardholderName": "Kirjoita luottokortin haltijan nimi",
+		"ccNumber": "Kirjoita tähän luottokortin numero",
+		"driversLicenseNumber": "Kirjoita tähän ajokortin numero",
+		"firstName": "Kirjoita tähän etunimi",
+		"lastName": "Kirjoita tähän sukunimi",
+		"stateProvince": "Kirjoita tähän osavaltio tai provinssi",
+		"company": "Kirjoita tähän yrityksen nimi",
+		"telephone": "Kirjoita tähän puhelinnumero",
+		"streetName": "Kirjoita tähän kadun nimi",
+		"streetNumber": "Kirjoita tähän talon numero",
+		"city": "Kirjoita tähän postitoimipaikka",
+		"zipcode": "Kirjoita tähän postinumero",
+		"memberID": "Kirjoita tähän jäsennumero",
+		"notesDetails": "Lisää tähän asioita, jotka sinun on muistettava. Numerolukkojen koodeja. Tuotteiden ja ohjelmistojen koodeja. Muistiinpanoja ja salaisia reseptejä.",
+		"country": "Valitse maa",
+		"passportNumber": "Kirjoita tähän passin numero",
+		"issuingCountry": "Valitse maa",
+		"placeOfBirth": "Valitse maa",
+		"number": "Kirjoita tähän numero"
+	},
+
+	"errors": {
+		"generic": "Jokin meni vikaan",
+		"passwordsMatch": "Salasanojen täytyy vastata toisiaan",
+		"nameRequired": "Anna nimesi",
+		"emailInvalid": "Anna kelvollinen sähköpostiosoite",
+		"passwordTooShort": "Salasanan on oltava vähintään %{nbCharacters} merkkiä pitkä",
+		"usernameRequired": "Käyttäjänimi on annettava"
+	},
+
+	"form": {
+		"launch": "Avaa tämä verkkosivusto",
+		"passwordStrength": {
+			"veryWeak": "Hyvin heikko",
+			"weak": "Heikko",
+			"acceptable": "Kohtalainen",
+			"strong": "Vahva",
+			"veryStrong": "Erittäin vahva"
+		},
+		"copyPassword": "Kopioi salasana",
+		"viewPassword": "Näytä salasana"
+	},
+
+	"headerMessages": {
+		"txt1": "Hei %{firstName}! Tervetuloa käyttämään True Key Launchpadia"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "Aloitetaanpa! Lisää True Key -sovellukseen ensimmäiset kirjautumistietosi",
+		"addNewLogin": "Lisää uudet kirjautumistiedot",
+		"success": "Tervetuloa!"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "Eikö sinulla ole True Key -profiilia?",
+			"signup": "Hanki sellainen täältä",
+			"haveAccount": "Onko sinulla jo True Key -profiili?",
+			"login": "Kirjaudu",
+			"help": "Ohje"
+		},
+
+		"intro": {
+			"hi": "Hei!",
+			"meetTK": "Tutustu True Key™ -palveluun. Se on helppo ja turvallinen tapa avata digitaalinen maailmasi. Aloita luomalla itsellesi profiili.",
+			"watchVideo": "Katso video",
+			"createProfile": "Aloita luomalla True Key -profiili",
+			"cta": "Luo profiili",
+			"eulaPrivacy": "Napsauttamalla alla olevaa painiketta hyväksyt loppukäyttäjän käyttöoikeussopimuksen <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'> (EULA)</a> ja &nbsp;<a class='txt bold secondary btPrivacy'>tietosuojaselosteen</a>."
+		},
+
+		"confirm": {
+			"title": "TÄRKEÄÄ: Vahvista pääsalasana",
+			"enterAgain": "Anna pääsalasana vielä kerran.",
+			"wontRemember": "Tietosuojasyistä ja salasanan turvaamiseksi pääsalasanaa ei koskaan tallenneta. Salasana on vain sinun hallussasi, joten älä vain unohda sitä.",
+			"promise": "Lupaathan painaa sen mieleesi?",
+			"submit": "Kyllä. Muistan sen varmasti"
+		},
+		"loginHelp": {
+			"title": "Onko ongelmia?",
+			"txt1": "Pääsalasanassa kirjainkoolla on merkitystä. Pääsalasanassa ei ole välilyöntejä. Sitä ei voi kopioida ja liittää salasanakenttään.",
+			"txt2": "Unohditko pääsalasanan? Tietoturvasyistä me emme ole tallentaneet sitä minnekään. Sinun täytyy luoda uusi True Key™ -tili.",
+			"createAccount": "Luo uusi tili"
+		},
+
+		"login": {
+			"title": "Kirjaudu profiiliisi",
+			"submit": "Kirjaudu",
+			"working": "Tietojen salausta puretaan...",
+			"error": "Toiminto epäonnistui"
+		},
+
+		"logout": {
+			"title": "Ennen kuin jatkat matkaa, muista myös mobiililaitteet!",
+			"desc": "Lähetä itsellesi tekstiviestitse linkki sovelluskauppaan, josta saat maksuttoman sovelluksen."
+		},
+
+		"onboarding": {
+			"skip": "Ohita tämä vaihe",
+			"skipVideo": "Selvä",
+			"title": "%{firstName}, True Key™ -profiilisi on valmis. Kokeillaanpa sitä.",
+			"desc": "Testaa sovelluksen toimintaa valitsemalla jokin näistä suosituista sivustoista tai lisäämällä jokin muu sivusto.",
+
+			"noWebsiteFlow": {
+				"desc": "Saat True Key -sovelluksesta kaiken irti seuraavin helpoin vaihein:",
+				"addManually": "Lisää ensimmäiset kirjautumistiedot manuaalisesti"
+			}
+		},
+
+		"emailTaken": {
+			"title": "Tällä sähköpostiosoitteella on jo luotu profiili",
+			"desc": "Haluatko kirjautua sisään osoitteella %{emailAddress}?"
+		},
+
+		"signup": {
+			"title": "Luo oma True Key™ -profiilisi",
+			"cta": "OK. Seuraava",
+			"working": "Vahvistetaan...",
+			"success": "Hyvältä näyttää."
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "Pikakirjautuminen",
+			"desc": "Pikakirjautumisen avulla voit kirjautua tälle verkkosivustolle nopeammin. Anna True Key -sovelluksen täyttää käyttäjänimi ja salasana puolestasi."
+		},
+		"passwordReprompt": {
+			"title": "Kysy pääsalasanaa",
+			"desc": "Vain sinä tiedät pääsalasanan. Vaadi salasanaa aina kirjauduttaessa sisään."
+		},
+		"subdomainOnly": {
+			"title": "Käytä ainoastaan tälle alitoimialueelle",
+			"desc": "Käytä tätä asetusta, kun haluat sallia kirjautumisen ainoastaan tälle tietylle alitoimialueelle."
+		},
+		"offlineHelp": {
+			"title": "Verkkoyhteydetön tila",
+			"desc": "Internet-yhteys on katkennut tai se on hyvin hidas. Voit edelleen tarkastella salasanojasi verkkoyhteydettömässä tilassa, mutta et voi lisätä kirjautumistietoja, tallentaa muutoksia tai jakaa salasanaa."
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "Kieli vaihdettiin",
+			"desc": "Kieliasetuksesi on %{languageName}"
+		},
+		"favoriteAdded": {
+			"title": "Suosikki lisättiin",
+			"desc": "Valitsemasi verkkosivusto on nyt lisätty Launchpadiin."
+		},
+		"favoriteRemoved": {
+			"title": "Suosikki poistettiin",
+			"desc": "Suosikki on nyt poistettu Launchpadista."
+		},
+		"favoriteEdited": {
+			"title": "Suosikkia muutettiin",
+			"desc": "Suosikkiin tehdyt muutokset on nyt tallennettu."
+		},
+		"passwordGenerated": {
+			"title": "Salasana kopioitiin",
+			"desc": "Luotu salasana on nyt kopioitu leikepöydällesi."
+		},
+		"noteCreated": {
+			"title": "Muistiinpano luotiin.",
+			"desc": "Tämä muistiinpano on nyt lisätty True Key -profiiliin."
+		},
+		"passwordSaved": {
+			"title": "Salasana tallennettiin.",
+			"desc": "Tämä salasana on nyt lisätty True Key -sovellukseen."
+		},
+		"loginShared": {
+			"title": "Salasana jaettiin",
+			"desc": "Salasanasi jaettiin osoitteeseen %{email}"
+		},
+		"passwordRemoved": {
+			"title": "Salasana poistettiin.",
+			"desc": "Tämä salasana on poistettu True Key -sovelluksesta."
+		},
+		"loginEdited": {
+			"title": "Kirjautumistietoja muutettiin.",
+			"desc": "Kirjautumistietoihin tehdyt muutokset tallennettiin."
+		},
+		"copied": {
+			"title": "Kopioitu",
+			"desc": "Leikepöydälläsi on nyt tästä kopio."
+		},
+		"passwordCopied": {
+			"title": "Salasana kopioitiin.",
+			"desc": "Salasanasi on nyt kopioitu leikepöydällesi."
+		},
+		"error": {
+			"title": "Jokin meni vikaan",
+			"desc": "Yritä uudelleen"
+		},
+		"legacyAccepted": {
+			"title": "Kutsu hyväksyttiin",
+			"desc": "Perilliskutsu hyväksyttiin."
+		},
+		"legacyDeclined": {
+			"title": "Kutsu hylättiin",
+			"desc": "Perilliskutsu hylättiin."
+		},
+		"sharingAccepted": {
+			"title": "Kutsu hyväksyttiin",
+			"desc": "Jakamiskutsu on hyväksytty."
+		},
+		"sharingDeclined": {
+			"title": "Kutsu hylättiin",
+			"desc": "Jakamiskutsu on hylätty."
+		},
+		"invitationResent": {
+			"title": "Kutsu lähetettiin uudelleen.",
+			"desc": "Tämä kutsu on lähetetty uudelleen."
+		},
+		"oobResent": {
+			"title": "Ilmoitus lähetettiin uudelleen.",
+			"desc": "Puhelimeesi lähetettiin uusi ilmoitus."
+		},
+		"emailResent": {
+			"title": "Sähköposti lähetettiin uudelleen.",
+			"desc": "Sinulle on lähetetty uusi vahvistusviesti."
+		},
+		"legacyRevoked": {
+			"title": "Perillisyhteys peruutettiin",
+			"desc": "Tämä perillisyhteys on peruutettu."
+		},
+		"legacySent": {
+			"title": "Perillispyyntö lähetettiin",
+			"desc": "Kutsu lähetettiin osoitteeseen %{email}."
+		},
+		"legacySendError": {
+			"title": "Perillispyyntövirhe",
+			"desc": "Kutsun lähettäminen osoitteeseen %{email} ei onnistunut."
+		},
+		"browserNewTab": {
+			"title": "Uuden selainvälilehden asetus tallennettiin",
+			"desc": "Selaimen uuden välilehden asetus on päivitetty."
+		},
+		"changedMP": {
+			"title": "Pääsalasana vaihdettiin",
+			"desc": "Pääsalasanasi on vaihdettu."
+		},
+		"clearAutosave": {
+			"title": "Automaattinen tallennus palautettiin",
+			"desc": "True Key tallentaa nyt automaattisesti kaikkien sivustojen salasanat."
+		},
+		"feedbackSent": {
+			"title": "Palaute lähetettiin",
+			"desc": "Kiitos palautteestasi."
+		},
+		"documentCreated": {
+			"title": "Asiakirja luotiin.",
+			"desc": "Tämä asiakirja on nyt tallennettu True Key -sovellukseen."
+		},
+		"documentRemoved": {
+			"title": "Asiakirja poistettiin",
+			"desc": "Tämä asiakirja on poistettu True Key -sovelluksesta."
+		},
+		"notesEdit": {
+			"title": "Muutokset tallennettiin",
+			"desc": "Tähän muistiinpanoon tehdyt muutokset tallennettiin."
+		},
+		"notesRemove": {
+			"title": "Muistiinpano poistettiin",
+			"desc": "Tämä muistiinpano on poistettu True Key -profiilista."
+		},
+		"settingsChanged": {
+			"title": "Asetukset muutettiin",
+			"desc": "Lukitusasetukset on nyt päivitetty sovellukseen."
+		},
+		"disabledTrustedDevice": {
+			"title": "Laite poistettiin käytöstä",
+			"desc": "Laitteesi on poistettu käytöstä."
+		},
+		"deviceTrusted": {
+			"title": "Laitteeseen luotetaan",
+			"desc": "Tämä laite on nyt lisätty luotettuihin laitteisiin."
+		},
+		"confirmationEmailSent": {
+			"title": "Vahvistusviesti lähetettiin sähköpostitse.",
+			"desc": "Vahvistusviesti lähetettiin sähköpostitse osoitteeseen %{email}"
+		}
+	},
+
+	"logins": {
+		"title": "Kirjautumistiedot",
+		"editLogin": "Muokkaa kirjautumistietoja",
+		"viewLogin": "Näytä kirjautumistiedot",
+		"shareLogin": "Jaa kirjautumistiedot",
+		"shareSection": {
+			"title": "Voit jakaa kirjautumistiedot suojatusti perheenjäsenten ja ystävien kesken. <strong>Valitse alta kirjautumistiedot, jotka haluat jakaa muille.</strong>"
+		},
+		"copyPassword": "Kopioi salasana",
+		"loginAs": "Kirjaudu sisään käyttäjänä",
+		"removeLogin": "Poista nämä kirjautumistiedot",
+		"noLoginFound": {
+			"title": "Ei löytynyt",
+			"desc": "Ehkä et ollut vielä tallentanut näitä kirjautumistietoja? Haluatko lisätä ne nyt?"
+		},
+		"currentWebsite": "Tarkasteltava sivusto",
+		"onboardingPopover": {
+			"title": "Pikakirjautuminen",
+			"desc": "Napsauta tästä ja kirjaudu sisään ilman kirjautumistietojen kirjoittamista."
+		},
+		"searchAssets": "Hae %{smart_count} kirjautumistiedostani |||| Hae %{smart_count} kirjautumistiedostani",
+		"askForMasterPassword": "Pääsalasana",
+		"askForFaceRecognition": "Avaa kasvoilla",
+		"instantLogin": "Pikakirjautuminen",
+		"useForSubdomainOnly": "Käytä ainoastaan alitoimialueen <span class='primary'>%{domain}</span> yhteydessä",
+		"notShared": "Et ole jakanut salasanaa kenenkään kanssa.",
+		"visiblity": {
+			"title": "Salasana-asetus:"
+		},
+		"unshare": "Lopeta jakaminen",
+		"waitingResponse": "odotetaan vastausta"
+	},
+
+	"sharing": {
+		"title": "Jaa <span class='primary'>%{name}</span>-sivuston salasanasi",
+		"accessGiven": "Tämä salasana on jaettu seuraaville henkilöille:"
+	},
+
+	"verifyEmail": {
+		"title": "Et ole vielä vahvistanut sähköpostiosoitettasi",
+		"subtitle": "Ennen kuin voit jakaa salasanoja, vahvista sähköpostiosoitteesi.",
+		"desc": "Etkö löydä sähköpostistasi lähettämäämme vahvistusviestiä? Hanki uusi.",
+		"cta": "Lähetä vahvistusviesti uudelleen"
+	},
+
+	"premiumOnly": {
+		"title": "Vain Premium-käyttäjät",
+		"txt1": "Uuden salasanan lisääminen True Key -sovellukseen edellyttää Premium-tiliä.",
+		"txt1": "Jos et päivitä Premium-versioon, voit tallentaa maksutta viisi salasanaa. Hanki rajaton versio päivittämällä nyt!"
+	},
+
+	"generator": {
+		"title": "Luo vahvoja salasanoja lennossa.",
+		"subtitle": "Valitse salasanalle haluamasi käyttöasetukset ja luo uusi salasana napauttamalla sitten painiketta Luo ja kopioi.",
+		"placeholder": "Luo salasana napsauttamalla painiketta",
+		"cta": "Luo ja kopioi",
+		"length": "Salasanan pituus",
+
+		"letters": "Käytä kirjaimia",
+		"digits": "Käytä numeroita",
+		"symbols": "Käytä erikoismerkkejä",
+		"capitals": "Käytä isoja kirjaimia",
+		"showInForms": "Näytä luontiohjelma automaattisesti lomakkeissa",
+
+		"history": {
+			"title": "Luodut salasanat",
+			"noGeneratedPassword": "Ei luotuja salasanoja."
+		}
+	},
+
+	"legacy": {
+		"title": "Perillisen tallelokero",
+		"countingOnYou": "Sinuun luottavat ihmiset",
+		"heirs": "Ihmiset, joihin luotat",
+		"sentTimer": "%{time} sitten",
+		"resendInvitation": "Lähetä kutsu uudelleen",
+		"assignTrustees": "Määritä luottohenkilöt",
+
+		"txtFeature": {
+			"txt1": "Suojaa digitaalinen identiteettisi elämäsi aikana ja myös sen jälkeen.",
+			"txt2": "Perillisen tallelokero on paras tapa siirtää digitaalinen elämäsi luotettavalle henkilölle, olipa se sitten puoliso, lapsi, ystävä tai työtoveri.",
+			"txt3": "Kun määrität True Key -sovellukseen luottohenkilöitä, he eivät mitenkään pääse käyttämään tiliäsi ennenaikaisesti. %{htmlBefore}Katso video%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "Sinun on vahvistettava sähköpostiosoitteesi",
+		"descLegacy": "Et voi määrittää luottohenkilöitä ennen kuin sähköpostiosoite on vahvistettu",
+		"getNewEmail": "Oletko epävarma siitä, onko edellinen vahvistusviesti enää tallessa sähköpostissasi? Hanki uusi.",
+		"cta": "Lähetä minulle uusi vahvistusviesti"
+	},
+
+	"nav": {
+		"dashboard": "Launchpad",
+		"logins": "Kirjautumistiedot",
+		"wallet": "Lompakko",
+		"notes": "Suojatut muistiinpanot",
+		"legacy": "Perillisen tallelokero",
+		"generator": "Salasanojen luontiohjelma",
+		"settings": "Asetukset",
+		"preferences": "Käyttöasetukset",
+		"support": "Ohje ja tuki",
+		"tkProfile": "Oma True Key -profiilini",
+		"logout": "Kirjaudu ulos"
+	},
+
+	"browserNewTab": {
+		"title": "Uusi selainvälilehti",
+		"txt1": "Määritä, minkä verkkosivun haluat selaimen avaavan:",
+		"startpage": "Oman True Key Launchpadin",
+		"default": "Selaimen oletussivun",
+		"custom": "Muun sivun:"
+	},
+
+	"changeMP": {
+		"title": "Vaihda pääsalasana",
+		"labels": {
+			"current": "Nykyinen pääsalasana",
+			"new": "Uusi pääsalasana",
+			"confirmNew": "Uusi pääsalasana"
+		},
+		"placeholders": {
+			"current": "Anna nykyinen pääsalasanasi",
+			"new": "Anna uusi pääsalasanasi",
+			"confirmNew": "Anna uusi pääsalasanasi uudelleen"
+		},
+		"cta": "Vaihda salasana"
+	},
+
+	"lockUnlock": {
+		"title": "Valta on sinulla",
+		"desc": "Mukauta True Key -sovellus valitsemalla niin monta todennustekijää kuin haluat. Lisätodennustekijöiden käyttö vahvistaa profiiliasi.",
+
+		"noYap": {
+			"title": "Kerro True Key -sovellukselle, milloin sen tulee lukittua.",
+			"desc": "Valitse alla olevasta pudotusvalikosta haluamasi ajanjakso."
+		},
+
+		"basic": "Perussuojaus",
+		"advanced": "Tehosuojaus",
+
+		"autolock": {
+			"title": "Automaattinen lukitus",
+			"desc": "Kuinka pitkän käyttämättömyysajan kuluttua haluat True Keyn lukittuvan?"
+		},
+
+		"launchpadVisibility": {
+			"title": "Launchpadin näkyminen",
+			"desc": "Valitse, haluatko True Keyn Launchpadin näkyvän silloin, kun sovellus on lukittuna."
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "Käyttämääsi laitteeseen luotetaan.",
+			"txt2": "Kun luotat laitteeseen, voit lisätä turvatekijöitä, kuten Avaa kasvoilla -toiminnon."
+		}
+	},
+
+	"preferences": {
+		"title": "Käyttöasetukset",
+		"modals": {
+			"autologin": {
+				"title": "Pikakirjautuminen",
+				"desc": "Pikakirjautumisen avulla voit kirjautua verkkosivustoille nopeammin. Anna True Key -sovelluksen täyttää käyttäjänimi ja salasana puolestasi.",
+				"txt1": "Pikakirjautuminen tarkoittaa, että True Key kirjaa sinut automaattisesti sisään verkkosivustolle, kun vain kirjoitat tiliisi tallennetun sivuston URL-osoitteen selainriville (esimerkiksi www.esimerkkiosoite.com).",
+				"txt2": "Jos Pikakirjautuminen on käytössä, True Key tunnistaa verkkosivuston URL-osoitteen ja kirjaa sinut automaattisesi sisään ilman ylimääräisiä hiiren napsautteluja.",
+				"txt3": "Jos Pikakirjautuminen ei ole käytössä, True Key tunnistaa verkkosivuston URL-osoitteen ja täyttää kenttiin käyttäjänimesi ja salasanasi, mutta sinun on itse napsautettava kirjautumispainiketta."
+			},
+			"clearAutologin": {
+				"title": "Palauta automaattinen tallennus kaikille sivustoille",
+				"desc": "Jos olet tietyillä verkkosivustoilla valinnut, että True Key ei tallenna salasanaasi, mutta muutatkin myöhemmin mielesi, napsauta palautuspainiketta, niin True Key tallentaa salasanat automaattisesti, kun selaat verkkoa."
+			}
+		},
+		"import": {
+			"title": "Oletko tallentanut salasanoja toiseen palveluun? Lisää ne True Key -tiliisi.",
+			"desc": "Lisää salasanat nopeasti True Key -tiliisi käyttämällä salasanojen tuontiohjelmaa.",
+			"cta": "Tuo salasanat"
+		},
+		"newTab": "Selaimen aloitussivu ja uusi välilehti",
+		"restoreAutosave": "Palauta automaattinen tallennus kaikille sivustoille",
+		"restore": "Palauta",
+		"instantLogin": "Pikakirjautuminen",
+		"changeLanguage": "Vaihda kieli"
+	},
+
+	"shareSocial": {
+		"title": "Levitä sanaa",
+		"title2": "Jaa tunteesi",
+		"desc": "Pidätkö True Key -sovelluksen käytöstä? Saat etuja, kun kerrot siitä ystävillesi.",
+		"share": "Jaa",
+		"tweet": "Twiittaa",
+		"rateChrome": "Anna sovelluksesta arvio",
+		"twitterMessage": "Ole etulinjassa hankkiutumassa eroon salasanoista! Varaa #TrueKey by @IntelSecurity, jotta saat sen käyttöösi mahdollisimman nopeasti."
+	},
+
+	"settingsNav": {
+		"profile": "Oma True Key -profiilini",
+		"lockUnlock": "Lukitusasetukset",
+		"windowsLock": "Avaa Windows kasvoilla",
+		"preferences": "Käyttöasetukset",
+		"support": "Ohje ja tuki",
+		"shareSocial": "Levitä sanaa",
+		"trustedDevices": "Luotetut laitteet"
+	},
+
+	"tkProfile": {
+		"title": "Omat todennustekijät",
+		"hi": "Hei %{fullname}!",
+		"txt1": "Mitä enemmän todennustekijöitä lisäät, %{htmlBefore}sitä vahvempi True Key -profiilisi suojaus on.%{htmlAfter}",
+		"activeFactors": "Aktiiviset todennustekijät",
+		"active": "Aktiivinen",
+		"strength": "Profiilin vahvuus",
+
+		"accountStatus": {
+			"title": "Tilauksen tila",
+			"premium": "Premium",
+			"ends": "Päättymisaika"
+		},
+
+		"layerEmail": "Lisää sähköpostiosoitteesi luotetuksi todennustekijäksi, jolloin se liitetään True Key -profiiliisi. <strong>Saat ilmoituksen Saapuneet-kansioosi, kun kirjaudut uudelle laitteelle tai laitteelle, jonka turvallisuudesta ei ole varmuutta.</strong>",
+		"layerSwipe": "Voit lähettää ilmoituksen mobiililaitteeseesi <strong>ja saada näin lisäsuojaa, kun kirjaudut tileille</strong>. Sinun on hyväksyttävä ilmoitus, ennen kuin True Key kirjaa sinut sisään.",
+		"layerFace": {
+			"txt1": "<strong>Kirjaudu sisään kirjoittamatta salasanaa.</strong> Avaa kasvoilla -toiminto hyödyntää kasvojesi yksilöllisiä mittoja (kuten silmiesi ja nenäsi välistä etäisyyttä), tunnistaa sinut niiden perusteella ja kirjaa sinut sisään.",
+			"txt2": "Avaa kasvoilla -toimintoa voi käyttää PC-tietokoneella ja Android-laitteilla."
+		},
+		"layerPassword": "Voit suojata profiilisi vahvalla pääsalasanalla, mutta älä vain unohda sitä! <strong>Unohtunutta pääsalasanaa ei voi vaihtaa, ja se on vain sinun hallussasi.</strong> Jos lisäät muita todennustekijöitä, pääsalasanaasi käytetään varmuustekijänä, jos et voi kirjautua sisään muiden tekijöiden avulla.",
+		"layerDevice" : "True Key tunnistaa omistamasi ja usein käyttämäsi laitteet. Lisää kaikki laitteet, joilta käytät True Key -profiilia. <strong>Näin kukaan ei voi käyttää tiliäsi</strong>, sillä lisätodennustekijöitä pyydetään, kun tilille yritetään kirjautua tuntemattomalta laitteelta."
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Millaisen suojaustason haluat Windowsin lukituksen avaamiseen?",
+		"desc": "Valitse haluamasi suojaustaso.",
+
+		"basic": {
+			"settingName": "Perussuojaus",
+			"title": "Perussuojausta käyttämällä kirjautuminen on nopeinta.",
+			"desc": "Tätä asetusta suositellaan käytettäväksi henkilökohtaisella tietokoneella turvallisessa ympäristössä."
+		},
+		"advanced": {
+			"settingName": "Tehosuojaus",
+			"title": "Tehosuojauksessa käytössä on myös huijauksenestotekniikoita.",
+			"desc": "Tätä asetusta suositellaan käytettäväksi henkilökohtaisilla ja yhteisillä tietokoneilla töissä ja kotona."
+		},
+		"boosted": {
+			"settingName": "Tehostettu",
+			"title": "Tehostettu-asetusta käytettäessä suojaukseen lisätään huijauksenestotekniikoita ja reaaliaikaisen kuvan tunnistus.",
+			"desc": "Asetus vahvistaa, että kyseessä olet sinä, kun räpäytät silmiäsi. Tätä asetusta suositellaan käytettäväksi julkisilla tietokoneilla ympäristöissä, joiden turvallisuudesta ei ole varmuutta."
+		},
+		"howTo": {
+			"title": "Kirjaudu Windowsiin käyttämällä tunnistautumiseen kasvojasi",
+			"subtitle": "Oletko kyllästynyt Windows-salasanan kirjoitteluun?",
+			"desc": "Laitteen voi avata myös True Keyllä. Se käy helposti ja nopeasti.",
+			"cta": "Aktivointiohjeet"
+		},
+		"howToModal": {
+			"title": "Kirjaudu Windowsiin käyttämällä tunnistautumiseen kasvojasi",
+			"desc": "Ota Windows-kirjautuminen kasvojesi avulla käyttöön näin helposti:",
+			"step1": "Lukitse näyttö (Windows+L).",
+			"step2": "Napsauta Takaisin-painiketta.",
+			"step3": "Napsauta True Key -kuvaketta.",
+			"tip": "Voit lukita näytön näppäinyhdistelmällä Windows+L."
+		}
+	},
+
+	"videos": {
+		"title": "Videot",
+		"intro": {
+			"title": "Esittely",
+			"desc": "Mikä True Key on ja mihin sitä tarvitaan? Saat vastauksen tästä!"
+		},
+		"gettingStarted": {
+			"title": "Käytön aloittaminen",
+			"desc": "Oletko uusi käyttäjä? Tämä nopea tuote-esittely auttaa sinua saamaan kaiken irti True Key -sovelluksestasi."
+		},
+		"security": {
+			"title": "Tietoturva",
+			"desc": "Sinun tietoturvasi on meille tärkeintä. Videossa kerrotaan, miten suojaamme tietosi."
+		},
+		"sharing": {
+			"title": "Salasanan jakaminen",
+			"desc": "Viimeinkin! Kirjautumistietojen jakaminen salatusti onnistuu nyt helposti keneltä vain."
+		},
+		"sharingSecurity": {
+			"title": "Jakamisen suojaus",
+			"desc": "Salatun jakamisen tekeminen näin helpoksi on vaativampaa kuin arvaatkaan."
+		},
+		"legacy": {
+			"title": "Mitä jätät jälkeesi?",
+			"desc": "Ainoa salasanatyökalu, joka suojaa tietojasi niin elämäsi aikana kuin sen jälkeenkin."
+		}
+	},
+
+	"support": {
+		"title": "Ohje ja tuki",
+		"feedback": {
+			"title": "Anna palautetta",
+			"desc": "Mitä mieltä olet True Key -palvelusta?",
+			"needsWork": "Kaipaa hiomista",
+			"awesome": "Aivan mahtava",
+			"leaveComment": "Lisää kommentti:",
+			"placeholder": "Arvostamme palautettasi. Kirjoita tähän omat kommenttisi. Kiitos jo etukäteen!",
+			"thankYou": "Kiitos!"
+		},
+		"getMoreSupport": "Pyydä lisää tukea"
+	},
+
+	"wallet": {
+		"title": "Lompakko",
+		"add": {
+			"subtitle1": "Tallenna tietosi suojatusti",
+			"subtitle2": "Lisää ensimmäinen kohde lompakkoon valitsemalla alta sopiva luokka"
+		},
+		"search": "Hae lompakosta",
+		"types": {
+			"identity": "Osoitekirja",
+			"cc": "Luottokortti",
+			"drivers": "Ajokortti",
+			"membership": "Jäsenyydet",
+			"passport": "Passi",
+			"ssn": "Henkilötunnus"
+		},
+		"remove": {
+			"title": "Asiakirjan poistaminen",
+			"confirm": "Haluatko varmasti poistaa tämän asiakirjan True Key -sovelluksesta?",
+			"permanent": "Toimintoa ei voi kumota."
+		},
+		"edit": {
+			"title": "Muokkaa asiakirjaa"
+		}
+	},
+
+	"notes": {
+		"title": "Suojatut muistiinpanot",
+		"add": {
+			"title": "Lisää muistiinpano"
+		},
+		"empty": {
+			"title": "Ei löytynyt",
+			"desc": "Ehkä etsimääsi muistiinpanoa ei ole tallennettu True Key -sovellukseen.",
+			"cta": "Luo muistiinpano"
+		},
+		"sort": {
+			"alphabetically": "Aakkosjärjestys",
+			"dateCreated": "Luontipäivämäärä"
+		},
+		"search": "Hae %{smart_count} suojatusta muistiinpanostani |||| Hae %{smart_count} suojatusta muistiinpanostani",
+		"remove": {
+			"title": "Muistiinpanon poistaminen",
+			"desc": "Haluatko varmasti poistaa tämän muistiinpanon True Key -sovelluksesta?",
+			"permanent": "Toimintoa ei voi kumota."
+		},
+		"edit": {
+			"title": "Suojattu muistiinpano"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "Käytä vakiokirjautumista"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) haluaa nimetä sinut perillisekseen."
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) jakoi kanssasi salasanansa palveluun %{htmlBefore}%{title}%{htmlAfter}."
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) haluaa jakaa salasanansa kanssasi."
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "Tilin edistyminen:",
+		"pctProgress": "%{percentage} %",
+		"addLogin": {
+			"title": "Lisää ensimmäiset kirjautumistiedot",
+			"desc": "Tallenna True Key -sovellukseen kirjautumistiedot"
+		},
+		"oneClick": {
+			"title": "Pikakirjautumisen kokeileminen",
+			"desc": "Kirjaudu ilman näppäimistön naputtelua."
+		},
+		"addFace": {
+			"title": "Lisää Avaa kasvoilla -todennustekijä",
+			"desc": "Se tekee kirjautumisesta entistä helpompaa ja nopeampaa."
+		},
+		"addLogins": {
+			"title": "Lisää ensimmäiset neljä kirjautumistietoasi",
+			"desc": "Lisää True Key -profiiliisi muita kirjautumistietoja"
+		},
+		"sharing": {
+			"title": "Jaa salasana",
+			"desc": "Jaa tietoja suojatusti perheenjäsenten, ystävien ja työtovereiden kanssa"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "Kirjaudu nopeammin käyttämällä tunnistautumiseen kasvojasi.",
+		"txt1": "Helpota ja nopeuta True Key™ -sovelluksen käyttöä ottamalla Avaa kasvoilla -toiminto käyttöön.",
+		"txt2": "Voit myös yhdistää toiminnon pääsalasanaan ja käyttää sitä toisena vaivattomana todennustekijänä.",
+		"txt3": "Ei kuitenkaan syytä huoleen. Kuvaasi ei tallenneta tai jaeta muille.",
+		"cta": "Ota Avaa kasvoilla -toiminto käyttöön"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "Lisää luotettu laite",
+		"txt1": "Tarkista sähköpostisi ja vahvista toiminto.",
+		"txt2": "Jatka tarkistamalla saapuneet sähköpostiviestisi."
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "Valitse luotettu laite",
+		"txt": "Olet aktivoinut kaksinkertaisen todennuksen. Valitse luotettu laite, johon ilmoitus lähetetään."
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "Poista luotettu laite käytöstä",
+		"txt": "Olet päättänyt poistaa käytöstä laitteen %{deviceName}.",
+		"confirm": "Poista käytöstä"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "Käyttämääsi laitteeseen luotetaan.",
+		"txt": "Kun luotat laitteeseen, voit lisätä turvatekijöitä, kuten Avaa kasvoilla -toiminnon."
+	},
+
+	"overlayInstallExe": {
+		"title": "Melkein valmista. Enää kolme vaihetta",
+		"txt": "True Key -ohjelmistoa ladataan. Eikö onnistu? ",
+		"restartDownload": "Aloita lataaminen uudelleen napsauttamalla tästä."
+	},
+
+	"overlayOobPending": {
+		"txt": "Lähetimme laitteellesi juuri push-ilmoituksen kirjautumisen vahvistamisesta. Tarkista luotettu laite.",
+		"btResend": "Lähetä ilmoitus uudelleen"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "Push-ilmoitus vanhentui.",
+		"txt2": "Yritä uudelleen käyttämällä uutta ilmoitusta.",
+		"btResend": "Etkö saanut ilmoitusta? Lähetä uudelleen"
+	},
+
+	"overlayInstallFace": {
+		"title": "Kirjaudu sisään nopeasti",
+		"txt": "Säästä aikaa. Käytä pääsalasanan kirjoittamisen sijaan Avaa kasvoilla -toimintoa."
+	},
+
+	"overlayTrustDevice": {
+		"title": "Onko tämä luotettu laite?",
+		"txt1": "Vaikuttaa siltä, että yrität kirjautua sisään laitteelta, joka ei ole luotettu.",
+		"txt2": "Jos lisäät tämän tietokoneen luotettuihin laitteisiin, voit kirjautua sisään nopeasti yhden tai usean todennustekijän avulla.",
+		"dontTrust": "Älä luota",
+		"trustComputer": "Luota tähän tietokoneeseen"
+	},
+
+	"overlayEmailPending": {
+		"title": "Vahvista sähköpostiosoitteesi",
+		"txt": "Tarkista sähköpostisi ja vahvista tämä laite.",
+		"btResend": "Lähetä sähköposti uudelleen"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "Sähköposti-ilmoitus vanhentui.",
+		"txt2": "Yritä uudelleen käyttämällä uutta ilmoitusta.",
+		"btResend": "Etkö saanut ilmoitusta? Lähetä uudelleen"
+	},
+
+	"overlayUpdate": {
+		"title": "Päivitä True Key -sovellus",
+		"txt": "Uusi versio on valmis asennettavaksi. Asenna päivitys napsauttamalla Päivitä.",
+		"btUpdate": "Päivitä nyt"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "Anna pääsalasana",
+			"enterMasterPasswordHere": "Kirjoita tähän pääsalasana",
+			"invalidPassword": "Virheellinen salasana"
+		}
+	},
+
+	"userConfirm": {
+		"title": "Vahvistus vaaditaan"
+	},
+
+	"fullscreenAutolock": {
+		"title": "Automaattinen lukitus",
+		"text": "Milloin haluat True Key -sovelluksen lukittuvan?"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "Launchpadin näkyminen",
+		"text": "Päätä, ovatko suosikkisivustosi piilotettuina vai näkyvissä, kun Launchpad on lukittuna.",
+		"visible": "<span class='bold'>Näkyvissä:</span> Launchpadin voi nähdä, vaikka se olisi lukittuna.",
+		"invisible": "<span class='bold'>Piilotettu:</span> Launchpad ei näy lukittuna."
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "Luotettu laite",
+			"helpText": "Vahvista suojausta lisäkerroksella yhdistämällä True Key -profiiliin laitteesi.",
+			"enroll": "Luota laitteeseen"
+		},
+		"masterPassword": {
+			"title": "Pääsalasana",
+			"helpText": "Luo True Key -profiilille vahva pääsalasana. Me emme tallenna salasanaasi minnekään, joten sinun on oltava varma, että muistat sen."
+		},
+		"email": {
+			"title": "Luotettu sähköposti",
+			"helpText": "Saat kaikki toiminnot käyttöösi, kun vielä vahvistat sähköpostiosoitteesi. Sähköpostiosoitetta voi käyttää vielä toisena todennustekijänä, joka vahvistaa tietoturvaasi.",
+			"enroll": "Lähetä vahvistusviesti"
+		},
+		"face": {
+			"title": "Avaa kasvoilla",
+			"helpText": "True Keyn Avaa kasvoilla -toiminto käyttää kasvojesi yksilöllisiä mittoja varmistaakseen, että kyseessä todella olet sinä. Avaa kasvoilla -toimintoa voi käyttää ensisijaisena kirjautumiskeinona tai lisätekijänä.",
+			"enroll": "Lisää nyt"
+		},
+		"mobile": {
+			"title": "Avaa pyyhkäisemällä (vain Android-laitteissa)",
+			"helpText": "Avaa pyyhkäisemällä -toiminto lähettää toisena todennustekijänä matkapuhelimeesi push-ilmoituksen, jota pyyhkäisemällä saat tietokoneesi avattua. Voit käyttää sitä joko pääsalasanan sijasta tai sen lisänä suojauksen vahvistamiseksi.",
+			"enroll": "Lisää puhelin"
+		},
+		"fingerprint": {
+			"title": "Avaa koskettamalla",
+			"helpText": "Lisää suojaukseesi lisäkerros käyttämällä True Keyn avaamiseen omaa sormenjälkeäsi. Toiminto tulee saataville lähiaikoina."
+		}
+	},
+
+	"killswitch": {
+		"title": "Pakollinen päivitys",
+		"chrome": {
+			"txt1": "True Key -laajennuksen tätä versiota ei enää tueta.  Chrome on päivittänyt sen automaattisesti uusimpaan versioon.",
+			"txt2": "Käynnistä selain uudelleen."
+		},
+		"ie": {
+			"txt1": "True Keyn tätä versiota ei enää tueta. Päivitä uusimpaan versioon napsauttamalla alla olevaa painiketta",
+			"cta": "Päivitä nyt"
+		},
+		"downloading": "True Keyn tätä versiota ei enää tueta. Päivitettyä versiota ladataan nyt, ja se on valmiina muutaman minuutin kuluttua…"
+	},
+
+	"downloadExe": {
+		"title": "Erinomainen valinta",
+		"txt1": "Avaa kasvoilla -toiminto säästää sinut pääsalasanan kirjoittamisen vaivalta. Napsauta alta asennusohjelman latauspainiketta."
+	},
+
+	"enableIE": {
+		"appInstalled": "Sovellus asennettu",
+		"enableIt": "Ota se nyt käyttöön selaimessasi",
+		"cta": "Napsauta tästä, kun olet ottanut sovelluksen käyttöön alta",
+		"title": "Vielä yksi vaihe",
+		"txt1": "Aloita True Key -sovelluksen käyttö napsauttamalla alhaalta Ota käyttöön. Tämä on tehtävä vain kerran.",
+		"txt2": "Kun olet valmis, %{htmlBefore}napsauta tästä%{htmlAfter}.",
+		"appInstalled" : "Sovellus on asennettu.",
+		"enableIt" : "Ota se nyt käyttöön selaimessasi.",
+		"havingTrouble" : "Onko sinulla ongelmia? Päivitä tämä sivu."
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "Suojauksesi on jo kunnossa, sillä käytät luotettua laitetta:",
+		"trustedDevice": "Tämä luotettu laite (%{deviceName})",
+		"chooseFactors": "Valitse, mitä lisätekijää haluat käyttää sovelluksen lukituksen avaamiseen:",
+		"simple": "Yksinkertainen",
+		"complex": "Monimuotoinen",
+		"faceUnlock": "Avaa kasvoilla",
+		"addFace": "Lisää kasvosi",
+		"addSwipe": "Lisää Avaa pyyhkäisemällä -todennustekijä",
+		"masterPassword": "Pääsalasana",
+		"theseFactorsAreRequired": "Sovelluksesi käyttämiseen edellytetään myös seuraavia tekijöitä:",
+
+		"confirmAdvanced": {
+			"title": "Hyvä tietää",
+			"content": "Kun kirjaudut sisään käyttämällä vaihtoehtoa Tehosuojaus, laitteessa on oltava internet-yhteys. Jos yhteyttä ei ole, et voi käyttää True Key -profiiliasi.",
+			"confirm": "Selvä"
+		}
+	},
+
+	"faq": {
+		"title": "Usein kysytyt kysymykset",
+
+		"Q1": "Mikä True Key on?",
+		"A1": "True Key™ by Intel Security on sovellus, joka mullistaa kirjautumistavat.  True Key säästää sinut useiden salasanojen muistamisen vaivalta ja kirjaa sinut hetkessä sovelluksiin, sivustoille ja laitteille käyttäen yksilöllisiä todennustekijöitä, kuten kasvojenpiirteitä ja omistamiasi laitteita.  Mitä useampia tekijöitä käytät, sitä vahvempi True Key -sovelluksestasi tulee, mikä helpottaa käyttäjän todentamista entisestään. True Keyn ansiosta sinä itse olet salasana.  Voit hallita digitaalista identiteettiäsi aiempaa tiukemmin ja taivaltaa digitaalimaailmassasi nopeasti, helposti ja turvallisesti.",
+
+		"Q2": "Miten se toimii?",
+		"A2": "Avaa True Key -tili älypuhelimella, taulutietokoneella tai PC-tietokoneella ja luo profiili, jotta True Key pystyy tunnistamaan sinut. True Keytä tukevat verkkosivustot tunnistavat sinut automaattisesti, joten sinun ei tarvitse kirjoittaa tai edes muistaa niiden salasanoja. Verkkosivustot, jotka eivät vielä tue True Keytä, käyttävät sovellukseen sisältyvää salasananhallintaa käyttäjänimiesi ja salasanojesi tallentamiseen ja automaattiseen syöttämiseen. True Keyn ansiosta sinä itse olet salasana.  Voit hallita digitaalista identiteettiäsi aiempaa tiukemmin ja taivaltaa digitaalimaailmassasi nopeasti, helposti ja turvallisesti.",
+
+		"Q3": "Miksi kirjautumiseen kannattaa käyttää True Keytä?",
+		"A3": "True Key helpottaa elämääsi ja vahvistaa digitaalisessa maailmassa identiteettisi. Kirjautumalla kerran True Key -sovellukseen sinulle yksilöllisillä tunnistustekijöillä, kuten käyttämällä kasvojen mittasuhteita tai sormenjälkeä, pääset välittömästi kaikkialle muuallekin.",
+
+		"Q4": "Voiko monta ihmistä jakaa yhteisellä tietokoneella olevan True Key -tilin?",
+		"A4": "Kyllä. True Key tunnistaa yksilöt ja kirjaa heidät sisään vain kunkin omille tileille. Se on yhtä helppoa kuin ulos ja sisään kirjautuminen.",
+
+		"Q5": "Miten hyvin True Key on suojattu?",
+		"A5": "True Key on tietoturvatuote, jota kuka tahansa voi käyttää. Tietosi salataan AES-256-salauksella, joka yksi vahvimman luokan salausmenetelmistä. Lisäksi voit vahvistaa True Keyn suojausta lisäämällä todennustekijöitä, kuten kasvojen tunnistuksen tai sormenjälkitodennuksen.",
+
+		"Q6": "Miten tietoni salataan ja niiden salaus puretaan?",
+		"A6": "True Key tallentaa tietosi paikallisesti omalle laitteellesi suojaten ne AES-256-salauksella, joka on yksi vahvimman luokan salausmenetelmistä.  Arkaluontoisia tietojasi ei koskaan lähetetä laitteeltasi salaamatta. Vain sinä voit käyttää tietojasi, mutta voit halutessasi antaa käyttöoikeuden myös valitsemillesi henkilöille.",
+
+		"Q7": "Voivatko True Keyn työntekijät päästä käsiksi tililleni tallennettuihin tai muihin arkaluontoisiin tietoihini?",
+		"A7": "Eivät. True Keyn ansiosta sinä itse olet salasana.  Tietosi salataan ja niiden salaus puretaan omalla laitteellasi, ja sinä hallitset tietojasi kaiken aikaa. True Key käyttää tietojesi salaamiseen ja salauksen purkamiseen sinulle yksilöllisiä todennustekijöitä, kuten kasvojesi mittoja, sormenjälkeäsi ja pääsalasanaasi, ja ainoastaan silloin, kun tarvitset sitä.",
+
+		"Q8": "Missä tietojeni salaaminen ja salauksen purkaminen tapahtuu?",
+		"A8": "Tietosi salataan ja niiden salaus puretaan paikallisesti omalla laitteellasi. True Keyn palvelimille tallennetaan tietoja ainoastaan salatussa muodossa.",
+
+		"Q9": "Tallennetaanko tietojani True Keyn palvelimille?",
+		"A9": "Kyllä. Salatut True Key -tietosi tallennetaan suojatulle True Key -palvelimelle. Tietoja pääsee käyttämään ainoastaan sinulle yksilöllisillä todennustekijöillä, kuten käyttämällä kasvojesi mittoja tai pääsalasanaasi.",
+
+		"Q10": "Voiko True Keyn Avaa kasvoilla -toimintoa käyttää Windows-laitteissa?",
+		"A10": "True Key -sovelluksen Avaa kasvoilla -toiminto tulee saataville Windows-laitteisiin alkuvuodesta 2015.",
+
+		"Q11": "Tarvitseeko sovellus jonkin tietynlaisen verkkokameran?",
+		"A11": "True Key toimii sekä laitteessasi olevan käyttäjään suunnatun kameran kanssa että USB-yhteydellä liitettyjen kameroiden kanssa.",
+
+		"Q12": "Voiko joku kirjautua minuna näyttämällä kameralle kuvaa minusta?",
+		"A12": "Ei. True Keyssä on hienovaraisia huijauksenestotekniikoita, jotka estävät tämäntapaiset kirjautumisyritykset. Intel Security takaa, että tietoturvasi on hyvissä käsissä.",
+
+		"Q13": "Miten sovellus voi olla varma, että juuri minä kirjaudun sisään?",
+		"A13": "Intel Security takaa, että tietoturvasi on hyvissä käsissä. True Key käyttää tunnistukseen hienovaraisia algoritmeja, kuten biometrisiä tietoja, kuvaa kasvoistasi, sormenjälkeäsi ja muita itse määrittämiäsi ja sinulle yksilöllisiä tekijöitä.",
+
+		"Q14": "Millä alustoilla True Keyn Avaa kasvoilla -toiminto toimii?",
+		"A14": "True Key on ladattavissa kaikille yleisimmille laitteille, mutta kasvojen avulla kirjautuminen on käytettävissä tällä hetkellä ainoastaan Windows 8- ja Windows 8.1 -käyttöjärjestelmissä sekä Internet Explorer 10-, Internet Explorer 11- ja Google Chrome -selaimissa.  Lähikuukausina tarjoamme tuen useille muillekin alustoille sekä lisää todennuskeinoja."
+	},
+
+	"privacy": {
+		"title": "Sinä, tietosi ja True Key",
+
+		"Q1": "Ensin tietoa tietosuojastasi",
+		"A1": "Intel Security kunnioittaa tietosuojaasi. Katso %{privacyBefore}tietosuojaselosteesta%{linkAfter}, miten Intel Security hallitsee henkilökohtaisia tietoja.",
+
+		"Q2": "Mitä tietoja True Key -sovellus kerää?",
+		"A2": "<p>True Key -sovellus taltioi antamallasi luvalla sinusta kuvan ja muuttaa sen numeromuotoon. Saatuja arvoja kutsutaan kasvojesi mitoiksi.</p><p>Kun kasvojen mitat on laskettu, kuva poistetaan. Kasvojesi mitat salataan ja tallennetaan paikallisesti omaan laitteeseesi.  Salatut tiedot tallennetaan sitten turvallisesti Intel Securityn tietokeskukseen, jotta voit kirjautua laitteillesi ja haluamillesi sivustoille helposti ja suojatusti.</p><p>Intel Security ei pysty käyttämään True Key -sovellukseen tallentamiasi arkaluontoisia tietoja, sillä tiedot salataan ennen kuin ne lähetetään Intel Securitylle ja salausta suojaa pääsalasana, jonka ainoastaan sinä tunnet.</p><p>Lisäksi</p><p>True Key -sovellus tallentaa automaattisesti antamasi salasanat, käyttäjänimet ja lompakkotiedot.  Nämä tiedot tallennetaan laitteellesi salattuina, ja ne voidaan synkronoida toisiin laitteisiin sen jälkeen, kun salatut tiedot on lähetetty suojatuille True Key -palvelimille tiedonsiirtoa varten.</p>",
+
+		"Q3": "Mitä kasvojen mitoilla tarkoitetaan?",
+		"A3": "Kasvojen mitoilla tarkoitetaan kasvojenpiirteistäsi tehtyjä laskelmia, joiden avulla Avaa kasvoilla -tekniikka tunnistaa sinut.",
+
+		"Q4": "Miten kasvojen mittoja käytetään?",
+		"A4": "Intel Security käyttää kasvojesi mittoja yhdessä Avaa kasvoilla -tekniikan kanssa tunnistaakseen sinut ja kirjatakseen sinut laitteellesi tai verkkosivustolle, jolla on käytössä True Key -kirjautuminen.",
+
+		"Q5": "Minne kaikki tiedot tallennetaan?",
+		"A5": "Kasvoistasi tehty mittamalli salataan ja tallennetaan omille laitteillesi. Salatut tiedot tallennetaan myös Intel Securityn tietokeskukseen, jotta voit synkronoida tietoja laitteidesi välillä.",
+
+		"Q6": "Miten Avaa kasvoilla -toiminto poistetaan laitteelta?",
+		"A6": "Jos haluat poistaa toiminnon käytöstä tai poistaa sen kokonaan, poista tilisi käytöstä tai poista ohjelman asennus käyttämällä laitteesi tai järjestelmäsi ohjelmanpoistoasetuksia.",
+
+		"Q7": "Miten saan kasvojeni mittatiedot poistettua Intel Securityn tietokeskuksesta?",
+		"A7": "Voit pyytää kasvojesi mittatietojen poistamista ottamalla yhteyttä True Keyn %{customerSupportBefore}asiakaspalveluun%{linkAfter}. Kun olet todentanut, kuka olet, voit pyytää kasvojesi mittatietojen poistoa.",
+
+		"Q8": "Seuraako True Key -sovellus, millä verkkosivustoilla käyn?",
+		"A8": "Kun tallennat True Key -profiiliisi verkkosivustoja ja kirjautumistietoja, näet tallentamasi tiedot True Keyn Launchpadissa.",
+
+		"Q9": "Käyttääkö True Key -palvelu tietojani johonkin muihin käyttötarkoituksiin?",
+		"A9": "Ei. True Key -palvelu ei pysty käyttämään tietojasi edes silloin, kun purat niiden salauksen.",
+
+		"Q10": "Mistä saan lisätietoja True Key -sovelluksesta?",
+		"A10": "Lisätietoja Avaa kasvoilla -toiminnosta ja True Key -sovelluksesta saat True Keyn verkkosivustolta osoitteesta %{websiteBefore}truekey.com%{linkAfter} tai ottamalla yhteyttä True Keyn %{customerSupportBefore}asiakaspalveluun%{linkAfter}."
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "Lisää luotettu laite",
+		"lastUsed": "Viimeksi käytetty:",
+		"twoFactor": "Kaksinkertainen todennus:",
+		"title": "Valitse True Key -profiiliin luotetut laitteet ja hallitse niitä.",
+		"txt1": "Voit itse hallita, mihin laitteisiin True Key -profiili voi luottaa. Näillä laitteilla voit käyttää todennuksessa toistakin tekijää ja hallita mitä kautta voit käyttää sivustoja ja sovelluksiasi. Laitteita voi lisätä ja poistaa milloin tahansa."
+	},
+
+	"startpage": {
+		"searchNoResults": "Tuloksia ei löytynyt.",
+
+		"addFavorite": {
+			"title": "Lisää suosikki",
+			"placeholder": "Kirjoita verkkosivuston nimi tai URL-osoite",
+			"titleSuggestions": "Tässä muutamia ehdotuksia:",
+			"moreSuggestions": "Lisää ehdotuksia"
+		},
+
+		"addManually": {
+			"title": "Lisää suosikki manuaalisesti",
+			"label": {
+				"websiteName": "Verkkosivuston nimi",
+				"url": "URL-osoite"
+			},
+			"placeholders": {
+				"websiteName": "esim. Facebook-",
+				"url": "esim. http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "Muokkaa suosikkia"
+		},
+
+		"ctaEdit": "Muokkaa tätä suosikkia",
+
+		"search": {
+			"onTheWeb": "Hae kohdetta %{filter} verkosta",
+			"logins": "Tallennetut kirjautumistietosi",
+			"placeholder": "Hae verkosta tai True Key Launchpadista"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "Suosikit",
+			"description": "Suosikit toimivat kuin kirjanmerkit. Voit lisätä, poistaa ja järjestellä niitä mielesi mukaan. Suosikkien avulla voit siirtyä nopeasti sivustoille, joita käytät usein, vaikka et olisi tallentanut niiden kirjautumistietoja."
+		},
+		"logins": {
+			"title": "Kirjautumistiedot",
+			"description": "Tässä osiossa näet profiiliisi tallennetut kirjautumistiedot. Voit lisätä ja tarkastella kirjautumistietoja ja muokata niiden lisätietoja. Lisäksi voit hallita kunkin merkinnän suojausasetuksia."
+		},
+		"menu": {
+			"title": "Oma valikko",
+			"description": "Valikosta pääset käyttämään käyttö- ja suojausasetuksia sekä tukea."
+		},
+		"search": {
+			"title": "Haku",
+			"description": "Voit hakea verkosta tai True Key -profiilistasi tarvitsemiasi tietoja nopeasti."
+		},
+		"profile": {
+			"title": "Profiili",
+			"description": "Tässä näkymässä voit tarkastella ja muokata profiiliasetuksiasi. Jos saat viestin, napsauta ilmoituskuvaketta."
+		}
+	},
+
+	"browserActivation": {
+		"title": "Kohta on valmista",
+		"description": "Nyt sinun tarvitsee vain ottaa True Key™ -laajennus käyttöön. Valitse haluamasi selain tai kaikki käyttämäsi selaimet.",
+		"activated": "True Key™ on jo käytössä selaimessa <em>%{activatedBrowser}</em>,<br> lisää se myös selaimeen <em>%{availableBrowser}</em>.",
+
+		"overlayTitle": "True Key™ käytössä",
+		"overlayText": "<strong>Ota True Key käyttöön</strong>, jotta voit kirjautua hetkessä sisään suosikkisivustoillesi kirjoittamatta salasanoja.",
+		"errorNoBrowserSelected": "Valitse ainakin yksi selain, jotta voit ottaa True Keyn käyttöön"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "Tämä on True Key™ by Intel Security",
+			"subtitle": "Avaa digitaalinen maailmasi ilman useita salasanoja",
+			"description": "True Key -sovellus mullistaa kirjautumistavat: se käyttää yksilöllisiä todennustekijöitä, jotta pääset kirjautumaan suosikkisivustoillesi, -sovelluksiisi ja -laitteisiisi suojatusti ja nopeasti."
+		},
+		"sync": {
+			"subtitle": "Voit kulkea vapaasti, sillä tietosi synkronoidaan automaattisesti puhelimen, taulutietokoneen ja tietokoneen välillä.",
+			"description": "True Key -sovellus synkronoi puhelimesi, taulutietokoneesi ja tietokoneesi keskenään suojatusti, joten tietosi ovat aina käytettävissä."
+		},
+		"encrypted": {
+			"subtitle": "Pidä tietosi suojassa ja salattuina ja yksityiset tietosi yksityisinä.",
+			"description": "Tietosi tallennetaan paikallisesti laitteellesi, ja niitä ei koskaan lähetetä suojaamattomina. Vain sinä pääset käyttämään tietoja."
+		},
+		"unique": {
+			"subtitle": "Tee profiilistasi yhtä ainutlaatuinen kuin itsekin olet.",
+			"description": "True Key -sovelluksen ansiosta sinä itse olet salasana. Mitä useampia todennustekijöitä käytät, sitä vahvempi True Key -profiilisi suojaus on: digitaalinen maailma voi olla varma siitä, että kyseessä olet juuri sinä."
+		},
+		"skipTour": "Ohita esittely",
+		"iGetIt": "Ymmärrän.",
+		"getStarted": "Aloitetaan käyttö"
+	},
+
+	"slideshow2": {
+		"meetTK": "Tämä on True Key by Intel Security",
+		"multiple_passwords": {
+			"title": "Salasanojen muistaminen on menneiden aikojen murhe",
+			"desc": "True Key -sovellus muistaa salasanasi, jotta sinun ei tarvitse."
+		},
+		"sync": {
+			"title": "Synkronoi salasanat kaikkiin laitteisiin",
+			"desc": "Pidä salasanasi aina saatavilla asentamalla True Key -sovellus kaikkiin laitteisiisi."
+		},
+		"encrypted": {
+			"title": "Pidä salasanat salattuina",
+			"desc": "True Key -sovellus salaa salasanatietosi omalla laitteellasi, joten vain sinä pääset käyttämään tietojasi."
+		}
+	},
+
+	"enable": {
+		"lastStep": "Vielä yksi vaihe",
+		"clickEnable": "Aloita True Key -sovelluksen käyttö napsauttamalla alhaalta Ota käyttöön. Tämä on tehtävä vain kerran.",
+		"clickDone": "Kun olet valmis, %{htmlBefore}napsauta tästä%{htmlAfter}."
+	},
+
+	"activation": {
+		"title": "Ota True Key™ käyttöön",
+		"txtEnable": "<strong>Ota True Key -laajennus käyttöön</strong>, jotta voit <br>kirjautua hetkessä sisään suosikkisivustoillesi kirjoittamatta salasanoja.",
+		"txtInstall": "<strong>Asenna True Key -laajennus </strong>, jotta voit <br>kirjautua hetkessä sisään suosikkisivustoillesi kirjoittamatta salasanoja.",
+		"txtRestart": "Selain on käynnistettävä uudelleen, jotta True Key<br> -laajennus voidaan asentaa."
+	},
+
+	"loginSuccess": {
+		"title": "Tervetuloa takaisin",
+		"text": "Etsi True Key -kuvake, kun seuraavan kerran käynnistät selaimen."
+	},
+
+	"signupSuccess": {
+		"text": "Profiilisi on luotu.<br>Etsi True Key -kuvake, kun seuraavan kerran käynnistät selaimen."
+	}
+}

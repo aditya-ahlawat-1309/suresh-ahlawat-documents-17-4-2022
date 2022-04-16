@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "日本語"
+    common: 
+        privacy: "プライバシー"
+        privacy_full: "プライバシーポリシー"
+        terms: "サービス利用規約"
+        terms_full: "サービス利用規約に同意されたものとみなされます。"
+        alert: "警告！"
+        warning: "警告！"
+        or: "または"
+        copyright: "© %{date}。All rights reserved."
+        change_language: "言語を変更"
+    shared: 
+        member_menu: 
+            upgrade: "アカウントをアップグレード"
+            refer_friends: "友達に紹介"
+            help: "ヘルプ & サポート"
+            logout: "ログアウト"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBoxを使えば、パスワードをいちいち覚えておく必要はありません。たくさんのユーザーネームとパスワードにはもうさよなら。必要なのは、PasswordBoxのマスターパスワードだけです！"
+                mobile: "PasswordBoxは、あらゆるデバイスでのパスワードの保管、取得、共有を可能にする無料のパスワードマネージャーです。Android、iPhone、iPad対応のPasswordBoxアプリをお試しください。"
+        title: 
+            default: "無料のパスワードマネージャー"
+            welcome: "ようこそ"
+    download: 
+        download: "無料でダウンロード"
+        login: "ログイン"
+        mobile: "モバイル"
+        platforms: "無料"
+        watch_video: "動画を見る"
+        available_for: "%{os}、%{platform}でも利用可能"
+        free_for: "%{windows}、%{mac}、%{mobile}で無料。"
+        guides: 
+            click_add: "PasswordBoxをインストールするには、「追加」をクリックします"
+            click_allow: "PasswordBoxをインストールするには、「許可する」をクリックします"
+            click_install: "「インストール」をクリックします"
+            click_install_now: "「今すぐインストール」をクリックします"
+            click_run: "インストールするには、「実行」をクリックします"
+            click_yes: "設定を承認するには、「はい」をクリックします"
+            click_here: "ここをクリックしてください"
+            run_and_open: "インストーラを実行して開きます"
+            install_pbox: "PasswordBoxをインストール"
+            close_window: "ウインドウを閉じる"
+            download_pbox: "PasswordBoxをダウンロード"
+        alerts: 
+            mobile: "無料の%{app_name}をダウンロードして、どこにいても1-Tap Loginをお楽しみください！"
+        errors: 
+            browser: 
+                min_version: "PasswordBoxは%{browser}バージョン%{min_version}以降でのみ使用可能です。ブラウザをアップデートして、もう一度お試しください。"
+                single_version: "PasswordBoxは%{browser}でのみ使用可能です。ブラウザをアップデートして、もう一度お試しください。"
+                unavailable: "PasswordBoxはお使いの%{browser}のバージョンではご利用いただけません。%{suggestion}でもう一度お試しください。"
+                safari_windows: "Safari用PasswordBoxは現在Mac OS Xでのみ使用可能です。"
+                safari: 
+                    unsupported: "残念ながら、Safariのサポートは終了しました。Chrome、Firefox、またはInternet Explorerで、もう一度やり直してください。"
+                    read_more: "詳しくはこちら"
+                unsupported: 
+                    problems: "このバージョンの%{browser}は正式にサポートされていません。PasswordBoxをインストールすることはできますが、多少問題が発生する場合があります。"
+                    upgrade_suggestion: "快適に利用いただくため、お使いのブラウザを最新バージョンにアップグレードすることをお勧めします。"
+                    install_anyway: "インストールを続行する"
+            mobile: 
+                min_version: "PasswordBoxはこの%{os}のバージョンではご利用いただけません。%{min_version}以降がインストールされたデバイスでもう一度お試しください。"
+                generic: "PasswordBoxはこのデバイスではご利用いただけません。iPhone、iPad、またはAndroidでもう一度お試しください。あるいは、デスクトップでこのページを開いて、ブラウザ拡張機能をインストールしてください。"
+        onboard: 
+            welcome: "PasswordBoxのインストールへようこそ"
+            failed_install: "PasswordBoxをインストールできませんでした"
+            never_forget: "もうパスワードを忘れることはありません！"
+            click_to_retry: "「やり直す」をクリックして、もう一度お試しください"
+            retry: "やり直す"
+            free_vault: "Google Chrome用の無料パスワード保管ツール"
+            add_to_chrome: "Chromeに追加"
+        guide: 
+            almost_done: "もう少しで完了です！"
+            greeting: "こんにちは、%{member_name}さん！"
+            welcome: "PasswordBoxへようこそ。下の手順を行って、インストールを完了してください。"
+            downloading: "PasswordBoxのダウンロードが自動的に開始します。自動的に開始しない場合は、%{restart_link}。"
+            restart: "ダウンロードを再開するには、ここをクリックしてください"
+    address_book: 
+        import: 
+            address: "アドレス"
+            email_password: "メールのパスワード"
+            fetching_contacts: "連絡先を取得中・・・"
+            gmail: 
+                connect_button: "Gmailに接続"
+                instructions: "クリックしてGmailのアドレス帳に接続してください"
+            open_address_book: "アドレス帳を開く"
+            sending_promise: "あなたの同意なしで連絡先にメールを送信することは決してありません。"
+            connect: 
+                title: "アドレス帳に接続"
+                button: "%{provider}に接続"
+                instructions: "%{provider}のアドレス帳に接続するには、ここをクリックしてください"
+        select: 
+            contacts: "連絡先"
+            deselect_all: "全ての選択を取り消す"
+            search_contact: "連絡先を検索"
+            select_all: "全てを選択する"
+            select_title: "アドレス帳から選択"
+            send_success: "信頼して任せられる方へのリクエスト送信が完了しました！"
+            to: "宛先"
+    forms: 
+        buttons: 
+            back: "戻る"
+            cancel: "キャンセル"
+            ok: "OK"
+            save: "保存"
+            submit: "送信"
+            send: "送信"
+        errors: 
+            digits: 
+                only: "数字だけを入力してください。"
+            email: 
+                exists: "このメールアドレスは既に使用されています。"
+                invalid: "無効なメールアドレスです。"
+                invalid_please: "有効なメールアドレスを入力してください。"
+                required: "メールは入力必須項目です。"
+            fullname: 
+                required: "氏名を入力してください。"
+                too_long: "もう少し短い名前を入力してください。"
+                too_short: "名前は最低%{length}文字の長さが必要です。"
+            password: 
+                required: "パスワードを入力してください。"
+                too_short: "パスワードは最低%{length}文字の長さが必要です。"
+                confirm: "パスワードを確認してください"
+                match: "パスワードが合致することを確かめてください"
+                different: "パスワードをメールアドレスまたは名前と同じにすることはできません"
+            required: 
+                generic: "これは入力必須項目です。"
+            generic: "問題が発生しました。もう一度フォームを送信してください。"
+            length: 
+                between: "{0}文字から{1}文字までの値を入力してください。"
+        labels: 
+            email: "メールアドレス"
+            fullname: "氏名"
+            first_name: "名"
+            last_name: "姓"
+            master_password: "マスターパスワード"
+            password: "パスワード"
+            title: "敬称"
+            username: "ユーザーネーム"
+            email_full: "メールアドレス"
+            phone_full: "電話番号"
+            date: "日付"
+        success: 
+            thank_you: "ありがとうございます"
+        info: 
+            password: 
+                very_weak: "非常に弱い"
+                weak: "弱い"
+                average: "普通"
+                good: "良い"
+                strong: "強い"
+    premium: 
+        limit_reached: "制限個数%{limit} に達しました。今すぐアップグレードいただくと、無制限にパスワードを保存いただけます。"
+        billing: 
+            details: "PasswordBoxプレミアム1年間のご利用料金として%{price}米ドルをご請求いたします。ご利用開始から30日以内にサービスにご満足いただけない場合は、理由の如何に関わらず全額を返金いたします。"
+            renewal: "次回の支払い期限までに%{support_link}までキャンセルのメールをしない限り、アカウントは毎年自動的に更新されます。"
+        enter_cc_info: "クレジットカード情報を入力してください"
+        form: 
+            errors: 
+                credit_card_invalid: "有効なクレジットカード番号を入力してください。"
+                generic_processing: "お支払いの処理中に問題が発生しました。"
+                unable_to_process: "お客様のクレジットカードを処理できませんでした。情報が間違っていないことを確認して、もう一度やり直してください。"
+            labels: 
+                as_on_card: "クレジットカードに表示されている通りに"
+                credit_card: "クレジットカード番号"
+                expiry: "有効期限"
+                secure: "安全"
+                verification: "3桁または4桁のセキュリティコード"
+                what: "これはなんですか？"
+                country: "国"
+                postal_code: "郵便番号"
+                street_address: "住所"
+                city: "市"
+                region: "地域"
+            submit: "プレミアムを有効にする"
+            processing: "処理中...しばらくお待ちください。"
+        main_title: "月々%{price}でPasswordBox全ての機能をご利用いただけます！"
+        premium: "プレミアム"
+        quote: "私はユーザーネームやパスワードを沢山持っていて、とても全部を覚えきれません。幸いなことに、PasswordBoxが私に代わって全部覚えてくれているんです。また、もし私が今日車の事故で死んでしまった場合でも、PasswordBoxのサービスを通して愛する人たちが私のオンラインアカウントへのアクセスを説明付きで受け取ることができるので安心していることができます。夫が私のPayPalアカウントやFlickrにある家族写真にアクセスできると思うと安心できます。"
+        satisfaction_guarantee: "ご利用開始から30日以内にサービスにご満足いただけない場合は、全額返金いたします。ば質問などせずに全額返金いたします。質問なしで簡単に返金をお受け取りいただけます。"
+        success: 
+            already_premium: "あなたはもう既にプレミアム会員です！プレミアム会員ご利用の有効期限は%{date}までです。"
+            free_for_life_notice: "PasswordBoxのベータテストにご参加いただきありがとうございます。あなたのアカウントは永久的に無料です。"
+            payment_success: "ありがとうございました！お支払いを受け取りました。"
+            return_to_public: "一般公開サイトに戻る"
+            to_passwordbox: "PasswordBoxへ移動"
+            upgrade_success: "アカウントのアップグレードが完了しました。"
+        testimonial: "利用者の声"
+        unconfirmed: 
+            title: "あなたのアカウントはまだ確認されていません"
+            check_spam: "受信ボックスにメールがない場合は、 <strong>迷惑メールフォルダ</strong>を忘れずにご確認ください。"
+            no_email: "メールが届いていない場合"
+            explanation: "アカウントを確認していただくことで、当社があなたのアドレスを確認できるだけでなく、共有およびLegacy Locker機能のロックを解除できます。"
+            resend_email: "確認メールを再送信する"
+            steps: 
+                send_email: "メールアカウントに確認メールを送信する"
+                click_link: "電子メール内のリンクをクリックする"
+                done: "これで完了です！"
+            continue: 
+                instructions: "アカウントを確認したら、<strong>続ける</strong>をクリックしてお支払い情報を入力してください。"
+                action: "続ける"
+            messages: 
+                email_sent: "受信箱をチェックしてください。確認メールを送信いたしました。"
+                not_confirmed: "アカウント確認がまだ完了していません。"
+                general_error: "問題が発生しました。もう一度お試しください。"
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "友達を招待する"
+                invite_new: "新たに招待する"
+                invites_accepted: "招待が受諾されました"
+                invites_sent: "招待状が送信されました"
+                manage_invites: "招待状を管理する"
+                manage_title: "招待状を管理してください"
+                no_invites_sent: "送信された招待状はまだありません。友達をどんどん招待しましょう！"
+                referrals_needed: "無制限ストレージアカウントを無料でご利用いただくには、%{count}人の友達に招待を受諾いただく必要があります。"
+                referrals_needed_single: "無制限ストレージアカウントを無料でご利用いただくには、あと1人のお友達に招待を受諾していただく必要があります。"
+                resend: "再送信"
+                reward: "友達%{count}人にご登録いただくと、生涯プロアカウントを無料でご利用いただけます。"
+                sent: "送信済み"
+                status: "状況"
+                subheader: "これはあなたが送信した招待状です。必要があれば再送信することもできます。"
+            reward: "友達%{count}人にPasswordBoxにご登録いただくと、プロアカウントを無料でご利用いただけます。また、無制限のパスワードストレージを永久的にご利用いただけます。"
+            title: "PasswordBoxに%{count}人の友達を紹介しましょう"
+        import_contacts: 
+            manual_option: "手動で友達のメールアドレスを入力してください"
+        important: "重要"
+        installed_header: "PasswordBoxが稼働開始しました！"
+        invite_header: "友達にもPasswordBoxを教えてあげましょう"
+        manual_invite: 
+            email_instructions: "友達のメールアドレスを入力してください"
+            import_option: "アドレス帳から友達を招待しましょう"
+            required_error: "招待するにはメールアドレスを入力してください"
+            send_action: "VIPパスを贈る"
+            send_instructions: "友達に招待状を送りましょう"
+            send_success: "VIPパスが送信されました！"
+        resale_disclaimer: "PasswordBoxはeBayやその他のサイトでのVIPパスの販売を禁止しています。VIPパスは個人的利用に限られています。"
+        sent_after_welcome: 
+            title: "登録が完了しました！"
+            video_instructions: "PasswordBoxについてもっと詳しく知るためにこの動画を見る"
+        vip: 
+            reward: "生涯無料のメンバーシップが利用できるようになります"
+            title: "友達にPasswordBoxへのVIPパスを贈りましょう"
+    welcome: 
+        headers: 
+            running: "%{logo}が起動、実行しています！"
+        bulk_password: 
+            check_all: "全てにチェックを入れる"
+            did_you_know_title: "92%の人たちが、ほとんどのオンラインアカウントに同じユーザーネームとパスワードの組み合わせをしようしていることをご存知ですか？"
+            instructions: "あなたもこれにあてはまるなら、よく使用するログインを下に入力し、それを使うサイトを選択してください。そうすれば、これらのアカウントは一斉にあなたのPasswordBoxに保存されます。"
+            save_passwords: "パスワードを保存"
+            success_message: "パスワードを保存中・・・"
+            uncheck_all: "全てのチェックを外す"
+            username_label: "メールアドレスのユーザーネーム"
+            website_error: "最低1つのウェブサイトを選択してください。"
+        legacy: 
+            address_book: "ウェブメールのアドレス帳に接続しましょう"
+            email_label: "信頼して任せられる人のメールアドレス"
+            instructions: "信頼して任せられる人の名前を下に入力してください。こちらからその方にメールで連絡し、あなたのリクエストをお伝えします。"
+            name_label: "信頼して任せられる人の名前"
+            transfer_info: "必要になるまであなたのパスワードが移管されることはないので、ご安心ください。"
+            trust_title: "あなたに何か起こった時、だれにあなたのオンラインアカウントを任せますか？"
+            watch_video: "もっと詳しく知るために動画を見る"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "マスターパスワードを確認する"
+                never_store_password: "セキュリティを保証するために、PasswordBoxがあなたのマスターパスワードを見ることは決してありません。"
+                no_recovery: "マスターパスワードを忘れると、アカウントを回復することができなくなります"
+                repeat_title: "もう一度パスワードを入力してください。"
+            creating_account: "アカウントを作成中・・・"
+            form: 
+                create_account_action: "無料のアカウントを開設する"
+                create_account_title: "無料のアカウントを開設しましょう"
+                create_password: "パスワードを作成する"
+                existing_account: "もう既にアカウントをお持ちですか？"
+                facebook_promise: "あなたのウォールに投稿したりしないので、ご安心ください。"
+                facebook_signup: "Facebookで登録する"
+                login: "ログイン"
+                terms_disclaimer: "上をクリックすることで、PasswordBoxサービス利用規約に同意したことになります。"
+                terms_full: "PasswordBoxがあなたのメールや個人情報をサードパーティと共有することは絶対にありません。また、あなたのPasswordBoxアカウントに関するトランザクションメールのみを送信します。詳しくは、%{privacy_link}を参照してください。"
+                terms_agree: "上記をクリックすることで、%{terms_link}に同意されたものとみなされます。"
+            installed_title: "インストールが完了しました！最後のステップです・・・"
+            never_forget: "もうパスワードを忘れることはありません！無料でアカウントを開設しましょう。"
+            recently_installed: "ブラウザにPasswordBoxが新しく追加されました・・・"
+            testimonial: "Dropboxのパスワード版のようなものです。どこにいても全てのデバイスで使用でき、シェアリングも簡単です。"
+            login_link: "既にPasswordBoxアカウントをお持ちの場合は、お使いのブラウザで<a href=\"%{path}\" target=\"_blank\">緑のボックスを探してください</a>"
+            validating: "情報を確認中・・・"
+            almost_done: "もう少しで完了です！パスワードを作成してください"
+            delayed: 
+                never_forget: 
+                    generic: "もうパスワードを忘れることはありません！"
+                    domain: "もう<strong>%{website}</strong>のパスワードを忘れることはありません！"
+                signup_free: "今すぐ無料で登録してください！"
+                secure: "保存したパスワードの安全を確保するには、<strong>無料で登録して、お気に入りのサイトへの自動ログインをお楽しみください！</strong>"
+                watch_video: "動画を見る"
+                how_pbox_works: "PasswordBoxの仕組み"
+            crypto: 
+                creating: "アカウントを作成中・・・"
+                encrypting: "最大のセキュリティを確保するためパスワードを暗号化しています。旧型のコンピュータでは、このプロセスに時間（最長1分）がかかることがあります。これは正常な動作です。プロセスが完了するまでお待ちください。"
+        video: 
+            typing_passwords: "パスワードの手入力は時間がかかり、面倒くさい作業です。PasswordBoxなら、サイトにログインすると認証情報を自動的に保存してくれます。"
+            next_step: "了解しました。ありがとうございます。"
+        guides: 
+            extension: 
+                congratulations: "おめでとうございます！"
+                save_success: "PasswordBoxにあなたのパスワードが保存されました！"
+                green_box: "必要な時はいつでも、お使いのブラウザで緑のボックスアイコンをクリックしてアクセスしてください！"
+        tutorial: 
+            create_password: 
+                click_instructions: "下のボタンをクリックして1つめのパスワードを追加してください"
+                form_instructions: "ユーザーネームとパスワードを入力してください"
+            one_click_login: "うまくいきました！次は1クリックログインを試してみましょう"
+            tour_video: 
+                extension_guide: "PasswordBoxを開くには、緑のボックスをクリックしてください"
+                instructions: "この短い案内を参考に、PasswordBoxを最大限に利用しましょう。"
+                title: "ご利用開始にあたってのご案内"
+    features: 
+        seamless_login: 
+            title: "パスワードよ、さようなら。あらゆるデバイス、ウェブサイト、モバイルアプリですぐにログイン。"
+            subtitle: "ログイン画面での操作が面倒ではありませんか？1クリックと1-Tap Loginで、アカウントにすばやくアクセスしましょう。"
+            item_1: "PasswordBoxだけの機能として、ユーザーネームやパスワードを入力せずに、%{link}することができます。"
+            item_2: "どのウェブページを開いても、PasswordBoxが自動的にあなたの情報を入力してログインします。デスクトップやモバイルデバイスのChromeとSafariで手入力する必要がありません。"
+            item_3: "1つのサイトで複数のユーザーアカウントを使用している場合でも、簡単にログイン"
+            item_4: "キーストロークマルウェアからも保護 - 入力しなければ盗まれる心配はありません"
+            one_tap_link: "1-Tapでお気に入りのAndroidモバイルアプリにログイン"
+        device_syncing: 
+            title: "あなたのパスワードをどこででも"
+            subtitle: "パスワードをPasswordBoxに保存すると、お使いの全てのブラウザ、コンピュータ、モバイルデバイスにすぐに保存されます。"
+            item_1: "自動的に同期されるため、指先ひとつでログイン情報にアクセス"
+            item_2: "ほとんどのコンピュータ、ブラウザ、モバイルデバイスで機能"
+            item_3: "Chrome、Firefox、Internet Explorerなど主なブラウザ対応の無料プラグイン"
+            item_4: "AES-256を使って、デバイス上でローカルにデータを暗号化／解読"
+    install: 
+        mobile: 
+            title: "モバイル用PasswordBox"
+            widget: 
+                title: "無料モバイルアプリ"
+                subtitle: "あなたのパスワードをどこででも"
+            notify: 
+                sms: "携帯電話にテキスト送信"
+                email: "デバイスにメール送信"
+                sending: "インストールリンクを送信中"
+            email: 
+                success: "メールが送信されました！メールでダウンロードリンクを確認してください"
+                errors: 
+                    invalid: "メールアドレスが未入力または無効です"
+                    failed: "連絡先にメールを送信できませんでした"
+            sms: 
+                body: "PasswordBoxをインストールするには、モバイルデバイスでこちら（%{link}）をクリックしてください。"
+                success: "テキストメッセージが送信されました！携帯電話でダウンロードリンクを確認してください。"
+                errors: 
+                    phone: 
+                        missing: "電話番号が未入力です。"
+                        invalid: "ご指定の電話番号にメッセージを送信できませんでした。国際番号の場合、国コードが含まれていることを確認してください。"
+                    service: 
+                        unavailable: "SMSサービスは現在使用できません"
+            apps: 
+                app_store: "<span>App Store</span>で入手可能"
+                google_play: "<span>Google Play</span>で無料でダウンロード"
+            ces_award: "ベストモバイル<span>アプリ CES 2014 </span>"
+        desktop: 
+            title: "PasswordBoxを無料でダウンロード"
+            warnings: 
+                windows_only: "Windows用のみ"
+                mac_only: "Mac OS用のみ"
+            button: 
+                get: "PasswordBoxを入手"
+                for: "for"
+        instructions: "以下のリンクをコピーし、お使いの%{browser}のアドレスバーにペーストしてください。"
+        copy: 
+            button: "コピー"
+            tooltip: "クリップボードにコピー"
+            success: "コピーしました！"
+    login: 
+        title: "既にPasswordBoxがインストールされている場合は、緑のボックスをクリックしてログインしてください。"
+        reinstall: "PasswordBoxの再インストールが必要な場合は、下のボタンをクリックしてください。"
+    member: 
+        errors: 
+            email: 
+                exists: "このメールアドレスは他のメンバーに使用されています。別のアドレスを選択してください。"
+                invalid: "有効なメールアドレスを入力してください。"
+    emails: 
+        common: 
+            greeting: "こんにちは、%{full_name}さん"
+            hey: "こんにちは！"
+            pbox_team: "PasswordBoxチーム"
+        layout: 
+            tagline: "PasswordBoxを使うと、オンラインアカウントへの安全かつ迅速なアクセス、パスワードの安全な共有、Legacy Locker機能などをすべてのデバイスで使用できます。もうパスワードを忘れることはありません。"
+            unsubscribe: 
+                link: "配信停止"
+                from_all: "PasswordBoxメールを%{unsubscribe}"
+        welcome: 
+            subject: "%{full_name}さん、PasswordBoxへようこそ！"
+            title: "ようこそ"
+            avg_notice: "AVGツールバー上にあるPasswordBoxを使うと、オンラインアカウントへのすばやいアクセス、パスワードの安全共有、デジタル遺産機能などをすべてのデバイスで使用できます。"
+            account_ready: "アカウントの設定はもう少しで完了です！"
+            login_info: "ユーザーネームは%{email}です。あなたのパスワードは、登録プロセスで作成したマスターパスワードになります。"
+            say_goodbye: "たくさんのユーザーネームとパスワードにはもうさよなら。これからは、PasswordBoxのマスターパスワードさえあれば十分です！PasswordBoxでは、簡単な1クリックログイン、パスワードの安全共有、デジタルライフ管理などの機能をすべてのデバイスで使用できます。"
+            finally: "パスワードをいちいち覚えておく必要がなくなります！"
+            confirm: "今すぐアカウントを確認してください"
+            click_below: "下のリンクをクリックして、アカウント情報を確認してください。"
+            welcome: "PasswordBoxへようこそ！"
+        sync: 
+            subject: "モバイルデバイスにPasswordBoxをダウンロードしてください！"
+            instructions: "PasswordBoxをダウンロードするには、モバイルデバイスでこのメールを開いて、下のリンクをクリックしてください。"

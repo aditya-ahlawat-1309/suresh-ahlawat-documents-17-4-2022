@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Evästeiden käyttöönotto Firefoxissa",
+    "onMac" : "Macilla",
+    "onPC" : "PC:llä",
+    "step1" : "<strong>1: Siirry kohtaan Firefox &gt; Asetukset &gt; Tietosuoja.</strong><br>Valitse Historiatiedot-kohdassa:<br><strong> ”Firefox säilyttää: Valitut historiatiedot”</strong>",
+    "step2" : "<strong>2: Valitse Historiatiedot-osiossa ”Sivustot saavat asettaa evästeitä”</strong><br>Valitse sitten alla olevasta avattavasta valikosta:<br><strong>”Salli kolmannen osapuolen evästeet: Aina”</strong>"
+  },
+  "import" : {
+    "title" : "Tuo salasanat PasswordBoxiin",
+    "selectSoure" : "Valitse lähde",
+    "export" : "Vie salasanasi",
+    "import" : "Tuo salasanatiedostosi PasswordBoxiin",
+    "dashlane1" : "Jos haluat tuoda salasanasi Dashlanesta, avaa Dashlane ja napsauta",
+    "dashlane2" : "File > Export data",
+    "dashlane3" : "Valitse <strong class=\"green\">Unsecured Archives CSV</strong>  -muotoiluasetus",
+    "dashlane4" : "Tallenna tiedosto haluamaasi paikkaan.",
+    "dashlane5" : "Vain Dashlanen viimeisintä versiota tuetaan.",
+    "lastpass1" : "Jos haluat tuoda salasanasi LastPassista, napsauta selaimesi LastPass-laajennuksen kuvaketta ja valitse:",
+    "lastpass2" : "<strong>Tools &gt; Export</strong><br>To ja valitse <strong class=\"green\">LastPass CSV</strong>  -tiedosto valikosta. Anna salasanasi, jos sitä pyydetään.",
+    "lastpass3" : "Napsauta OK ja tallenna se haluamaasi paikkaan.",
+    "lastpass4" : "Vain LastPassin viimeisintä versiota tuetaan.",
+    "roboform1" : "Roboormista tuominen on käytettävissä tällä hetkellä vain Mac-käyttöjärjestelmissä.",
+    "roboform2" : "Windows-tuki on tulossa pian.",
+    "roboform3" : "Jos haluat tuoda salasanasi RoboFormista, avaa RoboForm-selainlaajennus ja napsauta <strong>Options:</strong>",
+    "roboform4" : "Valitse paneelivalikosta User Data ja napsauta <strong>Export to</strong>",
+    "roboform5" : "<strong>Tallenna tiedosto .html-muodossa</strong>  haluamaasi paikkaan.",
+    "roboform6" : "Vain RoboFormin viimeisintä versiota tuetaan.",
+    "onepassword1" : "Jos haluat tuoda salasanasi 1Passwordista, avaa:",
+    "onepassword2" : "<strong>- file &gt; Export:</strong><br>valitse <strong class=\"green\">Tab-delimited-text</strong>  -muoto ja <strong>All logins</strong>  -vaihtoehto.",
+    "onepassword3" : "Napsauta OK ja tallenna se haluamaasi paikkaan.",
+    "onepassword4" : "Vain 1Passwordin viimeisintä versiota tuetaan.",
+    "onepasswordClick" : "<u>Napsauta tästä,</u> jos haluat ladata <span class=\"serviceName green\">1Passwordin</span> tiedostosi",
+    "keepass1" : "Jos haluat tuoda salasanasi KeePassista, avaa KeePass ja napsauta:",
+    "keepass2" : "<strong>File &gt; Export</strong><br>Valitse <strong>KeePass CSV 1.x</strong>  -muotoasetus.",
+    "keepass3" : "Tallenna tiedosto haluamaasi paikkaan.",
+    "keepass4" : "Vain KeePassin viimeisintä versiota tuetaan."
+  }
+}

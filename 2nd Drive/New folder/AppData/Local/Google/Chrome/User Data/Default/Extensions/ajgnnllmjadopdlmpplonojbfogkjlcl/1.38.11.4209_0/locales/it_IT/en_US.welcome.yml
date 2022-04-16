@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Italiano"
+    common: 
+        privacy: "Privacy"
+        privacy_full: "Informativa sulla privacy"
+        terms: "Termini di Servizio"
+        terms_full: "Condizioni per l'utilizzo del servizio"
+        alert: "Avviso!"
+        warning: "Attenzione!"
+        or: "o"
+        copyright: "© %{date}. Tutti i diritti riservati."
+        change_language: "Cambia lingua"
+    shared: 
+        member_menu: 
+            upgrade: "Aggiorna account"
+            refer_friends: "Dillo ai tuoi amici"
+            help: "Aiuto e supporto"
+            logout: "Esci"
+    head: 
+        meta: 
+            description: 
+                default: "Dimenticatevi pure le password con PasswordBox. Dite addio a più nomi utente e password. La password di PasswordBox è l'unica che vi serve."
+                mobile: "PasswordBox è un programma gratuito per la gestione di password che permette di conservare, recuperare e condividere le password su qualsiasi dispositivo. Provate l'app di PasswordBox per Android, iPhone e iPad."
+        title: 
+            default: "Programma gratuito per la gestione di password "
+            welcome: "Benvenuto"
+    download: 
+        download: "Scarica GRATIS"
+        login: "Accedi"
+        mobile: "cellulare"
+        platforms: "Gratis per Windows, Mac e cellulare"
+        watch_video: "Guarda il video"
+        available_for: "Disponibile anche per %{os} e %{platform}"
+        free_for: "Gratuito per %{windows}, %{mac} e %{mobile}."
+        guides: 
+            click_add: "Clicca su \"aggiungi\" per installare PasswordBox"
+            click_allow: "Clicca su Consenti per installare PasswordBox"
+            click_install: "Clicca su \"Installa\""
+            click_install_now: "Clicca su \"Installa\""
+            click_run: "Clicca su \"Esegui\" per installare"
+            click_yes: "Clicca su \"Sì\" per accettare le impostazioni"
+            click_here: "Clicca qui"
+            run_and_open: "Esegui e apri il programma di installazione"
+            install_pbox: "Installa PasswordBox"
+            close_window: "Chiudi finestra"
+            download_pbox: "Scarica PasswordBox"
+        alerts: 
+            mobile: "Scarica la app GRATUITA %{app_name} per usare 1-Tap Login anche in viaggio!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox è disponibile solo per %{browser} a partire dalla versione %{min_version}. Aggiornare il browser riprovare."
+                single_version: "PasswordBox è disponibile solo per %{browser}. Aggiornare il browser e riprovare."
+                unavailable: "PasswordBox non è disponibile per questa versione di %{browser}. Riprovare con %{suggestion}."
+                safari_windows: "Al momento, PasswordBox per Safari è disponibile solo su Mac OS X."
+                safari: 
+                    unsupported: "Purtroppo non supportiamo più Safari. Riprova con Chrome, Firefox o Internet Explorer."
+                    read_more: "Per saperne di più"
+                unsupported: 
+                    problems: "Non supportiamo ufficialmente questa versione di %{browser}. Puoi installare lo stesso PasswordBox, ma potresti avere dei problemi."
+                    upgrade_suggestion: "Per essere sicuro di avere la migliore esperienza possibile, ti consigliamo di aggiornare il tuo browser all'ultima versione."
+                    install_anyway: "Installa lo stesso"
+            mobile: 
+                min_version: "PasswordBox non è disponibile per questa versione di %{os}. Riprovare su un dispositivo con la versione %{min_version} o superiore."
+                generic: "PasswordBox non è disponibile per questo dispositivo. Riprovare usando un iPhone, un iPad o un dispositivo Android o aprire questa pagina con un browser per PC per installare la relativa estensione."
+        onboard: 
+            welcome: "Installazione di PasswordBox"
+            failed_install: "Installazione di PasswordBox non riuscita"
+            never_forget: "Non dimenticherai mai più una password."
+            click_to_retry: "Clic su Riprova per riprovare"
+            retry: "Riprova"
+            free_vault: "Una cassaforte per le tue password gratis in Google Chrome."
+            add_to_chrome: "Aggiungi a Chrome"
+        guide: 
+            almost_done: "Quasi finito! "
+            greeting: "Ciao %{member_name}!"
+            welcome: "Benvenuto a PasswordBox. Segui la procedura per completare l'installazione."
+            downloading: "Il download di PasswordBox inizierà automaticamente. Altrimenti, %{restart_link}."
+            restart: "clicca qui per riavviare il download"
+    address_book: 
+        import: 
+            address: "Rubrica"
+            email_password: "Invia password via e-mail"
+            fetching_contacts: "Recupero contatti in corso..."
+            gmail: 
+                connect_button: "Collegati a Gmail"
+                instructions: "Fai clic per collegarti alla tua rubrica di Gmail"
+            open_address_book: "Apri rubrica"
+            sending_promise: "Non invieremo mai e-mail ai tuoi contatti senza il tuo consenso."
+            connect: 
+                title: "Collegati alla rubrica"
+                button: "Collegati a %{provider}"
+                instructions: "Clicca per collegarti alla tua rubrica su %{provider}"
+        select: 
+            contacts: "Contatti"
+            deselect_all: "Deseleziona tutto"
+            search_contact: "Cerca contatto"
+            select_all: "Seleziona tutto"
+            select_title: "Seleziona da rubrica"
+            send_success: "La tua richiesta di consenso digitale è stata inviata con successo!"
+            to: "A"
+    forms: 
+        buttons: 
+            back: "Indietro"
+            cancel: "Annulla"
+            ok: "Ok"
+            save: "Salva"
+            submit: "Invia"
+            send: "Invia"
+        errors: 
+            digits: 
+                only: "Inserisci solo cifre."
+            email: 
+                exists: "Questo indirizzo e-mail è già utilizzato."
+                invalid: "Questo indirizzo e-mail non è valido."
+                invalid_please: "Inserisci un indirizzo e-mail valido."
+                required: "Il campo email è obbligatorio."
+            fullname: 
+                required: "Inserisci il tuo nome completo."
+                too_long: "Inserisci un nome più breve."
+                too_short: "Il nome deve essere di almeno %{length} caratteri."
+            password: 
+                required: "Scegli una password."
+                too_short: "La password deve essere di almeno %{length} caratteri."
+                confirm: "Conferma la password"
+                match: "Assicurati che la password sia uguale"
+                different: "La tua password non può essere la stessa della tua email o il tuo nome."
+            required: 
+                generic: "Questo campo è obbligatorio."
+            generic: "Oops! Qualcosa non ha funzionato. Prova a inviare di nuovo i dati."
+            length: 
+                between: "Immetti un valore lungo da {0} a {1} caratteri."
+        labels: 
+            email: "E-mail"
+            fullname: "Nome completo"
+            first_name: "Nome"
+            last_name: "Cognome"
+            master_password: "Password principale"
+            password: "Password"
+            title: "Qualifica"
+            username: "Nome utente"
+            email_full: "Il tuo indirizzo email"
+            phone_full: "Il tuo numero di telefono"
+            date: "Data"
+        success: 
+            thank_you: "Grazie"
+        info: 
+            password: 
+                very_weak: "Debolissima"
+                weak: "Debole"
+                average: "Media"
+                good: "Buona"
+                strong: "Forte"
+    premium: 
+        limit_reached: "Hai raggiunto il limite di %{limit}. Aggiorna ora per salvare un numero illimitato di password."
+        billing: 
+            details: "Ti saranno addebitati %{price} dollari statunitensi per l'abbonamento di un anno a PasswordBox Premium.  Se entro i primi 30 giorni non dovessi essere soddisfatto, ti restituiremo l'intero importo senza fare domande."
+            renewal: "Il tuo account verrà rinnovato automaticamente a meno che tu non cancelli inviando una mail a %{support_link} prima della scadenza del prossimo pagamento."
+        enter_cc_info: "Inserisci dettagli carta di credito"
+        form: 
+            errors: 
+                credit_card_invalid: "Inserisci un numero di carta di credito valido."
+                generic_processing: "Si è verificato un problema con l'elaborazione del tuo pagamento."
+                unable_to_process: "Non è stato possibile elaborare la tua carta di credito. Per favore controlla di avere i dati corretti e riprova."
+            labels: 
+                as_on_card: "come sulla carta"
+                credit_card: "Numero carta di credito"
+                expiry: "Data di scadenza"
+                secure: "CVV"
+                verification: "Numero verifica carta di 4 cifre"
+                what: "Cos'è?"
+                country: "Paese"
+                postal_code: "C.A.P."
+                street_address: "Via"
+                city: "Città"
+                region: "Regione"
+            submit: "Attiva account Premium"
+            processing: "Elaborazione in corso... per favore, attendi."
+        main_title: "Con la versione Premium potrai accedere a tutte le funzioni di PasswordBox a %{price} al mese."
+        premium: "Premium"
+        quote: "Ho più nomi utente e password di quanti me ne possa ricordare. Per fortuna c'è PasswordBox che li ricorda tutti per me. Questo servizio mi dà anche tranquillità perché se oggi mi dovesse succedere qualcosa, come un incidente d'auto, i miei cari potrebbero avere accesso ai miei diversi account online con tutte le mie istruzioni. È un sollievo sapere che mio marito potrà accedere al mio account Paypal e a tutte le foto di famiglia che ho su Flickr."
+        satisfaction_guarantee: "Se non sarai completamente soddisfatto dopo i primi 30 giorni, restituiremo tutto ciò che hai pagato. Nessuna domanda, nessun fastidio."
+        success: 
+            already_premium: "Sei già un membro Premium! Il tuo abbonamento è valido fino a %{date}."
+            free_for_life_notice: "Grazie per aver partecipato al nostro beta test. Il tuo account sarà gratis per sempre."
+            payment_success: "Grazie! Il tuo pagamento è stato ricevuto."
+            return_to_public: "Torna al sito Internet"
+            to_passwordbox: "Al mio PasswordBox"
+            upgrade_success: "Aggiornamento account completato."
+        testimonial: "Dicono di noi"
+        unconfirmed: 
+            title: "Non hai ancora confermato il tuo account"
+            check_spam: "Se non vedi l'email nella tua inbox, ricorda di controllare la cartella della posta <strong>indesiderata</strong> ."
+            no_email: "Non hai ricevuto l'email?"
+            explanation: "La conferma del tuo account non solo serve a convalidare il tuo indirizzo nel nostro sistema, ma ti consente anche di sbloccare le funzioni di condivisione e Legacy Locker."
+            resend_email: "Invia nuovamente l'email di conferma"
+            steps: 
+                send_email: "Invia una email di verifica al tuo indirizzo email"
+                click_link: "Clicca sul link contenuto nel messaggio"
+                done: "Fatto!"
+            continue: 
+                instructions: "Dopo aver confermato il tuo account, clicca <strong>su continua</strong> per completare i dettagli di pagamento."
+                action: "Continua"
+            messages: 
+                email_sent: "Controlla la tua inbox. Ti abbiamo inviato un'email di conferma."
+                not_confirmed: "Non hai ancora confermato il tuo account."
+                general_error: "Qualcosa non ha funzionato. Riprovare."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Invita amici"
+                invite_new: "Invita nuovo"
+                invites_accepted: "Inviti accettati"
+                invites_sent: "Inviti mandati"
+                manage_invites: "Gestisci i miei inviti"
+                manage_title: "Gestisci i tuoi inviti"
+                no_invites_sent: "Non hai ancora inviato inviti. Forza, mandane un po'!"
+                referrals_needed: "Con %{count} inviti accettati, potrai ottenere un accesso gratuito illimitato"
+                referrals_needed_single: "Per ottenere l'abbonamento perpetuo, è necessario che 1 altro dei tuoi amici accetti l'invito"
+                resend: "Invia di nuovo"
+                reward: "Facendo registrare %{count} amici, riceverai un account Premium permanente."
+                sent: "Invia"
+                status: "Stato"
+                subheader: "Ecco gli inviti che hai inviato. Li puoi anche rimandare, se necessario."
+            reward: "Se %{count} amici si registreranno su PasswordBox, riceverai gratis un account Premium e potrai memorizzare un numero illimitato di password per sempre."
+            title: "Suggeriscilo a %{count} amici"
+        import_contacts: 
+            manual_option: "Inserisci manualmente gli indirizzi e-mail dei tuoi amici"
+        important: "Importante"
+        installed_header: "PasswordBox è ora disponibile!"
+        invite_header: "Racconta ai tuoi amici di PasswordBox"
+        manual_invite: 
+            email_instructions: "Inserisci i loro indirizzi email"
+            import_option: "Invita i tuoi amici dalla rubrica"
+            required_error: "Inserisci un indirizzo e-mail da invitare"
+            send_action: "Invia pass VIP"
+            send_instructions: "Manda inviti ai tuoi amici"
+            send_success: "I tuoi pass VIP sono stati inviati!"
+        resale_disclaimer: "PasswordBox non permette che il tuo pass VIP venga venduto su eBay o su altri siti del genere. È solo per uso personale."
+        sent_after_welcome: 
+            title: "La tua registrazione è completa!"
+            video_instructions: "Guarda questo video per saperne di più su PasswordBox"
+        vip: 
+            reward: "Per te l'abbonamento sarà gratis a vita"
+            title: "Da' ai tuoi amici un accesso VIP a PasswordBox"
+    welcome: 
+        headers: 
+            running: "%{logo} è stato installato e funziona!"
+        bulk_password: 
+            check_all: "Seleziona tutto"
+            did_you_know_title: "Sapevi che il 92% delle persone usa la stessa combinazione nome utente/password per la maggior parte dei loro account online?"
+            instructions: "Se anche tu sei tra queste persone, inserisci i tuoi dati d'accesso più comuni e i siti per cui li usi. Salveremo subito tutte le combinazioni su PasswordBox."
+            save_passwords: "Salva password"
+            success_message: "Salvataggio password in corso..."
+            uncheck_all: "Deseleziona tutto"
+            username_label: "Nome utente dell'indirizzo e-mail"
+            website_error: "Scegli almeno un sito Internet"
+        legacy: 
+            address_book: "Collega alla rubrica della webmail"
+            email_label: "E-mail della persona di tua fiducia"
+            instructions: "Inserisci i dettagli della persona di tua fiducia e gli/le invieremo la tua richiesta"
+            name_label: "Nome della persona di tua fiducia"
+            transfer_info: "Non preoccuparti, le tue password non verranno trasferite finché non sarà necessario"
+            trust_title: "Se dovesse succederti qualcosa, a chi affidi la gestione del tuo account online?"
+            watch_video: "Guarda il nostro video per saperne di più"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Conferma Password principale"
+                never_store_password: "Per garantire la tua sicurezza, PasswordBox non vedrà mai né memorizzerà la tua Password principale"
+                no_recovery: "Se dimentichi la tua Password principale, sarà impossibile recuperare il tuo account"
+                repeat_title: "Inserisci ancora una volta la tua password"
+            creating_account: "Creazione account in corso..."
+            form: 
+                create_account_action: "Crea account gratis"
+                create_account_title: "Crea il tuo account gratis"
+                create_password: "Crea password"
+                existing_account: "Hai già un account?"
+                facebook_promise: "Non preoccuparti, non pubblicheremo mai niente sul tuo diario."
+                facebook_signup: "Accedi con Facebook"
+                login: "Accesso"
+                terms_disclaimer: "Facendo clic qui sopra acconsenti ai Termini di Servizio."
+                terms_full: "Non comunicheremo mai la tua email o altre informazioni personali a terzi, e ti invieremo solo messaggi relativi alle operazioni effettuate su PasswordBox. Consulta l'%{privacy_link} per maggiori informazioni."
+                terms_agree: "Cliccando sopra acconsenti alle %{terms_link}."
+            installed_title: "Installazione completa! Ultima fase..."
+            never_forget: "Non dimenticare mai più le password! Attiva il tuo account GRATIS"
+            recently_installed: "PasswordBox è stato di recente aggiunto al tuo browser..."
+            testimonial: "È come Dropbox, ma per le password. Funziona su tutti i dispositivi e la condivisione è semplicissima"
+            login_link: "Se hai già un account PassWord <a href=\"%{path}\" target=\"_blank\">cerca la casella verde</a> nel tuo browser"
+            validating: "Verifica informazioni in corso..."
+            almost_done: "Quasi finito! Adesso imposta la tua password"
+            delayed: 
+                never_forget: 
+                    generic: "Non dimenticherai mai più una password."
+                    domain: "Non dimenticherai più la password per <strong>%{website}.</strong>"
+                signup_free: "Iscriviti GRATIS!"
+                secure: "Per proteggere le password salvate, <strong>iscriviti GRATIS e sfrutta il login automatico ai tuoi siti preferiti!</strong>"
+                watch_video: "Guarda il video"
+                how_pbox_works: "Come funziona PasswordBox"
+            crypto: 
+                creating: "Registrazione in corso..."
+                encrypting: "Per garantirti la massima sicurezza, cifreremo la tua password. Questa operazione non richiederà più di un minuto sui computer più vecchi. È normale. Attendi la fine dell'elaborazione."
+        video: 
+            typing_passwords: "Inserire manualmente una password è noioso e frustrante. PasswordBox salva automaticamente le tue credenziali quando accedi a un sito."
+            next_step: "Capisco. Grazie."
+        guides: 
+            extension: 
+                congratulations: "Congratulazioni!"
+                save_success: "Ora le tue password sono al sicuro su PasswordBox."
+                green_box: "Clicca sulla scatola verde nel browser per accedervi in qualsiasi momento."
+        tutorial: 
+            create_password: 
+                click_instructions: "Fai clic su un pulsante qui sotto per aggiungere la tua prima password"
+                form_instructions: "Inserisci il tuo nome utente e la password"
+            one_click_login: "Ottimo lavoro! Ora proviamo ad accedere in un clic"
+            tour_video: 
+                extension_guide: "Fai clic nella casella verde per aprire il tuo PasswordBox"
+                instructions: "Grazie a questa veloce panoramica potrai ottenere il massimo da PasswordBox"
+                title: "Panoramica operazioni preliminari"
+    features: 
+        seamless_login: 
+            title: "Addio password. Accedi immediatamente a qualsiasi dispositivo, sito o applicazione mobile."
+            subtitle: "Stanco di aspettare davanti alla schermata di accesso? Accedi prima al tuo account con un 1-Click e 1-Tap Login."
+            item_1: "In esclusiva con PasswordBox, %{link} senza dover immettere un nome utente o una password."
+            item_2: "Visita qualsiasi pagina web e PasswordBox compilerà automaticamente i tuoi dati per l'accesso. Non devi immettere alcun dato sul tuo desktop o dispositivo mobile con Chrome o Safari."
+            item_3: "L'accesso rapido funziona anche con più account per lo stesso sito"
+            item_4: "Protezione malware: se non le digiti, nessuno può rubarti le password"
+            one_tap_link: "Accedi alle tue app preferite su dispositivi Android con 1-Tap"
+        device_syncing: 
+            title: "Le tue password sempre con te"
+            subtitle: "Salva una password in PasswordBox e questa viene subito salvata in tutti i tuoi computer, browser e dispositivi mobili."
+            item_1: "Con la sincronizzazione automatica, i tuoi dati di accesso sono sempre... a portata di dita"
+            item_2: "Funziona praticamente su qualsiasi computer e dispositivo mobile"
+            item_3: "Plugin gratuita per tutti i principali browser, compresi Chrome, Firefox e Internet Explorer "
+            item_4: "Cifratura e decifratura dei dati eseguita localmente direttamente sul dispositivo con algorimento AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox per dispositivi mobili"
+            widget: 
+                title: "App gratuite"
+                subtitle: "Le tue password sempre con te"
+            notify: 
+                sms: "Mandami un SMS"
+                email: "Mandami un'email"
+                sending: "Invio link per l'installazione in corso"
+            email: 
+                success: "Email inviata! Controlla che nella tua casella sia presente un messaggio con il link per l'installazione"
+                errors: 
+                    invalid: "Email mancante o non valida"
+                    failed: "Invio email non riuscito"
+            sms: 
+                body: "Per installare PasswordBox, clicca su %{link} sul tuo disposivo "
+                success: "SMS inviato! Controlla di aver ricevuto un SMS con il link di installazione"
+                errors: 
+                    phone: 
+                        missing: "Numero di telefono mancante."
+                        invalid: "Impossibile inviare un messaggio a questo numero di telefono. Se si tratta di un numero internazionale, ricordati di includere il prefisso nazionale."
+                    service: 
+                        unavailable: "Servizio SMS attualmente non disponibile"
+            apps: 
+                app_store: "Disponibile su <span>App Store</span>"
+                google_play: "Scaricalo gratis da <span>Google Play</span>"
+            ces_award: "Migliore <span>app CES 2014 per dispositivi mobili</span>"
+        desktop: 
+            title: "Scarica PasswordBox gratis"
+            warnings: 
+                windows_only: "Solo per Windows"
+                mac_only: "Solo per Mac OS"
+            button: 
+                get: "Scarica PasswordBox"
+                for: "per"
+        instructions: "Copia il seguente link e incollalo nella barra degli indirizzi %{browser}:"
+        copy: 
+            button: "Copia"
+            tooltip: "Copia negli appunti"
+            success: "Copiato!"
+    login: 
+        title: "Se sei già registrato su PasswordBox, clicca sulla scatola verde per autenticarti."
+        reinstall: "Se devi reinstallare PasswordBox, clicca sul pulsante qui sotto:"
+    member: 
+        errors: 
+            email: 
+                exists: "Un utente con quell'email esiste già. Indicane un altro."
+                invalid: "Inserire un indirizzo e-mail valido."
+    emails: 
+        common: 
+            greeting: "Ciao %{full_name},"
+            hey: "Ciao!"
+            pbox_team: "Il team PasswordBox"
+        layout: 
+            tagline: "PasswordBox permette di accedere rapidamente e sicuramente ai propri account online, di condividere le password in sicurezza e di \"lasciarle in eredità\"  su qualsiasi dispositivo grazie alla funzione Legacy Locker. Non dimenticherai mai più una password."
+            unsubscribe: 
+                link: "Cancellami"
+                from_all: "%{unsubscribe} dalle email di PasswordBox"
+        welcome: 
+            subject: "%{full_name}, benvenuto a PasswordBox!"
+            title: "Benvenuto"
+            avg_notice: "Tramite la barra strumenti AVG, PasswordBox permette di accedere rapidamente ai propri account online, di condividere le password in sicurezza e di \"lasciarle in eredità\" da qualsiasi dispositivo."
+            account_ready: "Il tuo account è quasi pronto!"
+            login_info: "Il tuo nome utente è %{email}. La tua password è la Password principale indicata in fase di registrazione."
+            say_goodbye: "Di' addio a più nomi utente e password. D'ora in poi ti serve solo la Password principale. PasswordBox permette di accedere con 1 clic ai propri account online, di condividere le password in sicurezza e di \"lasciarle in eredità\" da qualsiasi dispositivo."
+            finally: "Finalmente puoi dimenticarti le password."
+            confirm: "Conferma il tuo account"
+            click_below: "Clicca sul link qui sotto per confermare il tuo account:"
+            welcome: "Benvenuto a PasswordBox!"
+        sync: 
+            subject: "Scarica PasswordBox per il tuo dispositivo mobile!"
+            instructions: "Per scaricare PasswordBox, apri quest'email sul tuo dispositivo mobile e vai al link qui sotto:"

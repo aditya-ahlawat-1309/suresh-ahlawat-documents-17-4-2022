@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Firefox에서 쿠키를 사용가능으로 설정하는 방법",
+    "onMac" : "Mac 에서",
+    "onPC" : "PC에서",
+    "step1" : "<strong>1: Firefox &gt; 설정&gt; 개인정보로 이동합니다.</strong><br>방문기록 항목에서, <br><strong>“Firefox 작업 사항: 사용자 정의 설정”을 선택하세요.</strong>",
+    "step2" : "<strong>2: 방문기록 항목에서, “웹사이트에서 제공하는 쿠키 허용”을 선택한 다음</strong> 아래 드롭다운 메뉴에서:<br><strong>“제3자 쿠키 허용” &gt; “항상 허용”을 선택</strong>"
+  },
+  "import" : {
+    "title" : "PasswordBox로 암호 가져오기",
+    "selectSoure" : "소스 선택",
+    "export" : "암호 내보내기",
+    "import" : "PasswordBox로 귀하의 암호 파일 가져오기",
+    "dashlane1" : "Dashlane으로부터 귀하의 암호를 가져오려면, Dashlane을 열고 다음을 클릭:",
+    "dashlane2" : "파일 > 데이터 내보내기(Export data)",
+    "dashlane3" : "<strong class=\"green\">Unsecured Archives CSV</strong>포맷 옵션을 선택합니다.",
+    "dashlane4" : "그 파일을 귀하가 원하는 위치에 저장합니다.",
+    "dashlane5" : "Dashlane의 가장 최신버전만 지원합니다.",
+    "lastpass1" : "LastPass에서 암호를 내보내려면, 브라우저에서 LastPass 플러그인 아이콘을 클릭하고 다음을 선택:",
+    "lastpass2" : "<strong>도구(Tools) &gt; 내보내기(Export To)</strong>로 이동해서 메뉴에서 <strong class=\"green\">LastPass CSV</strong> 파일을 선택합니다. 프롬프트가 뜨면 암호를 입력하세요.",
+    "lastpass3" : "확인(OK)을 클릭하고 그 파일을 귀하가 원하는 위치에 저장하세요.",
+    "lastpass4" : "LastPass의 가장 최신버전만 지원됩니다.",
+    "roboform1" : "Roboform에서 내보내기는 현재 Mac 운영체제에서만 이용할 수 있습니다.",
+    "roboform2" : "곧 Windows도 지원될 예정입니다.",
+    "roboform3" : "RoboForm에서 암호를 내보내려면, RoboForm 브라우저 익스텐션을 열고 <strong>옵션(Options)</strong>에서 다음을 클릭:",
+    "roboform4" : "패널 옵션에서 &quot;사용자 데이터(User Data)&quot;를 선택하고 <strong>&quot;내보내기(Export to)&quot;</strong>를 선택",
+    "roboform5" : "귀하가 원하는 위치에 <strong>그 파일을 .html 형식으로 저장</strong>하세요.",
+    "roboform6" : "RoboForm의 최신버전만 지원됩니다.",
+    "onepassword1" : "1Password에서 암호를 내보내려면, 다음을 여세요.",
+    "onepassword2" : "<strong>- 파일 &gt; 내보내기(Export):</strong><br> <strong class=\"green\">Tab-delimited-text</strong> 포맷을 선택하고 <strong>모든 로그인(All logins)</strong> 옵션을 선택합니다.",
+    "onepassword3" : "확인(OK)을 클릭하고 그 파일을 귀하가 원하는 위치에 저장하세요.",
+    "onepassword4" : "1Password의 최신버전만 지원됩니다.",
+    "onepasswordClick" : "귀하의<span class=\"serviceName green\">1Password</span>파일을 업로드하려면<u>여기를 클릭하세요</u>",
+    "keepass1" : "KeePass에서 암호를 내보내려면, KeePass를 열고 다음을 클릭:<",
+    "keepass2" : "<strong>파일 &gt; 내보내기(Export):</strong><br> <strong>KeePass CSV 1.x</strong> 포맷 옵션을 선택합니다.",
+    "keepass3" : "그 파일을 귀하가 원하는 위치에 저장합니다.",
+    "keepass4" : "KeePass의 최신버전만 지원됩니다."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "كيفية تمكين ملفات تعريف الارتباط على Firefox",
+    "onMac" : "على Mac",
+    "onPC" : "على الكمبيوتر",
+    "step1" : "<strong>1: انتقل إلى Firefox &gt; التفضيلات &gt; الخصوصية.</strong><br>في قسم المحفوظات، حدد:<br><strong>&quot;سيستخدم Firefox: استخدام إعدادات مخصصة لمحفوظاتك&quot;</strong>",
+    "step2" : "<strong>2: في قسم المحفوظات، حدد &quot;قبول ملفات تعريف الارتباط من المواقع&quot;</strong><br>ثم من القائمة المنسدلة أدناه:<br><strong>&quot;قبول ملفات تعريف الارتباط الخارجية&quot; &gt; &quot;دائمًا&quot;</strong>"
+  },
+  "import" : {
+    "title" : "استيراد كلمات المرور إلى PasswordBox",
+    "selectSoure" : "تحديد مصدر",
+    "export" : "تصدير كلمات المرور الخاصة بك",
+    "import" : "استيراد ملف كلمات المرور الخاصة بك إلى PasswordBox",
+    "dashlane1" : "لتصدير كلمات المرور الخاصة بك من Dashlane، افتح Dashlane وانقر فوق:",
+    "dashlane2" : "ملف > تصدير بيانات",
+    "dashlane3" : "حدد <strong class=\"green\">خيار تنسيق CSV </strong> مؤرشفة غير مؤمنة.",
+    "dashlane4" : "احفظ الملف في مكان من اختيارك.",
+    "dashlane5" : "يتم دعم أحدث إصدار من Dashlane فقط.",
+    "lastpass1" : "لتصدير كلمات المرور الخاصة بك من LastPass، انقر فوق رمز مكون LastPass الإضافي من مستعرضك وحدد:",
+    "lastpass2" : "<strong>الأدوات &gt; تصدير إلى</strong><br>وحدد <strong class=\"green\">ملف CSV الخاص</strong> بـ LastPass في القائمة. إدخال كلمة المرور الخاصة بك إذا طلب منك ذلك.",
+    "lastpass3" : "انقر فوق موافق، واحفظه في مكان من اختيارك.",
+    "lastpass4" : "يتم دعم أحدث إصدار من LastPass فقط.",
+    "roboform1" : "يتوفر تصدير من Roboform على أنظمة تشغيل Mac فقط.",
+    "roboform2" : "سيتوفر قريبًا دعم Windows.",
+    "roboform3" : "لتصدير كلمات المرور الخاصة بك من RoboForm، افتح ملحق مستعرض RoboForm وانقر فوق <strong>خيارات:</strong>",
+    "roboform4" : "من على خيار اللوحة حدد &quot;بيانات المستخدم&quot; وانقر فوق  <strong>&quot;تصدير إلى&quot;</strong>",
+    "roboform5" : "<strong>حفظ الملف بامتداد .html</strong>  في موقع من اختيارك.",
+    "roboform6" : "يتم دعم أحدث إصدار من RoboForm فقط.",
+    "onepassword1" : "لتصدير كلمات المرور الخاصة بك من 1Password، افتح:",
+    "onepassword2" : "<strong>- ملف &gt; تصدير:</strong><br>حدد <strong class=\"green\">تنسيق نص محدد بعلامات جدولة،</strong> وأيضًا <strong>جميع خيارات</strong> تسجيل الدخول.",
+    "onepassword3" : "انقر فوق موافق، واحفظه في مكان من اختيارك.",
+    "onepassword4" : "يتم دعم أحدث إصدار من 1Password فقط.",
+    "onepasswordClick" : "<u>انقر هنا</u> لتحميل <span class=\"serviceName green\">ملف 1Password </span> الخاص بك",
+    "keepass1" : "لتصدير كلمات المرور الخاصة بك من KeePass، افتح KeePass وانقر فوق: <",
+    "keepass2" : "<strong>ملف &gt; تصدير</strong><br>حدد خيار  <strong>تنسيق </strong> KeePass CSV 1.x.",
+    "keepass3" : "احفظ الملف في مكان من اختيارك.",
+    "keepass4" : "يتم دعم أحدث إصدار من KeePass  فقط."
+  }
+}

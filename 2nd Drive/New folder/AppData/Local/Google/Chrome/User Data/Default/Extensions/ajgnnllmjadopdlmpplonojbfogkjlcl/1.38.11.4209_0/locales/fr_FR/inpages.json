@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Fermer",
+    "done" : "Terminé",
+    "dontSave" : "Ne pas enregistrer",
+    "neverSave" : "Ne jamais enregistrer",
+    "saveNow" : "Enregistrer maintenant",
+    "yes" : "Oui",
+    "no" : "Non",
+    "remove" : "Supprimer",
+    "dontUpdate" : "Ne pas mettre à jour",
+    "updateNow" : "Mettre à jour maintenant",
+    "dontAskAgain" : "Ne plus demander",
+    "dontSaveNow" : "Ne pas enregistrer maintenant",
+    "dontSaveItNow" : "Ne pas le sauvegarder maintenant",
+    "neverSaveIt" : "Ne jamais le sauvegarder",
+    "neverForThisSite" : "Jamais pour ce site.",
+    "savePassword" : "Enregistrer le mot de passe",
+    "saveThisPassword" : "Enregistrer ce mot de passe",
+    "dontShowAgain" : "Ne plus afficher",
+    "masterPassword" : "Mot de passe principal",
+    "continue" : "Continuer",
+    "typeMasterPassword" : "Saisissez le mot de passe principal",
+    "settings" : "Paramètres",
+    "copyClipboard" : "Copier le mot de passe"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> a sauvegardé un nouveau mot de passe pour <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> a détecté un nouveau mot de passe pour <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> procède à votre connexion instantanée"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Votre mot de passe pour <span class='green'>%{siteName}</span> n’est pas assez fort"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Vous possédez <span id='shareCount' class='green'>1 nouvelle </span>invitation de partage de mot de passe."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Avez-vous réussi à vous connecter à votre compte <span class='green'>%{username}</span> ?",
+    "deleteConfirm" : "Souhaitez-vous supprimer <span class='green'>%{username}</span> de votre PasswordBox ?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Malheureusement, ce site n'est pas encore supporté. Notre équipe travaille sans relâche pour parvenir à le supporter, ce qui sera prochainement le cas."
+  },
+  "connectWith" : {
+    "mainText" : "Sélectionnez le compte avec lequel vous souhaitez vous connecter",
+    "login" : "Connexion"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Saisissez le mot de passe principal",
+    "mainTxtHasUsers" : "Entrez votre mot de passe principal pour vous connecter",
+    "mainTxtNoUsers" : "Entrez votre mot de passe principal pour sauvegarder ce mot de passe",
+    "error" : "Mot de passe erroné",
+    "decrypting" : "Décryptage en cours"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Enregistrer ce mot de passe maintenant.",
+    "signup" : "S’inscrire à PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Sélectionnez la carte pour réaliser le paiement",
+    "use" : "Utiliser"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "N’oubliez plus aucun mot de passe :",
+    "createAccount" : "Créer un compte",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> a été ajouté à votre barre d’outils %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Connectez-vous maintenant à votre compte <span class='green'>%{siteName}</span> ...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> l’enregistrera automatiquement pour vous !"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... Et voilà !",
+    "mainText" : "Votre mot de passe <span class='green'>%{siteName}</span> est maintenant enregistré de manière sécurisée dans votre PasswordBox !"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Félicitations",
+    "mainText" : "Vous pouvez désormais accéder à vos mots de passe à tout moment en cliquant sur <strong class='green'>l’icône en forme de boîte verte</strong> dans votre navigateur ! Essayez dès maintenant !"
+  },
+  "passgen" : {
+    "generate" : "Générer un mot de passe fort",
+    "regenerate" : "Générer un nouveau mot de passe",
+    "noPassGenerated" : "Aucun mot de passe généré",
+    "letters" : "Lettres",
+    "digits" : "Chiffres",
+    "symbols" : "Symboles",
+    "capitals" : "Majuscules"
+  }
+}

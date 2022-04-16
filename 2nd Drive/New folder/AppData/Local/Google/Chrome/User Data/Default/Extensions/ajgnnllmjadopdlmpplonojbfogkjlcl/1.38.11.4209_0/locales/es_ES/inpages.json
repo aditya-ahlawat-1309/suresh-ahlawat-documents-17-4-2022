@@ -1,0 +1,94 @@
+{
+  "common" : {
+    "txtClose" : "Cerrar",
+    "done" : "Hecho",
+    "dontSave" : "No guardar",
+    "neverSave" : "Nunca guardar",
+    "saveNow" : "Guardar ahora",
+    "yes" : "Sí",
+    "no" : "No",
+    "remove" : "Eliminar",
+    "dontUpdate" : "No actualizar",
+    "updateNow" : "Actualizar ahora",
+    "dontAskAgain" : "No preguntar de nuevo",
+    "dontSaveNow" : "No guardar ahora",
+    "dontSaveItNow" : "No guardar ahora",
+    "neverSaveIt" : "No guardar nunca",
+    "neverForThisSite" : "Nunca para este sitio",
+    "savePassword" : "Guardar contraseña",
+    "saveThisPassword" : "Guardar esta contraseña",
+    "dontShowAgain" : "No mostrar de nuevo",
+    "masterPassword" : "Contraseña maestra",
+    "continue" : "Continuar",
+    "typeMasterPassword" : "Escribir contraseña maestra",
+    "settings" : "Configuración",
+    "copyClipboard" : "Copiar"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> ha guardado una nueva contraseña para <span class='green'>%{siteName}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> ha detectado una nueva contraseña para <span class='green'>%{siteName}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> está iniciando sesión instantáneamente"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Su contraseña para <span class='green'>%{siteName}</span> no es lo suficientemente sólida"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Tiene <span id='shareCount' class='green'>1 nueva</span> invitación para compartir una contraseña."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "¿Pudo iniciar sesión en su cuenta de <span class='green'>%{username}</span> correctamente?",
+    "deleteConfirm" : "¿Desea retirar <span class='green'>%{username}</span> de su PasswordBox?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Esta página no aún no está incluida. Nuestro equipo está trabajando en ello y pronto estará disponible."
+  },
+  "connectWith" : {
+    "mainText" : "Seleccione la cuenta con la que desea iniciar sesión",
+    "login" : "Iniciar sesión"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Escribir contraseña maestra",
+    "mainTxtHasUsers" : "Introduzca su contraseña maestra para iniciar sesión instantáneamente",
+    "mainTxtNoUsers" : "Introduzca su contraseña maestra para guardar esta contraseña",
+    "error" : "Contraseña incorrecta",
+    "decrypting" : "Descifrando"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Guardar esta contraseña ahora.",
+    "signup" : "Registrar en PasswordBox"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Seleccionar tarjeta para pagar",
+    "use" : "Usar"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Ya no volverá a olvidarse de una contraseña:",
+    "createAccount" : "Crear una cuenta",
+    "passwordboxAdded" : "<span class='pb-logo'>Se ha añadido</span> PasswordBox a su barra de herramientas de %{partner}"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Ahora inicie sesión en su cuenta de <span class='green'>%{siteName}</span>...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> lo guardará automáticamente."
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "...y eso es todo.",
+    "mainText" : "Su contraseña de <span class='green'>%{siteName}</span> ahora está guardada de forma segura en su PasswordBox."
+  },
+  "welcomeComplete" : {
+    "congrats" : "¡Enhorabuena!",
+    "mainText" : "Ahora puede acceder a sus contraseñas en cualquier momento haciendo clic <strong class='green'>en el cuadro verde</strong> de su navegador. Pruébelo ahora."
+  },
+  "passgen" : {
+    "generate" : "Generar contraseña segura",
+    "regenerate" : "Generar nueva contraseña",
+    "noPassGenerated" : "No se ha generado ninguna contraseña",
+    "letters" : "Letras",
+    "digits" : "Dígitos",
+    "symbols" : "Símbolos",
+    "capitals" : "Mayúsculas"
+  }
+}

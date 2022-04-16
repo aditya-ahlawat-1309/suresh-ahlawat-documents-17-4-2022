@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Kako omogućiti kolačiće u Firefoxu",
+    "onMac" : "Na Mac uređaju",
+    "onPC" : "Na PC računalu",
+    "step1" : "<strong>1: Idite na Firefox &gt; Postavke &gt; Privatnost.</strong><br>U dijelu Povijest odaberite:<br><strong>&quot;Firefox će: Koristiti prilagođene postavke za povijest&quot;</strong>",
+    "step2" : "<strong>2. U dijelu povijesti odaberite &quot;Prihvati kolačiće od stranica&quot;</strong><br>Zatim u padajućem izborniku ispod:<br><strong>&quot;Prihvati kolačiće od treće strane&quot; &gt; &quot;Uvijek&quot;</strong>"
+  },
+  "import" : {
+    "title" : "Uvezite lozinke u PasswordBox",
+    "selectSoure" : "Odaberite izvor",
+    "export" : "Izvezite svoje lozinke",
+    "import" : "Uvezite datoteku s lozinkama u PasswordBox",
+    "dashlane1" : "Da izvezete lozinke iz Dashlanea, otvorite Dashlane i kliknite na:",
+    "dashlane2" : "Datoteka > Izvezi podatke",
+    "dashlane3" : "Odaberite <strong class=\"green\">opciju formata</strong> neosigurane arhive CSV.",
+    "dashlane4" : "Spremite datoteku na željenu lokaciju.",
+    "dashlane5" : "Podržana je samo najnovija verzija Dashlaena.",
+    "lastpass1" : "Da izvezete svoje lozinke iz LastPassa, kliknite na ikonu dodatka LastPass u svom pregledniku i odaberite:",
+    "lastpass2" : "<strong>Alati &gt; Izvezi</strong><br>i odaberite <strong class=\"green\">LastPass CSV</strong> datoteku u izborniku. Unesite lozinku po potrebi.",
+    "lastpass3" : "Kliknite U redu i spremite je na željenu lokaciju.",
+    "lastpass4" : "Podržana je samo najnovija verzija LastPassa.",
+    "roboform1" : "Izvoz iz Roboforma je trenutno dostupan samo na Mac operativnim sustavima.",
+    "roboform2" : "Podrška za Windows stiže uskoro.",
+    "roboform3" : "Da izvezete svoje lozinke iz RoboForma otvorite RoboForm dodatak za preglednik i kliknite na <strong>Opcije:</strong>",
+    "roboform4" : "Na ploči s opcijama odaberite &quot;Korisnički podaci&quot; i kliknite na <strong>&quot;Izvezi&quot;</strong>",
+    "roboform5" : "<strong>Spremite datoteku kao .html</strong> na željenu lokaciju.",
+    "roboform6" : "Podržana je samo najnovija verzija RobotForma.",
+    "onepassword1" : "Da izvezete svoje lozinke iz 1Passworda otvorite:",
+    "onepassword2" : "<strong>- datoteka &gt; Izvoz:</strong><br>odaberite <strong class=\"green\">format datoteke odvojene</strong> karticama te <strong>opciju</strong> Sve prijave.",
+    "onepassword3" : "Kliknite U redu i spremite je na željenu lokaciju.",
+    "onepassword4" : "Podržana je samo najnovija verzija 1Passworda.",
+    "onepasswordClick" : "<u>Kliknite ovdje</u> da učitate svoju <span class=\"serviceName green\">1Password</span> datoteku",
+    "keepass1" : "Da izvezete svoje lozinke iz KeePassa otvorite KeePass i kliknite na: <",
+    "keepass2" : "<strong>Datoteka &gt; Izvoz</strong><br>Odaberite <strong>opciju formata</strong> KeePass CSV 1.x",
+    "keepass3" : "Spremite datoteku na željenu lokaciju.",
+    "keepass4" : "Podržana je samo najnovija verzija KeePassa."
+  }
+}

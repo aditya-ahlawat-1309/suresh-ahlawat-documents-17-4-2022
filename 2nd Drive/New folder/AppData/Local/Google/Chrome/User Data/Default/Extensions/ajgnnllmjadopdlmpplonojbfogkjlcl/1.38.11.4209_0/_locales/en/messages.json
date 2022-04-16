@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension.",
+      "message": "Never Forget A Password Again!"
+   },
+   "appName": {
+      "description": "Name of the extension.",
+      "message": "Never Forget A Password Again!"
+   }
+}

@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "閉じる",
+		"done": "完了",
+		"dontSave" : "保存しない",
+		"neverSave" : "今後も保存しない",
+		"saveNow" : "今すぐ保存",
+		"yes" : "はい",
+		"no" : "いいえ",
+		"remove": "削除",
+		"dontUpdate" : "更新しない",
+		"updateNow" : "今すぐ更新",
+		"dontAskAgain" : "今後は表示しない",
+
+		"dontSaveNow" : "今回は保存しない",
+		"dontSaveItNow" : "今は保存しない",
+		"neverSaveIt" : "今後も保存しない",
+		"neverForThisSite" : "このサイトでは保存しない",
+		"savePassword" : "パスワードの保存",
+		"saveThisPassword" : "このパスワードを保存する",
+		"dontShowAgain" : "今後、表示しない",
+		"masterPassword" : "マスター パスワード",
+		"continue" : "続行",
+		"ok": "OK",
+		"typeMasterPassword" : "マスター パスワードの入力",
+		"settings": "設定",
+		"copyClipboard": "クリップボードにコピー",
+		"youreIn" : "ログインが完了しました。",
+		"success": "成功"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key が <span class='secondary'>%{siteName}</span> のパスワードを保存しました。"
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key が <span class='secondary'>%{siteName}</span> で新しいパスワードを検出しました"
+	},
+	"bannerConnecting": {
+		"mainText" : "お待ちください"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "<span class='primary'>%{siteName}</span> のパスワードは強度が十分ではありません"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "新しい共有パスワードを取得しました。"
+	},
+	"bannerLoginFailure": {
+		"mainText": "True Key でログインしましたか？",
+		"deleteConfirm": "<span class='secondary'>%{username}</span> を True Key プロファイルから削除しますか？"
+	},
+	"topbarDisabled": {
+		"mainText" : "問題があります。 True Key はこのサイトに対応していません。"
+	},
+	"connectWith" : {
+		"mainText" : "プロファイルを選択する",
+		"login": "ログイン"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "プロファイルがロックされています",
+		"ctaUnlock": "ログインしてロックを解除する",
+		"placeholder" : "マスター パスワードを入力する",
+		"mainTxtHasUsers" : "True Key プロファイルでログインする",
+		"mainTxtNoUsers" : "マスター パスワードを入力して、このパスワードを保存してください",
+		"error" : "パスワードが間違っています",
+		"decrypting" : "復号しています",
+		"profileLocked" : "プロファイルがロックされています",
+		"unlockedLogIn" : "ロックを解除してログインしてください"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "複数のパスワードを管理するのは面倒ではありませんか？ True Key アプリを使用すると、簡単にログインできます",
+		"signup" : "方法を確認する"
+	},
+	"tooltipUnregistered": {
+		"mainText" : "パスワードの管理が面倒ではありませんか？ True Key を使用すると、より速く、簡単にアクセスできます。",
+		"signup" : "方法を確認する"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "<span class='secondary'>%{siteName}</span> にログインしてください。",
+		"txt2" : "True Key が代わりにパスワードを記憶します。"
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "次回から True Key で安全にログインできます。"
+	},
+	"welcomeComplete" : {
+		"mainText" : "True Key Launchpad を使用して、より簡単で安全にログインできます。"
+	},
+	"passgen" : {
+		"generate": "パスワードの生成",
+		"regenerate" : "パスワードを生成する",
+		"noPassGenerated": "パスワードは生成されていません",
+		"letters" : "文字",
+		"digits" : "数字",
+		"symbols" : "記号",
+		"capitals" : "大文字"
+	}
+}

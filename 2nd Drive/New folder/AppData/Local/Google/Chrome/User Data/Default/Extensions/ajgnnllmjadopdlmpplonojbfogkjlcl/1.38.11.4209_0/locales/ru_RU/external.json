@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Как разрешить файлы cookies в Firefox",
+    "onMac" : "На Mac",
+    "onPC" : "На ПК",
+    "step1" : "<strong>1: Перейдите в меню Firefox &gt; Настройки &gt; Конфиденциальность.</strong><br>В разделе История выберите <br><strong>“Firefox использует: специальные параметры истории”</strong>",
+    "step2" : "<strong>2. В разделе История выберите &quot;Принимать файлы cookies от всех сайтов&quot;</strong><br>Затем в выпадающем меню ниже выберите:<br><strong>&quot;Принимать файлы cookies от третьих сторон&quot; &gt; &quot;Всегда&quot;</strong>"
+  },
+  "import" : {
+    "title" : "Импорт паролей в PasswordBox",
+    "selectSoure" : "Выберите источник",
+    "export" : "Экспорт паролей",
+    "import" : "Импорт файла паролей в PasswordBox",
+    "dashlane1" : "Чтобы экспортировать пароли из Dashlane, откройте Dashlane и нажмите на:",
+    "dashlane2" : "Файл > Экспорт данных",
+    "dashlane3" : "Выберите формат <strong class=\"green\">Незащищенный архив CSV</strong> .",
+    "dashlane4" : "Сохраните файл в удобном месте.",
+    "dashlane5" : "Поддерживается только последняя версия Dashlane.",
+    "lastpass1" : "Чтобы экспортировать пароли из LastPass, нажмите значок плагина LastPass в браузере и выберите:",
+    "lastpass2" : "<strong>Инструменты &gt; Экспортировать</strong><br/>в и выберите в меню файл <strong class=\"green\">LastPass CSV</strong> . При необходимости введите свой пароль.",
+    "lastpass3" : "Нажмите ОК и сохраните файл в удобное место.",
+    "lastpass4" : "Поддерживается только последняя версия LastPass.",
+    "roboform1" : "Экспорт из Roboform на сегодняшний день поддерживатся только на операционных системах Mac.",
+    "roboform2" : "Поддержка Windows скоро появится.",
+    "roboform3" : "Чтобы экспортировать пароли из RoboForm, откройте плагин Roboform в браузере и нажмите на <strong>Параметры:</strong>",
+    "roboform4" : "В панели опций выберите &quot;Данные пользователя&quot; и нажмите на <strong>&quot;Экспортировать в&quot;</strong>",
+    "roboform5" : "<strong>Сохраните файл как .html</strong>  в удобном месте.",
+    "roboform6" : "Поддерживается только последняя версия RoboForm.",
+    "onepassword1" : "Чтобы экспортировать пароли из 1Password, откройте:",
+    "onepassword2" : "<strong>- Файл &gt; Экспорт:</strong><br>Выберите формат <strong class=\"green\">Разделитель Табуляция</strong> и опцию <strong>Все логины</strong> .",
+    "onepassword3" : "Нажмите ОК и сохраните файл в удобное место.",
+    "onepassword4" : "Поддерживается только последняя версия 1Password.",
+    "onepasswordClick" : "<u>Нажмите здесь,</u> чтобы загрузить фаш файл <span class=\"serviceName green\">1Password</span>  ",
+    "keepass1" : "Чтобы экспортировать пароли из KeePass, откройте KeePass и нажмите на:<",
+    "keepass2" : "<strong>Файл &gt; Экспорт</strong><br>Выберите формат <strong>KeePass CSV 1.x</strong> .",
+    "keepass3" : "Сохраните файл в удобном месте.",
+    "keepass4" : "Поддерживается только последняя версия KeePass."
+  }
+}

@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Svenska"
+    common: 
+        privacy: "Sekretess"
+        privacy_full: "Sekretesspolicy"
+        terms: "Användarvillkor"
+        terms_full: "Tjänstevillkor"
+        alert: "Varning!"
+        warning: "Varning!"
+        or: "eller"
+        copyright: "© %{date}. Med ensamrätt."
+        change_language: "Ändra språk"
+    shared: 
+        member_menu: 
+            upgrade: "Uppgradera konto"
+            refer_friends: "Bjud in vänner"
+            help: "Hjälp och support"
+            logout: "Logga ut"
+    head: 
+        meta: 
+            description: 
+                default: "Med PasswordBox blir hanteringen av lösenord enklare. Du behöver inte hålla reda på flera olika användarnamn och lösenord eftersom PasswordBox-huvudlösenordet är det enda du behöver!"
+                mobile: "PasswordBox är en gratis lösenordshanterare som hjälper dig att lagra, hämta och dela lösenord på valfri enhet. Testa PasswordBox-appen för Android, iPhone eller iPad."
+        title: 
+            default: "Gratis lösenordshanterare"
+            welcome: "Välkommen"
+    download: 
+        download: "Ladda ner GRATIS"
+        login: "Logga in"
+        mobile: "mobil"
+        platforms: "Gratis till Windows, Mac och Mobil"
+        watch_video: "Se videon"
+        available_for: "Finns även för %{os} och %{platform}"
+        free_for: "Gratis för %{windows}, %{mac} och %{mobile}."
+        guides: 
+            click_add: "Klicka på Lägg till för att installera PasswordBox"
+            click_allow: "Klicka på tillåt om du vill installera PasswordBox"
+            click_install: "Klicka på Installera"
+            click_install_now: "Klicka på Installera nu"
+            click_run: "Starta installationen genom att klicka på Kör"
+            click_yes: "Acceptera inställningarna genom att klicka på Ja"
+            click_here: "Klicka här"
+            run_and_open: "Kör och öppna installationsprogrammet"
+            install_pbox: "Installera PasswordBox"
+            close_window: "Stäng fönstret"
+            download_pbox: "Ladda ner PasswordBox"
+        alerts: 
+            mobile: "Hämta den KOSTNADSFRIA appen %{app_name} för att utnyttja 1-Tap Login i farten!"
+        errors: 
+            browser: 
+                min_version: "PasswordBox är endast tillgängligt för %{browser}-versionerna %{min_version} och senare. Uppdatera webbläsaren och försök igen."
+                single_version: "PasswordBox är endast tillgängligt för %{browser}. Uppdatera webbläsaren och försök igen."
+                unavailable: "PasswordBox finns inte för din version av %{browser}. Försök igen med %{suggestion}."
+                safari_windows: "PasswordBox för Safari finns för närvarande endast på Mac OS X."
+                safari: 
+                    unsupported: "Tyvärr finns det inte längre stöd för Safari. Använd Chrome, Firefox eller Internet Explorer och försök igen."
+                    read_more: "Läs mer här"
+                unsupported: 
+                    problems: "Vi stöder officiellt inte den här versionen av webbläsaren %{browser}. Du kan fortfarande installera PasswordBox, men vissa problem kan uppstå."
+                    upgrade_suggestion: "Vi rekommenderar att du uppgraderar till den senaste versionen av din webbläsare för att du ska få den bästa upplevelsen."
+                    install_anyway: "Installera ändå"
+            mobile: 
+                min_version: "PasswordBox finns inte för denna version av %{os}. Försök igen på en enhet med version %{min_version} eller senare."
+                generic: "PasswordBox finns inte för den här enheten. Försök igen på iPhone, iPad eller Android, eller öppna den här sidan på din stationära dator för att installera vårt webbläsartillägg."
+        onboard: 
+            welcome: "Välkommen till installationsprogrammet för PasswordBox!"
+            failed_install: "Det gick inte att installera PasswordBox."
+            never_forget: "Nu behöver du aldrig glömma bort ett lösenord igen!"
+            click_to_retry: "Klicka här om du vill försöka igen"
+            retry: "Försök igen"
+            free_vault: "Kostnadsfritt lösenordsvalv för Google Chrome."
+            add_to_chrome: "Lägg till i Chrome"
+        guide: 
+            almost_done: "Nästan färdigt!"
+            greeting: "Hej %{member_name}!"
+            welcome: "Välkommen till PasswordBox. Installera programmet genom att utföra stegen nedan."
+            downloading: "PasswordBox börjar laddas ner automatiskt. Om inte: %{restart_link}."
+            restart: "klicka här för att starta om nerladdningen"
+    address_book: 
+        import: 
+            address: "Adress"
+            email_password: "E-posta lösenord"
+            fetching_contacts: "Hämtar kontakter"
+            gmail: 
+                connect_button: "Anslut till Gmail"
+                instructions: "Klicka för att ansluta till din adressbok i Gmail"
+            open_address_book: "Öppna adressbok"
+            sending_promise: "Vi skickar aldrig e-postmeddelanden till dina kontakter utan ditt samtycke."
+            connect: 
+                title: "Anslut till din adressbok"
+                button: "Anslut till %{provider}"
+                instructions: "Klicka för att ansluta till din %{provider}-adressbok"
+        select: 
+            contacts: "Kontakter"
+            deselect_all: "Avmarkera alla"
+            search_contact: "Sök efter en kontakt"
+            select_all: "Markera alla"
+            select_title: "Välj från adressbok"
+            send_success: "Din förfrågan om ditt digitala arv skickades!"
+            to: "Till"
+    forms: 
+        buttons: 
+            back: "Tillbaka"
+            cancel: "Avbryt"
+            ok: "OK"
+            save: "Spara"
+            submit: "Skicka in"
+            send: "Skicka"
+        errors: 
+            digits: 
+                only: "Var vänlig använd endast siffror."
+            email: 
+                exists: "Denna e-postadress används redan."
+                invalid: "E-postadressen är inte giltig."
+                invalid_please: "Var vänlig fyll i en giltig e-postadress."
+                required: "E-postfältet är obligatoriskt."
+            fullname: 
+                required: "Var vänlig fyll i ditt fullständiga namn."
+                too_long: "Var vänlig fyll i ett kortare namn."
+                too_short: "Ditt namn måste vara minst %{length} tecken långt."
+            password: 
+                required: "Var vänlig välj ett lösenord."
+                too_short: "Var vänlig kontrollera att ditt lösenord är minst %{length} tecken långt."
+                confirm: "Bekräfta ditt lösenord"
+                match: "Se till att lösenorden är identiska"
+                different: "Ditt lösenord kan inte vara samma som din e-postadress eller ditt namn"
+            required: 
+                generic: "Detta fält är obligatoriskt."
+            generic: "Hoppsan! Något blev fel. Försök skicka formuläret igen."
+            length: 
+                between: "Ange ett värde som består av mellan {0} och {1} tecken."
+        labels: 
+            email: "E-postadress"
+            fullname: "Fullständigt namn"
+            first_name: "Förnamn"
+            last_name: "Efternamn"
+            master_password: "Huvudlösenord"
+            password: "Lösenord"
+            title: "Titel"
+            username: "Användarnamn"
+            email_full: "Din e-postadress"
+            phone_full: "Ditt telefonnummer"
+            date: "Datum"
+        success: 
+            thank_you: "Tack"
+        info: 
+            password: 
+                very_weak: "Väldigt svagt"
+                weak: "Svagt"
+                average: "Medelstarkt"
+                good: "Bra"
+                strong: "Starkt"
+    premium: 
+        limit_reached: "Du har uppnåt gränsen på %{limit}. Uppgradera nu och få obegränsad lösenordslagring."
+        billing: 
+            details: "Du kommer att debiteras %{price} USD för ett års PasswordBox Premium. Om du inte är nöjd inom de första 30 dagarna av prenumerationen återbetalar vi hela det betalade beloppet utan att ställa några frågor."
+            renewal: "Ditt konto förnyas automatiskt om du inte avbryter förnyelsen genom att skicka e-post till %{support_link} innan din nästa betalning ska dras."
+        enter_cc_info: "Fyll i kreditkortsuppgifter"
+        form: 
+            errors: 
+                credit_card_invalid: "Vänligen fyll i ett giltigt kreditkortsnummer."
+                generic_processing: "Ett fel uppstod när din betalning skulle behandlas."
+                unable_to_process: "Vi kunde inte behandla ditt kreditkort. Kontrollera att du har rätt information och försök igen."
+            labels: 
+                as_on_card: "som de visas på kortet"
+                credit_card: "Kreditkortsnummer"
+                expiry: "Utgångsdatum"
+                secure: "Säkert"
+                verification: "Kortets 4-siffriga verifieringsnummer"
+                what: "Vad är detta?"
+                country: "Land"
+                postal_code: "Postnummer"
+                street_address: "Gatuadress"
+                city: "Stad"
+                region: "Region"
+            submit: "Aktivera Premium"
+            processing: "Behandlar ... Vänta."
+        main_title: "Få tillgång till den fullständiga versionen av PasswordBox för %{price} dollar per månad!"
+        premium: "Premium"
+        quote: "Jag har flera användarnamn och lösenord än vad jag kan komma ihåg. Som tur är kan PasswordBox lagra dem åt mig. Er tjänst har också gjort att jag kan slappna av då jag vet att även om jag råkar ut för en dödsolycka i bilen idag kommer mina anhöriga att få tillgång till mina olika onlinekonton, enligt mina instruktioner. Det är en lättnad att ha vetskapen att min man kan komma åt mitt PayPal-konto och alla familjefoton jag har på Flickr."
+        satisfaction_guarantee: "Om du inte är helt nöjd inom de första 30 dagarna kommer vi att betala tillbaka det fullständiga beloppet, helt utan villkor och krångel."
+        success: 
+            already_premium: "Du är redan en Premiumanvändare! Ditt konto är giltigt till och med den %{date}."
+            free_for_life_notice: "Tack för att du deltar i vårt betatest. Ditt konto kommer att vara gratis under obegränsad tid."
+            payment_success: "Tack! Vi har mottagit din betalning."
+            return_to_public: "Gå tillbaka till den allmänna webbplatsen."
+            to_passwordbox: "Ta mig till min PasswordBox"
+            upgrade_success: "Ditt konto har uppgraderats."
+        testimonial: "Rekommendation"
+        unconfirmed: 
+            title: "Ditt konto har ännu inte bekräftats."
+            check_spam: "Om e-postmeddelandet inte finns i inkorgen ska du titta i mappen för <strong>skräppost.</strong>"
+            no_email: "Fick du inte e-postmeddelandet?"
+            explanation: "När du bekräftar kontot valideras din adress. Dessutom aktiveras delning av filer och Legacy Locker-funktionerna."
+            resend_email: "Skicka bekräftelsemeddelandet igen"
+            steps: 
+                send_email: "Skicka ett verifieringsmeddelande till ditt e-postkonto"
+                click_link: "Klicka på föreslagen länk i e-postmeddelandet"
+                done: "Nu är du klar!"
+            continue: 
+                instructions: "När kontot har bekräftats ska du klicka på <strong>Fortsätt</strong> för att slutföra betalningsinformationen."
+                action: "Fortsätt"
+            messages: 
+                email_sent: "Titta i inkorgen. Vi har skickat ett bekräftelsemeddelande."
+                not_confirmed: "Ditt konto har ännu inte bekräftats."
+                general_error: "Något blev fel. Försök igen."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Bjud in vänner"
+                invite_new: "Bjud in nya"
+                invites_accepted: "Accepterade inbjudningar"
+                invites_sent: "Inbjudningar har skickats"
+                manage_invites: "Hantera mina inbjudningar"
+                manage_title: "Hantera dina inbjudningar"
+                no_invites_sent: "Du har inte skickat några inbjudningar än. Kom igen och få iväg några!"
+                referrals_needed: "Du behöver %{count} accepterade inbjudningar för att få ett gratiskonto med obegränsat lagringsutrymme"
+                referrals_needed_single: "Du behöver 1 godkänd inbjudan till för att få ditt kostnadsfria konto med obegränsat utrymme"
+                resend: "Skicka igen"
+                reward: "När du har lyckats rekrytera %{count} vänner får du ett gratis Pro-konto under obegränsad tid."
+                sent: "Skickat"
+                status: "Status"
+                subheader: "Här är de inbjudningar du har skickat. Du kan skicka iväg de igen om det behövs."
+            reward: "Rekrytera %{count} vänner till PasswordBox så får du ett gratis Pro-konto där du kan utnyttja obegränsat lagringsutrymme för lösenord under obegränsad tid."
+            title: "Rekrytera %{count} vänner till PasswordBox"
+        import_contacts: 
+            manual_option: "Fyll i dina vänners e-postadresser manuellt"
+        important: "Viktigt"
+        installed_header: "PasswordBox är nu igång!"
+        invite_header: "Berätta för dina vänner om PasswordBox"
+        manual_invite: 
+            email_instructions: "Fyll i deras e-postadresser"
+            import_option: "Bjud in vänner från din adressbok"
+            required_error: "Vänligen full i e-postadressen till den person du vill bjuda in"
+            send_action: "Skicka VIP-kort"
+            send_instructions: "Skicka inbjudningar till dina vänner"
+            send_success: "Dina VIP-kort har skickats!"
+        resale_disclaimer: "Vänligen observera att PasswordBox inte tillåter försäljning av VIP-kortet på eBay eller någon annan webbplats. Det är endast ämnat för privat bruk."
+        sent_after_welcome: 
+            title: "Registreringen är nu klar!"
+            video_instructions: "Se denna video för att få mer information om PasswordBox"
+        vip: 
+            reward: "Du kommer att få ett gratis livstidsmedlemskap"
+            title: "Ge dina vänner VIP-tillgång till PasswordBox"
+    welcome: 
+        headers: 
+            running: "%{logo} är nu igång!"
+        bulk_password: 
+            check_all: "Markera alla"
+            did_you_know_title: "Visste du att 92 % av alla personer använder samma användarnamn- och lösenordskombination de flesta av sina onlinekonton?"
+            instructions: "Om detta beskriver dig, fyll då i din inloggningsinformation nedan välj de webbplatser som du använder informationen på. Vi kommer då att spara dessa konton på din Passwordbox på en och samma gång."
+            save_passwords: "Spara lösenord"
+            success_message: "Sparar dina lösenord..."
+            uncheck_all: "Avmarkera alla"
+            username_label: "Användarnamn för e-postadress"
+            website_error: "Vänligen välj minst en webbplats."
+        legacy: 
+            address_book: "Anslut till din adressbok i din webb-e-post"
+            email_label: "E-posta personen som du litar på"
+            instructions: "Nämn en person som du litar på nedan så skickar vi ett e-postmeddelande med din förfrågan"
+            name_label: "Nämn person som du litar på"
+            transfer_info: "Oroa dig inte, dina lösenord skickas inte över förrän det behövs"
+            trust_title: "Vem anförtror du att ta hand om ditt onlinekonto om något händer dig?"
+            watch_video: "Titta på vår video för att få mer information"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Bekräfta huvudlösenord"
+                never_store_password: "För att säkerställa din säkerhet varken ser eller lagrar Passwordbox ditt huvudlösenord"
+                no_recovery: "Det går inte att återställa ditt konto om du glömmer bort ditt huvudlösenord"
+                repeat_title: "Fyll i ditt lösenord en gång till"
+            creating_account: "Skapar ditt konto..."
+            form: 
+                create_account_action: "Skapa gratiskonto"
+                create_account_title: "Skapa ditt gratiskonto"
+                create_password: "Skapa lösenord"
+                existing_account: "Har du redan ett konto?"
+                facebook_promise: "Oroa dig inte, vi kommer aldrig att lägga upp meddelanden på din vägg."
+                facebook_signup: "Bli medlem med hjälp av Facebook"
+                login: "Logga in"
+                terms_disclaimer: "Genom att klicka ovan godkänner du våra användarvillkor och bestämmelser."
+                terms_full: "Vi delar aldrig din e-postadress eller någon personlig information med tredje part och vi skickar bara transaktionsmeddelanden som är kopplade till ditt PasswordBox-konto. Läs vår %{privacy_link} för mer information."
+                terms_agree: "Genom att klicka ovan godkänner du våra %{terms_link}."
+            installed_title: "Installation klar! Sista steget..."
+            never_forget: "Glöm aldrig bort ett lösenord igen! Aktivera ditt GRATISKONTO"
+            recently_installed: "PasswordBox lades nyligen till i din webbläsare..."
+            testimonial: "Det är som Dropbox för lösenord och fungerar på alla enheter oavsett var du befinner dig. Dessutom är det enkelt att dela lösenorden."
+            login_link: "Om du redan har ett PasswordBox-konto <a href=\"%{path}\" target=\"_blank\">ska du leta efter den gröna rutan</a> i din webbläsare"
+            validating: "Validerar din information..."
+            almost_done: "Nu är det nästan klart! Det enda du behöver göra är att skapa ett lösenord"
+            delayed: 
+                never_forget: 
+                    generic: "Nu behöver du aldrig glömma bort ett lösenord igen!"
+                    domain: "Nu behöver du aldrig glömma lösenordet till <strong>%{website} </strong> igen!"
+                signup_free: "Registrera dig KOSTNADSFRITT nu!"
+                secure: "<strong>Registrera dig KOSTNADSFRITT nu så kan du njuta av automatisk inloggning på dina favoritwebbplatser</strong> samtidigt som dina sparade lösenord är tryggt skyddade!"
+                watch_video: "Se vår video"
+                how_pbox_works: "Så här fungerar PasswordBox"
+            crypto: 
+                creating: "Skapar ditt konto..."
+                encrypting: "Vi krypterar ditt lösenord för att maximera säkerheten. Den här processen kan ta en stund (upp till en minut) på gamla datorer. Detta är helt normalt. Vänta tills processen är slutförd."
+        video: 
+            typing_passwords: "Att skriva in lösenord för hand är omständligt och jobbigt. Med PasswordBox sparas dina inloggningsuppgifter automatiskt när du loggar in på en webbplats."
+            next_step: "Jag förstår. Tack!"
+        guides: 
+            extension: 
+                congratulations: "Grattis!"
+                save_success: "Vi har sparat dina lösenord i PasswordBox!"
+                green_box: "Nästa gång du behöver dem behöver du bara klicka på ikonen med den gröna rutan i webbläsaren! "
+        tutorial: 
+            create_password: 
+                click_instructions: "Klicka på en knapp för att lägga till ditt första lösenord"
+                form_instructions: "Fyll i användarnamn och lösenord"
+            one_click_login: "Bra jobbat! Nu kan vi prova 1-klick-inloggning"
+            tour_video: 
+                extension_guide: "Klicka på den gröna boxen för att öppna din PasswordBox"
+                instructions: "Få ut det mesta av PasswordBox med denna korta produktgenomgång."
+                title: "Kom-igång-guide"
+    features: 
+        seamless_login: 
+            title: "Säg adjö till lösenord. Omedelbar inloggning på alla enheter, webbplatser och mobilappar."
+            subtitle: "Är du trött på att slösa tid på inloggningsskärmen? Kom åt dina konton snabbare med 1-Click login och 1-Tap login."
+            item_1: "Endast med Passwordbox: %{link} utan att någonsin behöva skriva in ett användarnamn eller lösenord."
+            item_2: "Gå till vilken webbplats som helst så fyller PasswordBox automatiskt i din information och loggar in åt dig. Med Chrome och Safari behöver du inte skriva något på din stationära dator eller mobila enhet."
+            item_3: "Snabbinloggning även när du har flera användarkonton på samma webbplats"
+            item_4: "Du skyddas från skadlig programvara som bygger på tangentloggning - om du inte skriver det, går det inte att stjäla det"
+            one_tap_link: "logga in på dina favoritappar på din Android-mobil med 1-Tap"
+        device_syncing: 
+            title: "Dina lösenord, överallt"
+            subtitle: "Spara ett lösenord i PasswordBox så sparas det omedelbart i alla dina webbläsare samt på alla dina datorer och mobila enheter."
+            item_1: "Synkar automatiskt så att du alltid har dina inloggningar nära tillhands"
+            item_2: "Fungerar på så gott som alla datorer, webbläsare och mobila enheter på marknaden"
+            item_3: "Kostnadsfria tillägg för alla större webbläsare inklusive Chrome, Firefox och Internet Explorer"
+            item_4: "Kryptering och avkryptering av dina data utförs lokalt på din enhet med AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox för mobilen"
+            widget: 
+                title: "Gratis mobilappar"
+                subtitle: "Dina lösenord överallt"
+            notify: 
+                sms: "Textmeddelande till min telefon"
+                email: "E-postmeddelande till min enhet"
+                sending: "Skickar installationslänk"
+            email: 
+                success: "E-postmeddelandet har skickats! I din e-post hittar du hämtningslänken"
+                errors: 
+                    invalid: "E-postadressen saknas eller är ogiltig"
+                    failed: "Det gick inte att skicka e-postmeddelandet"
+            sms: 
+                body: "För att installera PasswordBox klickar du här på din mobila enhet: %{link}"
+                success: "Textmeddelandet skickades! I din telefon hittar du hämtningslänken."
+                errors: 
+                    phone: 
+                        missing: "Telefonnumret saknas."
+                        invalid: "Det gick inte att skicka ett meddelande till telefonnumret. Se till att du har angivit landskoden om det är ett internationellt nummer."
+                    service: 
+                        unavailable: "SMS-tjänsten är för närvarande inte tillgänglig"
+            apps: 
+                app_store: "Tillgänglig i <span>App Store</span>"
+                google_play: "Få den gratis på <span>Google Play</span>"
+            ces_award: "Bästa mobilapp <span>på CES 2014</span>"
+        desktop: 
+            title: "Hämta PasswordBox GRATIS"
+            warnings: 
+                windows_only: "Endast för Windows"
+                mac_only: "Endast för Mac OS"
+            button: 
+                get: "Få PasswordBox"
+                for: "för"
+        instructions: "Kopiera länken och klistra in den i adressfältet i %{browser}."
+        copy: 
+            button: "Kopiera"
+            tooltip: "Kopiera till urklipp"
+            success: "Kopierad!"
+    login: 
+        title: "Om du redan har PasswordBox installerat klickar du på den gröna rutan och loggar in."
+        reinstall: "Om du behöver installera PasswordBox igen klickar du på knappen nedan:"
+    member: 
+        errors: 
+            email: 
+                exists: "Det finns redan en medlem med den e-postadressen. Prova med en annan adress."
+                invalid: "Ange en giltig e-postadress"
+    emails: 
+        common: 
+            greeting: "Hej %{full_name}!"
+            hey: "Hej!"
+            pbox_team: "PasswordBox-teamet"
+        layout: 
+            tagline: "PasswordBox erbjuder snabb, säker åtkomst till dina onlinekonton, säker lösenordslagring och Legacy Locker på alla enheter. Glöm aldrig mer ett lösenord."
+            unsubscribe: 
+                link: "Avsluta prenumerationen"
+                from_all: "%{unsubscribe} på e-postmeddelanden från PasswordBox"
+        welcome: 
+            subject: "%{full_name}, välkommen till PasswordBox!"
+            title: "Välkommen"
+            avg_notice: "Med PasswordBox i AVG:s verktygsfält får du snabb inloggning in på dina onlinekonton, säker lösenordsdelning och funktioner för digitalt arv på alla enheter."
+            account_ready: "Ditt konto är nästan färdigt."
+            login_info: "Ditt användarnamn är %{email}. Lösenorder är huvudlösenordet som du skapade vid registreringen."
+            say_goodbye: "Nu behöver du inte längre komma ihåg en massa olika användarnamn och lösenord. Från och med nu är huvudlösenordet det enda du behöver. Med PasswordBox kan du logga in med ett enda klick, dela lösenord på ett säkert sätt och administrera ditt digitala liv i alla enheter."
+            finally: "Och så slipper du tänka på lösenord."
+            confirm: "Bekräfta ditt konto nu"
+            click_below: "Bekräfta ditt konto genom att klicka på länken nedan:"
+            welcome: "Välkommen till PasswordBox!"
+        sync: 
+            subject: "Ladda ner PasswordBox på din mobila enhet!"
+            instructions: "Om du vill ladda ner PasswordBox öppnar du det här e-postmeddelandet på den mobila enheten och följer länken nedan:"

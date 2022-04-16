@@ -1,0 +1,1135 @@
+{
+	"common" : {
+		"email" : "Email",
+		"password" : "Password",
+		"lowercasePassword" : "password",
+		"lowercasePassword_plural" : "passwords",
+		"masterPass" : "Master Password",
+		"cancelBtn" : "Cancel",
+		"backBtn" : "Back",
+		"deleteBtn" : "Delete",
+		"saveBtn" : "Save",
+		"sendBtn" : "Send",
+		"doneBtn" : "Done",
+		"or" : "or",
+		"on" : "on",
+		"off" : "off",
+		"uc_off" : "OFF",
+		"neverForget" : "Never forget a password again",
+		"finish" : "Finish",
+		"share" : "Share",
+		"unshare" : "Unshare",
+		"preserve" : "Legacy Locker",
+		"generator" : "Generator",
+		"settings" : "Settings",
+		"welcome" : "Welcome",
+		"from" : "From",
+		"new" : "New",
+		"next" : "NEXT",
+		"shareNow" : "Share Now",
+		"notNow" : "Not Now",
+		"accept" : "Accept",
+		"revoke" : "Revoke",
+		"uc_copy" : "COPY",
+		"close" : "Close",
+		"clearAll" : "Clear All",
+		"wallet" : "Wallet",
+		"notes" : "Safe Notes",
+		"continue" : "Continue",
+		"ok" : "OK"
+	},
+
+	"reportWebsite" : {
+		"reportIssue" : "Report an Issue",
+		"question" : "Is PasswordBox not working properly?",
+		"mainTxt" : "<p>By sharing your feedback, you are giving our engineering team a heads-up to which websites we need to focus on. This way, we can solve the issue as soon as possible.</p><p>If you have more detail regarding your issue - feel free to include it here: </p>",
+		"txtareaPlaceholder" : "Provide more details here...",
+		"report" : "Report"
+	},
+
+	"repromptPopup" : {
+			"title" : "Require Master Password Reprompt",
+			"txt1" : "The Master Password Reprompt allows you to add an additional layer of protection to your important passwords. When this box is checked, you will be required to re-enter your Master Password to share, edit, delete or log in with the password. You can adjust the reprompt setting for each of your passwords by visiting the selected password's details page.",
+			"txt2" : "Turning on Master Password Reprompt will also hide this password from your StartPage."
+	},
+
+	"autoLoginPopup" : {
+			"title" : "What is Auto-Login?",
+			"txt1" : "Auto-Login allows PasswordBox to automatically log you into a website you have previously saved in your account.  It's a real time saver.",
+			"txt2" : "<strong>If Auto-Login is ON,</strong> PasswordBox will log you into the website automatically -  no username or password to type and no mouse clicks are needed.",
+			"txt3" : "<strong>If Auto-Login is OFF,</strong> PasswordBox will fill in your username and password, but you will have to click the Login button."
+	},
+
+	"languageLimitation" : {
+		"mainTxt" : "This function is available only in English for now.<br>We are working on traducing this section for you.",
+		"legacyTxt" : "Our Legacy Locker feature is currently only available for users in North America. We are working hard to support this feature for our international users in the future. Our apologies for any inconvenience this may cause.",
+		"helpLink" : "For further information, visit our Help Desk",
+		"continue" : "Continue in English"
+	},
+
+	"freemiumOverPopup" : {
+		"title" : "Only Available to Premium Users",
+		"desc" : "Upgrade to Premium to add more passwords and enjoy<br>1-Click Login everywhere.",
+		"noThx" : "No thanks",
+		"clickHere" : "CLICK HERE"
+	},
+
+	"progressSpinner" : {
+		"saving" : "Saving",
+		"cleared" : "Cleared",
+		"done" : "Done",
+		"somethingWentWrong" : "Something went wrong",
+		"loading" : "Loading",
+		"usernamePasswordExists" : "This username/password<br>combination already exists",
+		"referralLinkCopied" : "Referal link copied<br>to Clipboard",
+		"changingPassword" : "Changing Password",
+		"sending" : "Sending",
+		"deleting" : "Deleting",
+		"pleaseEnterATitle" : "Please enter<br>a title",
+		"pleaseEnterAUrl" : "Please enter<br>a URL",
+		"pleaseEnterACountry" : "Please enter<br>a country",
+		"pleaseEnterAType" : "Please enter<br>a type",
+		"encryptingData" : "Encrypting<br/>your data",
+		"passwordAdded" : "Password Added",
+		"youreAwesome" : "You're awesome!",
+		"usernameCopied" : "Username copied<br>to Clipboard",
+		"passwordCopied" : "Password copied<br>to Clipboard",
+		"sharingInvitationSent" : "Sharing invitation sent",
+		"legacyInvitationSent" : "Legacy Locker invitation sent",
+		"masterPasswordLength" : "Your password needs<br>at least __charsLimit__ characters",
+		"passwordsDontMatch" : "New passwords<br>don't match",
+		"wrongPassword" : "Wrong password",
+		"success" : "Success",
+		"noteLimit": "Your note must have less than __charsLimit__ characters"
+	},
+
+	"alerts" : {
+		"copied" : "Copied"
+	},
+
+	"strengthValues" : {
+		"veryWeak" : "Very Weak",
+		"weak" : "Weak",
+		"normal" : "Normal",
+		"moderate" : "Moderate",
+		"strong" : "Strong",
+		"veryStrong" : "Very Strong",
+		"extreme" : "Extreme"
+	},
+
+	"formError" : {
+		"emailFormatNotGood" : "Email format is not good, please change it",
+		"passTooShort" : "Password is too short ...",
+		"urlFormat" : "The URL format seems to be wrong ...",
+		"emailFormat" : "The email format seems to be wrong ..."
+	},
+
+	"loading" : {
+		"loadingText" : "Loading..."
+	},
+
+	"videoScreen" : {
+		"watchVideo" : "Watch the video",
+		"createFreeAccount" : "Create Free Account",
+		"alreadyHaveAccount" : "Already have an account? Tap Here",
+		"extAlreadyHaveAccount" : "Already have an account? <u>Click Here</u>",
+		"youNeedToCreateAccount" : "You now need to <span>create a free account</span>",
+		"ourTerms" : "By clicking this button, you are agreeing to our",
+		"termsOfService" : "terms of service",
+		"saveTime" : "Save time. Login quickly."
+	},
+
+	"login" : {
+		"rememberPass" : "Keep me logged in",
+		"unlockBtn" : "SIGN IN",
+		"newPasswordBoxSignup" : "New to PasswordBox? Tap Here to signup",
+		"extNewPasswordBoxSignup" : "New to PasswordBox? <u>Click Here to sign up for FREE</u>",
+		"error" : "Error, please try again",
+		"unlocking" : "Decrypting your data..."
+	},
+
+	"signup" : {
+		"byClickingAgree" : "By clicking this button you are agreeing our",
+		"tos" : "terms of service",
+		"step1" : {
+			"fullName" : "Full Name",
+			"johnDoe" : "John Doe",
+			"example@" : "example@me.com",
+			"required" : "Required",
+			"createFreeAccount" : "Create Free Account"
+		},
+		"step2" : {
+			"enterPassAgain" : "Enter Master Password again:",
+			"retypePass" : "Retype Master Password",
+			"explainencrypted" : "Your data is encrypted on your iPhone with military grade algorithms. The only way to decrypt your data is your master password.",
+			"passNotStored" : "This password is NOT stored anywhere, so don't lose it",
+			"confirmPass" : "Confirm Master Password"
+		},
+		"something_went_wrong" : "Something went wrong. Please try again."
+	},
+
+	"signup_error" : {
+		"already_in_use" : "This email is already in use",
+		"already_in_use_long" : "The email address you entered is already associated with a PasswordBox account.",
+		"try_login" : "Try login with this email",
+		"remember_case" : "Remember your master password is case sensitive.",
+		"for_security" : "For security reasons, we cannot use the same email for multiple accounts. <span class='red_text'>You'll need to create a new account with a new email&nbsp;address</span>",
+		"login" : "LOGIN",
+		"signup_with_new" : "SIGN UP WITH NEW EMAIL"
+	},
+
+	"loadingOverlay" : {
+		"creatingAccount" : "Creating your account...",
+		"loading" : "Loading...",
+		"saving" : "Encrypting Data",
+		"deleting" : "Deleting..."
+	},
+
+	"startPage" : {
+		"introToPasswordBox" : "Intro to PasswordBox",
+		"about" : {
+			"loggedInAs" : "Logged in as <span>__name__</span>",
+			"headerTitle" : "Passwordbox Start Page",
+			"customize" : "Customize",
+			"subtitle" : "<strong>Instant login to any site.</strong><br>No more passwords and usernames",
+			"watchVideo" : "Watch our video"
+		}
+	},
+
+	"nav" :  {
+		"sync" : "SYNC WITH COMPUTER",
+		"myPasswordBox" : "MY PASSWORDBOX",
+		"settings" : "SETTINGS",
+		"help" : "HELP",
+		"logout" : "Logout"
+	},
+
+	"passgen" : {
+		"title" : "Password Generator",
+		"whatsThis" : "What's this?",
+		"generateNew" : "Generate new",
+		"inputPlaceholder" : "Hit the button to generate",
+		"copyClipboard" : "Copy to clipboard",
+		"autoGenerate" : "Automatically generate passwords in forms:",
+		"passwordLength" : "Password Length",
+		"passwordOptions" : "Password Options",
+		"letters" : "Letters",
+		"digits" : "Digits",
+		"symbols" : "Symbols",
+		"capitals" : "Capitals",
+		"passgenHistory" : "See list of generated passwords (history)",
+		"generatedPasswords" : "Generated Passwords",
+		"clearList" : "Clear List",
+		"domain" : "Domain",
+		"date" : "Date",
+		"password" : "Password",
+		"none" : "None",
+		"togglePassword" : "Toggle password"
+	},
+
+	"myPasswordBox" : {
+		"extension" : {
+			"addManually" : "Add Manually",
+			"createManually" : "Create Manually",
+			"passwordBoxCompleteness" : "PasswordBox completeness",
+			"passwordsFor" : "Passwords for",
+			"currentWebsite" : "Current Website",
+			"oneClickLabel" : "1-Click Login",
+			"copyPassword" : "Copy Password",
+			"refer_friends" : "Refer Friends",
+			"clickHereSignUpFree" : "Click here to sign up for FREE",
+			"toUsePasswordBoxCreateFreeAccount" : "To use PasswordBox, you must create a <strong>FREE</strong> account",
+			"createYourMasterPassword" : "Create your PasswordBox master password",
+			"whatIsThis" : "What is this?",
+			"shareNow" : "Share Now",
+			"cantCreateMsg" : "We could not create your account",
+			"emailFormatTrustError" : "The format is this email address is invalid",
+			"enterMasterOneMoreTime" : "Enter Master Password one more time",
+			"pleaseConfirmMaster" : "Please confirm your Master Password:",
+			"guaranteeSecurity" : "To guarantee your security, PasswordBox never sees or stores your Master Password",
+			"noWayToRecover" : "There is no way to recover your account if you forget your Master Password",
+			"whatsMasterPassword" : "What's a Master Password?",
+			"addNewTwoLines" : "Add<br/>New",
+			"whatsMasterPasswordDetails" : "<p>Your Master Password is the last password you'll ever need. It is the key to encrypting and decrypting the data you'll save in your PasswordBox, using the same military grade algorithms adopted by the US government.</p><p><strong>DO NOT FORGET YOUR MASTER PASSWORD.</strong> For security purposes, PasswordBox never stores your Master Password on any server and cannot send it back to you if you forget it.</p>",
+			"doNotForgetMasterPassword" : "Do not forget your master password.",
+			"doNotForgetMasterPasswordDetails" : "For security purposes, PasswordBox never stores your Master Password on any server and cannot send it back to you if you forget it.",
+			"enterMasterOneMoreTime" : "Enter Master Password one more time",
+			"nowUpAndRunning" : "Your PasswordBox is now up and running",
+			"somethingHappensToYou" : "Now, who do you trust to take care of your online accounts like Facebook if something happens to you?",
+			"emailPersonTrust" : "Email of a person you trust",
+			"emailPersonTrust2" : "Email of another person you trust",
+			"whyNeedInvite" : "Why do I need to invite someone I trust?",
+			"somePutsCharge" : "Someone wants to put you in charge",
+			"btTxtFinish" : "Finish",
+			"learnMore" : "Learn more",
+			"offlineMessage" : "Oops... Offline Mode!",
+			"cookiesMessage" : "Oops... Your cookies are disabled!",
+			"offlineMode" : "Offline Mode",
+			"offlineModeText" : "It seems you have lost your Internet connection, or that your Internet connection is very slow. You can still view your passwords in offline mode, however you can't add or save changes. The Sharing and Legacy Locker features are unavailable as well.",
+			"addFromList" : "You can also add new passwords from the list of suggestions:",
+			"yourPasswords" : "Your Passwords:",
+			"passwordsStored" : "Passwords stored",
+			"featureAdded" : "Awesome! You've got a new feature!",
+			"passwordBoxTheOnly" : "PASSWORDBOX IS THE ONLY Password Manager that you can trust all your life and even after. IF SOMETHING HAPPENS TO YOU the money you have in your Paypal account, the photos you uploaded online or your Facebook Profile will not be lost. You decide who will take care of your different online accounts and leave them instructions on what to do with your digital life.",
+			"howDoesItWork" : "How does it work?",
+			"howDoesItWorkDetails" : "First, enter the name and email of a person or persons you trust. An email will be sent inviting them to be responsible for the important data you own on the Internet. If you die, the persons you've named must send PasswordBox a copy of your death certificate. ONLY AFTER the death certificate has been validated with authorities will the persons you trust be granted access to the online accounts you've chosen to assign to them.",
+			"howSecure" : "How secure is it?",
+			"howSecureDetails" : "All your sensitive data is encrypted and decrypted on your computer by a master password that only you know. This Master Password is NOT stored on our server. This is how we can guarantee your security.",
+			"referFriends" : "Refer Friends",
+			"remaining" : "remaining",
+			"allPasswords" : "All passwords",
+			"allMyPasswords" : "All My Passwords",
+			"iAmSharing" : "I am sharing",
+			"sharedWithMe" : "Shared with me",
+			"shareNew" : "Share New",
+			"shareNewPassword" : "Share new Password:",
+			"acceptInvitation" : "Accept Invitation",
+			"newContactShared" : "New contact has shared with you",
+			"newContactShared_plural" : "New contacts have shared with you",
+			"passwordSuccessAdded" : "Password successfully added",
+			"fastestAddPassword" : "<strong>The fastest way to add a password</strong><br/> is to visit a site, log in and it's saved",
+			"watchVideoTutorial" : "Watch our video Tutorial",
+			"canClickButton" : "You can also click this button<br><span>to add a password manually</span>",
+			"addPasswordManually" : "to add a password manually",
+			"chooseFromList" : "Add from this list of popular sites",
+			"moreStuffFromPopular" : "More Stuff to add from Popular Suggestions",
+			"actionCantUndone" : "This action can't be undone.",
+			"sureToProceed" : "Are you sure you want to proceed?",
+			"passwordBeenDeleted" : "Your password has been deleted",
+			"passwordBeenSaved" : "Your password has been saved",
+			"tooltipDelete" : "Delete this Password",
+			"tooltipShare" : "Share this Password",
+			"tooltipEdit" : "Edit this Password",
+			"tooltipCopy" : "Get Password",
+			"tooltipSharing" : "View sharing details",
+			"tooltipGo" : "Go to Site",
+			"passwordActiveTab" : "Passwords for your browser's active tab",
+			"popularSuggestion" : "Popular Suggestions",
+			"addNewPassword" : "Add New Password",
+			"sharePasswordSomeone" : "Want to share this password with someone?",
+			"sendPersonalMessage" : "Send a personal message with your invitation <span>(optional)</span>",
+			"optional" : "(optional)",
+			"andOr" : "and / or",
+			"titleLabel" : "Title:",
+			"txt_from" : "From",
+			"selectFromList" : "Select from list",
+			"enterEmails" : "Enter Emails",
+			"commaSeparated" : "(comma separated):",
+			"sharingSent" : "Your sharing invitation has been sent",
+			"passwordBoxAllowsShare" : "PasswordBox enables you to securely share your passwords with family, friends or co-workers.",
+			"onceShared" : "Once shared, your password will appear inside their PasswordBox.",
+			"sharePasswordFirstAdd" : "To share a password, first add<br> one to your PasswordBox",
+			"chooseFromListBelow" : "Choose from this list of popular sites below",
+			"whySharePasswords" : "Sharing passwords by email is really unsafe because the text in your emails is not encrypted. With PasswordBox all your passwords are encrypted with military grade algorithms adopted by the US government. PasswordBox allows you to maintain greater control of what you're sharing and who you're sharing with.",
+			"whySharePlus" : "Plus, if you change that password, the change syncs automatically with those you're shared with so they'll always have the most current login information. And if they don't need access anymore you can easily revoke it with one click. It's the ideal solution for work collaborations and family projects.",
+			"shareAll" : "Share All",
+			"inviteCaps" : "Invite",
+			"inviteSmall" : "invite",
+			"inviteNewPeopleShare" : "Add people to share your __assetName__ password",
+			"sharingDetails" : "Sharing details for:",
+			"inviteNew" : "Invite<br>New",
+			"inviteNotAccepted" : "Invitation not yet accepted:",
+			"inviteSent" : "(invitation sent TIMEAGO)",
+			"resend" : "resend",
+			"cancelInvitation" : "Cancel Invitation",
+			"justSentWaiting" : "(just sent - waiting for response)",
+			"passwordSharedWith" : "This Password is Shared with:",
+			"unsharePassword" : "Unshare Password",
+			"passwordVisibility" : "Password visiblity (<span>?</span>)",
+			"revokeAllSharing" : "Revoke all sharing",
+			"sharingInviteResent" : "Your sharing invitation has been re-sent",
+			"sharingInviteCanceled" : "Your sharing invitation has been canceled",
+			"unshareWith" : "Unshare with",
+			"areYouSureUnshare" : "Are you sure you want to unshare this password with ",
+			"sharingRevoked" : "Sharing has been revoked",
+			"acceptSharing" : "Accept sharing from:",
+			"denyInvitation" : "deny invitation",
+			"actualSharing" : "Actual Sharing",
+			"allSharingforRevoked" : "All sharing for: SITENAME has been revoked",
+			"hasNotYetAccepted" : "Has not yet accepted your invitation:",
+			"preserveYourPasswordBox" : "Use the Legacy Locker feature",
+			"alreadySharedWithNumber" : "You have named __number__ persons of trust",
+			"whatWillHappen" : "What will happen to your Facebook or PayPal accounts if something happens to you? Invite people you trust to manage your accounts in your absence. <span>Passwords are not transferred until a death certificate has been validated with authorities.</span>",
+			"whyPreserveFeature" : "Why should I use the Legacy Locker feature?",
+			"whyPreserveFeatureDetails" : "PasswordBox is the only password manager that you can trust during your life and after. You choose who will take care of your different online accounts, so you'll have peace of mind knowing that your digital assets will be managed according to your wishes. Legacy Locker passwords are ONLY shared in the event of an account holder's passing.",
+			"howDoesPreserveWork" : "First, invite a person you trust to manage your accounts in your absence. They'll receive an email asking them to be responsible for your online assets. If something happens to you, that person must provide a death certificate that PasswordBox will validate with authorities before any access is granted.",
+			"howSecurePreserve" : "Your data is encrypted on your device by a Master Password that only YOU know. So how can we transfer passwords? When you encrypt your passwords, your computer also encrypts your passwords with a second bank-grade encryption key for the person you trust. Once we have verified a passing, we trigger the transfer of this encrypted file to the PasswordBox of the trusted person so they can decrypt and access the Legacy Locker passwords.",
+			"preservedetails" : "PasswordBox Legacy Locker details",
+			"howSecurePreserveTitle" : "How secure is it?",
+			"preserveInvitationSent" : "Your Legacy Locker invitation has been successfully sent",
+			"peopleNamed" : "People you have already named:",
+			"invitationAccepted" : "Invitation accepted:",
+			"revokePreserve" : "Are you sure you want to revoke __name__'s access to important passwords in case something happens to you?",
+			"preserveAccessRevoked" : "Legacy Locker access has been revoked",
+			"helpFAQ" : "Help / FAQ",
+			"whyShareTitle" : "Why share passwords with PasswordBox?",
+			"showPasswordDefault" : "Show Password by Default",
+			"autoLogin" : "Auto-Login Default",
+			"autoLoginAllSites" : "Seamless Login",
+			"whatIsAutoLogin" : "What is Seamless Login?",
+			"whatIsAutoLoginDetails" : "Seamless Login allows PasswordBox to automatically log you into a website you have previously saved in your account by simply typing its URL address (e.g.&nbsp;www.example.com) into your browser.",
+			"autoLoginOn" : "<strong>If Seamless Login is ON,</strong> PasswordBox will detect the website's URL address and log you in automatically - no additional mouse clicks are needed.",
+			"autoLoginOff" : "<strong>If Seamless Login is OFF,</strong> PasswordBox will detect the website's URL address, fill in your username and password, but you will have to click the Login button.",
+			"leaveComments" : "Leave a comment:",
+			"feedbackAppreciated" : "Your feedback is appreciated. Type your comments here. Thanks in advance!",
+			"sendFeedback" : "Send Feedback",
+			"howsPasswordBox" : "How's PasswordBox?",
+			"support" : "Support",
+			"setup" : "Setup",
+			"thankYouFeedback" : "Thank you for sending us feedback!",
+			"thankYouFeedbackTellfriend" : "Thank you for sending us feedback! Tell a friend about us.",
+			"freeLifeTime" : "Premium memberships for",
+			"editProfile" : "Edit My Profile",
+			"enterCurrentMaster" : "Enter your <em>current</em> Master Password:",
+			"enterNewMaster" : "Enter your <em>new</em> Master Password:",
+			"newMaster" : "New Master Password",
+			"confirmMaster" : "Confirm Master Password",
+			"saveMaster" : "Save new Master password",
+			"saveNewPassword" : "Save New Password",
+			"masterSaved" : "Your new Master Password has been saved",
+			"upTo5" : "up to 5 friends!",
+			"personalMessage" : "Personal Message",
+			"personalMessageValue" : "I use PasswordBox.com to store my passwords and I think you'll find it as awesome as I do. I never worry about losing a password and can log in to my favorite sites with one click. What are you waiting for? Try it out!",
+			"stillHaveInviteLeft" : "You still have ",
+			"invitationsLeft" : "invitations left!",
+			"editColon" : "Edit:",
+			"logout" : "Log Out",
+			"get_peace_of_mind" : "Get Peace of mind by naming a person you trust to take care of this account if something ever happens to you",
+			"uninstall" : "Uninstall",
+			"acceptingInviation" : "Accepting invitation...",
+			"denyingInviation" : "Denying invitation...",
+			"sharingAsset" : "Sharing asset...",
+			"sharingLegacyInvitation" : "Sending Legacy Locker invitation...",
+			"sharingInvitationSent" : "Sharing invitation sent",
+			"oopsSomethingWentWrong" : "Oops! Something went wrong",
+			"preserverInvitationSent" : "Your Preserve invitation has been sent",
+			"bequeathingYouBox" : "Bequeathing your PasswordBox...",
+			"mustEnterAtLeastOneValidEmail" : "You must enter at least one valid email address",
+			"pleaseEnterWebsite" : "Please enter a Website URL",
+			"pleaseEnterTitle" : "Please enter a title",
+			"pleaseEnterUsername" : "Please enter<br>a username",
+			"usernamePasswordCombinationExists" : "This username/password combination already exists",
+			"accountAlreadyExists" : "This account<br/>already exists",
+			"selectAccountToEdit" : "Select an account to edit:",
+			"passwordSuccessfullyCopied" : "Password successfully copied to clipboard",
+			"copiedToClipboard" : "Copied to<br>Clipboard",
+			"enterMasterContinue" : "Enter Master Password to continue",
+			"requireMaster" : "Your current settings require you to enter your Master Password to complete this action.",
+			"typeMaster" : "Type your Master Password",
+			"subdomain_title" : "Subdomain only",
+			"subdomain_text" : "This option allows you to limit this account to a specific subdomain for easier account management. <br>For example, if you have several WordPress blogs, you can tell PasswordBox to connect with a specific account on a specific subdomain site - and no other.",
+			"invalid" : "Invalid username or passwords",
+			"moreInfo" : "More info",
+			"watch" : "watch",
+			"videoHere" : "video here",
+			"continueEnterManually" : "Continue to enter password manually",
+			"neverShowAgain" : "Never show again"
+		},
+
+		"migration" : {
+			"secondsAway" : "You're seconds away from a<br><strong>new version of PasswordBox</strong>",
+			"enterUsername" : "Enter your <strong>Username</strong> and <strong>Master Password</strong> to continue",
+			"dontWorry" : "Don't worry! You won't lose the passwords you've already stored",
+			"copyrights" : "© 2012 - passwordbox.com - All rights reserved",
+			"link_public" : "Back to public site",
+			"link_privacy" : "Privacy Policy",
+			"link_terms" : "Terms of Service",
+			"no_account" : "Don't have an account yet? <u>Click here to sign up</u>",
+			"thank_you" : "Thank you for logging in.",
+			"we_are_updating" : "We are updating you to the latest version of PasswordBox.",
+			"important" : "IMPORTANT:",
+			"be_patient" : "Please be patient, this process can take up to 2 minutes ...",
+			"dont_close" : "Don't close this window until the process is complete",
+			"update_in_progress" : "Update in progress...",
+			"importing" : "Importing your passwords...",
+			"plzwait" : "Please wait"
+		},
+
+		"searchMyBox" : "Search my PasswordBox",
+		"notifications" : {
+			"mayLikeSuggestion" : "You may like some suggestions"
+		},
+		"search" : {},
+		"passwordDetails" : {},
+		"deletePassword" : {
+			"areYouSure" : "Are you sure?",
+			"cantBeUndone" : "This can't be undone ...",
+			"wantToDeletePass" : "You want to delete your SITENAME password?"
+		}
+	},
+
+	"share" : {
+		"invitation_singular" : "new shared password invitation",
+		"invitation_plural" : "new shared password invitations",
+		"view_invitation_singular" : "View Invitation",
+		"view_invitation_plural" : "View Invitations",
+		"share_back" : "Share Back",
+		"watch_video" : "Watch our video to learn more",
+		"watch_video_tutorial" : "Watch our video Tutorial",
+		"securely_share" : "PasswordBox enables you to securely share your<br>passwords with family, friends or co-workers.",
+		"once_shared" : "Once shared, your password will appear inside their PasswordBox.",
+		"share_back_txt" : "Click on the passwords to share with __name__",
+		"share_a_password" : "Share a password below:",
+		"password_shared" : "This password has been shared"
+	},
+
+	"sharing_pending" : {
+		"title" : "Secure Sharing in Progress",
+		"txt1" : "Secure sharing between you and the person who invited you will automatically be activated next time this person logs in to their PasswordBox.",
+		"txt2" : "Once secure sharing is activated, you will be able to use information shared by their person.",
+		"txt3" : "You have nothing to do at this time."
+	},
+
+	"toggle_startpage" : {
+		"title" : "Browser New Tab Settings",
+		"use_startpage" : "Use PasswordBox StartPage",
+		"browser_default" : "Use Browser Default Tab",
+		"custom_url" : "Enter my own URL"
+	},
+
+	"video_tutorials" : {
+		"title" : "Video Tutorials",
+		"title1" : "PasswordBox: The Introduction",
+		"desc1" : "What is a PasswordBox and why do you need one? Find out here!",
+		"title2" : "Get Started Tour",
+		"desc2" : "New user? Get the most out of PasswordBox with this quick product tour.",
+		"title3" : "PasswordBox Security",
+		"desc3" : "Your security is our priority. Here's how we keep your data safe and secure.",
+		"title4" : "How-To Share a Password",
+		"desc4" : "Finally! Encrypted sharing that everyone can use!",
+		"title5" : "Security of PasswordBox Sharing",
+		"desc5" : "Encrypted sharing - making it this ease to use is more complicated than you'd think.",
+		"title6" : "Using PasswordBox Legacy Locker",
+		"desc6" : "The only password tool that protects your data during your life... and after.",
+		"length" : "Length"
+	},
+
+	"preserve" : {
+		"reciprocate" : "Reciprocate",
+		"person" : "person",
+		"alreadyShared" : "Already shared with",
+		"legacy_invitation_singular" : "New Legacy Locker invitation",
+		"legacy_invitation_plural" : "New Legacy Locker invitations",
+		"view_invitation_singular" : "View Invitation",
+		"view_invitation_plural" : "View Invitations",
+		"watch_video" : "Watch Video",
+		"what_will_happen" : "What will happen to your Facebook or Paypal accounts if something happens to you? Invite persons you trust to manage your accounts in your absence. Passwords are not transferred until a death certificate has been validated",
+		"watch_video_tutorial" : "Watch our Video Tutorial",
+		"more" : "more",
+		"counting_on_you" : "People counting on you",
+		"people_named" : "People you have already named",
+		"generatingKeys" : "<strong>PasswordBox is generating the secure keys for decrypting shared passwords.</strong></p><p>Please be patient - this can take up to a few minutes."
+	},
+
+	"perserve_accepted" : {
+		"do_like" : "Do like",
+		"invitation_accepted" : "Invitation accepted. You are now a person of trust. If something happens to __fullname__, please contact PasswordBox.",
+		"reciprocate" : "Would you like to name __fullname__ as your person of trust?"
+	},
+
+	"feedback_refer" : {
+		"title" : "Thank you for sending us feedback!",
+		"enjoying" : "Enjoying PasswordBox?",
+		"were_sure" : "We're sure your friends will too!",
+		"vip" : "Only people with VIP access can enjoy a Premium membership.<br><strong>Hurry now! We're only giving away 1000 VIP passes a day.</strong>",
+		"spread_the_word" : "Spread the word!",
+		"refer_your_friends" : "Refer your friends to PasswordBox",
+		"share_on_facebook" : "Share on Facebook",
+		"share_on_twitter" : "Tweet about us!",
+		"copy_paste_link" : "Copy paste this link!",
+		"copy_link" : "Copy Link"
+	},
+
+	"addNew" : {
+		"placeholder" : "Type website's name (e.g.: Facebook)",
+		"clickToAddSuggestions" : "Click to add from popular suggestions",
+		"typeSite" : "Type the name of the website<br>you want to add manually",
+		"title" : "Title",
+		"username" : "Username",
+		"untitled" : "Untitled",
+		"enterUsername" : "Enter your __siteName__ username",
+		"nowYourPassword" : "Now your __siteName__ password",
+		"onceDone" : "Once done, click save to add this<br>password to your PasswordBox",
+		"clickNext" : "Click \"Next\" once you are done",
+		"addNew" : "Add New",
+		"name" : "Website name",
+		"url" : "Website URL",
+		"emailUser" : "Email or Username",
+		"memo" : "Memo",
+		"overview" : {
+		  "noMemo" : "No memo"
+		},
+		"titleDetails" : {
+		  "mostPopularSuggestion" : "Most Popular Suggestions:"
+		},
+		"urlDetails" : {
+		  "other" : "Other"
+		},
+		"usernameDetails" : {
+		  "example" : "example@me.com or JoeUser"
+		},
+		"passwordDetails" : {
+		  "yourPassword" : "Your password"
+		},
+		"memoDetails" : {},
+		"placeholderPassword" : "Enter your Password",
+		"placeholderUsername" : "John Doe or example@me.com",
+		"placeholderMemo" : "Click to add a memo",
+		"titleReprompt" : "Reprompt<br>Master Password",
+		"titleAutoLogin" : "Auto-Login",
+		"titleAutologinDisabled" : "Auto-Login unavailable",
+		"subdomain_only" : "Use for this<br>subdomain only"
+
+	},
+	"sync" : {
+		"yourPassEverywhere" : "Your Passwords Everywhere",
+		"installPBonAllComputers" : "Install the free PasswordBox browser plug-in and your passwords will appear on all your computers",
+		"SendMeTheLink1" : "Send me",
+		"SendMeTheLink2" : "the install link by email"
+	},
+	"securityLevel" : {
+		"title" : "Security Level",
+		"desc" : "Follow the instructions below to increase your security level.",
+		"strongMP" : "Strong Master Password",
+		"virtualKeyboard" : "Virtual Keyboard",
+		"keyDerivation" : "Increase Key Derivation",
+		"twoFactor" : "2 Factor Authentication",
+		"fingerPrint" : "Finger Print Authentication",
+		"comingSoon" : "Coming soon"
+	},
+	"virtualKeyboard" : {
+		"title" : "Virtual Keyboard",
+		"desc" : "Activate the virtual keyboard at login, to avoid keylogging. You will find a Keyboard button on the Master Password field when this option will be turned to ON.",
+		"turnOn" : "Turn Virtual Keyboard to ON to increase your security level"
+	},
+	"securityAutolock" : {
+		"descNotsafe" : "Set your PasswordBox session to auto-lock after 1hour of inactivity to increase your security level.",
+		"descSafe" : "Your auto-lock settings are safe! You don't have to take any further step."
+	},
+	"keyDerivation" : {
+		"title" : "Increase Key Derivation",
+		"desc" : "In cryptography, a key derivation function derives one or more secret keys from a secret value such as your master password.",
+		"pboxDerives" : "PasswordBox Application already derives your key 10,000 times.",
+		"toIncrease" : "To increase your security level you can upgrade this key derivation range."
+	},
+	"twoFactor" : {
+		"title" : "2-Factor Authentication",
+		"desc" : "Help keep the bad guys out of your account by using both your password and your phone.",
+		"desc2" : "2-step verification drastically reduces the chances of having the personal information in your PasswordBox Account stolen by someone else. Why? Because bad guys would have to not only get your Master Password and your username, they'd have to get a hold of your phone."
+	},
+	"securityChangeMP" : {
+		"desc" : "Having a strong Master Password for your account, will increase you security avoiding hacker to be able to access your passwords collection.",
+		"currentStrength" : "Current Strength",
+		"normal" : "Normal",
+		"titleUnsafe" : "Change your Master Password to increase Security Level",
+		"titleSafe" : "Your master password is very strong! You don't have to take any further step.",
+		"placeholderCurrentPW" : "Enter your current password here",
+		"placeholderNewPW" : "Enter your new password here",
+		"placeholderConfirmPW" : "Confirm your new password here",
+		"changeMPAnyway" : "Change Master Password anyway"
+	},
+	"fingerprint" : {
+		"title" : "Fingerprint Authentication",
+		"desc" : "Fingerprint recognition or fingerprint authentication refers to the automated method of verifying a match between two human fingerprints: The one you associate with your account, and the other one you will use to login.",
+		"desc2" : "This extra step of security will increase the level of protection."
+	},
+	"myProfile" : {
+		"freeForLife1" : "You have a Free Premium Membership",
+		"freeForLife2" : "No need to upgrade",
+		"doYouLove" : "Do you love PasswordBox?",
+		"yourFriendsToo" : "Your friends will too.<br><strong>Spread the word!</strong>",
+		"sendInvitations" : "Send invitations"
+	},
+	"settings" : {
+		"never" : "Never",
+		"oneHour" : "1 hour",
+		"goPremium" : "Go Premium",
+		"version" : "Version",
+		"advancedSettings" : "Advanced Settings",
+		"onlyXRemaining" : "Only <strong>__assetsLeft__ FREE</strong>",
+		"zeroAssetsLeft" : "0 passwords left. <strong>Click here for more.</strong>",
+		"accountSubscription" : "Account Subscription",
+		"installOthersBrowsers" : "Install on other browsers",
+		"installMobile" : "Install on iPhone, iPad and Android",
+		"changeMasterPass" : "Change Master Password",
+		"rememberEmail" : "Remember Email",
+		"rememberPass" : "Remember Password",
+		"securityLevel" : "Security Level",
+		"importPasswords" : "Import Passwords",
+		"browserNewTab" : "Browser New Tab",
+		"clearNeverSave" : "Clear sites where auto-save is disabled",
+		"clear" : "Clear",
+		"myAccount" : "My Account",
+		"changeLanguage" : "Change Language",
+		"myProfile" : "My Profile",
+		"onlyXLeft" : "Only <strong>__assetsLeft__ FREE</strong> passwords remaining",
+		"closeAccount" : "Close account",
+		"home" : {
+			"settings" : "Settings",
+			"defaultPassDisplay" : "Default Password Display",
+			"show" : "Show",
+			"hide" : "Hide",
+			"autolock" : "Auto-Lock",
+			"autolockOff" : "Auto-Lock is<br>now OFF",
+			"autolockOn" : "Auto-Lock is<br>now ON"
+		},
+		"autocopy" : {
+			"autocopy_on_launch" : "Auto-Copy on URL Launch"
+		},
+		"changeMasterPassword" : {
+			"currentPass" : "Current Password",
+			"newPass" : "New Password",
+			"retypePass" : "Retype New Password"
+		},
+		"passwordDisplay" : {
+			"defaultPassDisplay" : "Default Password Display",
+			"definePassDisplay" : "Define if your passwords are display in clear text or hidden",
+			"showThePass" : "Show the passwords",
+			"hideThePass" : "Hide the passwords"
+		},
+		"saveEmail" : {
+			"noteIfTurnedON" : "Note that when this option is turned to ON, your PasswordBox application will keep you logged in as long as you decide to log out."
+		},
+		"autoLock" : {
+			"lockAfter" : "Lock PasswordBox After:",
+			"1minute" : "1 Minute",
+			"2minute" : "2 Minutes",
+			"5minute" : "5 Minutes",
+			"10minute" : "10 Minutes",
+			"30minute" : "30 Minutes"
+		},
+		"autologout" : {
+			"title" : "Auto-Lock",
+			"subtitle" : "Automatically log me out after:",
+			"desc" : "Please note that this window needs to be closed to start the Auto&#8209;Lock timer. Auto-Lock will occur when your browser has been idle for the selected amount of time.",
+			"never" : "Never",
+			"1hour" : "1hour",
+			"30min" : "30min",
+			"15min" : "15min",
+			"1min" : "1min"
+		}
+	},
+
+	"login_help" : {
+		"title" : "Trouble logging in?",
+		"caseSensitive" : "Remember your Master Password is case sensitive.",
+		"txt_security" : "For security reasons, there is no way to retrieve a Master Password. If you have forgotten your Master Password, you will have to create a new PasswordBox account and re-enter your password data.",
+		"create_new" : "Create New Account",
+		"try_again" : "Try Again"
+	},
+
+	"import_passwords" : {
+		"saved_passwords" : "<strong>You have saved passwords</strong><br>on your computer's browsers.",
+		"add_now" : "add now",
+		"recommended" : "Highly recommended",
+		"no_thank_you" : "No, thank you",
+		"continue_noimport" : "Continue without import?",
+		"noimport_txt" : "Importing your saved browser passwords takes a second, but adding all your usernames and passwords manually could take much longer!",
+		"nothx" : "No, thanks",
+		"ok_add" : "Ok, save me time. Add Now!"
+	},
+
+	"password_visibility" : {
+		"is_now_shared" : "Your password is now shared",
+		"you_can_manage" : "You can manage how this password is shared:",
+		"add_another" : "Add Another Person",
+		"password_is" : "Password is:",
+		"visible" : "Visible",
+		"hidden" : "Hidden",
+		"popup_title" : "What is the difference between Visible & Hidden sharing?",
+		"txt_visible" : "The person you've shared with CAN see your password in their PasswordBox. To maintain the security of your other online accounts, we recommend using a password that you are NOT using for any other account when sharing.",
+		"txt_hidden" : "The person you've shared with CAN'T see your password, but CAN log in to the account. Please note, a small number of sites will not allow login with the hidden password feature. In these cases you will need to share a visible, unique password."
+	},
+
+	"help" : {
+		"home" : {
+			"help" : "Help",
+			"faq" : "FAQ",
+			"tutorial" : "Tutorial",
+			"sendFeedback" : "Send Feedback",
+			"getFreePasswords" : "Get Free Rewards",
+			"about" : "About",
+			"clickMoreSupport": "Click here for more support"
+		},
+		"faq" : {
+			"Q1" : "What is PasswordBox?",
+			"R1" : "PasswordBox is a free service that lets you easily save your passwords so you don't need to remember them. When you save your passwords in PasswordBox, all of your passwords are securely stored and available at any time, on all your phones, tablets or computers.",
+			"Q2" : "Is it necessary to install the browser plug-in on my computer?",
+			"R2" : "It isn't necessary, but it is really helpful. Once the browser plug-in is installed, PasswordBox automatically saves your login information while you're browsing, saving you the trouble of entering this into your PasswordBox manually. Once in your PasswordBox, your usernames and passwords for a particular site will be auto-filled for you. You'll be logged in to the site without ever having to touch your keyboard. ",
+			"Q3" : "How can I change my Master Password?",
+			"R3" : "1. Tap on settings on the menu and tap on Change master password. 2. You can change your Master Password by typing a new one in the 'Master Password' field. 3. You'll also need to type your current Master Password to confirm the changes to your account.",
+			"Q4" : "I've lost my Master Password, how can I get back into my account?",
+			"R4" : "If you forget your Master Password there is no way to retrieve it. PasswordBox is comparable to a safety deposit box: if you lose the key to your deposit box, you can't ask the bank for a duplicate key to open the safe. This way you have peace of mind because you know you are the only person who can decrypt the data.",
+			"Q5" : "How secure is PasswordBox?",
+			"R5" : "All your sensitive data is encrypted and decrypted on your iPhone by a Master Password that only you know. This Master Password is NOT stored on a PasswordBox server and this is why we can guarantee your security.",
+			"Q6" : "How is my data encrypted and decrypted?",
+			"R6" : "PasswordBox uses the Advanced Encryption Standard (AES) algorithm and the RSA algorithm to encrypt and decrypt your data. This type of Advanced Encryption Standard has been adopted by the U.S. government and is now used worldwide. AES is the first publicly accessible and open cipher approved by the National Security Agency (NSA) for top-secret information.",
+			"Q7" : "What is my Master Password? ",
+			"R7" : "Your Master Password is the key that encrypts and decrypts your data. It allows you to access all of the important information you have put into your PasswordBox. Make sure that you don't ever lose or forget your Master Password, because PasswordBox cannot reset it for you. ",
+			"Q8" : "Is my Master Password saved on the PasswordBox server?",
+			"R8" : "Absolutely not! PasswordBox does not store your Master Password on any server. Your Master Password is what allows you to unlock decrypted data (for viewing) and to encrypt data (for syncing). Only your encrypted data is synced on PasswordBox servers and cannot be decrypted without your Master Password.",
+			"Q9" : "Can an employee from PasswordBox gain access to my information?",
+			"R9" : "No employee of PasswordBox can ever access your secure information. Your data is encrypted on your iPhone before it is sent to PasswordBox servers and can only be decrypted on your iPhone with your Master Password. PasswordBox never sees or stores your Master Password, so can never gain access to your data.",
+			"Q10" : "Where is the encryption and decryption of my data performed?",
+			"R10" : "All encryption/decryption is performed on your iPhone, not on a PasswordBox server. PasswordBox servers will NEVER see a plain text version of your data.",
+			"Q11" : "Is my data stored on the PasswordBox server?",
+			"R11" : "Your plain text (readable) data is NEVER stored on a PasswordBox server. What is saved on the server is an encrypted version of your data that can only be decrypted with a Master Password that is created by you and known only by you.",
+			"Q12" : "Does my data automatically sync?",
+			"R12" : "Yes. Because PasswordBox is cloud-based, once you've added or changed a password on any device, that data is synced automatically in the PasswordBox system - after being encrypted by your device, of course. You've changed a password on your mobile tablet and want immediate access to it on your desktop computer? It's already there and ready to be used. This is particularly helpful if you use multiple browsers, as you can switch between them while always having access to your current login information.",
+			"Q13" : "How much does it cost?",
+			"R13" : "PasswordBox is now doing a private launch, providing this service free to the first 1 million users. In exchange, we would really appreciate it if you would give us some feedback. Your feedback is very important for future developments of PasswordBox products so feel free to use the feedback button located on the left of each page on the website or by using the feedback button located in the 'about' section of the browser plug-in.",
+			"Q14" : "How many passwords can I store with PasswordBox?",
+			"R14" : "As many as you would like. There is no limit on how many passwords you can store in your PasswordBox.",
+			"Q15" : "I want to delete/close my account.",
+			"R15" : "To close your account, please send a message to the PasswordBox support team in the contact form provided at help@passwordbox.com detailing your request. In the interest of serving future users better, we'd really appreciate your feedback, so please include your comments on our service when sending your request."
+		},
+		"faqExtension" : {
+			"Q1" : "What is PasswordBox?",
+			"A1" : "PasswordBox is a freemium service that lets you easily save and store your passwords so you don't need to remember them. When you save your passwords in PasswordBox, all of your passwords are securely stored and available at any time, on all your phones, tablets or computers. When you sign in your PasswordBox account, you can say goodbye to multiple usernames and passwords. To log in to a site, just click on the site you want to visit and PasswordBox logs you in to your account automatically. PasswordBox also allows you to easily share your passwords with your family, co-workers or friends. PasswordBox protects you during life, and after. Though nobody likes to talk about it, what happens to your Facebook or Paypal account if something were to happen to you. With PasswordBox you can choose a digital heir who will receive access to your accounts if something happens to you.",
+			"Q2" : "Why log in/sign in to PasswordBox?",
+			"A2": "PasswordBox doesn't just store your encrypted passwords, it also makes web browsing an easier, more seamless experience. By logging in to PasswordBox via the browser plug-in, you have access to secure one-click login. Simply by clicking on the name of the site you'd like to visit, PasswordBox will open a new window to that site, automatically fill in the requested login information and log you in without having to touch your keyboard.",
+			"Q3": "What do I do if I have multiple usernames and passwords for the same site?",
+			"A3": "When the PasswordBox browser plug-in detects a site that you have multiple usernames for, you will be offered a choice of usernames to log in with. Simply click on the username of the account you would like to access the website with and PasswordBox will log you in to that account automatically.",
+			"Q4" : "Can I  edit/change my saved passwords?",
+			"A4" : "Yes! On every password asset there is a small pencil shaped icon or gear shaped icon (depending on your layout) on the right hand side. By clicking any of the information on the password detail page, you can edit and save accordingly.",
+			"Q5": "PasswordBox isn't saving my login information for a website, what can I do?",
+			"A5": "If PasswordBox isn't automatically recognizing a login site then you can enter in the login information manually. To do this, click on ADD New. Enter the information requested into each of the fields and click save to store the login in your PasswordBox.",
+			"Q6": "Can several people use PasswordBox on a shared computer?",
+			"A6": "Yes - in fact, it's a much safer, easier way to manage login information when you're sharing a computer. Each user signs into their PasswordBox using their unique username and Master Password and gains instant access to their secure data.",
+			"Q7": "How much does it cost?",
+			"A7": "PasswordBox is similar to Dropbox. Users can store up to 25 passwords and sync across all devices for free before being prompted to upgrade to a premium account. A premium account has more password storage for $1 per month, billed annually. You can earn a premium membership with more password storage by referring friends to PasswordBox. Once five referrals have been accepted, you will automatically receive a premium membership.",
+			"Q8": "I've received this error message, 'Seems like you lost your Internet connection'. What does this mean?",
+			"A8": "This message will appear if your PasswordBox browser plug-in or mobile app is no longer connected to the Internet. Please re-establish an Internet connection and this issue will be resolved. In order to make sure you are connected, try performing a Google search. Please note that PasswordBox works even if you are not connected to the Internet but certain functionalities like sharing, editing or adding new passwords are not available in offline mode.",
+			"Q9": "If I change a password, how soon will that change appear in PasswordBox?",
+			"A9": "A changed password will appear in your PasswordBox immediately. If you've changed or added a password on your mobile phone and tablets or smartphone and want to access it on your laptop computer, all you need to do is sign in to PasswordBox on the device you'd like to use. Syncing happens automatically every minute. For business purposes, this can be an extremely useful tool to ensure that your team members always have the most current passwords they need to do their work, wherever in the world they happen to be.",
+			"Q10": "My antivirus program or browser has warned me that PasswordBox is a virus/trojan/suspicious - should I be concerned?",
+			"A10": "Antivirus programs rely on large networks of users to verify that a website is safe. This warning usually occurs because PasswordBox has released a new software update that hasn't been distributed to enough users to verify its authenticity. We can assure you that there is no risk. However, if you are still concerned, we invite you to visit passwordbox.com and click on the McAfee secure icon to view an up-to-date security report.",
+			"Q11": "How can I change the email address connected with my PasswordBox account?",
+			"A11": "Currently, PasswordBox will not allow you to change the email address associated with your account.",
+			"Q12": "How long does it take for a shared item to appear in the other user's PasswordBox?",
+			"A12": "Your PasswordBox is synced every 60 seconds, so it's normal if the person you shared something with doesn't see the shared password in their PasswordBox immediately after you've shared it.",
+			"Q13": "How secure is PasswordBox?",
+			"A13": "All your sensitive data is encrypted and decrypted in AES-256 on your device by a Master Password that only you know. This Master Password is NEVER stored on PasswordBox servers and this is how we can guarantee your security.",
+			"Q14": "How is my data encrypted and decrypted?",
+			"A14": "PasswordBox uses the Advanced Encryption Standard AES 256 algorithm to locally encrypt and decrypt your data with a key derived 10000 times with PBKDF2 and a salt.<br><br>This type of Advanced Encryption Standard has been adopted by the U.S. government and is now used worldwide. AES is the first publicly accessible and open cipher approved by the National Security Agency (NSA) for top-secret information. For end-to-end encryption sharing and Legacy Locker, we use RSA 2048. All encryption is end-to-end. Passwords are encrypted on the local device before it is sent out to our sync servers via a secure connection, and encrypted passwords are decrypted only after they arrive on the other device. The clients device are responsible for generating, exchanging and managing the encryption keys. No usable encryption keys ever leave the clients devices (with the exception of RSA public keys if you decide to share or bequeath encrypted passwords).<br><br><a href='https://www.passwordbox.com/videos/security' target='_blank'>Watch our video to learn more.</a>",
+			"Q15": "When I share a password, how is my data encrypted and decrypted?",
+			"A15": "The short, non-tech answer is that your data is encrypted on your device and decrypted on the device of the person you've shared with, and it remains encrypted throughout the transfer process. Only you and the person you've shared your info with can encrypt and decrypt the info. The tech-savvy answer is that when you create your PasswordBox account, a 2048 bits RSA Public-Private key pair is generated using openSSL. When you share a password, a shared secret will be encrypted with the public key of the person you're sharing with and exchanged with that person. Only after this is done can the person you've shared with be able to decrypt your shared password on their device. Watch our video to learn more.",
+			"Q16": "What is my Master Password?",
+			"A16": "Your Master Password is the key that encrypts and decrypts your data. It allows you to access all of the important information you have put into your PasswordBox. Make sure that you don't ever lose or forget your Master Password, because PasswordBox cannot reset it for you.",
+			"Q17": "Is my Master Password saved on the PasswordBox server?",
+			"A17": "Absolutely not! PasswordBox does not store your Master Password on any server. Your Master Password is what allows you to unlock decrypted data (for viewing) and to encrypt data (for syncing). Only your encrypted data is synced on PasswordBox's PCI compliant server architecture and cannot be decrypted without your Master Password.",
+			"Q18": "What happens if I forget my Master Password?",
+			"A18": "If you forget your Master Password there is no way to retrieve it. PasswordBox is comparable to a safety deposit box: if you lose the key of your deposit box, you can't ask the bank for a duplicate key to open the safe. This way you have peace of mind because you know you are the only person who can decrypt the data.",
+			"Q19": "Can an employee from PasswordBox gain access to my information?",
+			"A19": "No employee of PasswordBox can ever access your secure information. Your data is encrypted on your device before it is sent to PasswordBox servers and can only be decrypted on your device with your Master Password. PasswordBox never sees or stores your Master Password, so can never gain access to your data.",
+			"Q20": "Where is the encryption and decryption of my data performed?",
+			"A20": "All encryption/decryption is performed locally on your device, not on a PasswordBox server. PasswordBox servers will NEVER see a plain text version of your data.<br><br>Passwords are encrypted on the local device before it is sent out to our sync servers via a secure connection, and encrypted passwords are decrypted only after they arrive on the other device. The clients device are responsible for generating, exchanging and managing the encryption keys. No usable encryption keys ever leave the clients devices (with the exception of RSA public keys if you decide to share or bequeath encrypted passwords)",
+			"Q21": "If I use the Legacy Locker feature, how do the people I trust access my data after I pass away?",
+			"A21": "PasswordBox is the only password manager that you can trust during your life and after. You choose who will take care of your different online accounts, so you'll have peace of mind knowing that your digital assets will be managed according to your wishes. Legacy Locker passwords are ONLY shared in the event of an account holder's passing.<br><br>First, invite a person you trust to manage your accounts in your absence. They'll receive an email asking them to be responsible for your online assets. If something happens to you, that person must provide a death certificate that PasswordBox will validate with authorities before any access is granted. Your data is encrypted on your device by a Master Password that only YOU know.<br><br>So how can we transfer passwords? When you encrypt your passwords, your computer also encrypts your passwords with a second bank-grade encryption key for the person you trust. Once we have verified a passing, we trigger the transfer of this encrypted file to the PasswordBox of the trusted person so they can decrypt and access the Legacy Locker passwords.",
+			"Q22": "Is this a legal service?",
+			"A22": "No. PasswordBox is not a legal service and does not provide legal advice or that of estate planning. This service is designed to complement the existing estate plan you already have in place and deals specifically with your Internet passwords.",
+			"Q23": "Is my data stored on the PasswordBox server?",
+			"A23": "Your plain text (readable) data is NEVER stored on our server. What is saved on our server is an encrypted version of your data that can only be decrypted with a password that is created by you and known only by you.",
+			"Q24": "Can't I just write down all my passwords and keep them in a safe deposit box?",
+			"A24": "Of course you can, but maintaining a physical list in today's fast-paced environment is cumbersome and lacks security or privacy. This solution simply isn't practical nor does it cater to our ever-changing digital lifestyles.",
+			"Q25": "I want to delete/close my account.",
+			"A25": "To close your account, please send a message to the PasswordBox support team at help@passwordbox.com detailing your request. In the interest of serving future users better, we'd really appreciate your feedback, so please include your comments on our service when sending your request.",
+			"Q26": "How do I uninstall PasswordBox from my browser?",
+			"A26": "Visit our uninstallation guide to find instructions for your browser and operating system.",
+			"Q27": "I installed PasswordBox on all my browsers, but it's not running in Chrome. What should I do?",
+			"A27": "1) Look for the green puzzle icon on the Chrome settings menu on the far right of your browser.<br>2) Click to open the menu.<br>3) Click on New extension added (PasswordBox) at the bottom of the menu which will open a dialog box.<br>4) Click Enable extension and PasswordBox will start running.",
+			"Q28": "I'm keeping passwords in another password manager, can I transfer them to PasswordBox?",
+			"A28": "Yes! It's easy to import your sensitive data with our password importer. New and existing users can transfer all their passwords securely from the latest version of 1Password, LastPass, RoboForm, KeyPass and Dashlane to PasswordBox through the settings section of their browser extension. Right now, this feature is only available for the PasswordBox Chrome plug-in, but all browsers will be supported soon. To thank you for choosing PasswordBox, you can import more passwords for free even if you don't have a premium account.<br><br>Read more about this feature <a href='https://blog.passwordbox.com/2013/05/24/new-password-importer-heres-how-it-works/' target='_blank'>on our blog.</a>",
+			"Q29": "I'm unable to login to my account and I'm sure the master password I entered is correct",
+			"A29": "If this ever happens to you, please make sure to update your mobile app or browser extension to the latest version of PasswordBox. If you're still unable to log in after reinstalling PasswordBox, drop us a line at help@passwordbox.com.",
+			"Q30": "I don't have PasswordBox installed on my computer. How can I login and see my passwords?",
+			"A30": "PasswordBox encrypts your data directly on the your computer using only the most secure encryption libraries available. To ensure the highest performance levels and the best experience at all times for our users, you must download one of our desktop browser extensions or one of our mobile applications to access your account.<br><br>We hope you understand. Your security is our top priority.",
+			"Q31": "How do I get more password space?",
+			"A31": "PasswordBox makes it easy to store loads of passwords really fast. If you reach your free password limit, there are two ways ways to get more space:<br><br><strong>Upgrade your subscription</strong><br>If you ever need even more space, you can always upgrade your subscription to \"Premium\" for limitless password storage costing $11.99 per year, billed annually.<br><br>You can upgrade your account from your iOS and Android devices with an in app purchase, or login to PasswordBox browser extension on your desktop to complete the process.<br><br><a href='https://www.passwordbox.com/en/premium' target='_blank'>Upgrade account</a><br><br><strong>Earn more free space</strong><br>A referral is the greatest compliment we could receive.  To thank you, we are giving a \"Lifetime\" subscription to people who refer 5 friends to PasswordBox!<br><br>A Lifetime subscription gives you more password storage!  Your 5 referrals must accept your invitation, create an account and login to their PasswordBox to qualify as a complete referral.<br><br><a href='https://www.passwordbox.com/referral?src=ext' target='_blank'>Invite friends</a><br><br>If you have an Premium subscription and 5 referrals accept your invitation, PasswordBox will upgrade your account to a Lifetime subscription automatically.",
+			"Q32": "How do I earn more free password space?",
+			"A32": "A referral is the greatest compliment we could receive. As an expression of our gratitude, we are giving away a Lifetime subscription to people who refer 5 friends to PasswordBox!<br><br>A Lifetime subscription gives you more password storage! Your 5 referrals must accept your invitation, create an account and login to their PasswordBox to qualify as a complete referral. <a href='https://passwordbox.com/referral' target='_blank'>Invite friends</a><br><br>If you have an Premium subscription and 5 referrals accept your invitation, PasswordBox will upgrade your account to a Lifetime subscription automatically.",
+			"Q33": "Can I still access my passwords if I don't upgrade my subscription?",
+			"A33": "Even if you don't upgrade your subscription, you will still have full access to your passwords, secure 1-click login, password generation and Legacy Locker features across all your devices.<br><br>You will not be able to store any additional passwords exceeding your password limit with a Free subscription. <a href='https://passwordbox.com/premium' target='_blank'>Upgrade your subscription now</a>",
+			"Q34": "How do I manage my PasswordBox subscription?",
+			"A34": "If you upgraded your subscription from your mobile device, you can manage it with your Apple ID or your Google Play Store account.<br><br><strong>On IOS devices:</strong>Subscriptions are managed directly in your iTunes and App Stores Settings.<br>On your iPhone or iPad, go to settings > iTunes & App Stores.<br><br>Tap on your Apple ID, then 'View Apple ID'. Once in your account, tap on the 'Manage' button under Subscriptions. Here you can set / adjust your preferences.<br><br>To cancel your subscription, please send your request to <a href='mailto://help@passworbox.com' target='_blank'>help@passwordbox.com</a> before your next billing date. Please allow a 48Hour turn around for your request to be processed.<br><br><strong>On Android devices:</strong> Subscriptions must be managed in the Google Play Store.<br>On your Android device, launch the Google Play Store Application. Tap Menu > My Apps > Subscriptions.<br><br>Here, you'll see the list of all active subscriptions (note that expired subscriptions will not appear on this menu). If you tap on the name of the app, you can see additional information about that subscription, including the expiry and renewal date. From this screen, you can change your payment method as well as cancel your subscriptions. If you upgraded your subscription in the browser extension, you can cancel it by sending a request to: <a href='mailto://help@passwordbox.com' target='_blank'>help@passwordbox.com</a>.<br><br><strong>Auto-Renewing Subscription Conditions:</strong><br>Subscriptions automatically renewed unless auto-renewal is turned off. Please allow a minimum of 24-hours before the change will reflected in your account.count will be charged renewal fee within 24-hours of the end of the current period.",
+			"Q35": "What happens to all my data if my computer is lost or stolen?",
+			"A35": "As long as your extension is 'locked', your data will remain safe even if your computer is lost or stolen. To change the time limit for the auto-lock function, visit the Settings section of the extension. Someone would only be able to access your PasswordBox data if they had your Master Password, so never keep this piece of information on your computer. "
+		},
+		"feedback" : {
+			"howIs" : "How's PasswordBox?",
+			"awesome" : "Awesome",
+			"needswork" : "Needs Work",
+			"yourMessage" : "Your Message",
+			"notRequired" : "(optional)",
+			"tapAddMessage" : "Tap to add a message"
+		},
+		"about" : {
+			"version" : "Version",
+			"copyright" : "Copyright"
+		},
+		"tutorial" : {
+			"part1" : "Watch this video tutorial to know",
+			"part2" : "how to use PasswordBox, and",
+			"part3" : "discover all its awesome features!"
+		}
+	},
+	"intro" : {
+		"step1Title" : "All your passwords in your pocket.",
+		"step1Desc"  : "The PasswordBox App lets you manage your passwords on the go.",
+		"step2Title" : "Save time. Log in faster.",
+		"step2Desc"  : "With PasswordBox on your computer enjoy 1-click log in and auto-save passwords.",
+		"step3Title" : "All your passwords on all your devices.",
+		"step3Desc"  : "Add a new password in PasswordBox App and it's available on all devices immediately."
+	},
+	"notifications" : {
+		"sync" : "Sync to your computer (it's free!) Tap Here.",
+		"checkout" : "<strong>Coming Soon!</strong>&nbsp;1-Click Checkout and Address Auto-Filler"
+	},
+	"sharing" : {
+		"invitations" : {
+			"notAccepted" : "Invitation not yet accepted:",
+			"notAccepted_plural" : "Invitations not yet accepted:"
+		}
+	},
+	"language" : {
+		"chooseLanguage" : "Choose a language"
+	},
+	"freemium" : {
+		"home" : {
+			"numberOfPasswordsStored" : "You have __passwordCount__ passwords<br>stored in PasswordBox.",
+			"only" : "Only",
+			"freePasswordsRemaining" : "free password<br>remaining...",
+			"freePasswordsRemaining_plural" : "free passwords<br>remaining...",
+			"fullAccount" : "Your FREE account is full. Need more space?",
+			"storeUnlimitedPasswords" : "Store more passwords",
+			"onlyOneDollarPerMonth" : "Only $1 / month",
+			"goPremium" : "Go premium now!",
+			"refer5Friends" : "Refer 5 friends to PasswordBox",
+			"getFreeStorage" : "Get a FREE<br>premium subscription",
+			"sendInvitations" : "Send invitations",
+			"noThanks" : "No thanks"
+		},
+		"popup" : {
+			"premium" : "PREMIUM",
+			"unlimitedPasswords" : "More Passwords",
+			"youHaveFreePasswordsRemaining" : "You have __passwordCount__ FREE Password remaining",
+			"youHaveFreePasswordsRemaining_plural" : "You have __passwordCount__ FREE Passwords remaining",
+			"perMonth" : " / month only",
+			"upgradeNow" : "upgrade now!",
+			"Or" : "Or",
+			"refer5FriendsGetUnlimited" : "Refer 5 Friends & Get Premium Subscription",
+			"iDontWantUnlimited" : "I don't want to have more passwords"
+		},
+		"profile" : {
+			"sotreUpToFreePasswords" : "Store up to <strong>__assetLimit__ FREE passwords</strong>",
+			"youHave" : "You have",
+			"freePassword" : "free password",
+			"freePassword_plural" : "free passwords",
+			"remaining" : "remaining...",
+			"unlimitedPasswords" : "more passwords",
+			"upgradeNow" : "Upgrade now",
+			"perMonth" : " / month only",
+			"Or" : "Or",
+			"refer5FriendsToPasswordbox" : "Refer 5 friends to PasswordBox",
+			"getFreeStorage" : "Get a FREE<br>premium subscription",
+			"sendInvitations" : "Send invitations"
+		}
+	},
+	"onboarding" : {
+		"home" : {
+			"intialSetup" : "Initial Setup:",
+			"addFirstPassword" : "add your first password",
+			"welcome" : "Welcome! Let's get started!",
+			"clickToAddFirstPassword" : "Click to add your first Password from this list of websites:",
+			"pssstDontManually" : "Pssst... Don't want to type your passwords manually?",
+			"easiestWayToAdd" : "The easiest way to add passwords is by surfing the web!",
+			"watchVideo" : "Watch Video",
+			"youNeedToBeOnline" : "You need to be online to add your first&nbsp;password.",
+			"pleaseCheckInternet" : "Please check your Internet connection."
+		},
+		"map" :{
+			"howToComplete" : "How to complete your setup:"
+		},
+		"try1click" : {
+			"initialSetup" : "Initial Setup",
+			"try1click" : "Try the 1Click Login",
+			"perfect" : "Perfect! Now try 1-Click Login",
+			"clickBelow" : "Click on the icon of the password you just added below"
+
+		}
+	},
+	"account_confirm" : {
+		"accountNotConfirmedYet" : "Your account is not confirmed yet",
+		"confirmingYourAccount" : "<strong>Confirming your account</strong> not only validates your email address for us, but also unlocks sharing and Legacy Locker features.",
+		"sendVerificationEmail" : "Send a verification email to your email account",
+		"clickOnSuggestedLink" : "Click on the suggested link in the email",
+		"youreDone" : "You're done!",
+		"sendConfirmationEmailNow" : "Send me a confirmation email now",
+		"checkYourSpam" : "If you don't see the email in your inbox,<br>remember to check your <strong>spam</strong> folder."
+	},
+	"completeness_map" : {
+		"inviteFriends" : "Invite Friends to PasswordBox",
+		"skipInitialSetup" : "Skip the initial setup",
+		"ruleAddPassword" : {
+			"title" : "Add your first password",
+			"desc"  : "Choose from popular sites or manually add your first password."
+		},
+		"try1click" : {
+			"title" : "Try 1-Click Login Feature",
+			"desc"  : "Click on the password you've added to see how auto login speeds up your surfing."
+		},
+		"ruleReferFriends" : {
+			"desc"  : "Don't keep a good thing to yourself – share PasswordBox with your friends! <a href='https://www.passwordbox.com/referral?src=ext' target='_blank' id='bt_refer_friends'>Click here to invite friends to PasswordBox</a>"
+		},
+		"ruleLegacy" : {
+			"title" : "Invite someone you trust in case something happens to you",
+			"desc"  : "Protect your digital assets by using the Legacy Locker feature. <a href='https://www.passwordbox.com/videos/legacy' target='_blank'>Learn More.</a>"
+		},
+		"ruleAdd8Passwords" : {
+			"title" : "Add at least 8 passwords",
+			"desc"  : "The more passwords you save, the more sites you can sign in to with 1-Click."
+		}
+	},
+	"wallet" : {
+		"searchMyWallet" : "Search my Wallet",
+		"show" : "Show:",
+		"allMyWallet" : "All My Wallet",
+		"creditCards" : "Credit Cards",
+		"cc" : "Credit Card",
+		"driversLicenses" : "Driver's Licenses",
+		"drivers" : "Driver's License",
+		"identities" : "Address Book",
+		"identity" : "Contact",
+		"memberships" : "Memberships",
+		"membership" : "Membership",
+		"passports" : "Passports",
+		"passport" : "Passport",
+		"ssn" : "Social Security Number",
+		"ssns" : "Social Security Numbers",
+		"no" : "No:",
+		"id" : "ID",
+		"memberId" : "Member ID",
+		"dateOfBirth" : "Date of Birth:",
+		"issueDate" : "Date of Issue:",
+		"dateOfIssue" : "Date of Issue:",
+		"deliveryDate" : "Delivery Date:",
+		"expiryDate" : "Expiry Date:",
+		"expires" : "Expires:",
+		"firstName" : "First Name:",
+		"lastName" : "Last Name:",
+		"type" : "Type:",
+		"cardholder" : "Name on Card:",
+		"creditCardNumber" : "Credit Card Number:",
+		"telephone" : "Telephone:",
+		"cellular" : "Cellular:",
+		"otherPhone" : "Other Phone",
+		"zipCode" : "Postal Code:",
+		"cvv" : "CVV Number:",
+		"number" : "Number:",
+		"passportNumber" : "Passport Number:",
+		"color" : "Color:",
+		"title" : "Title:",
+		"gender" : "Gender:",
+		"male" : "Male",
+		"female" : "Female",
+		"streetNumber" : "Street Number:",
+		"street" : "Street Name:",
+		"city" : "City:",
+		"state" : "State / Province:",
+		"phoneNumber" : "Phone Number:",
+		"email" : "Email:",
+		"company" : "Company:",
+		"website" : "Website:",
+		"note" : "Safe Note",
+		"noteText" : "Note",
+		"country" : "Country:",
+		"issuingCountry" : "Issuing Country:",
+		"deliveryPlace" : "Delivery Place:",
+		"password" : "Password:",
+		"memberSince" : "Member Since:",
+		"selectCategory" : "Select Category of asset to add",
+		"clickAddnew" : "Click \"Add New\" to add assets to your wallet",
+		"securelyStore" : "Securely store all your personal information",
+		"selectCategoryFirst" : "Select a category below to add your first wallet asset",
+		"yourWalletInformation" : "Your wallet information is encrypted and decrypted locally on your computer. It also automatically sync on all your devices.",
+		"addNew": "Add New",
+		"contact": "Contact Name:",
+		"placeOfBirth": "Place of Birth",
+		"placeholders": {
+			"title": "Enter a title",
+			"titleIdentity": "Enter a title, ex: Home",
+			"type": "Enter a type",
+			"note": "Enter a note",
+			"firstName": "Enter the first name",
+			"lastName": "Enter the last name",
+			"number": "Enter the number",
+			"password": "Enter the password",
+			"country": "Enter the name of the country",
+			"state": "Enter the name of the state or province",
+			"website": "Enter the URL of the website",
+			"email": "Enter the email (ex.: johndoe@me.com)",
+			"telephone": "Enter the phone number",
+			"streetNumber": "Enter the street number",
+			"street": "Enter the street name",
+			"city": "Enter the name of the city",
+			"zipCode": "Enter the zipcode",
+			"cardholder": "Enter the cardholder's name",
+			"deliveryPlace": "Enter the delivery place",
+			"company": "Enter the name of the company",
+			"month": "MM",
+			"day": "DD",
+			"year": "YYYY"
+		}
+	},
+
+	"notes": {
+		"searchMyNotes" : "Search my Safe Notes",
+		"fillTheFields" : "Fill in the forms below to create your first safe note",
+		"securelyStore" : "Securely store and remember anything you want",
+		"titleDelete" : "Delete this safe note",
+		"sortMyNotes" : "Sort my Safe Notes",
+		"sortAlphabetically" : "Sort Alphabetically",
+		"sortDate" : "Sort by Date",
+		"placeholders": {
+			"whatsOnYourMind": "What's on your mind?"
+		}
+	},
+
+	"mobile_logout": {
+		"before" : "Before you go, get PasswordBox to go!",
+		"want_on_phone" : "Want PasswordBox on your Phone?",
+		"text_link" : "Text yourself a link to download the FREE app.",
+		"have_account" : "Have an account?",
+		"signin" : "Sign in",
+		"number" : "Mobile Phone #"
+	},
+
+	"propose_share": {
+		"title": "Secure Password Sharing",
+		"text": "Share your passwords securely with friends, family and<br> co-workers.",
+		"link": "Click here to try password sharing"
+	},
+
+	"rate_chrome": {
+		"title": "Do you like PasswordBox",
+		"text": "If you enjoy using PasswordBox, would you mind taking a moment to rate it? Thank you for your support",
+		"rate": "Rate PasswordBox",
+		"remind": "Remind me later",
+		"nothanks": "No thanks"
+	},
+
+	"try_wallet": {
+		"congrats": "Congrats!",
+		"title": "You have more than 30 passwords.",
+		"text": "Trouble remembering your credit cards? Securely store it into our brand new wallet.",
+		"add": "Add first credit card"
+	},
+
+	"mobile_install": {
+		"passwordsEverywhere": "Your Passwords Everywhere!",
+		"manageOnTheGo": "The PasswordBox apps let you manage your passwords on the go. Available for iOS and Android.",
+		"text": "Text to my phone",
+		"email": "Email to my device",
+		"phoneNumber" : "Your phone number"
+	}
+}

@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Hoe cookies in te schakelen op Firefox",
+    "onMac" : "Op Mac",
+    "onPC" : "Op PC",
+    "step1" : "<strong>1: Ga naar Firefox &gt; Voorkeuren &gt; Privacy.</strong><br>Selecteer in de sectie Geschiedenis:<br><strong>&quot;Firefox zal: Standaardinstellingen voor geschiedenis gebruiken&quot;</strong>",
+    "step2" : "<strong>2: In sectie Geschiedenis, selecteer &quot;Accepteer cookies van sites&quot;</strong><br>Vervolgens in het dropdown menu hieronder:<br><strong>&quot;Accepteer cookies van derden&quot; &gt; &quot;Altijd&quot;</strong>"
+  },
+  "import" : {
+    "title" : "Importeer wachtwoorden naar PasswordBox",
+    "selectSoure" : "Selecteer bron",
+    "export" : "Exporteer uw wachtwoorden",
+    "import" : "Importeer uw bestand met wachtwoorden naar PasswordBox",
+    "dashlane1" : "Om uw wachtwoorden vanuit Dashlane te exporteren, opent u Dashlane en klikt u op:",
+    "dashlane2" : "Bestand > Exporteer gegevens",
+    "dashlane3" : "Selecteer de <strong class=\"green\">Onbeveiligde archieven CSV</strong> opmaak optie",
+    "dashlane4" : "Sla het bestand op op de locatie van uw keuze.",
+    "dashlane5" : "Alleen de laatste versie van Dashlane wordt ondersteund.",
+    "lastpass1" : "Om uw wachtwoorden vanuit LastPass te exporteren, klikt u op het LastPass plug-in pictogram en selecteert u:",
+    "lastpass2" : "<strong>Tools &gt; Exporteren</strong><br>naar en selecteert u <strong class=\"green\">LastPass CSV</strong> bestand in het menu. Voer desgevraagd uw wachtwoord in.",
+    "lastpass3" : "Klik Ok en sla het op naar de locatie van uw keuze.",
+    "lastpass4" : "Alleen de laatste versie van LastPass wordt ondersteund.",
+    "roboform1" : "Het exporteren vanuit Roboform is momenteel alleen beschikbaar op Mac bestuurde systemen.",
+    "roboform2" : "Windows ondersteuning volgt binnenkort.",
+    "roboform3" : "Om uw wachtwoorden te exporteren vanuit RoboForm opent u de RoboForm browser extensie en klikt u op <strong>Opties:</strong>",
+    "roboform4" : "Selecteer op de paneeloptie &quot;Gebruikersgegevens&quot; en klik op <strong>&quot;Exporteren naar&quot;</strong>",
+    "roboform5" : "<strong>Sla het bestand op als .html</strong> op de locatie van uw keuze.",
+    "roboform6" : "Alleen de laatste versie van RoboForm wordt ondersteund.",
+    "onepassword1" : "Om uw wachtwoorden te exporteren vanuit 1 Password, opent u:",
+    "onepassword2" : "<strong>- file &gt; Exporteren:</strong><br>selecteer het <strong class=\"green\">Tab-afgebakende-tekst</strong> formaat, en de <strong>Alle logins</strong> optie.",
+    "onepassword3" : "Klik Ok en sla het op naar de locatie van uw keuze.",
+    "onepassword4" : "Alleen de laatste versie van 1 Password wordt ondersteund.",
+    "onepasswordClick" : "<u>Klik hier</u> voor het uploaden van uw <span class=\"serviceName green\">1Password</span> bestand",
+    "keepass1" : "Om uw wachtwoorden te exporteren vanuit KeePass, opent u KeePass en klikt u op:<",
+    "keepass2" : "<strong>Bestand &gt; Exporteren</strong><br>Selecteer <strong>KeePass CSV 1.x</strong> formaatoptie.",
+    "keepass3" : "Sla het bestand op op de locatie van uw keuze.",
+    "keepass4" : "Alleen de laatste versie van KeePass wordt ondersteund."
+  }
+}

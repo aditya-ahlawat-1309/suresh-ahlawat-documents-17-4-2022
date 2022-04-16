@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Firefox'da çerezler nasıl etkinleştirilir",
+    "onMac" : "Mac üzerinde",
+    "onPC" : "Bilgisayarda",
+    "step1" : "<strong>1: Firefox &gt; Tercihler &gt; Gizlilik öğesine gidin.</strong><br>Geçmiş bölümünde:<br><strong>“Firefo: Geçmiş için özel ayarlar kullanacak” öğesini seçin</strong>",
+    "step2" : "<strong>2: Geçmiş bölümünde, “Çerezlerle oluşturulmuş siteleri kabul et” öğesini seçin</strong><br>Ardından, aşağıdaki aşağı açılır menüden:<br><strong>“Üçüncü taraf çerezleri kabul et” &gt; “Daima” öğesini seçin</strong>"
+  },
+  "import" : {
+    "title" : "Şifreleri PasswordBox'da içe aktarma",
+    "selectSoure" : "Kaynağı seçin",
+    "export" : "Şifrelerinizi dışa verin",
+    "import" : "Şifreler dosyanızı PasswordBox'da içe aktarın",
+    "dashlane1" : "Şifrelerinizi Dashlane'den dışa vermek için, Dashlane açın ve şuna tıklayın :",
+    "dashlane2" : "Dosya > Verileri dışa aktar",
+    "dashlane3" : "<strong class=\"green\">Güvencesiz Arşivler CSV</strong> biçim seçeneğiniseçin.",
+    "dashlane4" : "Dosyayı tercih ettiğiniz bir yere kaydedin.",
+    "dashlane5" : "Sadece Dashlane'in son sürümü desteklenmektedir.",
+    "lastpass1" : "Şifrelerinizi LastPass'ten dışa vermek için, tarayıcınızdan LastPass eklentisine tıklayın ve şunu seçin:",
+    "lastpass2" : "<strong>Araçlar &gt; Dışa ver</strong><br> ve menüdeki<strong class=\"green\">LastPass CSV dosyasını seçin.</strong>İstenirse şifrenizi girin.",
+    "lastpass3" : "Tamam öğesine tıklayın ve tercih ettiğiniz yere kaydedin.",
+    "lastpass4" : "Sadece LastPass'in son sürümü desteklenmektedir.",
+    "roboform1" : "Roboform'dan dışa vermek şu anda sadece Mac işletim sistemleri üzerinde kullanılabilmektedir.",
+    "roboform2" : "Windows desteği yakında gelmektedir.",
+    "roboform3" : "Şifrelerinizi RoboForm'dan dışa vermek için, RoboForm tarayıcı uzantısını açın ve <strong>Seçenekler öğesine tıklayın:</strong>",
+    "roboform4" : "Panel seçeneğinde &quot;Kullanıcı Verileri&quot; öğesini seçin ve <strong>&quot;Dışa ver&quot; öğesine tıklayın</strong>",
+    "roboform5" : "<strong>Dosyayı </strong>tercih ettiğiniz bir yere.html olarak kaydedin.",
+    "roboform6" : "Sadece RoboForm'un son sürümü desteklenmektedir.",
+    "onepassword1" : "Şifrelerinizi 1Password'den dışa vermek için, şunu açın:",
+    "onepassword2" : "<strong>- dosya &gt; Dışa ver:</strong><br> <strong class=\"green\">Sekmeyle-ayrılmış-metin</strong> biçimini ve <strong>Tüm girişler seçeneğini</strong> seçin.",
+    "onepassword3" : "Tamam öğesine tıklayın ve tercih ettiğiniz yere kaydedin.",
+    "onepassword4" : "Sadece 1Password'un son sürümü desteklenmektedir.",
+    "onepasswordClick" : "<span class=\"serviceName green\">1Password</span>dosyanızıyüklemek için<u>buraya tıklayın</u>",
+    "keepass1" : "Şifrelerinizi KeePass'den dışa vermek için, KeePass'i açın ve şuna tıklayın :",
+    "keepass2" : "<strong>Dosya &gt; Dışa ver</strong><br> <strong>KeePass CSV 1.x</strong> biçim seçeneğini seçin.",
+    "keepass3" : "Dosyayı tercih ettiğiniz bir yere kaydedin.",
+    "keepass4" : "Sadece KeePass'in son sürümü desteklenmektedir."
+  }
+}

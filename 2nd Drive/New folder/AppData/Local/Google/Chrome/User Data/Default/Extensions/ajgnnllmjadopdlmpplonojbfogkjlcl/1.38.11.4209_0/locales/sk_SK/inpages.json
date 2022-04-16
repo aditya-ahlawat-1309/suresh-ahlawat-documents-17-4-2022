@@ -1,0 +1,101 @@
+{
+  "common" : {
+    "txtClose" : "Zatvoriť",
+    "done" : "Dokončené",
+    "dontSave" : "Neukladať",
+    "neverSave" : "Nikdy neukladať",
+    "saveNow" : "Uložiť teraz",
+    "yes" : "Áno",
+    "no" : "Nie",
+    "remove" : "Odstrániť",
+    "dontUpdate" : "Neaktualizovať",
+    "updateNow" : "Aktualizovať teraz",
+    "dontAskAgain" : "Už sa nepýtať",
+    "dontSaveNow" : "Neukladať teraz",
+    "dontSaveItNow" : "Neukladať teraz",
+    "neverSaveIt" : "Nikdy neukladať",
+    "neverForThisSite" : "Nikdy pre túto stránku",
+    "savePassword" : "Uložiť heslo",
+    "saveThisPassword" : "Uložiť toto heslo",
+    "dontShowAgain" : "Už neukazovať",
+    "masterPassword" : "Hlavné heslo",
+    "continue" : "Pokračovať",
+    "typeMasterPassword" : "Zadajte hlavné heslo",
+    "settings" : "Nastavenia",
+    "copyClipboard" : "Skopírovať do prechodnej pamäte"
+  },
+  "bannerAutosave" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> uložil nové heslo pre <span class='green'>%{názovStránky}</span>"
+  },
+  "bannerBoxfull" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> zistil nové heslo pre <span class='green'>%{názovStránky}</span>"
+  },
+  "bannerConnecting" : {
+    "mainText" : "<span class='pb-logo'>PasswordBox</span> Vás prihlasuje okamžite"
+  },
+  "bannerUnregisteredWeak" : {
+    "mainText" : "Vaše heslo pre <span class='green'>%{názovStránky}</span> nie je dostatočne silné"
+  },
+  "topbarPendingInvitation" : {
+    "mainText" : "Máte <span id='shareCount' class='green'>1 novú</span> pozvánku na zdieľanie hesla."
+  },
+  "bannerLoginFailure" : {
+    "mainText" : "Podarilo sa Vám úspešne prihlásiť do Vášho <span class='green'>účtu</span> %{užívateľskéMeno}",
+    "deleteConfirm" : "Chcete odstrániť <span class='green'>%{užívateľskéMeno}</span> zo svojho PasswordBoxu?"
+  },
+  "topbarDisabled" : {
+    "mainText" : "Táto stránka bohužiaľ ešte nie je podporovaná - náš tím pracuje na tom, aby sme Vám túto službu sprístupnili. Bude to čoskoro"
+  },
+  "connectWith" : {
+    "mainText" : "Vyberte účet, pomocou ktorého sa chcete prihlásiť",
+    "login" : "Prihlásenie"
+  },
+  "tooltipLoginPrompt" : {
+    "placeholder" : "Zadajte hlavné heslo",
+    "mainTxtHasUsers" : "Zadajte svoje hlavné heslo, ak sa chcete okamžite prihlásiť",
+    "mainTxtNoUsers" : "Ak chcete toto heslo uložiť, zadajte hlavné heslo",
+    "error" : "Nesprávne heslo",
+    "decrypting" : "Dešifrovanie"
+  },
+  "contextNeverSignedUp" : {
+    "mainText" : "Uložiť heslo teraz.",
+    "signup" : "Zaregistrovať sa do PasswordBoxu"
+  },
+  "tooltipCreditcard" : {
+    "mainText" : "Zvoľte kartu, ktorou chcete platiť",
+    "use" : "Použiť"
+  },
+  "bannerPartnerInstalled" : {
+    "neverForget" : "Už nikdy nezabudnete heslo:",
+    "createAccount" : "Vytvoriť účet",
+    "passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> bol pridaný do Vašej lišty nástrojov % {partnero}"
+  },
+  "autosaveTutorial" : {
+    "labelTxt1" : "Teraz sa prihláste do svojho účtu na <span id='siteName'>[SITENAME]</span>...",
+    "labelTxt2" : "PasswordBox Vám toto prihlásenie automaticky uloží!",
+    "thatsIt" : "... A je to!",
+    "completeMainText" : "Vaše heslo na <span id='siteName'>[SITENAME]</span> je bezpečne uložené v PasswordBoxe",
+    "completeMainText2" : "Vaše heslo na <span id='siteName'>[SITENAME]</span> je bezpečne<br>uložené v PasswordBoxe"
+  },
+  "websiteFlowFormLabel" : {
+    "txt1" : "Teraz sa prihláste do svojho <span class='green'>účtu na</span> % {názovStránky}...",
+    "txt2" : "<span class='pb-logo'>PasswordBox</span> Vám toto prihlásenie automaticky uloží!"
+  },
+  "websiteFlowAutosaveSuccess" : {
+    "thatsIt" : "... A je to!",
+    "mainText" : "Vaše heslo <span class='green'>na %{názovStránky}</span> je bezpečne uložené v PasswordBoxe"
+  },
+  "welcomeComplete" : {
+    "congrats" : "Blahoželáme",
+    "mainText" : "K svojim heslám môžete teraz pristupovať kedykoľvek kliknutím <strong class='green'>na ikonu zelenej schránky</strong> na Vašom prehliadači! Skúste to teraz!"
+  },
+  "passgen" : {
+    "generate" : "Vytvoriť silné heslo!",
+    "regenerate" : "Vytvoriť nové heslo",
+    "noPassGenerated" : "Žiadne heslo sa nevytvorilo",
+    "letters" : "Písmená",
+    "digits" : "Číslice",
+    "symbols" : "Symboly",
+    "capitals" : "Veľké písmená"
+  }
+}

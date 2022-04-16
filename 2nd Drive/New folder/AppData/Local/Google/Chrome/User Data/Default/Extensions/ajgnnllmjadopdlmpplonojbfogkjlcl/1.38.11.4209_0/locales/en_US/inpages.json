@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Close",
+		"done": "Done",
+		"dontSave" : "Don't save",
+		"neverSave" : "Never save",
+		"saveNow" : "Save Now",
+		"yes" : "Yes",
+		"no" : "No",
+		"remove": "Remove",
+		"dontUpdate" : "Don't update",
+		"updateNow" : "Update now",
+		"dontAskAgain" : "Don't ask again",
+
+		"dontSaveNow" : "Don't save now",
+		"dontSaveItNow" : "Don't save it now",
+		"neverSaveIt" : "Never save it",
+		"neverForThisSite" : "Never for this site",
+		"savePassword" : "Save Password",
+		"saveThisPassword" : "Save this password",
+		"dontShowAgain" : "Do not show again",
+		"masterPassword" : "Master Password",
+		"continue" : "Continue",
+		"typeMasterPassword" : "Type Master Password",
+		"settings": "Settings",
+		"copyClipboard": "Copy to clipboard"
+	},
+
+	"bannerAutosave": {
+		"mainText": "<span class='pb-logo'>PasswordBox</span> saved a new password for <span class='green'>%{siteName}</span>"
+	},
+	"bannerBoxfull": {
+		"mainText": "<span class='pb-logo'>PasswordBox</span> has detected a new password for <span class='green'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "<span class='pb-logo'>PasswordBox</span> is logging you in instantly"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Your password for <span class='green'>%{siteName}</span> is not strong enough"
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "You have <span id='shareCount' class='green'>1 new</span> password sharing invitation."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Were you able to successfully log in to your <span class='green'>%{username}</span> account?",
+		"deleteConfirm": "Do you want to remove <span class='green'>%{username}</span> from your PasswordBox?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Unfortunately, this site is not supported yet - Our team is working hard to support it, and it will be coming soon"
+	},
+	"connectWith" : {
+		"mainText" : "Select the account you want to login with",
+		"login": "Login"
+	},
+	"tooltipLoginPrompt" : {
+		"placeholder" : "Type Master Password",
+		"mainTxtHasUsers" : "Enter your Master Password to instantly login",
+		"mainTxtNoUsers" : "Enter your Master Password to save this password",
+		"error" : "Wrong Password",
+		"decrypting" : "Decrypting"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Save this password now.",
+		"signup" : "Sign up to PasswordBox"
+	},
+	"tooltipCreditcard": {
+		"mainText": "Select card to check out",
+		"use": "Use"
+	},
+	"bannerPartnerInstalled" : {
+		"neverForget" : "Never forget a password again:",
+		"createAccount" : "Create an account",
+		"passwordboxAdded" : "<span class='pb-logo'>PasswordBox</span> has been added to your %{partner} toolbar"
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Now log in to your <span class='green'>%{siteName}</span> account...",
+		"txt2" : "<span class='pb-logo'>PasswordBox</span> will automatically save it for you!"
+	},
+	"websiteFlowAutosaveSuccess": {
+		"thatsIt" : "... And that's it!",
+		"mainText" : "Your <span class='green'>%{siteName}</span> password is now securely saved in your PasswordBox!"
+	},
+	"welcomeComplete" : {
+		"congrats" : "Congratulations",
+		"mainText" : "You can now access your passwords at any time by clicking <strong class='green'>the green box icon</strong> in your browser! Let’s try it now!"
+	},
+	"passgen" : {
+		"generate": "Generate Strong Password",
+		"regenerate" : "Generate new password",
+		"noPassGenerated": "No password generated",
+		"letters" : "Letters",
+		"digits" : "Digits",
+		"symbols" : "Symbols",
+		"capitals" : "Capitals"
+	}
+}

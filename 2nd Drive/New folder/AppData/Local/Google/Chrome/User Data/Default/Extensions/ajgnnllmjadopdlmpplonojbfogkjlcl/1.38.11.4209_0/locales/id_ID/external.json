@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "Cara mengaktifkan cookie di Firefox",
+    "onMac" : "Pada Mac",
+    "onPC" : "Pada PC",
+    "step1" : "<strong>1: Lihat Firefox &gt; Preferensi &gt; Privasi.</strong><br>Di bagian Riwayat, pilih <strong>“Firefox akan: Menggunakan setelan khusus untuk riwayat”</strong>",
+    "step2" : "<strong>2: Di bagian riwayat, pilih “Terima cookie dari situs”</strong><br>Kemudian, pada menu tarik turun di bawah:<br><strong>“Terima cookie pihak ketiga” &gt; “Selalu”</strong>"
+  },
+  "import" : {
+    "title" : "Impor Kata Sandi ke PasswordBox",
+    "selectSoure" : "Pilih sumber",
+    "export" : "Ekspor kata sandi Anda",
+    "import" : "Impor file kata sandi ke PasswordBox",
+    "dashlane1" : "Untuk mengekspor kata sandi dari Dashlane, buka Dashlane dan klik pada :",
+    "dashlane2" : "File > Ekspor data",
+    "dashlane3" : "Pilih opsi format <strong class=\"green\">Unsecured Archives CSV</strong>",
+    "dashlane4" : "Simpan file di lokasi pilihan.",
+    "dashlane5" : "Yang didukung hanya versi Dashlane terbaru.",
+    "lastpass1" : "Untuk mengekspor kata sandi dari LastPass, klik pada ikon plug-in LastPass dari browser dan pilih:",
+    "lastpass2" : "<strong>Alat &gt; Ekspor</strong><br>Ke dan pilih file <strong class=\"green\">LastPass CSV</strong> pada menu. Masukkan kata sandi ketika diminta.",
+    "lastpass3" : "Klik Oke, dan simpan di lokasi pilihan.",
+    "lastpass4" : "Yang didukung hanya versi LastPass terbaru.",
+    "roboform1" : "Mengekspor dari Roboform saat ini hanya tersedia pada sistem pengoperasian Mac.",
+    "roboform2" : "Dukungan untuk Windows segera hadir.",
+    "roboform3" : "Untuk mengekspor kata sandi dari Roboform, buka ekstensi browser Roboform dan klik pada <strong>Opsi:</strong>",
+    "roboform4" : "Pada opsi panel pilih &quot;Data Pengguna&quot; dan klik <strong>&quot;Ekspor ke&quot;</strong>",
+    "roboform5" : "<strong>Simpan file sebagai .html</strong>  di lokasi pilihan.",
+    "roboform6" : "Yang didukung hanya versi Roboform terbaru.",
+    "onepassword1" : "Untuk mengekspor kata sandi dari 1Password, buka:",
+    "onepassword2" : "<strong>- file &gt; Ekspor:</strong><br>pilih format <strong class=\"green\">Tab-delimited-text</strong>, dan opsi <strong>All login.</strong>",
+    "onepassword3" : "Klik Oke, dan simpan di lokasi pilihan.",
+    "onepassword4" : "Yang didukung hanya versi 1Password terbaru.",
+    "onepasswordClick" : "<u>Klik di sini</u> untuk mengunggah file<span class=\"serviceName green\">1Password</span>",
+    "keepass1" : "Untuk mengekspor kata sandi dari KeePass, buka KeePass dan klik pada :<",
+    "keepass2" : "<strong>File &gt; Ekspor</strong><br>Pilih opsi format <strong>KeePass CSV 1.x.</strong>",
+    "keepass3" : "Simpan file di lokasi pilihan.",
+    "keepass4" : "Yang didukung hanya versi KeePass terbaru."
+  }
+}

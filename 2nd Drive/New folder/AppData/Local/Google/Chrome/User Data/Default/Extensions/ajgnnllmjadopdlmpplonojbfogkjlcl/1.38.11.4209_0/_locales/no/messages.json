@@ -1,0 +1,50 @@
+{
+	"appName": {
+		"message": "PasswordBox.com",
+		"description": "Name of the extension."
+	},
+	"appDesc": {
+		"message": "Gratis passordadministrator for Google Chrome - Aldri glem passordet igjen",
+		"description": "Description of the extension.
+
+[Store]
+PasswordBox lagrer automatisk dine brukernavn og passord mens du surfer, dermed kan du logge deg på hvilket som helst nettsted, fra hvilken som helst enhet; og det bare med ett eneste klikk.
+
+DropBox lagrer et passord i PasswordBox, og det blir umiddelbart lagret på alle dine: nettlesere, datamaskiner, nettbrett og telefoner.
+
+FORDELER:
+‚Glemmer eller mister aldri et passord igjen.
+‚100 % GRATIS. Ingen begrensning på antall passord du kan lagre.
+‚Den viktige informasjonen du trenger er lett tilgjengelig, uansett hvor du er.
+‚Automatisk synkronisering gjør den ideell for brukere av multi-enheter, slik at de alltid har oppdatert informasjon.
+
+KOMPATIBEL MED ALLE NETTLESERE OG ENHETER:
+‚Chrome, Firefox, IE8, IE9, IE10.
+‚iPhone, iPad og Android Apps + Mobilnett for andre telefoner.
+‚Mac- og Windows-OS.
+
+BRUKERVENNLIGE FUNKSJONER:
+‚lanserer nettsider med ett klikk.
+‚Forhåndsinnstilte maler for å raskt legge til nye kontoer.
+‚Startside som du kan tilpasse.
+
+SIKKERHET:
+
+‚Sotilaskäyttöön tarkoitettu AES-salaus pitää tiedot suojassa.
+‚Automaattilukitus suojaa tietoja, jos puhelin varastetaan tai katoaa.
+‚Salaus ja salauksen purku tapahtuu tietokoneessa yleissalasanalla, joka on vain omistajansa tiedossa.
+
+ANBEFALINGER:  
+
+\"PasswordBox.com er akkurat det jeg trengte ... Dette er en app jeg absolutt kan anbefale til alle mine venner!\" – Scott W. 
+
+\"PasswordBox.com er nyttig, møter et reelt behov, intuitiv og enkel å bruke. Fortsett med den gode jobben.\" – Devon L.  
+
+
+Med PasswordBox.com så har du alltid den informasjonen du trenger, og det når du trenger den. Takk for at du vurderer PasswordBox.com for å hjelpe deg med passordadministrasjon!
+
+PasswordBox.com teamet er dedikert til rask utvikling og støtte. Dersom du har spørsmål eller kritikk, send oss en melding til help@passwordbox.com. Vi kan som regel fikse problemet på kortere tid enn du kan skrive en negativ omtale. 
+
+Vi vurderer tilbakemeldingen, forslaget eller kommentaren din nøye. Ditt innspill gir oss muligheten til å ytterelige forbedre og utvikle nye funksjoner for PasswordBox.com Chrome Extension."
+	}
+}

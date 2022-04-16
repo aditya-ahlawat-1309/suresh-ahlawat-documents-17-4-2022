@@ -1,0 +1,39 @@
+{
+  "cookies" : {
+    "title" : "איך להפעיל עוגיות ב- Firefox",
+    "onMac" : "ב- Mac",
+    "onPC" : "ב- PC",
+    "step1" : "<strong>1: עבור ל- פיירפוקס &gt; הגדרות &gt; פרטיות.</strong><br>במקטע ההיסטוריה, בחר ב: <br><strong>&quot;פיירפוקס ישתמש בהגדרות מותאמות אישית עבור ההיסטוריה&quot;</strong>",
+    "step2" : "<strong>2. במקטע ההיסטוריה, בחר ב- &quot;אפשר עוגיות מאתרים&quot;</strong><br>ובתפריט הגולש למטה:<br><strong>&quot;אפשר עוגיות מגורמי צד ג'&quot; &gt; &quot;תמיד&quot;</strong>"
+  },
+  "import" : {
+    "title" : "ייבא סיסמאות ל- PasswordBox",
+    "selectSoure" : "בחר מקור",
+    "export" : "ייצא את הסיסמאות שלך",
+    "import" : "ייבא את קובץ הסיסמאות שלך ל- PasswordBox",
+    "dashlane1" : "כדי לייצא את הסיסמאות שלך מ- Dashlane, פתח את Dashlane ולחץ על:",
+    "dashlane2" : "File > Export data",
+    "dashlane3" : "בחר באפשרות התבנית <strong class=\"green\">Unsecured Archives CSV</strong>",
+    "dashlane4" : "שמור את הקובץ במיקום על פי בחירתך.",
+    "dashlane5" : "רק הגרסה העדכנית ביותר של Dashlane נתמכת.",
+    "lastpass1" : "כדי לייצא את הסיסמאות שלך מ- LastPass, לחץ על סמל ההתקן של LastPass בדפדפן שלך ובחר:",
+    "lastpass2" : "<strong>Tools &gt; Export</strong><br>ובחר בקובץ. <strong class=\"green\">LastPass CSV </strong> שבתפריט. הזן את הסיסמה שלך אם תתבקש.",
+    "lastpass3" : "לחץ אישור ושמור אותו במיקום על פי בחירתך.",
+    "lastpass4" : "רק הגרסה העדכנית ביותר של LastPass נתמכת.",
+    "roboform1" : "ייצוא מ- Roboform זמין כרגע במערכת ההפעלה של Mac בלבד.",
+    "roboform2" : "תמיכה בחלונות תגיע בקרוב.",
+    "roboform3" : "כדי לייצא את הסיסמאות שלך מ- Roboform, פתח את דפדפן Roboform ולחץ על <strong>אפשרויות:</strong>",
+    "roboform4" : "בלוח האפשרויות בחר ב-&quot;מידע משתמש&quot; ולחץ על  <strong>&quot;ייצא ל-&quot;</strong>",
+    "roboform5" : "<strong>שמור את הקובץ כקובץ html</strong>  במיקום על פי בחירתך.",
+    "roboform6" : "רק הגרסה העדכנית ביותר של Roboform נתמכת.",
+    "onepassword1" : "כדי לייצא את הסיסמאות שלך מ- 1Password, פתח:",
+    "onepassword2" : "<strong>- קובץ &gt; ייצא:</strong><br> בחר <strong class=\"green\">בתבנית טקסט מוגבל בלשונית</strong> ובאפשרות <strong>כל ההתחברויות.</strong> .",
+    "onepassword3" : "לחץ אישור ושמור אותו במיקום על פי בחירתך.",
+    "onepassword4" : "רק הגרסה העדכנית ביותר של 1Password נתמכת.",
+    "onepasswordClick" : "<u>לחץ כאן</u> כדי להעלות את קובץ ה- <span class=\"serviceName green\">1Password</span> שלך",
+    "keepass1" : "כדי לייצא את הסיסמאות שלך מ- KeePass, פתח את KeyPass ולחץ על:<",
+    "keepass2" : "<strong>קובץ &gt; ייצא</strong><br> בחר באפשרות התבנית <strong>KeePass CSV 1.x</strong> .",
+    "keepass3" : "שמור את הקובץ במיקום על פי בחירתך.",
+    "keepass4" : "רק הגרסה העדכנית ביותר של KeePass נתמכת."
+  }
+}

@@ -1,0 +1,1258 @@
+{
+	"common": {
+		"set": "設定",
+		"add": "追加",
+		"addNew": "新規追加",
+		"addManually": "手動追加",
+		"cancel": "キャンセル",
+		"back": "戻る",
+		"save": "保存",
+		"saving": "保存しています...",
+		"saved": "保存が完了しました。",
+		"upgrade": "アップグレード",
+		"noThanks": "いいえ",
+		"from": "%{name} から",
+		"remove": "削除",
+		"removing": "削除しています...",
+		"disabling": "無効にしています...",
+		"delete": "削除",
+		"warningPermanent": "この操作は元に戻せません。",
+		"confirmProceed": "続行しますか？",
+		"parameters": "パラメーター",
+		"details": "詳細",
+		"sharing": "共有",
+		"advancedSettings": "詳細",
+		"validating": "検証中...",
+		"tryAgain": "再試行",
+		"sending": "送信中...",
+		"send": "送信",
+		"sent": "送信が完了しました。",
+		"waitingResponse": "応答待ち",
+		"revoke": "取り消し",
+		"updating": "更新しています...",
+		"change": "変更",
+		"changed": "変更が完了しました。",
+		"copy": "クリップボードにコピー",
+		"accept": "承諾",
+		"decline": "同意しない",
+		"privacyNotice": "プライバシー通知",
+		"dontAskAgain": "今後は表示しない",
+		"notNow": "後で",
+		"sendNotification": "通知を送信",
+		"justAMoment": "お待ちください...",
+		"learnMore": "詳細を見る",
+		"notYou": "本人でない場合には、",
+		"changeUser": "ユーザーを変更してください",
+		"confirm": "確認",
+		"launchSite": "サイトを開始",
+		"unlockMyTrueKey": "True Key のロックを解除",
+		"next": "次へ",
+		"previous": "前へ",
+		"visible": "表示",
+		"hidden": "非表示",
+		"vistHelpDesk": "詳細については、%{htmlBefore}ヘルプ デスク%{htmlAfter}にアクセスしてください。",
+		"addFacialRecognition": "フェイス アンロックを追加",
+		"comingSoon": "準備中",
+		"offline": "オフライン",
+		"or": "または",
+		"and": "と",
+		"activate": "有効にする",
+		"logOut": "ログアウト",
+		"logins": "ログイン情報",
+		"favorites": "お気に入り",
+		"other": "その他",
+		"locked": "ロック済み",
+		"unlocked": "ロック解除",
+		"login": "ログイン",
+		"close": "閉じる",
+		"closing": "閉じています...",
+		"dismiss": "閉じる",
+		"signin": "サインイン",
+		"signOut": "サインアウト",
+		"manageProfile": "プロファイルを管理する",
+		"profile": "プロファイル",
+		"menu": "メニュー",
+		"DD": "DD",
+		"MM": "MM",
+		"YYYY": "YYYY",
+		"visible": "表示",
+		"hidden": "非表示",
+		"enable": "有効にする",
+		"doNotShowAgain": "今後、表示しない",
+		"chrome": "Chrome",
+		"firefox": "Firefox",
+		"internetExplorer": "Internet Explorer",
+		"later": "今は実行しない",
+		"restart": "再起動",
+		"install": "インストール",
+		"feedback": "フィードバック",
+		"done": "完了",
+		"success": "成功",
+		"youreIn": "ログインが完了しました。",
+		"recommended": "推奨"
+	},
+
+	"validation": {
+		"required": "このフィールドは必須です",
+		"min": "{0} は {1} 文字以上にする必要があります"
+	},
+
+	"offline": {
+		"title": "インターネット接続がありません。",
+		"desc": "オンラインではありません。 インターネットに再度接続して、もう一度やり直してください。"
+	},
+
+	"locked": {
+		"notYou": "本人でない場合には、",
+		"changeUser": "ユーザーを変更してください",
+		"cancelAuth": "認証をキャンセル",
+		"signIn": "サインインしてワンクリックでログインしましょう",
+		"alternativeEmail": "メール アドレスによる認証を使用",
+		"alternativeDevice": "信用済みデバイスを使用"
+	},
+
+	"time": {
+		"never": "実行しない",
+		"minutes": "%{smart_count} 分 |||| %{smart_count} 分",
+		"hours": "%{smart_count} 時間 |||| %{smart_count} 時間",
+		"days": "%{smart_count} 日 |||| %{smart_count} 日"
+	},
+
+	"labels": {
+		"email": "電子メール アドレス",
+		"masterPassword": "マスター パスワード",
+		"confirmMasterPassword": "マスター パスワードの確認",
+		"rememberMe": "ログイン状態を維持する",
+		"websiteURL": "Web サイトの URL",
+		"username": "ユーザー名",
+		"password": "パスワード",
+		"mobile": "携帯電話番号",
+		"name": "名前",
+		"title": "敬称",
+		"details": "詳細",
+		"masterPassword": "マスター パスワード",
+		"websiteName": "Web サイト名",
+		"notes": "メモ",
+		"ccType": "クレジットカードの種類",
+		"cardholderName": "カード名義人の氏名",
+		"ccNumber": "クレジットカード番号",
+		"expiryDate": "有効期限",
+		"issueDate": "発行日",
+		"colorpicker": "カードを色分けして整理",
+		"driversLicenseNumber": "ライセンス番号",
+		"firstName": "名",
+		"lastName": "姓",
+		"gender": "性",
+		"stateProvince": "都道府県",
+		"birthdate": "生年月日",
+		"company": "会社",
+		"telephone": "電話番号",
+		"streetName": "住所",
+		"streetNumber": "番地",
+		"city": "市区町村",
+		"zipcode": "郵便番号",
+		"memberID": "会員 ID",
+		"memberSince": "会員登録日",
+		"country": "国/地域",
+		"passportNumber": "パスポート番号",
+		"issuingCountry": "発行国",
+		"placeOfBirth": "出生地",
+		"number": "番号",
+		"male": "男性",
+		"female": "女性"
+	},
+
+	"placeholders": {
+		"email": "メール アドレスを入力してください",
+		"masterPassword": "マスター パスワードを入力する",
+		"phone": "(123)-456-7890",
+		"name": "名前を入力してください",
+		"title": "ここに敬称を入力してください",
+		"websiteURL": "ここに URL を入力してください",
+		"websiteName": "ここに Web サイトの名前を入力してください",
+		"username": "ここにユーザー名を入力してください",
+		"password": "ここにパスワードを入力してください",
+		"notes": "ここにメモを入力してください",
+		"cardholderName": "カード名義人の氏名を入力してください",
+		"ccNumber": "ここにクレジットカード番号を入力してください",
+		"driversLicenseNumber": "ここに免許証番号を入力してください",
+		"firstName": "ここに名を入力してください",
+		"lastName": "ここに姓を入力してください",
+		"stateProvince": "ここに都道府県を入力してください",
+		"company": "ここに会社名を入力してください",
+		"telephone": "ここに電話番号を入力してください",
+		"streetName": "ここに町名を入力してください",
+		"streetNumber": "ここに番地を入力してください",
+		"city": "ここに市区町村を入力してください",
+		"zipcode": "ここに郵便番号を入力してください",
+		"memberID": "ここに会員 ID を入力してください",
+		"notesDetails": "覚えておきたいものを追加しましょう。 鍵の番号や 製品/ソフトウェアのコード、 リマインダー、秘伝のレシピなどを追加してください。",
+		"country": "国を選択してください",
+		"passportNumber": "ここにパスポート番号を入力してください",
+		"issuingCountry": "国を選択してください",
+		"placeOfBirth": "国を選択してください",
+		"number": "ここに番号を入力してください"
+	},
+
+	"errors": {
+		"generic": "問題が発生しました",
+		"passwordsMatch": "パスワードが一致していません",
+		"nameRequired": "名前を入力してください",
+		"emailInvalid": "有効なメール アドレスを入力してください",
+		"passwordTooShort": "パスワードは %{nbCharacters} 文字以上にしてください",
+		"usernameRequired": "ユーザー名は必須です"
+	},
+
+	"form": {
+		"launch": "この Web サイトを開く",
+		"passwordStrength": {
+			"veryWeak": "非常に脆弱",
+			"weak": "脆弱",
+			"acceptable": "許容レベル",
+			"strong": "強力",
+			"veryStrong": "非常に強力"
+		},
+		"copyPassword": "パスワードをコピー",
+		"viewPassword": "パスワードを表示"
+	},
+
+	"headerMessages": {
+		"txt1": "%{firstName} さん、True Key LaunchPad へようこそ"
+	},
+
+	"addLogin": {
+		"addFirstPassword": "では、始めましょう。 最初のログイン情報を True Key に追加します",
+		"addNewLogin": "新しいログイン情報を追加",
+		"success": "ようこそ。"
+	},
+
+	"welcome": {
+		"header": {
+			"noAccount": "True Key プロファイルをお持ちでない場合",
+			"signup": "こちらから入手してください",
+			"haveAccount": "すでに True Key プロファイルをお持ちの場合",
+			"login": "ログイン",
+			"help": "ヘルプ"
+		},
+
+		"intro": {
+			"hi": "こんにちは。",
+			"meetTK": "True Key™ へようこそ。 True Key を使用すると、より安全かつ簡単にデジタル世界を利用できます。 まず最初にプロファイルを作成しましょう。",
+			"watchVideo": "動画を見る",
+			"createProfile": "True Key プロファイルを作成しましょう。",
+			"cta": "では始めます。",
+			"eulaPrivacy": "以下のボタンをクリックすると、弊社の <a href='%{eulaUrl}' target='_blank' class='txt secondary bold'>EULA</a> と <a class='txt bold secondary btPrivacy'>プライバシー通知</a>に同意したものと見なされます。"
+		},
+
+		"confirm": {
+			"title": "重要: マスター パスワードの確認",
+			"enterAgain": "マスター パスワードをもう一度入力してください。",
+			"wontRemember": "プライバシーとパスワードを保護するため、マスター パスワードは保存されません。 マスター パスワードを知っているのは本人だけです。忘れないように注意してください。",
+			"promise": "忘れずに覚えておくことができますか？",
+			"submit": "はい、覚えておきます"
+		},
+		"loginHelp": {
+			"title": "問題が発生した場合",
+			"txt1": "マスター パスワードは大文字と小文字が区別されます。スペースを使用することはできません。 コピー/貼り付けもできません。",
+			"txt2": "マスター パスワードを忘れた場合 セキュリティ上の理由から弊社ではパスワードの管理を行っていません。 新しい True Key™ アカウントを作成する必要があります。",
+			"createAccount": "新規アカウントを作成"
+		},
+
+		"login": {
+			"title": "プロファイルにログイン",
+			"submit": "ログイン",
+			"working": "データの復号中...",
+			"error": "うまくいきませんでした"
+		},
+
+		"logout": {
+			"title": "終了する前にモバイルをお試しください。",
+			"desc": "自分宛てに無料アプリ ストアのリンクを送信しましょう。"
+		},
+
+		"onboarding": {
+			"skip": "このステップをスキップ",
+			"skipVideo": "終了しました。",
+			"title": "%{firstName} さん、True Key™ の準備ができました。 試してみましょう。",
+			"desc": "人気のあるサイトを選択するか、新しいサイトを追加して機能を試してみてください。",
+
+			"noWebsiteFlow": {
+				"desc": "True Key アプリは簡単に利用できます。",
+				"addManually": "最初のログイン情報を手動で追加"
+			}
+		},
+
+		"emailTaken": {
+			"title": "このメール アドレスにはプロファイルが設定されています",
+			"desc": "%{emailAddress} を使用してログインしますか？"
+		},
+
+		"signup": {
+			"title": "True Key™ プロファイルの作成",
+			"cta": "では、次に進みます",
+			"working": "検証中...",
+			"success": "良い感じですね！"
+		}
+	},
+
+	"modals": {
+		"autologin": {
+			"title": "インスタント ログイン",
+			"desc": "インスタント ログインを利用すると、この Web サイトにすばやくログインできます。 True Key アプリがあなたの代わりにユーザー名とパスワードを入力します。"
+		},
+		"passwordReprompt": {
+			"title": "マスター パスワードの確認",
+			"desc": "マスター パスワードを知っているのは本人だけです。 ログインする前に、毎回入力が要求されます。"
+		},
+		"subdomainOnly": {
+			"title": "このサブドメインでのみ使用",
+			"desc": "特定のサブドメインでのみ、ログインに使用できます。"
+		},
+		"offlineHelp": {
+			"title": "オフライン モード",
+			"desc": "インターネット接続が切断されているか、非常に遅いようです。 オフライン モードでもパスワードを確認できますが、追加や変更の保存、パスワードの共有はできません。"
+		}
+	},
+
+	"notifications": {
+		"languageChanged": {
+			"title": "言語を変更しました",
+			"desc": "現在の言語は %{languageName} です"
+		},
+		"favoriteAdded": {
+			"title": "お気に入りを追加しました",
+			"desc": "選択した Web サイトが Launchpad に正常に追加されました。"
+		},
+		"favoriteRemoved": {
+			"title": "お気に入りを削除しました",
+			"desc": "このお気に入りは、Launchpad から正常に削除されました。"
+		},
+		"favoriteEdited": {
+			"title": "お気に入りを編集しました",
+			"desc": "このお気に入りへの変更は、正常に保存されました。"
+		},
+		"passwordGenerated": {
+			"title": "パスワードがコピーされました。",
+			"desc": "生成されたパスワードがクリップボードにコピーされました。"
+		},
+		"noteCreated": {
+			"title": "メモが作成されました。",
+			"desc": "このメモは、True Key に追加されました。"
+		},
+		"passwordSaved": {
+			"title": "パスワードを保存しました。",
+			"desc": "このパスワードは True Key に追加されました。"
+		},
+		"loginShared": {
+			"title": "パスワードを共有しました",
+			"desc": "パスワードは %{email} と正常に共有されました"
+		},
+		"passwordRemoved": {
+			"title": "パスワードを削除しました。",
+			"desc": "このパスワードは、True Key から削除されました。"
+		},
+		"loginEdited": {
+			"title": "ログイン情報を編集しました。",
+			"desc": "このログイン情報への変更が保存されました。"
+		},
+		"copied": {
+			"title": "コピーが完了しました。",
+			"desc": "これはクリップボードにコピーされました。"
+		},
+		"passwordCopied": {
+			"title": "パスワードがコピーされました。",
+			"desc": "パスワードがクリップボードにコピーされました。"
+		},
+		"error": {
+			"title": "問題が発生しました",
+			"desc": "もう一度やり直してください"
+		},
+		"legacyAccepted": {
+			"title": "招待が受諾されました",
+			"desc": "このレガシー招待の受諾が正常に行われました。"
+		},
+		"legacyDeclined": {
+			"title": "招待が拒否されました",
+			"desc": "このレガシー招待の拒否が正常に行われました。"
+		},
+		"sharingAccepted": {
+			"title": "招待が受諾されました",
+			"desc": "この共有招待の受諾が正常に行われました。"
+		},
+		"sharingDeclined": {
+			"title": "招待が拒否されました",
+			"desc": "この共有招待の拒否が正常に行われました。"
+		},
+		"invitationResent": {
+			"title": "招待が再送されました。",
+			"desc": "この招待は再送されました。"
+		},
+		"oobResent": {
+			"title": "通知が再送されました。",
+			"desc": "新しい通知が携帯電話に送信されました。"
+		},
+		"emailResent": {
+			"title": "電子メールを再送しました。",
+			"desc": "新しい確認メールが送信されました。"
+		},
+		"legacyRevoked": {
+			"title": "レガシー接続が取り消されました。",
+			"desc": "このレガシー接続は取り消されました。"
+		},
+		"legacySent": {
+			"title": "レガシー要求を送信しました。",
+			"desc": "%{email} に招待が送信されました。"
+		},
+		"legacySendError": {
+			"title": "レガシー要求エラー",
+			"desc": "%{email} に招待を送信できませんでした。"
+		},
+		"browserNewTab": {
+			"title": "ブラウザーの新規タブの設定が保存されました。",
+			"desc": "ブラウザーの新規タブの設定が正常に更新されました。"
+		},
+		"changedMP": {
+			"title": "マスター パスワードが変更されました。",
+			"desc": "マスター パスワードが正常に変更されました。"
+		},
+		"clearAutosave": {
+			"title": "自動保存が復元されました",
+			"desc": "True Key がすべてのサイトでパスワードを自動的に保存します。"
+		},
+		"feedbackSent": {
+			"title": "フィードバックが送信されました。",
+			"desc": "フィードバックをお送りいただき、ありがとうございます。"
+		},
+		"documentCreated": {
+			"title": "ドキュメントが作成されました。",
+			"desc": "このドキュメントは、True Key に保存されました。"
+		},
+		"documentRemoved": {
+			"title": "ドキュメントが削除されました",
+			"desc": "このドキュメントは、True Key から削除されました。"
+		},
+		"notesEdit": {
+			"title": "変更が保存されました",
+			"desc": "このメモへの変更は保存されました。"
+		},
+		"notesRemove": {
+			"title": "メモが削除されました",
+			"desc": "このメモは、True Key から削除されました。"
+		},
+		"settingsChanged": {
+			"title": "設定を変更しました",
+			"desc": "ロック設定が更新されました。"
+		},
+		"disabledTrustedDevice": {
+			"title": "デバイスが無効になりました",
+			"desc": "デバイスが無効になりました。"
+		},
+		"deviceTrusted": {
+			"title": "デバイスを信用済みにしました",
+			"desc": "現在のデバイスは信用済みです。"
+		},
+		"confirmationEmailSent": {
+			"title": "確認メールが送信されました。",
+			"desc": "%{email} に確認メールが送信されました"
+		}
+	},
+
+	"logins": {
+		"title": "ログイン情報",
+		"editLogin": "ログイン情報の編集",
+		"viewLogin": "ログイン情報の表示",
+		"shareLogin": "ログイン情報の共有",
+		"shareSection": {
+			"title": "友だちや家族と安全にログイン情報を共有しましょう。 <strong>以下から共有したいログイン情報を選択してください。</strong>"
+		},
+		"copyPassword": "パスワードをコピー",
+		"loginAs": "次のユーザーとしてログイン",
+		"removeLogin": "このログイン情報を削除",
+		"noLoginFound": {
+			"title": "見つかりません",
+			"desc": "このログイン情報はまだ保存されていない可能性があります。 追加しますか？"
+		},
+		"currentWebsite": "現在の Web サイト",
+		"onboardingPopover": {
+			"title": "インスタント ログイン",
+			"desc": "ここをクリックすると、入力せずにログインできます"
+		},
+		"searchAssets": "%{smart_count} ログインを検索 |||| %{smart_count} ログインを検索",
+		"askForMasterPassword": "マスター パスワード",
+		"askForFaceRecognition": "フェイス アンロック",
+		"instantLogin": "インスタント ログイン",
+		"useForSubdomainOnly": "<span class='primary'>%{domain}</span> サブドメインでのみ使用",
+		"notShared": "現在、このパスワードは共有されていません。",
+		"visiblity": {
+			"title": "パスワードの作成："
+		},
+		"unshare": "共有解除",
+		"waitingResponse": "応答待ち"
+	},
+
+	"sharing": {
+		"title": "<span class='primary'>%{name}</span> パスワードを共有",
+		"accessGiven": "このパスワードは次のユーザーと共有されています。"
+	},
+
+	"verifyEmail": {
+		"title": "メール アドレスが確認されていません",
+		"subtitle": "パスワードを共有するには、メール アドレスを確認する必要があります。",
+		"desc": "弊社からの確認メールが見つからない場合には、 新しい確認メールを今すぐ取得してください。",
+		"cta": "確認メールを再送"
+	},
+
+	"premiumOnly": {
+		"title": "プレミアム ユーザーのみ利用可能",
+		"txt1": "True Key に新しいパスワードを追加するには、プレミアム アカウントが必要です",
+		"txt1": "アップグレード前の無料パスワードは 5 つまでに制限されています。 今すぐアップグレードしましょう。パスワードが無制限になります。"
+	},
+
+	"generator": {
+		"title": "外出先で強力なパスワードを生成します。",
+		"subtitle": "基本設定を選択して [生成してコピー] ボタンをタップすると、新しいパスワードが生成されます。",
+		"placeholder": "ボタンをクリックすると、パスワードが生成されます",
+		"cta": "生成してコピー",
+		"length": "パスワードの長さ",
+
+		"letters": "文字を使用",
+		"digits": "数字を使用",
+		"symbols": "特殊文字を使用",
+		"capitals": "大文字を使用",
+		"showInForms": "フォームにジェネレーターを自動的に表示",
+
+		"history": {
+			"title": "生成したパスワード",
+			"noGeneratedPassword": "生成したパスワードはありません。"
+		}
+	},
+
+	"legacy": {
+		"title": "レガシー ロッカー",
+		"countingOnYou": "あなたを信用しているユーザー",
+		"heirs": "あなたが信用しているユーザー",
+		"sentTimer": "%{time} 前",
+		"resendInvitation": "招待を再送",
+		"assignTrustees": "トラスティを割り当て",
+
+		"txtFeature": {
+			"txt1": "デジタル ID をいつまでも保護しましょう。",
+			"txt2": "レガシー ロッカーは、配偶者や子供、友人、同僚など、信用できる人物にデジタルライフを委ねる最良の方法です。",
+			"txt3": "True Key にトラスティを割り当てると、設定した時間になるまでアカウントにアクセスできなくなります。 %{htmlBefore}動画を見る%{htmlAfter}"
+		}
+	},
+
+	"verifyAddress": {
+		"title": "メール アドレスを確認する必要があります",
+		"descLegacy": "メール アドレスの確認が完了するまでは、トラスティの割り当てができません",
+		"getNewEmail": "以前送信された確認メールが残っているかどうか分からない場合には、 新しい確認メールを今すぐ取得してください。",
+		"cta": "新しい確認メールを送信"
+	},
+
+	"nav": {
+		"dashboard": "LaunchPad",
+		"logins": "ログイン情報",
+		"wallet": "ウォレット",
+		"notes": "セーフ ノート",
+		"legacy": "レガシー ロッカー",
+		"generator": "パスワード ジェネレーター",
+		"settings": "設定",
+		"preferences": "基本設定",
+		"support": "ヘルプとサポート",
+		"tkProfile": "True Key プロファイル",
+		"logout": "サインアウト"
+	},
+
+	"browserNewTab": {
+		"title": "ブラウザーの新規タブ",
+		"txt1": "ブラウザーで開く Web ページを設定してください。",
+		"startpage": "True Key LaunchPad",
+		"default": "ブラウザーのデフォルト",
+		"custom": "目的の場所："
+	},
+
+	"changeMP": {
+		"title": "マスター パスワードを変更",
+		"labels": {
+			"current": "現在のマスター パスワード",
+			"new": "新しいマスター パスワード",
+			"confirmNew": "新しいマスター パスワード"
+		},
+		"placeholders": {
+			"current": "現在のマスター パスワードを入力",
+			"new": "新しいマスター パスワードを入力してください",
+			"confirmNew": "新しいマスター パスワードを再度入力してください"
+		},
+		"cta": "パスワードを変更"
+	},
+
+	"lockUnlock": {
+		"title": "様々な設定を管理できます",
+		"desc": "必要な数の認証要素を追加して、True Key アプリをカスタマイズできます。 認証要素の数が多いほど、より強固に保護されます。",
+
+		"noYap": {
+			"title": "True Key アカウントが自動ロックする頻度を設定します。",
+			"desc": "以下のドロップダウン メニューから必要な間隔を選択してください。"
+		},
+
+		"basic": "基本",
+		"advanced": "詳細",
+
+		"autolock": {
+			"title": "自動ロック",
+			"desc": "True Key アカウントをロックするまでの時間を指定してください。"
+		},
+
+		"launchpadVisibility": {
+			"title": "LaunchPad の表示",
+			"desc": "ロック時またはロック解除時に True Key Launchpad を表示するかどうかを選択してください。"
+		},
+
+		"trustedDeviceModal": {
+			"txt1": "ご使用のデバイスは信用されています。",
+			"txt2": "デバイスを信用すると、フェイス アンロックなどでセキュリティを強化できます。"
+		}
+	},
+
+	"preferences": {
+		"title": "基本設定",
+		"modals": {
+			"autologin": {
+				"title": "インスタント ログイン",
+				"desc": "インスタント ログインを利用すると、Web サイトにすばやくログインできます。 True Key アプリがあなたの代わりにユーザー名とパスワードを入力します。",
+				"txt1": "インスタント ログインを使用すると、以前にアカウントに保存した Web サイトの URL アドレス (例: www.example.com) をブラウザーに入力するだけで、True Key がそのサイトに自動的にログインします。",
+				"txt2": "インスタント ログインがオンになっている場合、True Key は Web サイトの URL アドレスを検出し、自動的にログインします。ユーザーがマウス クリックを行う必要ありません。",
+				"txt3": "インスタント ログインがオフになっている場合、True Key は Web サイトの URL アドレスを検出してユーザー名とパスワードを入力します。ただし、ユーザーが [ログイン] ボタンをクリックする必要があります。"
+			},
+			"clearAutologin": {
+				"title": "すべてのサイトで自動保存を復元",
+				"desc": "特定の Web サイトで True Key がパスワードを記憶しないように指定し、後でその指定を変更する場合、[復元] ボタンをクリックすると、閲覧中にパスワードが自動的に保存されます。"
+			}
+		},
+		"import": {
+			"title": "現在、別のサービスに保存しているパスワードがある場合には、 そのパスワードも True Key アカウントに追加しましょう。",
+			"desc": "パスワード インポーターを使用すると、True Key アカウントにパスワードを簡単に追加できます。",
+			"cta": "パスワードをインポートする"
+		},
+		"newTab": "ブラウザーのホームページと新規タブ",
+		"restoreAutosave": "すべてのサイトで自動保存を復元",
+		"restore": "復元",
+		"instantLogin": "インスタント ログイン",
+		"changeLanguage": "言語の変更"
+	},
+
+	"shareSocial": {
+		"title": "評価",
+		"title2": "アプリの評価を共有",
+		"desc": "True Key アプリはいかがでしたか。 友人に紹介して、報酬を獲得しましょう。",
+		"share": "共有",
+		"tweet": "ツイート",
+		"rateChrome": "アプリを評価",
+		"twitterMessage": "パスワード入力の手間を省く最初のアプリです。 #TrueKey by @IntelSecurity を予約して早期アクセスを利用しましょう。"
+	},
+
+	"settingsNav": {
+		"profile": "True Key プロファイル",
+		"lockUnlock": "基本設定のロック",
+		"windowsLock": "Windows フェイス アンロック",
+		"preferences": "基本設定",
+		"support": "ヘルプとサポート",
+		"shareSocial": "評価",
+		"trustedDevices": "信用済みデバイス"
+	},
+
+	"tkProfile": {
+		"title": "自分の認証要素",
+		"hi": "こんにちは、%{fullname} さん",
+		"txt1": "認証要素を追加すると、%{htmlBefore}True Key プロファイルが強固になります。%{htmlAfter}",
+		"activeFactors": "アクティブな認証要素",
+		"active": "有効",
+		"strength": "プロファイルの強度",
+
+		"accountStatus": {
+			"title": "契約状況",
+			"premium": "プレミアム",
+			"ends": "終了"
+		},
+
+		"layerEmail": "信用できる認証要素としてメール アドレスを追加し、True Key プロファイルに関連付けます。 <strong>新しいデバイスや信用されていないデバイスにログインすると、受信トレイに通知が届きます。</strong>",
+		"layerSwipe": "<strong>アカウントにログインする際のセキュリティを強化するため</strong>、モバイル デバイスに通知を送信します。 True Key でログインする前に、通知を承諾する必要があります。",
+		"layerFace": {
+			"txt1": "<strong>パスワードを入力することなくログインできます。</strong>フェイス アンロックは、顔の数値データ (目と鼻の距離) を使用して本人確認を行い、ログインします。",
+			"txt2": "フェイス アンロックは、PC と Android デバイスで使用できます。"
+		},
+		"layerPassword": "強力なマスター パスワードでプロファイルを保護してください。このパスワードは忘れないように注意してください。 <strong>マスター パスワードは本人以外は知らないため、忘れてしまうとリセットできません。</strong> 別の認証要素を追加すると、この認証要素でログインできない場合のバックアップとしてマスター パスワードが使用されます。",
+		"layerDevice" : "True Key では、本人が所有するデバイスや頻繁に使用するデバイスを識別できます。 True Key プロファイルにアクセスするデバイスを追加してください。 <strong>これにより、本人以外はアカウントにアクセスできなくなります</strong>。不明なデバイスからログインしようとすると、追加の認証要素の入力が要求されます。"
+
+
+
+	},
+
+	"windowsLock": {
+		"title": "Windows ロック解除のセキュリティはどのレベルに設定しますか？",
+		"desc": "必要なセキュリティ レベルを選択してください。",
+
+		"basic": {
+			"settingName": "基本",
+			"title": "基本設定は、最も速くログインできます",
+			"desc": "この設定は、信用済みの環境でパソコンを個人で使用している場合に使用してください。"
+		},
+		"advanced": {
+			"settingName": "詳細",
+			"title": "詳細設定では、なりすまし対策が有効になります",
+			"desc": "この設定は、職場または自宅の個人使用の PC や共用の PC に推奨します。"
+		},
+		"boosted": {
+			"settingName": "ブースト",
+			"title": "ブースト設定では、なりすまし対策とリアルタイム検出を有効にします",
+			"desc": "ブースト設定では、本人確認のため、まばたきをする必要があります。 この設定は、信用できない環境の共用パソコンで使用してください。"
+		},
+		"howTo": {
+			"title": "顔情報を使用して Windows にログインしましょう",
+			"subtitle": "Windows パスワードを入力する必要はありません",
+			"desc": "True Key でデバイスのロックを解除できます。 操作は簡単で、すぐに実行できます。",
+			"cta": "有効にする方法を見る"
+		},
+		"howToModal": {
+			"title": "顔情報を使用して Windows にログインしましょう",
+			"desc": "以下の簡単な操作を行うだけで、顔情報で Windows にログインできます。",
+			"step1": "画面をロックします (Windows + L)",
+			"step2": "戻るボタンを押します",
+			"step3": "True Key アイコンをクリックします",
+			"tip": "キーボード ショートカット (Windows + L) で画面をロックできます。"
+		}
+	},
+
+	"videos": {
+		"title": "動画",
+		"intro": {
+			"title": "入門",
+			"desc": "True Key とは何か。なぜ必要なのか。 ここで明らかになります。"
+		},
+		"gettingStarted": {
+			"title": "初心者ツアー",
+			"desc": "初めてご利用の方は、 この簡単な製品ツアーで True Key の機能をご確認ください。"
+		},
+		"security": {
+			"title": "セキュリティ",
+			"desc": "弊社はお客様のセキュリティを第一に考えています。 弊社がお客様のデータを保護する方法をご覧ください。"
+		},
+		"sharing": {
+			"title": "パスワードの共有",
+			"desc": "ついに、 誰でも利用可能な暗号化共有が登場しました。"
+		},
+		"sharingSecurity": {
+			"title": "共有のセキュリティ",
+			"desc": "暗号化共有は皆さんが思うより複雑な作業です。"
+		},
+		"legacy": {
+			"title": "レガシー",
+			"desc": "あなたのデータをいつまでも保護できる唯一のパスワード ツール。"
+		}
+	},
+
+	"support": {
+		"title": "ヘルプとサポート",
+		"feedback": {
+			"title": "ご意見をお寄せください",
+			"desc": "True Key サービスはいかがですか？",
+			"needsWork": "改善が必要",
+			"awesome": "素晴らしい",
+			"leaveComment": "コメントを送信:",
+			"placeholder": "皆様からのご意見をお待ちしています。 ここにコメントを入力してください。 ご協力ありがとうございます。",
+			"thankYou": "ありがとうございました。"
+		},
+		"getMoreSupport": "サポートを利用"
+	},
+
+	"wallet": {
+		"title": "ウォレット",
+		"add": {
+			"subtitle1": "安全に情報を保存します",
+			"subtitle2": "下のカテゴリを選択して最初のウォレット項目を追加します"
+		},
+		"search": "ウォレットを検索",
+		"types": {
+			"identity": "アドレス帳",
+			"cc": "クレジットカード",
+			"drivers": "運転免許証",
+			"membership": "会員カード",
+			"passport": "パスポート",
+			"ssn": "基礎年金番号"
+		},
+		"remove": {
+			"title": "ドキュメントを削除しています",
+			"confirm": "このドキュメントを True Key から削除しますか？",
+			"permanent": "この操作は元に戻せません。"
+		},
+		"edit": {
+			"title": "ドキュメントの編集"
+		}
+	},
+
+	"notes": {
+		"title": "セーフ ノート",
+		"add": {
+			"title": "メモの追加"
+		},
+		"empty": {
+			"title": "見つかりません",
+			"desc": "お探しのメモは True Key に保存されていない可能性があります。",
+			"cta": "メモを作成"
+		},
+		"sort": {
+			"alphabetically": "英字順",
+			"dateCreated": "作成日"
+		},
+		"search": "%{smart_count} セーフ メモを検索 |||| %{smart_count} セーフ メモを検索",
+		"remove": {
+			"title": "メモを削除しています",
+			"desc": "このメモを True Key から削除しますか？",
+			"permanent": "この操作は元に戻せません。"
+		},
+		"edit": {
+			"title": "セーフ ノート"
+		}
+	},
+
+	"faceLogin": {
+		"standardLogin": "標準ログインを使用する"
+	},
+
+	"alerts": {
+		"legacy": {
+			"txt": "%{htmlBefore}{{username}}%{htmlAfter} (%{email}) さんがあなたを継承人に指名しています。"
+		},
+		"nonConfirmedAsset": {
+			"txt": "%{htmlBefore}%{fullname}%{htmlAfter} (%{email}) があなたと %{htmlBefore}%{title}%{htmlAfter} パスワードを共有しました。"
+		},
+		"sharing": {
+			"txt": "%{htmlBefore}%{username}%{htmlAfter} (%{email}) さんがあなたとパスワードを共有することを希望しています。"
+		}
+	},
+
+	"onboardingProgress": {
+		"accountProgress": "アカウントの進捗状況:",
+		"pctProgress": "%{percentage}%",
+		"addLogin": {
+			"title": "最初のログイン情報を追加",
+			"desc": "ログイン情報を True Key に保存"
+		},
+		"oneClick": {
+			"title": "インスタント ログインを試す",
+			"desc": "キーパッドを使用せずにログインする"
+		},
+		"addFace": {
+			"title": "フェイス アンロックを追加",
+			"desc": "より速く、簡単にログインできます。"
+		},
+		"addLogins": {
+			"title": "最初の 4 つのログイン情報を追加",
+			"desc": "True Key プロファイルに他のログイン情報を追加"
+		},
+		"sharing": {
+			"title": "パスワードを共有",
+			"desc": "家族や友人、同僚と安全に共有"
+		}
+	},
+
+	"overlayAddFace": {
+		"subtitle": "顔情報を使用すると、より速くログインできます。",
+		"txt1": "フェイス アンロックをセットアップすると、True Key ™ アプリに簡単にアクセスできます。",
+		"txt2": "2 つめの認証要素としてマスター パスワードを追加することもできます。",
+		"txt3": "心配いりません。 弊社があなたの写真を保存したり、共有することはありません。",
+		"cta": "フェイス アンロックのセットアップ"
+	},
+
+	"overlayAddTrustedDevice": {
+		"title": "信用済みデバイスを追加",
+		"txt1": "メール アドレスを確認してください。",
+		"txt2": "受信トレイを確認して続行してください。"
+	},
+
+	"overlayChooseTrustedDevice": {
+		"title": "信用済みデバイスを選択",
+		"txt": "二要素認証を有効にしました。 この通知を受信する信用済みデバイスを選択してください。"
+	},
+
+	"overlayDisableTrustedDevice": {
+		"title": "信用済みデバイスを無効にする",
+		"txt": "デバイス \"%{deviceName}\" を無効にします",
+		"confirm": "無効にする"
+	},
+
+	"overlayTrustedDevice": {
+		"title": "ご使用のデバイスは信用されています。",
+		"txt": "デバイスを信用すると、フェイス アンロックなどでセキュリティを強化できます。"
+	},
+
+	"overlayInstallExe": {
+		"title": "もう少しです。残り 3 ステップです",
+		"txt": "True Key ソフトウェアをダウンロードしています。 うまく行かない場合には、 ",
+		"restartDownload": "ここをクリックしてダウンロードを再開してください。"
+	},
+
+	"overlayOobPending": {
+		"txt": "ログインを確認するため、プッシュ通知を送信しました。 信用済みデバイスを確認してください。",
+		"btResend": "通知を再送信"
+	},
+
+	"overlayOobTimeout": {
+		"txt1": "プッシュ通知が期限切れになっています。",
+		"txt2": "新しい通知を使用して、もう一度やり直してください",
+		"btResend": "通知を受信していない場合 再送"
+	},
+
+	"overlayInstallFace": {
+		"title": "より速くログインできます",
+		"txt": "時間を節約しましょう。 マスター パスワードを入力する代わりに、フェイス アンロックを使用してください。"
+	},
+
+	"overlayTrustDevice": {
+		"title": "これは信用済みデバイスですか？",
+		"txt1": "信用されていないデバイスにログインしようとしています。",
+		"txt2": "このコンピューターを信用済みデバイスに追加すると、1 つ以上の認証要素を使用して、よりすばやくログインできるようになります。",
+		"dontTrust": "いいえ、信用しません",
+		"trustComputer": "このコンピューターを信用します"
+	},
+
+	"overlayEmailPending": {
+		"title": "メール アドレスの確認",
+		"txt": "メール アドレスを確認して、このデバイスを確認してください。",
+		"btResend": "電子メールを再送信"
+	},
+
+	"overlayEmailTimeout": {
+		"txt1": "電子メール通知が期限切れになっています。",
+		"txt2": "新しい通知を使用して、もう一度やり直してください。",
+		"btResend": "通知を受信していない場合 再送"
+	},
+
+	"overlayUpdate": {
+		"title": "True Key アプリを更新してください",
+		"txt": "新しいバージョンをインストールできます。[更新] をクリックしてインストールしてください。",
+		"btUpdate": "今すぐ更新"
+	},
+
+	"passwordReprompt": {
+		"overlay": {
+			"title": "マスター パスワードを入力する",
+			"enterMasterPasswordHere": "ここにマスターパスワードを入力します",
+			"invalidPassword": "無効なパスワード"
+		}
+	},
+
+	"userConfirm": {
+		"title": "確認が必要です"
+	},
+
+	"fullscreenAutolock": {
+		"title": "自動ロック",
+		"text": "いつ True Key アプリをロックしますか？"
+	},
+
+	"fullscreenLaunchPadVisibility": {
+		"title": "LaunchPad の表示",
+		"text": "LaunchPad がロックされているときに、お気に入りサイトを非表示にするかどうかを設定します。",
+		"visible": "<span class='bold'>表示:</span> ロック時でも Launchpad を表示します。",
+		"invisible": "<span class='bold'>非表示:</span> ロック時に Launchpad を表示しません。"
+	},
+
+	"protectionLayers": {
+		"device": {
+			"title": "信用済みデバイス",
+			"helpText": "セキュリティを強化するため、デバイスと True Key プロファイルを関連付けてください。",
+			"enroll": "デバイスを信用"
+		},
+		"masterPassword": {
+			"title": "マスター パスワード",
+			"helpText": "True Key プロファイルに強固なマスター パスワードを作成してください。 弊社ではパスワードの管理を行いません。忘れないように注意してください。"
+		},
+		"email": {
+			"title": "信用済みのメール アドレス",
+			"helpText": "メール アドレスを確認して、すべての機能を有効にしてください。 2 つめの認証要素としてメール アドレスを追加すると、セキュリティを強化できます。",
+			"enroll": "確認メールを送信"
+		},
+		"face": {
+			"title": "フェイス アンロック",
+			"helpText": "True Key のフェイス アンロックを使用すると、顔の数値データを使用して本人確認を行うことができます。 フェイス アンロックを基本的なログイン方法にすることも、追加のセキュリティ要素として使用することもできます。",
+			"enroll": "今すぐ追加"
+		},
+		"mobile": {
+			"title": "スワイプによるロック解除 (Android のみ)",
+			"helpText": "スワイプによるロック解除を使用して、2 つめの認証要素として携帯電話にプッシュ通知を送信すると、通知をスワイプするだけでコンピューター プロファイルのロックを解除できます。 この機能はマスター パスワードの代わりに使用することも、追加のセキュリティ機能として利用することもできます。",
+			"enroll": "携帯電話を追加"
+		},
+		"fingerprint": {
+			"title": "タッチでロック解除",
+			"helpText": "追加のセキュリティ機能として、指紋認証で True Key に安全にアクセスできます。 この機能はまもなく公開される予定です。"
+		}
+	},
+
+	"killswitch": {
+		"title": "必須の更新",
+		"chrome": {
+			"txt1": "このバージョンの True Key 拡張機能はサポートされていません。 Chrome が自動的に最新バージョンに更新しました。",
+			"txt2": "ブラウザーを再起動してください。"
+		},
+		"ie": {
+			"txt1": "このバージョンの True Key はサポートされていません。 下のボタンをクリックして、最新バージョンに更新してください",
+			"cta": "今すぐ更新"
+		},
+		"downloading": "このバージョンの True Key はサポートされていません。 更新版をダウンロードしています。完了するまで 2、3 分お待ちください..."
+	},
+
+	"downloadExe": {
+		"title": "良い選択です",
+		"txt1": "フェイス アンロックを使用すると、マスター パスワードを入力する手間が省けます。 下をクリックすると、インストーラーをダウンロードできます。"
+	},
+
+	"enableIE": {
+		"appInstalled": "アプリがインストールされました",
+		"enableIt": "ブラウザーで有効にしてください",
+		"cta": "有効にしたらクリックしてください",
+		"title": "最後のステップ",
+		"txt1": "下の [有効にする] をクリックすると、True Key アプリを開始できます。 この操作が必要になるのは一度だけです。",
+		"txt2": "完了後に、%{htmlBefore}ここをクリックしてください%{htmlAfter}。",
+		"appInstalled" : "アプリがインストールされました。",
+		"enableIt" : "ブラウザーで有効にしてください。",
+		"havingTrouble" : "問題が発生した場合には、このページを最新の状態に更新してください。"
+	},
+
+	"lockPrefs": {
+		"onTrustedDevice": "信用済みデバイス上にいるため、すでに保護されています。",
+		"trustedDevice": "この信用済みデバイス (\"%{deviceName}\")",
+		"chooseFactors": "アプリのロック解除に使用する他の認証要素を選択します:",
+		"simple": "簡単",
+		"complex": "複雑",
+		"faceUnlock": "フェイス アンロック",
+		"addFace": "顔情報を追加",
+		"addSwipe": "スワイプによるロック解除を追加",
+		"masterPassword": "マスター パスワード",
+		"theseFactorsAreRequired": "次の認証要素もアプリへのアクセスで必要になります。",
+
+		"confirmAdvanced": {
+			"title": "参考情報",
+			"content": "詳細設定でログインする場合、デバイスがインターネットに接続している必要があります。 接続できない場合、True Key プロファイルにアクセスできません。",
+			"confirm": "確認済み"
+		}
+	},
+
+	"faq": {
+		"title": "よくある質問",
+
+		"Q1": "True Key™ とは何ですか？",
+		"A1": "True Key™ by Intel Security はログイン方法を変えるソリューションです。 True Key を使用すると、複数のパスワードを覚える必要はありません。顔の特徴や所持しているデバイスの識別子など、ユーザー固有の認証要素でアプリ、サイト、デバイスにログインできます。 認証要素を増やすと True Key が強固になり、本人確認を簡単に行うことができます。 True Key では、あなた自身がパスワードになります。 デジタル ID を効率よく管理し、デジタル世界をより速く、簡単かつ安全に利用することができます。",
+
+		"Q2": "どのような仕組みですか？",
+		"A2": "スマートフォン、タブレットまたはパソコンで True Key アカウントを開き、プロファイルを作成すると、True Key がユーザーを認識できるようになります。 True Key に対応する Web サイトは自動的にユーザーを認識するため、パスワードを入力したり、覚える必要はありません。 True Key に対応していない Web サイトは、True Key のパスワード マネージャーを使用してユーザー名とパスワードを取得し、自動的に入力します。 True Key では、あなた自身がパスワードになります。 デジタル ID を効率よく管理し、デジタル世界をより速く、簡単かつ安全に利用できます。",
+
+		"Q3": "True Key でログインまたはサインインするのはなぜですか？",
+		"A3": "True Key を使用すれば、デジタルライフがシンプルになります。デジタル世界で本人証明を簡単に行うことができます。 顔の数値データや指紋など、ユーザー固有の属性を使用して True Key にログインすると、目的の場所にすぐに移動できます。",
+
+		"Q4": "共有コンピューターで複数のユーザーが True Key アカウントを使用できますか？",
+		"A4": "はい。True Key がユーザーを識別するので、自分のアカウントにのみログインできます。 ログアウトしてログインし直すのと同じくらい簡単です。",
+
+		"Q5": "True Key はどの程度安全ですか？",
+		"A5": "True Key は誰でも使用できるセキュリティ製品です。 データは最も強力な AES-256 で暗号化されます。 さらに、顔の数値データや指紋などの属性 (認証要素) を追加すると、True Key をより強固なものにできます。",
+
+		"Q6": "データはどのように暗号化され、復号されますか？",
+		"A6": "True Key はデータをローカルに保持し、最も強力な AES-256 で暗号化します。 機密データが暗号化されずにデバイスから送信されることはありません。データにアクセスできるのは、ユーザー本人とユーザーが承認した人物だけです。",
+
+		"Q7": "True Key を使用する他の従業員が自分のアカウントに保存したデータやその他の機密情報にアクセスできますか？",
+		"A7": "いいえ。True Key では、あなた自身がパスワードになります。 データはユーザーのデバイス上で暗号化または復号され、常にユーザーの管理下にあります。 True Key では、顔の数値データや指紋、マスター パスワードなどのユーザー固有の属性を使用し、ユーザーが要求した場合にのみ暗号化または復号を行います。",
+
+		"Q8": "データの暗号化と復号はどこで実行されますか？",
+		"A8": "データは、デバイス上でローカルに暗号化または復号されます。 True Key サーバーに保存されるのは、暗号化されたデータのみです。",
+
+		"Q9": "データは True Key サーバーに保存されますか？",
+		"A9": "はい。暗号化された True Key データは、安全な True Key サーバー上に保存されます。 この情報にアクセスする唯一の方法は、顔の数値データやマスター パスワードなどのユーザーに固有の属性を使用することです。",
+
+		"Q10": "True Key のフェイス アンロックを Windows デバイスで使用できますか？",
+		"A10": "Windows 向けの True Key フェイス アンロックは 2015 年初頭にリリース予定です。",
+
+		"Q11": "特定の Web カメラが必要ですか？",
+		"A11": "True Key は、デバイスの前面カメラと USB 接続カメラに対応しています。",
+
+		"Q12": "自分の写真を使用してログインすることはできますか？",
+		"A12": "いいえ。True Key は高度ななりすまし対策技術を採用し、このようなログイン試行を防止します。 Intel Security に安心してお任せください。",
+
+		"Q13": "ログイン ユーザーが本人であることをどのようにして確認しますか？",
+		"A13": "Intel Security に安心してお任せください。 True Key は、非常に高度なアルゴリズムを使用して、ユーザーが設定した固有の生体情報、顔画像、指紋、その他の属性によって本人確認を行います。",
+
+		"Q14": "True Key のフェイス アンロックはどのデバイスやプラットフォームで使用できますか？",
+		"A14": "True Key はどのデバイスにもダウンロードできますが、Face Login が使用できるのは Windows 8、8.1、Internet Explorer 10、11、Google Chrome ブラウザーでのみです。 今後数か月間で、より多くのプラットフォームと認証方法に対応する予定です。"
+	},
+
+	"privacy": {
+		"title": "個人情報と True Key",
+
+		"Q1": "プライバシーについて",
+		"A1": "Intel Security では、お客様のプライバシーを尊重しています。 Intel Security の個人情報の取り扱い方針については、弊社の%{privacyBefore}プライバシー通知%{linkAfter}をご確認ください。",
+
+		"Q2": "True Key アプリはどのような情報を収集しますか？",
+		"A2": "<p>ユーザーが承諾すると、True Key はユーザーの画像を収集し、顔の数値データに変換します。</p><p>顔の数値データを計算した後、画像を削除します。 顔の数値データは暗号化され、デバイス上に保存されます。 暗号化された情報は Intel Security のデータ センターに安全な方法で送信されます。これにより、ユーザーが自身のデバイスや Web サイトに簡単かつ安全にアクセスできるようになります。</p><p>Intel Security は、True Key アプリに保存されたユーザーの機密情報にアクセスできません。この情報は、Intel Security に送信される前に暗号化され、ユーザー本人だけが知っているマスター パスワードで保護されます。</p><p>True Key は次の処理も行います。</p><p>True Key は、ユーザーが入力したパスワード、ユーザー名、ウォレット情報も保存します。 これらの項目はデバイス上で暗号化されます。暗号化された情報が安全な True Key サーバーに送信されると、他のデバイスからサーバーに接続したときに情報が同期されます。</p>",
+
+		"Q3": "顔の数値データとは何ですか？",
+		"A3": "顔の数値データとは顔の測定値の計算結果です。フェイス アンロック技術が本人確認を行うときに使用されます。",
+
+		"Q4": "顔の数値データはどのように使用されますか？",
+		"A4": "Intel Security は、フェイス アンロック技術で顔の数値データを使用し、本人確認を行います。これにより、デバイスや True Key 対応の Web サイトへのログインが可能になります。",
+
+		"Q5": "データはどこに保存されますか？",
+		"A5": "顔の数値データのテンプレートが暗号化され、デバイスに保存されます。 デバイス間で同期するため、暗号化された情報は Intel Security データ センターにも保存されます。",
+
+		"Q6": "デバイスからフェイス アンロックを削除する方法を教えてください。",
+		"A6": "この機能を削除または無効にするには、アカウントを無効にするか、デバイスまたはシステムの削除オプションを使用してプログラムを削除する必要があります。",
+
+		"Q7": "Intel Security のデータ センターから顔の数値データを削除する方法を教えてください。",
+		"A7": "True Key の%{customerSupportBefore}カスタマー サービス%{linkAfter}に連絡して、顔の数値データの削除を依頼してください。 本人確認の完了後、顔の認証データの削除を依頼できます。",
+
+		"Q8": "True Key アプリは、アクセスした Web サイトを記録しますか？",
+		"A8": "True Key プロファイルに Web サイトとログイン情報を保存すると、この情報を True Key Launchpad で確認できます。",
+
+		"Q9": "True Key サービスは他の目的で個人情報を使用しますか？",
+		"A9": "いいえ。True Key は復号された情報にアクセスできません。",
+
+		"Q10": "True Key アプリの詳しい情報はどこで確認できますか？",
+		"A10": "フェイス アンロックと True Key アプリの詳細については、True Key の Web サイト (%{websiteBefore}truekey.com%{linkAfter}) をご覧ください。あるいは、True Key の%{customerSupportBefore}カスタマー サービス%{linkAfter}にお問い合わせください。"
+
+	},
+
+	"trustedDevices": {
+		"ctaAdd": "信用済みデバイスを追加",
+		"lastUsed": "前回の使用日時：",
+		"twoFactor": "二要素認証:",
+		"title": "True Key プロファイルに使用する信用済みデバイスを選択および管理します。",
+		"txt1": "True Key プロファイルで信用するデバイスを管理できます。 このデバイスを 2 つめの認証要素として使用し、サイトやアプリにアクセスできる場所を管理します。 デバイスはいつでも追加または削除できます。"
+	},
+
+	"startpage": {
+		"searchNoResults": "結果が見つかりません。",
+
+		"addFavorite": {
+			"title": "お気に入りを追加",
+			"placeholder": "Web サイトの名前または URL を入力",
+			"titleSuggestions": "いくつかの候補:",
+			"moreSuggestions": "その他の候補"
+		},
+
+		"addManually": {
+			"title": "お気に入りを手動で追加",
+			"label": {
+				"websiteName": "Web サイト名",
+				"url": "URL"
+			},
+			"placeholders": {
+				"websiteName": "例: Facebook",
+				"url": "例: http://www.facebook.com"
+			}
+		},
+
+		"edit": {
+			"title": "お気に入りを編集"
+		},
+
+		"ctaEdit": "このお気に入りを編集",
+
+		"search": {
+			"onTheWeb": "Web で \"%{filter}\" を検索",
+			"logins": "保存されているログイン情報",
+			"placeholder": "Web または True Key LaunchPad を検索"
+		}
+	},
+
+	"tutorial": {
+		"favorites": {
+			"title": "お気に入り",
+			"description": "これらはブックマークと同じです。 必要に応じて追加、削除、編成できます。 お気に入りを使用すると、頻繁にアクセスするサイトにすぐにアクセスできます。ログイン情報を保存していない場合でも、簡単にアクセスできます。"
+		},
+		"logins": {
+			"title": "ログイン情報",
+			"description": "プロファイルに保存したログイン情報を確認できます。 ログイン情報の追加、詳細の表示や編集、セキュリティ設定の管理を行うことができます。"
+		},
+		"menu": {
+			"title": "メニュー",
+			"description": "メニューでは、基本設定、セキュリティ設定、サポートなどにアクセスできます。"
+		},
+		"search": {
+			"title": "検索",
+			"description": "Web や True Key プロファイルで必要な情報を簡単に検索できます。"
+		},
+		"profile": {
+			"title": "プロファイル",
+			"description": "プロファイルの設定を表示し、更新できます。 通知アイコンをクリックすると、未対応のメッセージを確認できます。"
+		}
+	},
+
+	"browserActivation": {
+		"title": "あと少しで完了です",
+		"description": "では、True Key™ の拡張機能を有効にしましょう。 1 つまたはすべてのブラウザーを選択してください。",
+		"activated": "True Key™ は <em>%{activatedBrowser}</em> で有効になっています。<br>また、<em>%{availableBrowser}</em> にも追加されています。",
+
+		"overlayTitle": "True Key™ が有効になりました",
+		"overlayText": "パスワードを入力せずにお気に入りサイトにログインするには、<strong>True Key を有効にします</strong>。",
+		"errorNoBrowserSelected": "True Key を有効にするブラウザーを 1 つ以上選択してください。"
+	},
+
+	"slideshow": {
+		"intro": {
+			"title": "True Key™ by Intel Security へようこそ",
+			"subtitle": "煩雑なパスワード管理を行わずにデジタル世界を利用しましょう",
+			"description": "True Key を使用すると、ログイン方法が変わります。自分に固有の認証情報を使用して、お気に入りのサイト、アプリ、デバイスにすばやくアクセスできます。"
+		},
+		"sync": {
+			"subtitle": "自動同期により、携帯電話、タブレット、コンピューターでログイン情報を共有できます",
+			"description": "True Key は、携帯電話、タブレット、コンピューターでログイン情報を安全に同期します。いつでも簡単にログインすることができます。"
+		},
+		"encrypted": {
+			"subtitle": "個人情報を暗号化し、プライバシーを保護します",
+			"description": "ユーザーのデータはローカルのデバイスに保存されます。暗号化されずに外部に送信されることはありません。 また、本人以外はアクセスできません。"
+		},
+		"unique": {
+			"subtitle": "プロファイルは固有です",
+			"description": "True Key アプリでは、あなた自身がパスワードになります。 認証要素を増やすと True Key プロファイルが強化され、本人確認を簡単に行うことができます。"
+		},
+		"skipTour": "ツアーをスキップする",
+		"iGetIt": "ツアーを終了する。",
+		"getStarted": "はじめましょう"
+	},
+
+	"slideshow2": {
+		"meetTK": "True Key by Intel Security の機能を確認する",
+		"multiple_passwords": {
+			"title": "複数のパスワードを管理する必要はありません",
+			"desc": "True Key アプリがパスワードを記憶します。パスワードを覚えておく必要はありません"
+		},
+		"sync": {
+			"title": "ご使用のすべてのデバイスでパスワードが同期されます",
+			"desc": "ご使用のすべてのデバイスに True Key アプリをインストールすると、いつでもパスワードを使用できます。"
+		},
+		"encrypted": {
+			"title": "パスワードは暗号化され、安全に保管されます",
+			"desc": "True Key アプリはデバイス上のパスワードを暗号化します。本人以外はアクセスできません。"
+		}
+	},
+
+	"enable": {
+		"lastStep": "最後のステップ",
+		"clickEnable": "下の [有効にする] をクリックすると、True Key アプリを開始できます。 この操作が必要になるのは一度だけです。",
+		"clickDone": "完了したら、%{htmlBefore}ここをクリックしてください%{htmlAfter}"
+	},
+
+	"activation": {
+		"title": "True Key™ を有効にする",
+		"txtEnable": "パスワードを入力せずにお気に入りサイトにすぐにログインするには、<br><strong>True Key 拡張機能を有効にしてください</strong>。",
+		"txtInstall": "パスワードを入力せずにお気に入りサイトに<br>すぐにログインするには、<strong>True Key 拡張機能を有効にしてください</strong>。",
+		"txtRestart": "True Key の拡張機能をインストールするには、<br>ブラウザーを再起動する必要があります。"
+	},
+
+	"loginSuccess": {
+		"title": "再開します",
+		"text": "次にブラウザーを起動したときに、True Key のアイコンを探してください。"
+	},
+
+	"signupSuccess": {
+		"text": "プロファイルが作成されました。<br>次にブラウザーを起動したときに、True Key のアイコンを探してください。"
+	}
+}

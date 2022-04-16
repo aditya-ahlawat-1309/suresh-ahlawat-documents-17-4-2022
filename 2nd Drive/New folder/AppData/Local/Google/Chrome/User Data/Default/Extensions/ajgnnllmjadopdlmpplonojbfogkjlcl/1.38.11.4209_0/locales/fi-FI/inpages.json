@@ -1,0 +1,96 @@
+{
+	"common" : {
+		"txtClose" : "Sulje",
+		"done": "Valmis",
+		"dontSave" : "Älä tallenna",
+		"neverSave" : "Älä tallenna koskaan",
+		"saveNow" : "Tallenna nyt",
+		"yes" : "Kyllä",
+		"no" : "Ei",
+		"remove": "Poista",
+		"dontUpdate" : "Älä päivitä",
+		"updateNow" : "Päivitä nyt",
+		"dontAskAgain" : "Älä kysy uudelleen",
+
+		"dontSaveNow" : "Älä tallenna tällä kertaa",
+		"dontSaveItNow" : "Älä tallenna nyt",
+		"neverSaveIt" : "Älä tallenna koskaan",
+		"neverForThisSite" : "Älä tallenna koskaan",
+		"savePassword" : "Tallenna salasana",
+		"saveThisPassword" : "Tallenna tämä salasana",
+		"dontShowAgain" : "Älä näytä tätä uudelleen",
+		"masterPassword" : "Pääsalasana",
+		"continue" : "Jatka",
+		"ok": "OK",
+		"typeMasterPassword" : "Anna pääsalasana",
+		"settings": "Asetukset",
+		"copyClipboard": "Kopioi leikepöydälle",
+		"youreIn" : "Olet kirjautunut sisään.",
+		"success": "Onnistui"
+	},
+
+	"bannerAutosave": {
+		"mainText": "True Key tallensi <span class='secondary'>%{siteName}</span> -salasanasi."
+	},
+	"bannerBoxfull": {
+		"mainText": "True Key havaitsi uuden salasanan sivustolle <span class='secondary'>%{siteName}</span>"
+	},
+	"bannerConnecting": {
+		"mainText" : "Hetkinen"
+	},
+	"bannerUnregisteredWeak": {
+		"mainText" : "Sivuston <span class='primary'>%{siteName}</span> salasanasi ei ole tarpeeksi vahva."
+	},
+	"topbarPendingInvitation": {
+		"mainText" : "Sinulle on jaettu uusi salasana."
+	},
+	"bannerLoginFailure": {
+		"mainText": "Kirjasiko True Key sinut sisään?",
+		"deleteConfirm": "Haluatko, että <span class='secondary'>%{username}</span> poistetaan True Key -profiilistasi?"
+	},
+	"topbarDisabled": {
+		"mainText" : "Jokin meni vikaan. True Key ei vielä tue tätä sivustoa."
+	},
+	"connectWith" : {
+		"mainText" : "Valitse profiili",
+		"login": "Kirjaudu"
+	},
+	"tooltipLoginPrompt" : {
+		"tkTitle": "Profiilisi on lukittu",
+		"ctaUnlock": "Avaa lukitus kirjautumalla sisään",
+		"placeholder" : "Anna pääsalasana",
+		"mainTxtHasUsers" : "Kirjaudu True Key -profiilin avulla",
+		"mainTxtNoUsers" : "Tallenna tämä salasana antamalla pääsalasanasi",
+		"error" : "Virheellinen salasana",
+		"decrypting" : "Salauksen purku",
+		"profileLocked" : "Profiilisi on lukittu",
+		"unlockedLogIn" : "Avaa lukitus ja kirjaudu sisään"
+	},
+	"contextNeverSignedUp" : {
+		"mainText" : "Oletko kyllästynyt hallitsemaan useita salasanoja? Kirjaudu hetkessä sisään True Key -sovelluksen avulla.",
+		"signup" : "Selvä. Näytä miten."
+	},
+	"tooltipUnregistered": {
+		"mainText" : "Oletko kyllästynyt ongelmiin salasanojen kanssa? True Key -sovelluksella pääset kirjautumaan helposti ja nopeasti.",
+		"signup" : "Selvä. Näytä miten."
+	},
+	"websiteFlowFormLabel": {
+		"txt1" : "Kirjaudu <span class='secondary'>%{siteName}</span>-sivustolle, niin",
+		"txt2" : "True Key muistaa salasanat puolestasi."
+	},
+	"websiteFlowAutosaveSuccess": {
+		"mainText" : "Seuraavalla kerralla True Key kirjaa sinut turvallisesti sisään."
+	},
+	"welcomeComplete" : {
+		"mainText" : "True Key Launchpadin avulla kirjaudut entistä nopeammin, helpommin ja turvallisemmin."
+	},
+	"passgen" : {
+		"generate": "Luo salasana",
+		"regenerate" : "Luo salasana",
+		"noPassGenerated": "Ei luotuja salasanoja",
+		"letters" : "Kirjaimet",
+		"digits" : "Numerot",
+		"symbols" : "Erikoismerkit",
+		"capitals" : "Isot kirjaimet"
+	}
+}

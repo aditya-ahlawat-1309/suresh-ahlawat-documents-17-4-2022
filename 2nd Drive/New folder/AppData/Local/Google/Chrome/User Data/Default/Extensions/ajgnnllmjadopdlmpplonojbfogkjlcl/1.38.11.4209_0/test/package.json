@@ -1,0 +1,10 @@
+{
+	"name": "PBCI",
+	"private": true,
+	"version": "0.0.1",
+	"description": "integration tests for form detection, one-click login, etc. on live websites",
+  "dependencies":{},
+	"devDependencies": {
+		"component": "*"
+	}
+}

@@ -1,0 +1,102 @@
+ <html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/body.css">
+<style>
+body {background: #DFEFFF !important}
+</style>
+<title> High Court of Punjab and Haryana </title>
+<script type="text/javascript" src="./include/md5.js"></script>
+<script type="text/javascript" src="./include/brow.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>  
+<script type="text/javascript" src="js/jquery.pstrength-min.1.2.js"></script>
+<script type="text/javascript">
+//$(function() {
+//$('.password').pstrength();
+//});
+</script>
+<script type="text/javascript">
+function hash_pwd()
+{
+	pass_value = document.frm.usrpass.value;
+    if(pass_value.length > 0)
+	{	
+		var saltpassword = 'c6f8e2e238b47dfba9b241508ea462f6';
+        var first_hash = hex_md5(pass_value);
+        var full_hash_string = saltpassword + first_hash + saltpassword;
+        final_hash = hex_md5(full_hash_string);
+        document.frm.pword.value=final_hash;
+        document.frm.usrpass.value="***************";
+        return true;
+	}
+    alert("Please Enter password!") ;
+    return false;
+}
+
+</script>
+
+</head>
+<body>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+    	<td align="center"><img src="data/banner.jpg"  width="100%"/></td>
+  	</tr>
+  	<tr height="0%">
+   	</tr>
+	<tr><td colspan="10">
+<marquee onmouseover="stop();" onmouseout="start()"><font color="#0000ff"><strong> Welcome   </strong></font></marquee>
+</td></tr>
+			<form name="frm" action="index.php" method="post" onSubmit="return hash_pwd();" autocomplete="off">
+			<table align="center" width="50%" border="0">
+			<tr>
+			<td align="center" colspan="2"><font color="#FF0000">
+			SessionEr            </font> </td>                        
+			</tr>			
+			<tr> 
+			<br/><br/><br/><br/><br/>
+			<tr><td align="right" colspan="2"><a href="https://efiling-phc.ecourts.gov.in/" target="_blank"> <b>E-Filing Url</b> <img src="../images/new.gif" alt="New Feature"></a></td></tr>
+            <tr><td align="right" colspan="2"><a href="./eFiling manual_final.pdf" target="_blank"> <b>E-Filing User Manual</b> <img src="../images/new.gif" alt="New Feature"></a></td></tr>
+			<tr><td align="right" colspan="2"><a href="./usercreationform.pdf"  target="_blank"> <b>E-Diary User Creation Form-Advocates</b></a></td></tr>
+			<tr><td align="right" colspan="2"><a href="./e_diary_form_department.pdf"  target="_blank"> <b>E-Diary User Creation Form-Departments</b></a></td></tr>
+			<tr><td align="center" colspan="2">User Name : <input name="usrname" AUTOCOMPLETE=OFF type="text" maxlength="20" />
+             </td>
+			</tr>
+			<tr>
+			<td align="center" colspan="2">Password &nbsp;&nbsp; : <input name="usrpass" AUTOCOMPLETE=OFF type="password" maxlength="20" class="password" /></td>
+			<input type="hidden" name="pword" value="" />
+            <input type="hidden" name="salt_pass" value="" />
+			</tr>
+            <tr>
+			<td align="center" colspan="2">Enter Code <img src="./include/captcha.php"><input type="text" name="vercode" AUTOCOMPLETE=OFF maxlength="8"/></td>
+			</tr>
+			<tr>		
+			<td align="center" colspan="2"><input name="submit"  value="Login"type="submit" /></td>
+			</tr>
+			<tr>
+			<td colspan="2" align="right">
+			<a href="./forgot_password.php" target="_blank">
+			<b>Click here if you forgot login password</b>
+			</a>
+			</td>
+			</tr>
+			</table>
+			</form>
+	<br/><br/><br/><br/><br/><br/><br/><br/>
+	<tr>
+		<td   colspan="10"align="center">
+			<table width="100%"  border="0" align="center" cellspacing="0" >
+  <center>
+  <tr align="center" style="background: #DFEFFF !important">
+    <td align="center" ><center><font size="2"><b><br>Designed and Developed by National Informatics Centre <br /><br /> Contents Published and Managed by Punjab &amp; Haryana High Court , Chandigarh.<br> 
+    </b></font></td>
+
+  </tr>
+</table>
+
+
+		</td>
+	</tr>					
+</table>
+</body>
+ 
+
+

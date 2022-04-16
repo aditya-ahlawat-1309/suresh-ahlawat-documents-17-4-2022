@@ -1,0 +1,86 @@
+{
+   "checksum": "63765b3da6aa1e4c1206133300284ced",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13037815637857526",
+            "id": "4",
+            "meta_info": {
+               "stars.id": "ssc_ec03aa0b9df79541",
+               "stars.isSynced": "true"
+            },
+            "name": "",
+            "sync_transaction_version": "21",
+            "type": "url",
+            "url": "http://www.google.com/"
+         }, {
+            "date_added": "13037897025033729",
+            "id": "5",
+            "meta_info": {
+               "stars.id": "ssc_d47fd814674eb123",
+               "stars.isSynced": "true"
+            },
+            "name": "(4) Millionaire City on Facebook",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "https://apps.facebook.com/millionairecity/?fb_source=sidebar_bookmark"
+         }, {
+            "date_added": "13044029850242849",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "ssc_a4326bb7cc51ed98",
+               "stars.isSynced": "true"
+            },
+            "name": "Animals and Birds Stories - Story-Lovers SOS Story Lists",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "http://www.story-lovers.com/listsanimalbirdstories.html"
+         } ],
+         "date_added": "13035318296817075",
+         "date_modified": "13061062014870127",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13077646127238178",
+            "id": "9",
+            "meta_info": {
+               "stars.flags": "0",
+               "stars.id": "c_1inviae1x3e5",
+               "stars.note": "",
+               "stars.pageData": "",
+               "stars.type": "2",
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "New Tab",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13080498849275982",
+            "id": "12",
+            "name": "ajay",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "http://supremecourtofindia.nic.in/clist_bm/2012/bm_dl06072015.pdf"
+         } ],
+         "date_added": "13035318296817075",
+         "date_modified": "13080498849275982",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "21",
+      "synced": {
+         "children": [  ],
+         "date_added": "13035318296817075",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

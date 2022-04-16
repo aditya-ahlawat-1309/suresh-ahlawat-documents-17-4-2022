@@ -1,0 +1,407 @@
+---
+en_US: 
+    language: "Engels"
+    common: 
+        privacy: "Privacy"
+        privacy_full: "Privacybeleid"
+        terms: "Voorwaarden"
+        terms_full: "Servicevoorwaarden"
+        alert: "Waarschuwing!"
+        warning: "Waarschuwing!"
+        or: "of"
+        copyright: "© %{date}. Alle rechten voorbehouden."
+        change_language: "Wijzig taal"
+    shared: 
+        member_menu: 
+            upgrade: "Waardeer account op"
+            refer_friends: "Verwijs vrienden"
+            help: "Help & ondersteuning"
+            logout: "Uitloggen"
+    head: 
+        meta: 
+            description: 
+                default: "PasswordBox zet wachtwoorden uit uw hoofd. Zeg vaarwel tegen meerdere gebruikersnamen en wachtwoorden. Uw PasswordBox hoofdwachtwoord is het enige dat u ooit nodig hebt!"
+                mobile: "PasswordBox is een gratis wachtwoordbeheerder die mensen helpt met het opslaan, ophalen en delen van wachtwoorden op elk toestel. Probeer de PasswordBox Android, iPhone of iPad app."
+        title: 
+            default: "Gratis wachtwoordmanager"
+            welcome: "Welkom"
+    download: 
+        download: "Download GRATIS"
+        login: "Log in"
+        mobile: "Mobiel"
+        platforms: "Gratis voor"
+        watch_video: "Bekijk de video"
+        available_for: "Ook beschikbaar voor %{os} en %{platform}"
+        free_for: "Gratis voor %{windows}, %{mac} en %{mobile}."
+        guides: 
+            click_add: "Klik op toevoegen om PasswordBox te installeren"
+            click_allow: "Klik op toestaan om PasswordBox te installeren"
+            click_install: "Klik op \"Installeren\""
+            click_install_now: "Klik op \"Nu installeren\""
+            click_run: "Klik op \"Uitvoeren\" om te installeren"
+            click_yes: "Klik op \"Ja\" om de instellingen te accepteren"
+            click_here: "Klik hier"
+            run_and_open: "Uitvoeren en de installer openen"
+            install_pbox: "Installeer PasswordBox"
+            close_window: "Sluit venster"
+            download_pbox: "Download PasswordBox"
+        alerts: 
+            mobile: "Download de GRATIS %{app_name} app om onderweg te genieten van 1-Tap Login"
+        errors: 
+            browser: 
+                min_version: "PasswordBox is alleen beschikbaar voor %{browser} versies %{min_version} en hoger. Update uw browser en probeer het opnieuw."
+                single_version: "PasswordBox is alleen beschikbaar voor %{browser}. Update uw browser en probeer het opnieuw."
+                unavailable: "PasswordBox is niet beschikbaar voor uw versie van %{browser}. Probeer het opnieuw met %{suggestion}."
+                safari_windows: "PasswordBox voor Safari is momenteel alleen verkrijgbaar op Mac OS X."
+                safari: 
+                    unsupported: "Helaas ondersteunen we Safari niet langer. Probeer het opnieuw in Chrome, Firefox of Internet Explorer"
+                    read_more: "Lees hier meer"
+                unsupported: 
+                    problems: "We ondersteunen deze versie van %{browser} officieel niet. U kunt PasswordBox nog wel installeren maar een paar problemen tegenkomen."
+                    upgrade_suggestion: "Om de beste ervaring te kunnen waarborgen, adviseren we u op te waarderen naar de laatste versie van uw browser."
+                    install_anyway: "Toch installeren"
+            mobile: 
+                min_version: "PasswordBox is niet beschikbaar voor deze versie van %{os}. Probeer het opnieuw op een toestel dat gebruik maakt van versie %{min_version} of hoger."
+                generic: "PasswordBox is niet beschikbaar voor dit toestel. Probeer het opnieuw op iPhone, iPad of Android of open deze pagina op uw desktop om uw browser extensie te installeren."
+        onboard: 
+            welcome: "Welkom bij de PasswordBox installatie"
+            failed_install: "Mislukt om PasswordBox te installeren"
+            never_forget: "Vergeet nooit meer een wachtwoord!"
+            click_to_retry: "Klik op opnieuw proberen om het nogmaals te proberen"
+            retry: "Opnieuw proberen"
+            free_vault: "Gratis wachtwoordkluis voor Google Chrome."
+            add_to_chrome: "Voeg toe aan Chrome"
+        guide: 
+            almost_done: "Bijna klaar!"
+            greeting: "Hallo %{member_name}!"
+            welcome: "Welkom bij PasswordBox. Volg de stappen hieronder om uw installatie te voltooien."
+            downloading: "PasswordBox begint automatisch met downloaden. Als dat niet gebeurt, %{restart_link}."
+            restart: "klik hier om de download opnieuw te starten"
+    address_book: 
+        import: 
+            address: "Adres"
+            email_password: "E-mailadres wachtwoord"
+            fetching_contacts: "Contactpersonen ophalen"
+            gmail: 
+                connect_button: "Koppelen aan Gmail"
+                instructions: "Klik om te koppelen aan uw Gmail adresboek"
+            open_address_book: "Open adresboek"
+            sending_promise: "We sturen nooit e-mails naar uw contactpersonen zonder uw toestemming."
+            connect: 
+                title: "Koppel aan uw adresboek"
+                button: "Koppel aan %{provider}"
+                instructions: "Klik om uw %{provider} adresboek te koppelen"
+        select: 
+            contacts: "Contactpersonen"
+            deselect_all: "Deselecteer alles"
+            search_contact: "Zoek naar een contactpersoon"
+            select_all: "Selecteer alles"
+            select_title: "Selecteer uit adresboek"
+            send_success: "Uw digitaal waarnemingsverzoek is met succes verzonden!"
+            to: "Aan"
+    forms: 
+        buttons: 
+            back: "Terug"
+            cancel: "Annuleren"
+            ok: "OK"
+            save: "Opslaan"
+            submit: "Indienen"
+            send: "Versturen"
+        errors: 
+            digits: 
+                only: "Voer alleen cijfers in"
+            email: 
+                exists: "Dat e-mailadres is al in gebruik."
+                invalid: "Dat e-mailadres is ongeldig."
+                invalid_please: "Voer een geldig e-mailadres in."
+                required: "Het veld e-mailadres is verplicht."
+            fullname: 
+                required: "Voer uw volledige naam in."
+                too_long: "Voer een kortere naam in."
+                too_short: "Uw naam moet tenminste %{length} tekens lang zijn."
+            password: 
+                required: "Kies een wachtwoord."
+                too_short: "Zorg ervoor dat uw wachtwoord tenminste %{length} tekens lang is."
+                confirm: "Bevestig uw wachtwoord."
+                match: "Zorg ervoor dat uw wachtwoorden overeenkomen."
+                different: "Uw wachtwoord mag niet gelijk zijn aan uw naam of e-mailadres"
+            required: 
+                generic: "Dit veld is vereist."
+            generic: "Oeps! Er is iets misgegaan. Probeer het formulier opnieuw in te dienen."
+            length: 
+                between: "Voer een waarde van tussen de {0} en {1} tekens in."
+        labels: 
+            email: "E-mailadres"
+            fullname: "Volledige naam"
+            first_name: "Voornaam"
+            last_name: "Achternaam"
+            master_password: "Hoofdwachtwoord"
+            password: "Wachtwoord"
+            title: "Titel"
+            username: "Gebruikersnaam"
+            email_full: "Uw e-mailadres"
+            phone_full: "Uw telefoonnummer"
+            date: "Datum"
+        success: 
+            thank_you: "Dank u wel!"
+        info: 
+            password: 
+                very_weak: "Erg zwak"
+                weak: "Zwak"
+                average: "Gemiddeld"
+                good: "Goed"
+                strong: "Sterk"
+    premium: 
+        limit_reached: "U heeft uw limiet van %{limit} bereikt. Waardeer nu op en ontvang onbeperkte wachtwoordopslag."
+        billing: 
+            details: "Er wordt u %{price} US gefactureerd voor een jaar PasswordBox Premium. Als u binnen de eerste 30 dagen van uw abonnement niet tevreden bent, storten wij 100% van het bedrag wat u betaald hebt terug, zonder iets te vragen."
+            renewal: "Uw account wordt jaarlijks automatisch verlengd tenzij u annuleert door te mailen naar %{support_link} voordat uw volgende betaling schuldig is."
+        enter_cc_info: "Voer creditkaartgegevens in"
+        form: 
+            errors: 
+                credit_card_invalid: "Voer een geldig creditkaartnummer in."
+                generic_processing: "Er was een probleem bij het verwerken van uw betaling."
+                unable_to_process: "We konden uw creditkaart niet verwerken. Controleer of u de juiste informatie hebt en probeer het opnieuw."
+            labels: 
+                as_on_card: "zoals het op uw kaart vermeld staat"
+                credit_card: "Creditkaartnummer"
+                expiry: "Vervaldatum"
+                secure: "Veilig"
+                verification: "4-cijferig kaartverificatienummer"
+                what: "Wat is dit?"
+                country: "Land"
+                postal_code: "Postcode"
+                street_address: "Straat"
+                city: "Stad"
+                region: "Regio"
+            submit: "Activeer Premium"
+            processing: "Verwerken...even geduld a.u.b."
+        main_title: "Krijg toegang tot de PasswordBox versie met alle functies voor %{price}/maand!"
+        premium: "Premium"
+        quote: "Ik heb meer gebruikersnamen en wachtwoorden dan ik onthouden kan. Gelukkig kan PasswordBox ze voor mij onthouden. Uw service geeft me gemoedsrust, omdat als ik vandaag een fataal auto-ongeluk krijg, ik weet dat alleen mijn geliefden toegang tot mijn verschillende online accounts krijgen met mijn instructies. Het is een opluchting te weten dat mijn man toegang krijgt tot mijn PayPal account en tot alle familiefoto's die ik heb op Flickr."
+        satisfaction_guarantee: "Als u niet helemaal tevreden bent binnen de eerste 30 dagen, betalen we u ieder dubbeltje terug. <strong>Geen vragen, geen gedoe.</strong>."
+        success: 
+            already_premium: "U bent al Premium lid! Uw abonnement is geldig tot %{date}."
+            free_for_life_notice: "Bedankt voor uw deelname aan onze beta test. Uw account is voor altijd gratis."
+            payment_success: "Dank u wel! Uw betaling is ontvangen."
+            return_to_public: "Keer terug naar de openbare site"
+            to_passwordbox: "Breng me naar mijn PasswordBox"
+            upgrade_success: "Uw account is met succes opgewaardeerd."
+        testimonial: "Getuigenis"
+        unconfirmed: 
+            title: "Uw account is nog niet bevestigd"
+            check_spam: "Als  u de e-mail niet in uw inbox ziet, vergeet dan niet uw <strong>spam</strong> te controleren."
+            no_email: "Deze e-mail niet ontvangen?"
+            explanation: "Het bevestigen van uw account verifieert niet alleen uw adres voor ons, het ontsluit ook deel- en Legacy Locking functies."
+            resend_email: "Verzend bevestigingsmail opnieuw"
+            steps: 
+                send_email: "Stuur een verificatiemail naar uw e-mailaccount"
+                click_link: "Klik op de gesuggereerde link in de mail"
+                done: "U bent klaar!"
+            continue: 
+                instructions: "Zodra u uw account bevestigd hebt, klikt u op <strong>doorgaan</strong> om uw betalingsgegevens in te vullen."
+                action: "Doorgaan"
+            messages: 
+                email_sent: "Controleer uw inbox. We hebben u een bevestigingsmail gestuurd."
+                not_confirmed: "U hebt uw account nog niet bevestigd."
+                general_error: "Er is iets misgegaan. Probeer het opnieuw."
+    referral: 
+        bonus: 
+            manage: 
+                invite_friends: "Nodig vrienden uit"
+                invite_new: "Nodig nieuwe uit"
+                invites_accepted: "Uitnodigingen geaccepteerd"
+                invites_sent: "Verstuurde uitnodigingen"
+                manage_invites: "Beheer mijn uitnodigingen"
+                manage_title: "Beheer uw uitnodigingen"
+                no_invites_sent: "U hebt nog geen uitnodigingen verstuurd. Ga aan de slag en verstuur er een paar!"
+                referrals_needed: "U heeft nog %{count} geaccepteerde uitnodigingen nodig om uw gratis onbeperkte opslag account te krijgen"
+                referrals_needed_single: "U heeft nog 1 geaccepteerde uitnodiging nodig om uw gratis onbeperkte opslag account te krijgen"
+                resend: "Opnieuw versturen"
+                reward: "Zodra u %{count} vrienden hebt die zich aanmelden, ontvangt u een gratis Pro account voor het leven."
+                sent: "Verstuurd"
+                status: "Status"
+                subheader: "Hier zijn de uitnodigingen die u verstuurd hebt. U kunt ze, indien nodig, opnieuw versturen."
+            reward: "Laat %{count} vrienden zich aanmelden voor PasswordBox en u ontvangt een gratis Pro account en geniet voor altijd van onbeperkte wachtwoordopslag."
+            title: "Verwijs %{count} vrienden naar"
+        import_contacts: 
+            manual_option: "Voer e-mailadressen van uw vrienden handmatig in"
+        important: "Belangrijk"
+        installed_header: "PasswordBox is nu operationeel!"
+        invite_header: "Vertel uw vrienden over PasswordBox"
+        manual_invite: 
+            email_instructions: "Voer hun e-mailadres in"
+            import_option: "Nodig vrienden uit vanuit uw adresboek"
+            required_error: "Voer een e-mailadres in om uit te nodigen"
+            send_action: "Verstuur VIP-passen"
+            send_instructions: "Verstuur uitnodigingen naar uw vrienden"
+            send_success: "Uw VIP-passen zijn verstuurd!"
+        resale_disclaimer: "Let op dat PasswordBox u niet toestaat uw VIP-pas op eBay of andere sites te verkopen. <strong>Deze is alleen voor persoonlijk gebruik.</strong>"
+        sent_after_welcome: 
+            title: "Uw aanmelding is nu compleet!"
+            video_instructions: "Bekijk deze video voor meer info over PasswordBox"
+        vip: 
+            reward: "U ontvangt een gratis lidmaatschap voor het leven"
+            title: "Geef uw vrienden ook VIP toegang tot"
+    welcome: 
+        headers: 
+            running: "%{logo} is nu operationeel!"
+        bulk_password: 
+            check_all: "Bekijk alles"
+            did_you_know_title: "Wist u dat 92% van de mensen dezelfde gebruikersnaam/wachtwoord combinatie voor de meeste van hun online accounts gebruikt?"
+            instructions: "Als u zich aangesproken voelt, voer dan uw gemeenschappelijke login hieronder in en selecteer de sites waarvoor u deze gebruikt. Wij slaan deze accounts in een moeite op naar uw PasswordBox."
+            save_passwords: "Sla wachtwoorden op"
+            success_message: "Uw wachtwoorden opslaan..."
+            uncheck_all: "Haal alle vinkjes weg"
+            username_label: "Gebruikersnaam van e-mailadres"
+            website_error: "Kies tenminste één website."
+        legacy: 
+            address_book: "Koppel aan uw webmail adresboek"
+            email_label: "E-mailadres van de persoon die u vertrouwt"
+            instructions: "Noem hieronder een persoon die u vertrouwt en wij mailen hem/haar uw verzoek"
+            name_label: "Naam van de persoon die u vertrouwt"
+            transfer_info: "Geen zorgen uw wachtwoorden worden niet eerder overgedragen dan nodig"
+            trust_title: "Wie vertrouwt u om uw online account waar te nemen als er iets met u gebeurt?"
+            watch_video: "Bekijk onze video voor meer info"
+        signup: 
+            confirm_password_modal: 
+                confirm_password: "Bevestig hoofdwachtwoord"
+                never_store_password: "Om uw beveiliging te garanderen, ziet PasswordBox uw hoofdwachtwoord nooit en slaat het ook niet op"
+                no_recovery: "Er bestaat geen manier om uw account te herstellen als u uw hoofdwachtwoord vergeten bent"
+                repeat_title: "Voer uw wachtwoord nog een keer in"
+            creating_account: "Uw account aanmaken..."
+            form: 
+                create_account_action: "Maak gratis account aan"
+                create_account_title: "Maak uw gratis account aan"
+                create_password: "Maak wachtwoord aan"
+                existing_account: "Heeft u al een account?"
+                facebook_promise: "Geen zorgen, we plaatsen het nooit op uw wall."
+                facebook_signup: "Aanmelden met Facebook"
+                login: "Inloggen"
+                terms_disclaimer: "Door hierboven te klikken gaat u akkoord met onze Servicevoorwaarden."
+                terms_full: "We zullen uw e-mailadres of persoonlijke gegevens nooit met derden delen en we sturen u alleen transactionele e-mails gerelateerd aan uw PasswordBox account. Lees ons %{privacy_link} voor meer details."
+                terms_agree: "Door hierboven te klikken gaat u akkoord met onze %{terms_link}."
+            installed_title: "Installatie voltooid! Laatste stap..."
+            never_forget: "Vergeet nooit meer een wachtwoord! Activeer uw GRATIS account"
+            recently_installed: "PasswordBox is onlangs toegevoegd aan uw browser..."
+            testimonial: "Het is als een Dropbox voor wachtwoorden. Het werkt op al mijn toestellen waar ik ook ben en delen is eenvoudig"
+            login_link: "Als u al een PasswordBox account heeft <a href=\"%{path}\" target=\"_blank\">zoekt u naar de groene box</a> in uw browser"
+            validating: "Uw gegevens verifiëren..."
+            almost_done: "Bijna klaar! Alleen uw wachtwoord nog aanmaken"
+            delayed: 
+                never_forget: 
+                    generic: "Vergeet nooit meer een wachtwoord!"
+                    domain: "Vergeet uw  <strong>%{website}</strong> nooit meer!"
+                signup_free: "Meldt u nu GRATIS aan!"
+                secure: "Om uw opgeslagen wachtwoorden te beveiligen, <strong>meldt u zich GRATIS aan en geniet van het automatisch inloggen op uw favoriete sites!</strong>"
+                watch_video: "Bekijk onze video"
+                how_pbox_works: "Hoe PasswordBox werkt"
+            crypto: 
+                creating: "Uw account aanmaken..."
+                encrypting: "We coderen uw wachtwoord voor maximale veiligheid. Dit proces kan even duren (tot een minuut) op oudere computers. Dat is normaal. Wacht totdat het proces is afgerond."
+        video: 
+            typing_passwords: "Het handmatig intypen van wachtwoorden is een vervelend en frustrerend proces. PasswordBox helpt u bij het automatisch opslaan van uw gegevens als u inlogt op een site."
+            next_step: "Ik begrijp het. Bedankt!"
+        guides: 
+            extension: 
+                congratulations: "Gefeliciteerd!"
+                save_success: "We hebben uw wachtwoorden met succes opgeslagen naar PasswordBox!"
+                green_box: "Klik op het groene box pictogram in uw browser om het te openen als u het nodig hebt."
+        tutorial: 
+            create_password: 
+                click_instructions: "Klik op een knop hieronder om uw eerste wachtwoord toe te voegen"
+                form_instructions: "Voer uw gebruikersnaam en wachtwoord in"
+            one_click_login: "Goed gedaan! Laten we nu 1- Click Login proberen"
+            tour_video: 
+                extension_guide: "Klik op de groene box om uw PasswordBox te openen"
+                instructions: "Haal het meeste uit PasswordBox met deze snelle product rondleiding."
+                title: "Aan de slag tour"
+    features: 
+        seamless_login: 
+            title: "Vaarwel wachtwoorden. Direct inloggen op elk toestel, website of mobiele app."
+            subtitle: "Moe dat u wordt afgeremd door het inlogscherm? Ga sneller naar uw accounts met 1 - Klik en 1- Tap Login."
+            item_1: "Exclusief bij PasswordBox, %{link} zonder ooit een gebruikersnaam of wachtwoord te hoeven intypen."
+            item_2: "Bezoek elke webpagina en PasswordBox vult automatisch uw gegevens in en logt u in. Geen getyp meer op uw desktop of uw mobiele toestel met Chrome of Safari."
+            item_3: "Directe login zelfs als u meerdere gebruikersaccounts voor dezelfde site hebt"
+            item_4: "Beveiliging tegen toetsaanslag-malware - als u het niet intypt, kunnen zij het niet stelen"
+            one_tap_link: "log in bij uw favoriete mobiele apps on Android in 1-Tap"
+        device_syncing: 
+            title: "Uw wachtwoorden, overal"
+            subtitle: "Sla een wachtwoord op naar PasswordBox en het wordt direct opgeslagen naar al uw browser, computers en mobiele toestellen."
+            item_1: "Synchroniseert automatisch dus u heeft altijd uw logins binnen handbereik"
+            item_2: "Werkt op bijna iedere computer, browser en mobiel toestel dat in de handel is"
+            item_3: "Gratis plug-in voor alle belangrijke browsers waaronder Chrome, Firefox en Internet Explorer"
+            item_4: "Codering en decodering van uw gegevens worden lokaal op uw toestel uitgevoerd met behulp van AES-256"
+    install: 
+        mobile: 
+            title: "PasswordBox voor mobiel"
+            widget: 
+                title: "Gratis mobiele apps"
+                subtitle: "Uw wachtwoorden overal"
+            notify: 
+                sms: "Sms naar mijn telefoon"
+                email: "Mail naar mijn toestel"
+                sending: "Installatielink versturen"
+            email: 
+                success: "E-mail verstuurd! Controleer uw e-mail voor uw download link"
+                errors: 
+                    invalid: "E-mailadres ontbreekt of is ongeldig"
+                    failed: "Versturen van contactmail mislukt"
+            sms: 
+                body: "Om PasswordBox te installeren, klikt u hier op uw mobiele toestel: %{link}"
+                success: "Sms verzonden! Controleer uw telefoon op uw download link."
+                errors: 
+                    phone: 
+                        missing: "Telefoonnummer ontbreekt."
+                        invalid: "We waren niet in staat om een bericht naar dat telefoonnummer te sturen. Zorg ervoor dat u de landcode bijvoegt als dit een internationaal nummer is."
+                    service: 
+                        unavailable: "De Sms-dienst is momenteel niet beschikbaar"
+            apps: 
+                app_store: "Verkrijgbaar in de <span>App Store</span>"
+                google_play: "Haal het gratis bij <span>Google Play</span>"
+            ces_award: "Beste mobiele <span>app CES 2014</span>"
+        desktop: 
+            title: "Download PasswordBox GRATIS"
+            warnings: 
+                windows_only: "Alleen voor Windows"
+                mac_only: "Alleen voor Mac OS"
+            button: 
+                get: "Haal PasswordBox"
+                for: "voor"
+        instructions: "Kopieer de volgende link en plak deze in uw %{browser} adresbalk:"
+        copy: 
+            button: "Kopiëren"
+            tooltip: "Kopieer naar klembord"
+            success: "Gekopieerd!"
+    login: 
+        title: "Als u PasswordBox al geïnstalleerd hebt, klik dan op de groene box om in te loggen."
+        reinstall: "Als u PasswordBox opnieuw moet installeren, klikt u op de knop hieronder:"
+    member: 
+        errors: 
+            email: 
+                exists: "Er bestaat al een lid met dat e-mailadres. Probeer een andere."
+                invalid: "Voer een geldig e-mailadres in."
+    emails: 
+        common: 
+            greeting: "Hallo %{full_name},"
+            hey: "Hallo!"
+            pbox_team: "Het PasswordBox team"
+        layout: 
+            tagline: "PasswordBox biedt snelle toegang tot uw online accounts, veilig wachtwoorden delen en Legacy Locker over alle toestellen. Vergeet nooit meer een wachtwoord."
+            unsubscribe: 
+                link: "Afmelden"
+                from_all: "%{unsubscribe} van PasswordBox e-mails"
+        welcome: 
+            subject: "%{full_name}, welkom bij PasswordBox!"
+            title: "Welkom"
+            avg_notice: "PasswordBox op de AVG taakbalk bied snelle toegang tot uw online accounts, veilig wachtwoorden delen en digitale waarnemingsfuncties over alle toestellen."
+            account_ready: "Uw account is bijna klaar!"
+            login_info: "Uw gebruikersnaam is %{email}. Uw wachtwoord is het hoofdwachtwoord dat u aangemaakt hebt tijdens het registratieproces"
+            say_goodbye: "Zeg vaarwel tegen meerdere gebruikersnamen en wachtwoorden. Van nu af aan is een hoofdwachtwoord alles wat u nodig hebt. PasswordBox biedt eenvoudige 1- klik login, veilig delen van wachtwoorden en digitaal levensmanagement over alle toestellen."
+            finally: "Eindelijk kunt u de wachtwoorden uit uw hoofd zetten!"
+            confirm: "Bevestig uw account nu"
+            click_below: "Klik op de link hieronder om uw account te bevestigen:"
+            welcome: "Welkom bij PasswordBox!"
+        sync: 
+            subject: "Download PasswordBox op uw mobiele toestel!"
+            instructions: "Om PasswordBox te downloaden, opent u deze e-mail op uw mobiele toestel en bezoekt u onderstaande link:"
